@@ -819,6 +819,93 @@
             "status": "confirmed",
             "verified_on": "2026-10-28",
             "stage": "主張"
+          },
+          {
+            "id": "tour_industry.n-market-improve",
+            "candidate_id": "zhang",
+            "text": "協助各鄉鎮市公所改善市場環境、排水與清潔，規劃停車、卸貨及安全人行動線",
+            "commitment": "我會協助（前提：「未來有機會服務縣政」）",
+            "source_ids": [
+              "zj-fb-20261029-b",
+              "ksfb-20261029"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-30",
+            "stage": "主張"
+          },
+          {
+            "id": "tour_industry.n-market-food",
+            "candidate_id": "zhang",
+            "text": "加強食品安全輔導與查核，結合美食、旅遊與商圈行銷，並協助攤商使用行動支付、線上訂購等數位工具",
+            "commitment": "（貼文用語：加強、結合、協助）",
+            "source_ids": [
+              "zj-fb-20261029-b",
+              "ksfb-20261029"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-30",
+            "stage": "主張"
+          },
+          {
+            "id": "tour_industry.n-market-culture",
+            "candidate_id": "zhang",
+            "text": "保存各市場獨有的老味道、特色食材與攤商故事，讓改造延續地方文化",
+            "commitment": "（貼文用語：同時保存）",
+            "source_ids": [
+              "zj-fb-20261029-b"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-30",
+            "stage": "主張"
+          },
+          {
+            "id": "tour_industry.n-market-fair",
+            "candidate_id": "zhang",
+            "text": "傳統市場資源分配要公開、公平：公開補助標準、核定結果及執行進度，依需求與急迫性分配，與地方公所讓 13 鄉鎮市均衡發展；不反對北昌市場改善環境，也重視其他市場需求",
+            "commitment": "資源分配「要」公開、公平（貼文）；「將公開」（報導）",
+            "source_ids": [
+              "zj-fb-20261029-b",
+              "ksfb-20261029"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-30",
+            "stage": "主張",
+            "also": [
+              {
+                "island": "fiscal",
+                "basis": "source"
+              }
+            ]
+          },
+          {
+            "id": "tour_industry.n-invest-quality",
+            "candidate_id": "zhang",
+            "text": "招商不能只看簽約金額，更要看實際投資、薪資與升遷機會；對接花蓮適合的就業機會，協助在地店家升級，讓既有工作者受益",
+            "commitment": "我認為（招商要…）",
+            "source_ids": [
+              "zj-fb-20261029-a"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-30",
+            "stage": "主張",
+            "also": [
+              {
+                "island": "welfare",
+                "basis": "source"
+              }
+            ]
+          },
+          {
+            "id": "tour_industry.n-district-market",
+            "candidate_id": "you",
+            "text": "商圈與傳統市場：縣府與市公所、商圈組織及觀光業者建立協力機制，結合觀光導流、數位行銷與產業轉型，帶動消費人潮",
+            "commitment": "她主張（報導用語）",
+            "source_ids": [
+              "kssweep-20261029"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-10-30",
+            "stage": "主張"
           }
         ],
         "numbers": [
@@ -847,6 +934,8 @@
           "you-fb-20260307",
           "you-fb-20260304",
           "you-fb-20260319",
+          "you-fb-20260330",
+          "you-fb-20260715",
           "zj-fb-20260911-a",
           "zj-fb-20261013-b",
           "zj-fb-20260829-b",
@@ -865,8 +954,8 @@
           "udn-20260918",
           "cna-20260930",
           "scoop-20260903",
-          "you-fb-20260330",
-          "you-fb-20260715"
+          "ksfb-20261029",
+          "kssweep-20261029"
         ]
       }
     },
@@ -1804,6 +1893,7 @@
           "wei-web-policies",
           "you-fb-20260307",
           "you-fb-20260304",
+          "you-fb-20260819",
           "zj-fb-20260916",
           "zj-fb-20260912",
           "zj-fb-20260929",
@@ -1819,8 +1909,7 @@
           "ltn-20260916",
           "ltn-20260924",
           "cna-20260930",
-          "scoop-20260903",
-          "you-fb-20260819"
+          "scoop-20260903"
         ]
       }
     },
@@ -2340,6 +2429,18 @@
             "status": "confirmed",
             "verified_on": "2026-10-28",
             "stage": "主張"
+          },
+          {
+            "id": "care.n-care-net-30",
+            "candidate_id": "you",
+            "text": "長照 3.0：地方政府應結合中央、縣府、鄉鎮市公所及社區組織，建立健康促進、醫療支持與在地安老的照顧網絡",
+            "commitment": "「地方政府應」（報導轉述，未指明由誰負責）",
+            "source_ids": [
+              "kssweep-20261029"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-10-30",
+            "stage": "主張"
           }
         ],
         "numbers": [
@@ -2429,6 +2530,7 @@
           "wei-web-policies",
           "you-fb-20260307",
           "you-fb-20260304",
+          "you-fb-20260724",
           "zj-fb-20260930",
           "zj-fb-20261018-a",
           "zj-fb-20260825-a",
@@ -2443,7 +2545,7 @@
           "yahoo-20261004",
           "ct-20261008",
           "cna-20260913",
-          "you-fb-20260724"
+          "kssweep-20261029"
         ]
       }
     },
@@ -3069,6 +3171,25 @@
             "status": "confirmed",
             "verified_on": "2026-10-28",
             "stage": "主張"
+          },
+          {
+            "id": "disaster.n-huaren-seawall",
+            "candidate_id": "wei",
+            "text": "補齊吉安鄉化仁海堤南端至東華大橋段的永久性堤防缺口，並整體規劃道路、自行車道等基礎建設，提升沿岸防洪安全，同時改善吉安鄉仁安村、光華村的發展條件",
+            "commitment": "我主張",
+            "source_ids": [
+              "wei-fb-20261029",
+              "ksnews-20261029"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-30",
+            "stage": "主張",
+            "also": [
+              {
+                "island": "tour_industry",
+                "basis": "source"
+              }
+            ]
           }
         ],
         "numbers": [
@@ -3093,6 +3214,7 @@
           "wei-web-policies",
           "you-fb-20260307",
           "you-fb-20260304",
+          "you-fb-20260514",
           "zj-fb-20260811-a",
           "zj-fb-20260921",
           "zj-fb-20260919-b",
@@ -3109,7 +3231,7 @@
           "yahoo-20261004",
           "scoop-20260903",
           "upmedia-20260801",
-          "you-fb-20260514"
+          "ksnews-20261029"
         ]
       }
     },
@@ -3419,6 +3541,8 @@
           "you-ct-20260907",
           "wei-web-policies",
           "you-fb-20260907",
+          "you-fb-20260611",
+          "you-fb-20260715",
           "zj-fb-20260827",
           "zj-fb-20261015-b",
           "zj-fb-20260817-a",
@@ -3433,8 +3557,6 @@
           "na-20260515",
           "cnews-20260515",
           "scoop-20260903",
-          "you-fb-20260611",
-          "you-fb-20260715",
           "ksnews-20261028"
         ]
       }
@@ -3980,6 +4102,8 @@
           "you-fb-20260928-b",
           "you-fb-20260728",
           "you-fb-20260307",
+          "you-fb-20260423",
+          "you-fb-20260518",
           "zj-fb-20260918-c",
           "zj-fb-20261001-a",
           "zj-fb-20260928-b",
@@ -3987,9 +4111,7 @@
           "cnews-20260916",
           "cna-20260928",
           "yahoo-20260929",
-          "udn-20260917",
-          "you-fb-20260423",
-          "you-fb-20260518"
+          "udn-20260917"
         ]
       }
     },
@@ -4478,6 +4600,31 @@
             "status": "confirmed",
             "verified_on": "2026-10-28",
             "stage": "主張"
+          },
+          {
+            "id": "welfare.n-job-choice",
+            "candidate_id": "zhang",
+            "text": "增加就業選擇，串接培訓與職缺，鼓勵企業將成果回饋員工；讓青年有工作、有發展，配合安居與育兒支持，更有條件留在花蓮",
+            "commitment": "我會努力",
+            "source_ids": [
+              "zj-fb-20261029-a"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-30",
+            "stage": "主張",
+            "note": "原文明說「我無法馬上幫你加薪」，本點只收「增加就業選擇、串接培訓與職缺、鼓勵企業回饋員工」，不是加薪承諾。"
+          },
+          {
+            "id": "welfare.n-women-care",
+            "candidate_id": "you",
+            "text": "婦女政策：擴充托育、臨時與夜間照顧服務，以及二度就業與職能培力，減輕家庭負擔",
+            "commitment": "「婦女政策則著重」（報導用語）",
+            "source_ids": [
+              "kssweep-20261029"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-10-30",
+            "stage": "主張"
           }
         ],
         "numbers": [
@@ -4590,6 +4737,7 @@
           "you-fb-20260616",
           "wei-web-policies",
           "you-fb-20260728",
+          "you-fb-20260506",
           "zj-fb-20260811-b",
           "zj-fb-20260918-b",
           "zj-fb-20260812",
@@ -4604,7 +4752,7 @@
           "ltn-20260808",
           "udn-20260918",
           "scoop-20260903",
-          "you-fb-20260506"
+          "kssweep-20261029"
         ]
       }
     },
@@ -5003,6 +5151,7 @@
           "you-fb-20260912",
           "you-fb-20260928-a",
           "wei-web-policies",
+          "you-fb-20260507",
           "zj-fb-20260815-b",
           "zj-fb-20261013-a",
           "zj-fb-20261010-a",
@@ -5013,8 +5162,7 @@
           "ksfb-20261028",
           "scoop-20260903",
           "upmedia-20260801",
-          "cna-20260913",
-          "you-fb-20260507"
+          "cna-20260913"
         ]
       }
     },

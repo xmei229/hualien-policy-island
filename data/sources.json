@@ -2830,6 +2830,66 @@
       }
     },
     {
+      "id": "wei-fb-20261029",
+      "outlet": "魏嘉賢（臉書貼文）",
+      "outlet_group": "candidate:wei",
+      "candidate_id": "wei",
+      "title": "才花1,500萬元修復，颱風一來又毀了！",
+      "url": "https://www.facebook.com/share/p/1bjqGoVJie/",
+      "date": "2026-10-29",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-30",
+        "via": "manual",
+        "published": "2026-10-29",
+        "published_basis": "manual",
+        "text_sha256": "f3b8a740214e901b4e5c691370052297ef8b104e9c99e5f09797fb5e6364f9c9",
+        "text_chars": 321,
+        "where": "使用者手動複製自 www.facebook.com（examples/weijiaxian-fb.txt）"
+      }
+    },
+    {
+      "id": "zj-fb-20261029-a",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "「翻轉花蓮，能翻轉我的薪水嗎？」",
+      "url": "https://www.facebook.com/share/p/19uVR4iY1i/",
+      "date": "2026-10-29",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-30",
+        "via": "manual",
+        "published": "2026-10-29",
+        "published_basis": "manual",
+        "text_sha256": "edbf87b511e0b43898fd850e243947cc4972c7e889a5541351b21b7c5a265be0",
+        "text_chars": 452,
+        "where": "使用者手動複製自 www.facebook.com（examples/zhang.jun-fb/zhang.jun.txt）"
+      }
+    },
+    {
+      "id": "zj-fb-20261029-b",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "走訪重慶市場關心攤商生計",
+      "url": "https://www.facebook.com/share/p/1FrCGNeMNE/",
+      "date": "2026-10-29",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-30",
+        "via": "manual",
+        "published": "2026-10-29",
+        "published_basis": "manual",
+        "text_sha256": "bc079483b662a56c0b83fbefb0d34b0f22f66b2fc416dc67e0f22c9440e851c5",
+        "text_chars": 331,
+        "where": "使用者手動複製自 www.facebook.com（examples/zhang.jun-fb/zhang.jun.txt）"
+      }
+    },
+    {
       "id": "ltn-20260606",
       "outlet": "自由時報",
       "outlet_group": "自由時報",
@@ -3313,6 +3373,69 @@
         "text_chars": 657,
         "where": "使用者貼上的新聞全文（examples/zhenjian/zhenjian.txt）；內含其他候選人段落，不代表本平台引用全文",
         "snapshot_scope": "整篇貼文（含非本專案候選人的段落）"
+      }
+    },
+    {
+      "id": "ksnews-20261029",
+      "outlet": "更生新聞網",
+      "outlet_group": "更生日報",
+      "title": "化仁砸1,500萬又沖毀！魏嘉賢籲建永久堤防",
+      "url": "https://www.ksnews.com.tw/e/154587",
+      "date": "2026-10-29",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-29",
+        "published_basis": "manual",
+        "text_sha256": "b9797a93590428c79b3fd25292fd7f013cb91f1d98907472d2cf8704bbe5416c",
+        "text_chars": 687,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "更生新聞網為更生日報的網路版（使用者說明），與更生日報計為同一媒體群"
+      }
+    },
+    {
+      "id": "ksfb-20261029",
+      "outlet": "更生日報（臉書分享）",
+      "outlet_group": "更生日報",
+      "title": "張峻走訪重慶市場 協助公所改善環境與活絡經營",
+      "url": "https://www.facebook.com/share/p/18MKhTTQRW/",
+      "date": "2026-10-29",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-29",
+        "published_basis": "manual",
+        "text_sha256": "3bb78068d11a0aa8fa1dc45777716a3522c5cb7e84e41435dcc1dafb7233d6dc",
+        "text_chars": 695,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "網址是臉書分享連結，內容為更生日報記者何國豐報導；與更生日報網站同一媒體群"
+      }
+    },
+    {
+      "id": "kssweep-20261029",
+      "outlet": "更生新聞網",
+      "outlet_group": "更生日報",
+      "title": "游淑貞連兩日徒步深入花蓮市街巷　基層熱情相挺",
+      "url": "https://www.ksnews.com.tw/e/154647",
+      "date": "2026-10-29",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-29",
+        "published_basis": "manual",
+        "text_sha256": "d4a92955929c2c55dfdbe437328be2b0911c1e8a32c89d24cd117e5bba011092",
+        "text_chars": 1238,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "更生新聞網為更生日報的網路版（使用者說明），與更生日報計為同一媒體群"
       }
     }
   ]

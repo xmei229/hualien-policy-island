@@ -7088,6 +7088,289 @@
         "method": "新聞全文快照去空白後 includes",
         "hit": true
       }
+    },
+    {
+      "id": "hualien.n166",
+      "target_id": "disaster.n-huaren-seawall",
+      "source_id": "wei-fb-20261029",
+      "relation": "supports",
+      "quote": "我主張補齊這段堤防缺口，並整體規劃道路、自行車道等基礎建設，提升沿岸防洪安全，同時改善吉安鄉仁安村、光華村的發展條件",
+      "checked": {
+        "at": "2026-10-30",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n167",
+      "target_id": "disaster.n-huaren-seawall",
+      "source_id": "wei-fb-20261029",
+      "relation": "supports",
+      "quote": "化仁海堤只興建到洄瀾灣廣場，往南至東華大橋仍缺乏永久性堤防",
+      "note": "「這段」指化仁海堤南端至東華大橋段，見貼文此句。",
+      "checked": {
+        "at": "2026-10-30",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n168",
+      "target_id": "disaster.n-huaren-seawall",
+      "source_id": "ksnews-20261029",
+      "relation": "supports",
+      "quote": "主張儘速興建化仁海堤南端至東華大橋段永久性堤防",
+      "note": "更生新聞網 10/29 寫「儘速興建」；魏嘉賢臉書貼文寫「我主張補齊這段堤防缺口」，沒有「儘速」二字，語氣以他自己的貼文為準。",
+      "checked": {
+        "at": "2026-10-30",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n169",
+      "target_id": "disaster.n-huaren-seawall",
+      "source_id": "ksnews-20261029",
+      "relation": "partial",
+      "quote": "補齊吉安鄉化仁海堤至東華大橋段的堤防缺口，是他此次參選縣長的重要政見",
+      "note": "媒體稱為「重要政見」。魏嘉賢競選網站（10/23 版）未列此項，他自己在臉書的用語是「我主張」，故本平台標為「主張」。",
+      "checked": {
+        "at": "2026-10-30",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n170",
+      "target_id": "tour_industry.n-market-improve",
+      "source_id": "zj-fb-20261029-b",
+      "relation": "supports",
+      "quote": "未來有機會服務縣政，我會協助各鄉鎮市公所改善市場環境、排水與清潔，規劃停車、卸貨及安全人行動線",
+      "checked": {
+        "at": "2026-10-30",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n171",
+      "target_id": "tour_industry.n-market-improve",
+      "source_id": "ksfb-20261029",
+      "relation": "supports",
+      "quote": "市場改善應從日常使用出發，與公所、攤商共同盤點排水、通風、照明、廁所及清潔需求，分年改善環境，同步規劃周邊停車、臨停卸貨與安全人行動線，補強無障礙設施",
+      "note": "報導比臉書貼文多了「共同盤點排水、通風、照明、廁所」、「分年改善」、「補強無障礙設施」。",
+      "checked": {
+        "at": "2026-10-30",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n172",
+      "target_id": "tour_industry.n-market-food",
+      "source_id": "zj-fb-20261029-b",
+      "relation": "supports",
+      "quote": "加強食品安全輔導與查核，結合美食、旅遊與商圈行銷，並協助攤商使用行動支付、線上訂購等數位工具，增加商機",
+      "checked": {
+        "at": "2026-10-30",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n173",
+      "target_id": "tour_industry.n-market-food",
+      "source_id": "ksfb-20261029",
+      "relation": "supports",
+      "quote": "在食品安全方面，將協調衛生單位加強食材保存、冷藏設備及環境衛生輔導，落實查核與改善追蹤",
+      "note": "報導補充「協調衛生單位」「食材保存、冷藏設備」。",
+      "checked": {
+        "at": "2026-10-30",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n174",
+      "target_id": "tour_industry.n-market-culture",
+      "source_id": "zj-fb-20261029-b",
+      "relation": "supports",
+      "quote": "同時保存各市場獨有的老味道、特色食材與攤商故事，讓改造延續地方文化",
+      "checked": {
+        "at": "2026-10-30",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n175",
+      "target_id": "tour_industry.n-market-fair",
+      "source_id": "zj-fb-20261029-b",
+      "relation": "supports",
+      "quote": "我不反對北昌市場改善環境，也重視其他市場的需求。資源分配要公開、公平，與地方公所一起讓13鄉鎮市均衡發展",
+      "checked": {
+        "at": "2026-10-30",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n176",
+      "target_id": "tour_industry.n-market-fair",
+      "source_id": "ksfb-20261029",
+      "relation": "supports",
+      "quote": "未來將公開補助標準、核定結果及執行進度，依需求與急迫性公平分配，協助13鄉鎮市均衡發展",
+      "note": "「公開補助標準、核定結果及執行進度」「依需求與急迫性」只見於報導，張峻臉書貼文只寫「資源分配要公開、公平」。",
+      "checked": {
+        "at": "2026-10-30",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n177",
+      "target_id": "tour_industry.n-invest-quality",
+      "source_id": "zj-fb-20261029-a",
+      "relation": "supports",
+      "quote": "我認為，招商不能只看簽約金額，更要看實際投資、薪資與升遷機會，要「對接花蓮適合的就業機會」，也要「協助在地店家升級」，讓既有工作者受益",
+      "checked": {
+        "at": "2026-10-30",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n178",
+      "target_id": "welfare.n-job-choice",
+      "source_id": "zj-fb-20261029-a",
+      "relation": "supports",
+      "quote": "我無法馬上幫你加薪，但會努力增加就業選擇，串接培訓與職缺，鼓勵企業將成果回饋員工",
+      "checked": {
+        "at": "2026-10-30",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n179",
+      "target_id": "welfare.n-job-choice",
+      "source_id": "zj-fb-20261029-a",
+      "relation": "supports",
+      "quote": "讓青年有工作、有發展，配合安居與育兒支持，更有條件留在花蓮",
+      "checked": {
+        "at": "2026-10-30",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n180",
+      "target_id": "tour_industry.z12",
+      "source_id": "zj-fb-20261029-a",
+      "relation": "partial",
+      "quote": "我提出「成立投資專案辦公室」，借重童子賢與產業界經驗，爭取適合花蓮的投資，推動觀光、農業升級，並評估科技應用、無人機、AI服務及農產加工的發展機會",
+      "note": "此貼文補充：借重童子賢與產業界經驗，評估科技應用、無人機、AI 服務及農產加工；同一則貼文也說招商要看實際投資、薪資與升遷機會（見另一要點）。",
+      "checked": {
+        "at": "2026-10-30",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n181",
+      "target_id": "fiscal.z1",
+      "source_id": "zj-fb-20261029-a",
+      "relation": "partial",
+      "quote": "我提出的「普發一萬元政策」，能減輕眼前負擔，但是，要讓青年留下來，需要更穩定、待遇更好的工作",
+      "note": "貼文再次提到普發一萬元，並說明它是「減輕眼前負擔」、要留青年還需要更好的工作；金額與年度見其他貼文。",
+      "checked": {
+        "at": "2026-10-30",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n182",
+      "target_id": "welfare.s6",
+      "source_id": "kssweep-20261029",
+      "relation": "partial",
+      "quote": "將推動青年創業貸款、創業輔導、共享空間、AI職能培訓及住宅利息補貼",
+      "note": "報導同句列出「共享空間、AI 職能培訓」；此要點為創業貸款、輔導與空間，與她自己貼文的說法一致。",
+      "checked": {
+        "at": "2026-10-30",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n183",
+      "target_id": "welfare.s5",
+      "source_id": "kssweep-20261029",
+      "relation": "partial",
+      "quote": "將推動青年創業貸款、創業輔導、共享空間、AI職能培訓及住宅利息補貼",
+      "note": "報導寫「住宅利息補貼」，她自己貼文寫「青壯年購屋利息補助」，應為同一項，但用語不同。",
+      "checked": {
+        "at": "2026-10-30",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n184",
+      "target_id": "welfare.n-women-care",
+      "source_id": "kssweep-20261029",
+      "relation": "supports",
+      "quote": "婦女政策則著重擴充托育、臨時與夜間照顧服務，以及二度就業與職能培力，減輕家庭負擔",
+      "checked": {
+        "at": "2026-10-30",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n185",
+      "target_id": "tour_industry.n-district-market",
+      "source_id": "kssweep-20261029",
+      "relation": "supports",
+      "quote": "她主張縣府與市公所、商圈組織及觀光業者建立協力機制，結合觀光導流、數位行銷與產業轉型，帶動消費人潮",
+      "checked": {
+        "at": "2026-10-30",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n186",
+      "target_id": "care.n-care-net-30",
+      "source_id": "kssweep-20261029",
+      "relation": "supports",
+      "quote": "隨著長照政策從2.0邁向3.0，地方政府應結合中央、縣府、鄉鎮市公所及社區組織，建立健康促進、醫療支持與在地安老的照顧網絡",
+      "checked": {
+        "at": "2026-10-30",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
     }
   ]
 }
