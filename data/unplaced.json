@@ -1,0 +1,129 @@
+{
+  "_meta": {
+    "note": "候選人有主張、但目前沒有對應主題島的項目（體育、治安、動物友善…）。不是資料遺失；是否另開島由專案決定。"
+  },
+  "items": [
+    {
+      "id": "wei.P02-13",
+      "candidate_id": "wei",
+      "frame": "安全向前",
+      "topic": "治安",
+      "text": "毒駕毒品查緝熱區：建立毒駕與毒品查緝熱區地圖，針對高風險路段、夜間與校園周邊加強查緝和宣導。",
+      "source_ids": [
+        "wei-web-policies"
+      ],
+      "quote": "建立毒駕與毒品查緝熱區地圖，針對高風險路段、夜間與校園周邊加強查緝和宣導。",
+      "cited_post": {
+        "url": "https://www.facebook.com/sunwei038563787/posts/pfbid02s4DwmKmUMJcqqRhXEZ2ZpokE8u17PS4v91m3CSypcXfAwGviH2N5swRTWLK1y6ttl",
+        "date": "2026-05-29",
+        "via": "臉書"
+      },
+      "reason": "目前沒有對應的主題島"
+    },
+    {
+      "id": "wei.P02-12",
+      "candidate_id": "wei",
+      "frame": "安全向前",
+      "topic": "動物",
+      "text": "寵物繫繩與禁止放養：強化自治條例，規範寵物外出須繫繩或防護、禁止放養、落實飼主責任，並加強執法。",
+      "source_ids": [
+        "wei-web-policies"
+      ],
+      "quote": "強化自治條例，規範寵物外出須繫繩或防護、禁止放養、落實飼主責任，並加強執法。",
+      "cited_post": {
+        "url": "https://www.facebook.com/100044338603795/posts/1511763843644888",
+        "date": "2026-03-27",
+        "via": "臉書"
+      },
+      "reason": "目前沒有對應的主題島"
+    },
+    {
+      "id": "wei.P02-14",
+      "candidate_id": "wei",
+      "frame": "安全向前",
+      "topic": "治安",
+      "text": "補足警力與友善報案：邀基層警察對談、從制度補足警力；派出所設隱私筆錄空間，由專業人員受理性別案件。",
+      "source_ids": [
+        "wei-web-policies"
+      ],
+      "quote": "邀基層警察對談、從制度補足警力；派出所設隱私筆錄空間，由專業人員受理性別案件。",
+      "cited_post": {
+        "url": "https://www.facebook.com/sunwei038563787/posts/pfbid02TRraLFMTAnK6hA5Szhup3Q8bpx3SuoenByjdonhXfcSAJ4fXxafHCKHmRPEqGwaKl",
+        "date": "2026-10-14",
+        "via": "臉書"
+      },
+      "reason": "目前沒有對應的主題島"
+    },
+    {
+      "id": "wei.book12",
+      "candidate_id": "wei",
+      "frame": "人生向前・未來存摺",
+      "topic": "動物",
+      "text": "寵物守護金：每隻 3,600 元",
+      "source_ids": [
+        "wei-web-policies"
+      ],
+      "quote": "寵物照護額度：3,600／年·隻（保險＋疫苗・真的出事保險理賠）",
+      "reason": "目前沒有對應的主題島"
+    },
+    {
+      "id": "you.police-20260613",
+      "candidate_id": "you",
+      "topic": "治安",
+      "text": "提出五大政策照顧基層員警：翻新警政廳舍、補足警力編制、升級科技裝備、加碼健檢補助、寬列辦公經費",
+      "commitment": "提出",
+      "source_ids": [
+        "you-fb-20260613"
+      ],
+      "quote": "①翻新「警政廳舍」，從基層最需要的地方做起，持續改善辦公廳舍和宿舍，讓大家上班、休息都有更好的環境；②補足「警力編制」，減輕勤務負擔，讓服務更有效率。同時，③升級「科技裝備」，讓第一線執勤更安全。④加碼「健檢補助」，真正照顧員警的身心健康；⑤寬列「辦公經費」，讓同仁不用總是在有限資源中硬撐。"
+    },
+    {
+      "id": "you.n-clean-20260906",
+      "candidate_id": "you",
+      "topic": "選風",
+      "text": "回應魏嘉賢的「乾淨選舉自律公約」：乾淨選舉是每位候選人的基本責任；自己依法競選、正面競爭，願公開接受鄉親檢驗",
+      "commitment": "表態（回應他人倡議）",
+      "source_ids": [
+        "you-fb-20260906"
+      ],
+      "quote": "從現在到投票日，我和我的團隊都會依法競選、正面競爭，以政策、能力與過去的服務成績爭取支持",
+      "reason": "不是施政政見，沒有對應的主題島"
+    },
+    {
+      "id": "you.n-env-wp-20260422",
+      "candidate_id": "you",
+      "topic": "環境永續",
+      "text": "預告《環境永續政策白皮書》即將定案（貼文未列內容）",
+      "commitment": "預告（「請大家期待」）",
+      "source_ids": [
+        "you-fb-20260422"
+      ],
+      "quote": "也請大家期待，淑貞的《環境永續政策白皮書》即將定案",
+      "reason": "只預告白皮書，沒有政策內容；原文尚未找到"
+    },
+    {
+      "id": "zhang.n-arts-20260927",
+      "candidate_id": "zhang",
+      "topic": "藝文",
+      "text": "希望藝術走進校園與社區，邀請藝文團體在議會非開議期間善用議會公共空間辦理展覽（以議長身分）",
+      "commitment": "「我希望」",
+      "source_ids": [
+        "zj-fb-20260927-b"
+      ],
+      "quote": "我希望藝術走進校園與社區，並邀請藝文團體，在議會非開議期間善用議會公共空間辦理展覽",
+      "reason": "目前沒有對應的主題島（藝文）"
+    },
+    {
+      "id": "zhang.n-jian-20261021",
+      "candidate_id": "zhang",
+      "topic": "地方議題",
+      "text": "吉安東區的垃圾場異味、淹水，以及砂石車的交通安全與環境汙染，是未來必須持續處理的課題；會把鄉親的聲音帶進縣政，逐項找出改善辦法",
+      "commitment": "「必須持續處理的課題」「我會…逐項找出改善辦法」",
+      "source_ids": [
+        "zj-fb-20261021-b"
+      ],
+      "quote": "我會把鄉親的聲音帶進縣政，逐項找出改善辦法，讓生活更安心",
+      "reason": "只指出問題與態度，沒有具體措施；暫不列為政見"
+    }
+  ]
+}

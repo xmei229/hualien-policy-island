@@ -1,0 +1,5415 @@
+{
+  "_meta": {},
+  "islands": [
+    {
+      "id": "tour_industry",
+      "n": "01",
+      "name": "觀光與產業",
+      "kind": "ext",
+      "subgoals": [],
+      "card": {
+        "title": "觀光與產業：花蓮縣長參選人政見",
+        "summary": "觀光是花蓮的主要經濟活動（候選人說法，非統計）；產業政見多與觀光結合。",
+        "points": [
+          {
+            "id": "tour_industry.w5",
+            "candidate_id": "wei",
+            "text": "縣內旅遊金，每人每年3600元",
+            "source_ids": [
+              "cna0916",
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張",
+            "frame": "人生向前・未來存摺"
+          },
+          {
+            "id": "tour_industry.w6",
+            "candidate_id": "wei",
+            "text": "13鄉鎮市每年各一個特色亮點",
+            "source_ids": [
+              "cna0916",
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張",
+            "frame": "人生向前・未來存摺"
+          },
+          {
+            "id": "tour_industry.u1",
+            "candidate_id": "you",
+            "text": "推動運動經濟",
+            "commitment": "推動",
+            "source_ids": [
+              "you-fb-20260523"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "tour_industry.u2",
+            "candidate_id": "you",
+            "text": "美食經濟：把在地美食、農特產與觀光活動串聯",
+            "commitment": "推動",
+            "source_ids": [
+              "you-fb-20260525"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "tour_industry.u3",
+            "candidate_id": "you",
+            "text": "信仰經濟：新城定位為「北花蓮新門戶」",
+            "commitment": "規劃",
+            "source_ids": [
+              "you-fb-20260925"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "tour_industry.u4",
+            "candidate_id": "you",
+            "text": "宜花共好：觀光共遊",
+            "commitment": "合作共識",
+            "source_ids": [
+              "you-fb-20261002"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "tour_industry.u5",
+            "candidate_id": "you",
+            "text": "宜花共好：產業共榮，推動「宜花品牌聯盟」",
+            "commitment": "合作共識",
+            "source_ids": [
+              "you-fb-20261002"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "tour_industry.u6",
+            "candidate_id": "you",
+            "text": "發展「觀光工廠」，形成「前面玩、後面做」的產業旅遊",
+            "commitment": "發展",
+            "source_ids": [
+              "you-ct-20260907"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "tour_industry.z1",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "推動海、空、郵輪與特色遊程等多元觀光「五大布局」，串起輕航機、部落文化、美食、農遊與住宿",
+            "commitment": "主張推動",
+            "also": [
+              {
+                "island": "traffic",
+                "basis": "editorial"
+              }
+            ],
+            "source_ids": [
+              "zj-fb-20260911-a"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "tour_industry.z2",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "縣府主動協助輕航機低空觀光行銷、輔導業者，串聯住宿與周邊遊程",
+            "commitment": "應",
+            "source_ids": [
+              "zj-fb-20260911-a",
+              "zj-fb-20261013-b"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "tour_industry.z3",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "發展「水域經濟」：清水斷崖SUP、獨木舟、賞鯨、浮潛、泛舟、衝浪、溯溪及帆船",
+            "commitment": "提出發展",
+            "source_ids": [
+              "zj-fb-20260829-b"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "tour_industry.z4",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "秀林、萬榮、卓溪三個山地鄉結合登山、越野、單車、戶外訓練與部落文化，發展高山運動休閒產業",
+            "commitment": "可以（構想）",
+            "also": [
+              {
+                "island": "ethnic",
+                "basis": "source"
+              }
+            ],
+            "source_ids": [
+              "zj-fb-20260829-a"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "tour_industry.z5",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "觀光復甦計畫：串聯景點、交通、活動與在地商品，帶動人潮與消費",
+            "commitment": "提出",
+            "also": [
+              {
+                "island": "traffic",
+                "basis": "editorial"
+              }
+            ],
+            "source_ids": [
+              "zj-fb-20260924"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "tour_industry.z6",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "串聯玉里赤科山、富里六十石山金針花、部落深度旅遊、客家美食、卓溪與萬榮山林運動、豐濱長虹橋與海岸，讓農業體驗成為旅遊的一部分",
+            "commitment": "主張串聯",
+            "source_ids": [
+              "zj-fb-20261013-b"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "tour_industry.z7",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "兩座金針山纜車構想：在安全、環境、法規與營運成本面向審慎評估",
+            "commitment": "審慎評估（尚未承諾興建）",
+            "source_ids": [
+              "zj-fb-20261013-b"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "tour_industry.z8",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "結合體育與觀光，讓更多選手與賽事來到花蓮",
+            "commitment": "會持續支持／未來也要",
+            "source_ids": [
+              "zj-fb-20260822-a",
+              "zj-fb-20260909-c"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "tour_industry.z9",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "舉辦更多深度走讀活動，把地方文化、社區故事與商圈消費串聯起來",
+            "commitment": "希望",
+            "source_ids": [
+              "zj-fb-20260816-c"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "tour_industry.z10",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "夜市攤商輔導：食品衛生、瓦斯安全、行動支付與網路行銷，並協助申請適用資源",
+            "commitment": "未來縣府會",
+            "source_ids": [
+              "zj-fb-20261015-b"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "tour_industry.z11",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "整合各地夜市的營業日期與地點，結合旅宿、活動宣傳",
+            "commitment": "也要",
+            "source_ids": [
+              "zj-fb-20261015-b"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "tour_industry.z12",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "透過投資專案辦公室串聯中央、企業與大專院校，先盤點合法空域及實證場域，從防災、農業示範與人才培訓做起，再依成果推動招商（無人機 AI 產業）",
+            "commitment": "主張",
+            "also": [
+              {
+                "island": "disaster",
+                "basis": "source"
+              }
+            ],
+            "source_ids": [
+              "zj-fb-20261006-a"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "tour_industry.z13",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "擴大沼氣循環利用，協助中小型養豬場申請補助、改善設備",
+            "commitment": "要推動",
+            "source_ids": [
+              "zj-fb-20261020-b"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "tour_industry.z14",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "果菜批發市場：透明產銷資訊，讓農民掌握行情、攤商穩定進貨",
+            "commitment": "將推動",
+            "source_ids": [
+              "zj-fb-20260814-a"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "tour_industry.z15",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "果菜批發市場：改善集貨、冷藏及運輸設備，降低蔬果耗損",
+            "commitment": "將推動",
+            "source_ids": [
+              "zj-fb-20260814-a"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "tour_industry.z16",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "果菜批發市場：強化農藥殘留檢驗",
+            "commitment": "將推動",
+            "source_ids": [
+              "zj-fb-20260814-a"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "tour_industry.z17",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "建立災害期間的蔬果供應與運輸協調機制，避免道路中斷造成缺貨或價格大幅波動",
+            "commitment": "將推動",
+            "also": [
+              {
+                "island": "disaster",
+                "basis": "source"
+              }
+            ],
+            "source_ids": [
+              "zj-fb-20260814-a"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "tour_industry.z18",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "新建拍賣大樓工程：整合專業、公開進度，在確保安全及品質的前提下儘速推動後續工作",
+            "commitment": "應（工程涉履約爭議及司法程序）",
+            "source_ids": [
+              "zj-fb-20260814-a"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "tour_industry.z19",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "持續爭取老舊水圳改善、灌排系統維護與防災備援，並結合智慧監測",
+            "commitment": "要持續爭取",
+            "also": [
+              {
+                "island": "disaster",
+                "basis": "source"
+              }
+            ],
+            "source_ids": [
+              "zj-fb-20260902"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "tour_industry.w-P04-01",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "觀光向前",
+            "text": "每年辦花蓮週：每年舉辦花蓮週，結合國際表演、運動賽事、文化交流，以及姊妹市和棒球交流。",
+            "commitment": "舉辦",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "tour_industry.w-P04-08",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "觀光向前",
+            "text": "小黑蚊科學化防治：把都市計畫區、人潮與觀光熱點列重點區，編列預算長期監測，從資料做精準防治。",
+            "commitment": "（見原文）",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "tour_industry.w-P04-12",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "觀光向前",
+            "text": "南北濱重新定位：恢復南濱、北濱公園名稱並各自定位，串聯美崙溪、七星潭、花蓮港，打造河海廊道。",
+            "commitment": "恢復",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "tour_industry.w-P04-11",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "觀光向前",
+            "text": "安心旅遊情報網：建立安心旅遊情報網，主動揭露景區與交通安全資訊，讓旅客知道哪裡安全、哪條路通。",
+            "commitment": "建立",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "also": [
+              {
+                "island": "disaster",
+                "basis": "editorial"
+              }
+            ]
+          },
+          {
+            "id": "tour_industry.w-P04-02",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "觀光向前",
+            "text": "直飛與那國與日本離島：爭取花蓮直飛與那國航線，並推動花蓮港往返日本離島的海上航線，讓花蓮成為門戶。",
+            "commitment": "爭取",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "also": [
+              {
+                "island": "traffic",
+                "basis": "editorial"
+              }
+            ]
+          },
+          {
+            "id": "tour_industry.w-P04-03",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "觀光向前",
+            "text": "花蓮機場國際航點：國家航空布局重新檢討時，爭取花蓮機場發展更多國際航點、承擔部分航線功能。",
+            "commitment": "爭取",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "also": [
+              {
+                "island": "traffic",
+                "basis": "editorial"
+              }
+            ]
+          },
+          {
+            "id": "tour_industry.w-P04-05",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "觀光向前",
+            "text": "臨港線觀光化：善用既有臨港鐵道開啟客運服務，讓遊客從花蓮車站直達花蓮港，串聯港區與歷史文化。",
+            "commitment": "（見原文）",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "also": [
+              {
+                "island": "traffic",
+                "basis": "editorial"
+              }
+            ]
+          },
+          {
+            "id": "tour_industry.w-P04-10",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "觀光向前",
+            "text": "搭火車安心住：整合台鐵與在地旅宿推動「搭火車・安心住」，持花蓮車票入住合作旅宿享折抵優惠。",
+            "commitment": "整合",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "also": [
+              {
+                "island": "traffic",
+                "basis": "editorial"
+              }
+            ]
+          },
+          {
+            "id": "tour_industry.w-P04-09",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "觀光向前",
+            "text": "旅遊不便補償機制：中央與地方共同研議旅遊不便補償機制，天災造成交通中斷時合理補償旅客必要支出。",
+            "commitment": "研議",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "also": [
+              {
+                "island": "disaster",
+                "basis": "editorial"
+              }
+            ]
+          },
+          {
+            "id": "tour_industry.w-P04-06",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "觀光向前",
+            "text": "花蓮地方品牌計畫：縣府建立縣級品牌平台，提供品牌孵育、商品設計、行銷與展售通路，讓花蓮成為品牌。",
+            "commitment": "建立",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "tour_industry.w-P04-07",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "觀光向前",
+            "text": "公有市場盤點改善：第一年逐場盤點全縣公有市場、公布改善順序，連同停車與周邊交通動線一起改善。",
+            "commitment": "盤點",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "tour_industry.w-P04-15",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "觀光向前",
+            "text": "花東觀光串聯：與臺東主動串聯合作，放大大型活動效益、共享觀光紅利，兩地彼此帶動、相互成就。",
+            "commitment": "（見原文）",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "tour_industry.w-P04-35",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "觀光向前",
+            "text": "無障礙旅遊資訊：把無障礙落實在景點動線、旅遊資訊、交通接駁與活動設計，推動更完整的無障礙旅遊資訊。",
+            "commitment": "推動",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "also": [
+              {
+                "island": "welfare",
+                "basis": "editorial"
+              }
+            ]
+          },
+          {
+            "id": "tour_industry.w-P04-14",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "觀光向前",
+            "text": "博物館整合升級：與中央合作加速國立海洋資源博物館，擴充考古博物館，整併串聯石雕博物館與美術館。",
+            "commitment": "（見原文）",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "tour_industry.w-P04-04",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "觀光向前",
+            "text": "十三鄉鎮路線多留一晚：串聯十三鄉鎮市特色，發展自行車、鐵道、農村旅遊路線，讓旅客多住一晚、多走一站。",
+            "commitment": "（見原文）",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "tour_industry.w-P04-13",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "觀光向前",
+            "text": "海洋城市定位：與部落合作推動造舟文化復振與航行人才培育，完善水域設施，建立東海岸海洋城市定位。",
+            "commitment": "推動",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "also": [
+              {
+                "island": "ethnic",
+                "basis": "editorial"
+              }
+            ]
+          },
+          {
+            "id": "tour_industry.w-P05-09",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "智慧向前",
+            "text": "讓花蓮產業轉型升級：既有工業區轉型升級，爭取輕小高單價的零組件在花蓮組裝測試，縣府先把地、水、人備齊。",
+            "commitment": "升級",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "note": "網站沒有附貼文連結"
+          },
+          {
+            "id": "tour_industry.w-P05-05",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "智慧向前",
+            "text": "科技輔助農業：整合種植面積、氣象與產銷資料，產季前先估產量，可能供過於求時提早分流。",
+            "commitment": "整合",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "note": "網站沒有附貼文連結"
+          },
+          {
+            "id": "tour_industry.w-book11",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "人生向前・未來存摺",
+            "text": "存摺11「縣內旅遊金」（每個花蓮人）：縣內旅遊額度 3,600／年；搭配玩法 13 鄉鎮",
+            "commitment": "（見原文：以金額與對象列出，未寫動詞）",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "tour_industry.n-invest-window",
+            "candidate_id": "zhang",
+            "text": "提供公平透明的投資環境與窗口，讓國內外廠商在信任的基礎上來花蓮投資",
+            "commitment": "會提供",
+            "source_ids": [
+              "na-20260515",
+              "cnews-20260515",
+              "zj-fb-20261020-c"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "tour_industry.n-guangfu",
+            "candidate_id": "you",
+            "text": "光復以「產業再生、青年回流、文化加值、觀光串聯」四大主軸，協助市場與店家數位轉型、品牌升級，推動農產加工及產地行銷",
+            "commitment": "提出／協助",
+            "source_ids": [
+              "udn-20260918"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "tour_industry.n-ruisui1",
+            "candidate_id": "you",
+            "text": "讓瑞穗成為中南區的產業與觀光樞紐：文旦、鳳梨、鮮乳、茶葉與咖啡接上加工、冷鏈及品牌",
+            "commitment": "要讓…成為",
+            "source_ids": [
+              "cna-20260930"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "tour_industry.n-ruisui2",
+            "candidate_id": "you",
+            "text": "串聯溫泉、泛舟、客庄、部落與自行車旅遊，形成四季觀光廊帶",
+            "commitment": "串聯",
+            "source_ids": [
+              "cna-20260930"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "tour_industry.n-agri6",
+            "candidate_id": "you",
+            "text": "升級農漁牧產業、推動農業六級產業化",
+            "commitment": "升級、推動",
+            "source_ids": [
+              "scoop-20260903"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "tour_industry.n-buy",
+            "candidate_id": "you",
+            "text": "「花蓮＋購」在地消費循環",
+            "commitment": "推動",
+            "source_ids": [
+              "scoop-20260903"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "tour_industry.n-play",
+            "candidate_id": "you",
+            "text": "以「玩美花蓮」打造月月有主題、季季有亮點的四季觀光旅遊品牌",
+            "commitment": "打造",
+            "source_ids": [
+              "scoop-20260903"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "tour_industry.n-beauty-industry",
+            "candidate_id": "you",
+            "text": "「美好花蓮」願景・業興旺：推動產業升級 2.0，帶動地方經濟全面成長",
+            "commitment": "推動",
+            "source_ids": [
+              "you-fb-20260307",
+              "you-fb-20260304"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "tour_industry.n-healing",
+            "candidate_id": "you",
+            "text": "「觀光雙核心」：打造花蓮成為「亞洲最療癒的山海城市」，結合山林療癒、海洋紓壓與在地農食，吸引旅客「長住」而非「路過」",
+            "commitment": "希望打造／主張結合",
+            "source_ids": [
+              "you-fb-20260319",
+              "you-fb-20260330"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "tour_industry.n-sculpture",
+            "candidate_id": "you",
+            "text": "「太平洋雕塑之都」藍圖：沿海岸線引入國際與在地藝術創作",
+            "commitment": "擬（擘畫）",
+            "source_ids": [
+              "you-fb-20260319"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "tour_industry.n-forum",
+            "candidate_id": "you",
+            "text": "召開觀光產業共識座談會：邀請飯店、民宿、旅行社、餐飲及文創業者，討論療癒經濟、雕塑之都及交通銜接；邀許義忠教授擔任顧問",
+            "commitment": "宣佈將召開",
+            "source_ids": [
+              "you-fb-20260319"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "tour_industry.n-taroko",
+            "candidate_id": "you",
+            "text": "太魯閣國家公園災後復原：中央應採「逐步開放、分階段復甦」，優先恢復遊客中心及安全景點營運，並同步改善交通與旅遊配套",
+            "commitment": "「雙方一致認為」中央應採（與李鴻源會談後）",
+            "source_ids": [
+              "you-fb-20260715"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          }
+        ],
+        "numbers": [
+          {
+            "id": "tour_industry.wn-book11",
+            "candidate_id": "wei",
+            "value": "3,600／年",
+            "text": "縣內旅遊金：縣內旅遊額度（用在縣內住宿與遊程）",
+            "kind": "proposal_target",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "verified_on": "2026-10-28"
+          }
+        ],
+        "quote": null,
+        "note": "「沒有政見」＝本資料庫尚未找到，不等於候選人沒有主張。",
+        "source_pool": [
+          "cna0916",
+          "you-fb-20260523",
+          "you-fb-20260525",
+          "you-fb-20260925",
+          "you-fb-20261002",
+          "you-ct-20260907",
+          "wei-web-policies",
+          "you-fb-20260307",
+          "you-fb-20260304",
+          "you-fb-20260319",
+          "zj-fb-20260911-a",
+          "zj-fb-20261013-b",
+          "zj-fb-20260829-b",
+          "zj-fb-20260829-a",
+          "zj-fb-20260924",
+          "zj-fb-20260822-a",
+          "zj-fb-20260909-c",
+          "zj-fb-20260816-c",
+          "zj-fb-20261015-b",
+          "zj-fb-20261006-a",
+          "zj-fb-20261020-b",
+          "zj-fb-20260814-a",
+          "zj-fb-20260902",
+          "na-20260515",
+          "cnews-20260515",
+          "udn-20260918",
+          "cna-20260930",
+          "scoop-20260903",
+          "you-fb-20260330",
+          "you-fb-20260715"
+        ]
+      }
+    },
+    {
+      "id": "traffic",
+      "n": "02",
+      "name": "交通",
+      "kind": "official",
+      "subgoals": [],
+      "card": {
+        "title": "交通：花蓮縣長參選人政見",
+        "summary": "交通：依候選人自己的臉書、競選網站、文宣為主，媒體報導為佐證，逐條附原文與出處。",
+        "points": [
+          {
+            "id": "traffic.w1",
+            "candidate_id": "wei",
+            "text": "每人每年發放交通行動金",
+            "source_ids": [
+              "cna0916",
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張",
+            "frame": "人生向前・未來存摺"
+          },
+          {
+            "id": "traffic.w2",
+            "candidate_id": "wei",
+            "text": "可折抵對外的大眾交通運輸工具費用",
+            "source_ids": [
+              "cna0916",
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張",
+            "frame": "人生向前・未來存摺"
+          },
+          {
+            "id": "traffic.w3",
+            "candidate_id": "wei",
+            "text": "偏鄉加碼",
+            "source_ids": [
+              "cna0916",
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張",
+            "frame": "人生向前・未來存摺"
+          },
+          {
+            "id": "traffic.w4",
+            "candidate_id": "wei",
+            "text": "敬老卡等原有補貼不受影響",
+            "source_ids": [
+              "cna0916",
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張",
+            "frame": "人生向前・未來存摺"
+          },
+          {
+            "id": "traffic.z1",
+            "candidate_id": "zhang",
+            "text": "盤點車流密集路段與南區主要聚落路口",
+            "source_ids": [
+              "cna0916",
+              "ltn-20260916",
+              "ltn-20260924"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "traffic.z2",
+            "candidate_id": "zhang",
+            "text": "導入 AI 影像或車流偵測",
+            "source_ids": [
+              "cna0916",
+              "ltn-20260916",
+              "ltn-20260924"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "traffic.z3",
+            "candidate_id": "zhang",
+            "text": "依時段設置不同時制，低流量支線採感應式放行",
+            "source_ids": [
+              "cna0916",
+              "zj-fb-20260916",
+              "ltn-20260916",
+              "ltn-20260924"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "traffic.z4",
+            "candidate_id": "zhang",
+            "text": "規劃幹道連續綠燈，減少不必要停等",
+            "source_ids": [
+              "cna0916",
+              "zj-fb-20260916",
+              "ltn-20260916",
+              "ltn-20260924"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "traffic.z5",
+            "candidate_id": "zhang",
+            "text": "保留行人、校園與高風險路口的安全需求",
+            "source_ids": [
+              "cna0916",
+              "ltn-20260916",
+              "ltn-20260924"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "traffic.ty1",
+            "candidate_id": "you",
+            "text": "呼籲交通部與民航局儘速提出替代方案與補貼配套，確保航線不停歇",
+            "commitment": "呼籲",
+            "source_ids": [
+              "you-fb-20260409"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "traffic.ty2",
+            "candidate_id": "you",
+            "text": "主張中央把航線補貼視為觀光發展的基礎建設",
+            "commitment": "主張",
+            "source_ids": [
+              "you-fb-20260409"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "also": [
+              {
+                "island": "tour_industry",
+                "basis": "source"
+              }
+            ],
+            "stage": "主張"
+          },
+          {
+            "id": "traffic.ty3",
+            "candidate_id": "you",
+            "text": "持續優化敬老愛心計程車",
+            "commitment": "持續",
+            "source_ids": [
+              "you-fb-20260528"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "also": [
+              {
+                "island": "care",
+                "basis": "source"
+              }
+            ],
+            "stage": "主張"
+          },
+          {
+            "id": "traffic.ty4",
+            "candidate_id": "you",
+            "text": "免費乘車與偏鄉接駁",
+            "commitment": "（無動詞）",
+            "source_ids": [
+              "you-fb-20260528"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "also": [
+              {
+                "island": "care",
+                "basis": "source"
+              }
+            ],
+            "stage": "主張"
+          },
+          {
+            "id": "traffic.ty5",
+            "candidate_id": "you",
+            "text": "宜花共好生活圈：交通共行，爭取鐵路運能與蘇花交通韌性",
+            "commitment": "爭取",
+            "source_ids": [
+              "you-fb-20261002"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "also": [
+              {
+                "island": "tour_industry",
+                "basis": "source"
+              },
+              {
+                "island": "disaster",
+                "basis": "source"
+              }
+            ],
+            "stage": "主張"
+          },
+          {
+            "id": "traffic.ty6",
+            "candidate_id": "you",
+            "text": "持續爭取台9線蘇花公路山區路段改善、國道6號東延花蓮、花東快速公路",
+            "commitment": "爭取",
+            "source_ids": [
+              "you-ct-20260907"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "traffic.ty7",
+            "candidate_id": "you",
+            "text": "補足台9線、193縣道及台11線南北向道路的橫向路網",
+            "commitment": "（報導用語）",
+            "source_ids": [
+              "you-ct-20260907"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "traffic.z6",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "推動「台9線空等紅燈問題改善專案」：由縣府主動與公路局協調",
+            "commitment": "主張推動",
+            "source_ids": [
+              "zj-fb-20260916",
+              "ltn-20260916"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "traffic.z7",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "蘇花安 2032 通車前，針對崇德至新城、新城至吉安路段，與蘇花安、台9線及市區聯外道路做整體交通評估與分流規劃",
+            "commitment": "主張（縣府應主動與中央合作）",
+            "source_ids": [
+              "zj-fb-20260912"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "traffic.z8",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "建議中央把壽豐以南花東快納入興建評估",
+            "commitment": "建議（中央）",
+            "also": [
+              {
+                "island": "disaster",
+                "basis": "source"
+              },
+              {
+                "island": "tour_industry",
+                "basis": "source"
+              }
+            ],
+            "source_ids": [
+              "zj-fb-20260912"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "traffic.z9",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "短期：請中央優先強化北迴線脆弱路段的邊坡、落石防護與預警，並公布改善期程",
+            "commitment": "請中央",
+            "also": [
+              {
+                "island": "disaster",
+                "basis": "source"
+              }
+            ],
+            "source_ids": [
+              "zj-fb-20260929"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "traffic.z10",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "鐵公路中斷時，公路接駁與海、空運疏運要事先準備",
+            "commitment": "要（未指明由誰負責）",
+            "also": [
+              {
+                "island": "disaster",
+                "basis": "source"
+              }
+            ],
+            "source_ids": [
+              "zj-fb-20260929"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "traffic.z11",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "中期：把花東鐵路雙軌化做好，加速花蓮市到吉安七處平交道的高架化可行性研究",
+            "commitment": "做好／加速（未指明由誰負責）",
+            "source_ids": [
+              "zj-fb-20260929"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "traffic.z12",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "長期：請中央評估高鐵延伸花蓮的地質、環境、運量及財務條件",
+            "commitment": "請中央評估",
+            "source_ids": [
+              "zj-fb-20260929"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "traffic.z13",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "上任 100 天內成立「重大交通建設專案窗口」，統籌蘇花安、花東快及花蓮至吉安鐵路雙軌與立體化",
+            "commitment": "將成立（上任100天內）",
+            "source_ids": [
+              "zj-fb-20261028"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "traffic.z14",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "要求民航局在審查停飛前邀集航空公司與縣府協商研議：維持基本班次、調整機型與時段、階段性獎助",
+            "commitment": "要求（以議長身分向中央）",
+            "also": [
+              {
+                "island": "tour_industry",
+                "basis": "source"
+              }
+            ],
+            "source_ids": [
+              "zj-fb-20260817-b"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "traffic.z15",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "要求縣府整合商務、醫療、觀光與公務需求，推出機票結合旅宿行程，並改善機場接駁",
+            "commitment": "要求（縣府）",
+            "also": [
+              {
+                "island": "tour_industry",
+                "basis": "source"
+              }
+            ],
+            "source_ids": [
+              "zj-fb-20260817-b"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "traffic.z16",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "「對外交通不斷線」：把空運、鐵路、公路與海運一起規劃，國內航線、國際包機與定期航線由專責平台推動",
+            "commitment": "提出",
+            "also": [
+              {
+                "island": "disaster",
+                "basis": "source"
+              },
+              {
+                "island": "tour_industry",
+                "basis": "source"
+              }
+            ],
+            "source_ids": [
+              "zj-fb-20260817-b"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "traffic.z17",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "公共工程拆遷補償：加速修法，完成自治條例及補償標準修正",
+            "commitment": "推動",
+            "source_ids": [
+              "zj-fb-20260818-a"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "traffic.z18",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "拆遷補償評點隨營造材料、工資及物價定期檢討",
+            "commitment": "推動",
+            "source_ids": [
+              "zj-fb-20260818-a"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "traffic.z19",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "重大工程「一戶一案」：設單一窗口，補償算清楚、說明白",
+            "commitment": "推動",
+            "source_ids": [
+              "zj-fb-20260818-a"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "traffic.z20",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "房屋部分拆除後無法正常使用者，主動協助了解一併徵收及相關程序",
+            "commitment": "推動",
+            "source_ids": [
+              "zj-fb-20260818-a"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "traffic.z21",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "建立中央、縣府與地方協調平台，從用地取得到完工都有人處理",
+            "commitment": "推動",
+            "source_ids": [
+              "zj-fb-20260818-a"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "traffic.z22",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "「行人安全與友善道路」：優先從學校、醫院、車站、市場周邊做起，改善人行道中斷、高低差、路口照明",
+            "commitment": "主張推動",
+            "source_ids": [
+              "zj-fb-20261006-b"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "traffic.z23",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "全面盤點危險路口，分年編列預算改善、公開工程進度，邀學生、家長及身障朋友參與檢視",
+            "commitment": "會（未來）",
+            "source_ids": [
+              "zj-fb-20261006-b"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "traffic.z24",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "「行人安心生活圈」：上任一百天內公布高風險熱點，逐年串接人行道、改善路口及無障礙設施",
+            "commitment": "提出",
+            "source_ids": [
+              "zj-fb-20261003-b"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "traffic.z25",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "建立橋梁定期巡檢、重車熱點加密檢測、民眾通報限時處理及修繕進度公開機制；老舊橋梁逐年改善",
+            "commitment": "將",
+            "also": [
+              {
+                "island": "disaster",
+                "basis": "source"
+              }
+            ],
+            "source_ids": [
+              "zj-fb-20260907-a"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "traffic.z26",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "建立高風險道路清單，農路、邊坡、落石及排水問題分級處理，限時修復，並導入坡地與道路預警系統",
+            "commitment": "將",
+            "also": [
+              {
+                "island": "disaster",
+                "basis": "source"
+              },
+              {
+                "island": "tour_industry",
+                "basis": "source"
+              }
+            ],
+            "source_ids": [
+              "zj-fb-20260908"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "traffic.z27",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "檢討調整計程車駕駛承作敬老愛心卡獎勵金：提高獎勵金，並放寬每月最高 100 趟限制",
+            "commitment": "承諾",
+            "also": [
+              {
+                "island": "care",
+                "basis": "source"
+              }
+            ],
+            "source_ids": [
+              "zj-fb-20260930",
+              "cna-20260930"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "traffic.z28",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "把醫師公會理事長建議的在地電動租車與機票補貼納入政策評估",
+            "commitment": "納入政策評估（建議出自醫師公會理事長，非候選人自提）",
+            "also": [
+              {
+                "island": "tour_industry",
+                "basis": "source"
+              }
+            ],
+            "source_ids": [
+              "zj-fb-20261007-a"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "traffic.w-P03-01",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "交通向前",
+            "text": "高鐵延伸花蓮：爭取高鐵延伸到花蓮，先確保宜蘭站設計留下往南銜接的條件。",
+            "commitment": "爭取",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "traffic.w-P03-12",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "交通向前",
+            "text": "加速建置公共自行車：儘速提出公共自行車規劃與時程，結合轉運節點與景點，同步強化自行車友善道路。",
+            "commitment": "儘速",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "also": [
+              {
+                "island": "tour_industry",
+                "basis": "editorial"
+              }
+            ]
+          },
+          {
+            "id": "traffic.w-P03-04",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "交通向前",
+            "text": "路斷了有替代路線：升級預警、事先整理替代路線並公開即時路況，路斷時知道哪條能走、何時恢復。",
+            "commitment": "升級",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "also": [
+              {
+                "island": "disaster",
+                "basis": "editorial"
+              }
+            ]
+          },
+          {
+            "id": "traffic.w-P03-05",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "交通向前",
+            "text": "海空運輸動起來：鐵、公路中斷時有備援。",
+            "commitment": "（見原文）",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "also": [
+              {
+                "island": "disaster",
+                "basis": "editorial"
+              }
+            ],
+            "note": "網站沒有附貼文連結"
+          },
+          {
+            "id": "traffic.w-P03-13",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "交通向前",
+            "text": "交通管制科學檢討：全面盤點交通管制措施，事故先調查分析、會同工程改善，以科學證據檢討速限與管制。",
+            "commitment": "盤點",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "traffic.w-P03-11",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "交通向前",
+            "text": "救護車優先通行：優化慈濟、門諾、花蓮醫院救護路線，市區幹道建立緊急車輛號誌優先，少等紅燈。",
+            "commitment": "建立",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "also": [
+              {
+                "island": "disaster",
+                "basis": "editorial"
+              }
+            ]
+          },
+          {
+            "id": "traffic.w-P03-07",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "交通向前",
+            "text": "行動超市開進部落：補助車輛轉型為行動超市、行動服務站，定時開進部落與聚落，長輩在家門口就買得到。",
+            "commitment": "補助",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "also": [
+              {
+                "island": "care",
+                "basis": "editorial"
+              }
+            ]
+          },
+          {
+            "id": "traffic.w-P03-06",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "交通向前",
+            "text": "偏鄉交通補助與叫車：偏鄉居民可申請交通額度，縣府與在地車行建立偏鄉服務機制，公開各鄉鎮叫車資訊。",
+            "commitment": "建立",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "also": [
+              {
+                "island": "care",
+                "basis": "editorial"
+              }
+            ]
+          },
+          {
+            "id": "traffic.w-P03-08",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "交通向前",
+            "text": "公車班次資訊公開：全縣公車路線、班次與時刻整合公開上網，讓採買、就醫、洽公都能更方便地出門。",
+            "commitment": "整合",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "traffic.w-P03-09",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "交通向前",
+            "text": "市區循環公車：規劃 15 分鐘一班的市區循環公車，串聯車站、醫院、公所、市場、東大門與南北濱。",
+            "commitment": "規劃",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "traffic.w-P03-10",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "交通向前",
+            "text": "敬老卡跨縣市與花蓮卡：主動協商敬老卡在宜花東跨縣市使用，並逐步整合敬老、交通補助等服務成花蓮卡。",
+            "commitment": "主動協商",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "also": [
+              {
+                "island": "care",
+                "basis": "editorial"
+              }
+            ]
+          },
+          {
+            "id": "traffic.w-P03-02",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "交通向前",
+            "text": "推動花東快速公路：推動花東快速公路，北段先銜接蘇花安，玉里以南先規劃替代運輸，南區不等待。",
+            "commitment": "推動",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "traffic.w-book10",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "人生向前・未來存摺",
+            "text": "存摺10「交通行動金」（每個花蓮人）：交通額度 3,600／年；敬老卡照發 不折抵",
+            "commitment": "（見原文：以金額與對象列出，未寫動詞）",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "traffic.n-open-data",
+            "candidate_id": "zhang",
+            "text": "公開主要路段平均旅行時間、停等次數及改善前後數據，讓智慧交通接受民眾檢驗",
+            "commitment": "應公開（「未來應公開」）",
+            "source_ids": [
+              "ltn-20260916"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "traffic.n-air",
+            "candidate_id": "you",
+            "text": "爭取國際直航、完善交通路網與低碳智慧運輸",
+            "commitment": "爭取、完善",
+            "source_ids": [
+              "scoop-20260903"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "traffic.n-beauty-road",
+            "candidate_id": "you",
+            "text": "「美好花蓮」願景・行無礙：完善交通路網，讓基礎建設成為花蓮競爭力",
+            "commitment": "完善",
+            "source_ids": [
+              "you-fb-20260307",
+              "you-fb-20260304"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "traffic.n-jianguo",
+            "candidate_id": "zhang",
+            "text": "建國路二段（跨花蓮市與吉安鄉）拓寬：縣府應主動整合市、鄉及相關單位，盤點用地、工程與經費，提出具體期程；自己會把地方基礎交通建設列為施政重點",
+            "commitment": "縣府「就應主動整合」（要求縣府）；自己「會把…列為施政重點」",
+            "source_ids": [
+              "zj-fb-20260903-d"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "traffic.n-sidewalk",
+            "candidate_id": "zhang",
+            "text": "人行道施工前先向鄉親說明圖說、聽取沿線住戶與店家需求，在不犧牲行人安全與無障礙通行的前提下找出合適的改善方式",
+            "commitment": "「我希望縣府」（對縣府的期望）",
+            "source_ids": [
+              "zj-fb-20261020-d"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "traffic.n-major-projects",
+            "candidate_id": "you",
+            "text": "重大交通建設不能再等：國道 6 號、花東快速道路、蘇花改／蘇花快／蘇花安等，需要中央與地方攜手合作，中央不能因政黨不同犧牲花東鄉親權益",
+            "commitment": "主張（「都需要中央與地方攜手合作」）",
+            "source_ids": [
+              "you-fb-20260819"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          }
+        ],
+        "numbers": [
+          {
+            "id": "traffic.n1",
+            "candidate_id": "wei",
+            "value": "3600 元",
+            "text": "每人每年交通行動金（候選人提出的目標）",
+            "kind": "proposal_target",
+            "source_ids": [
+              "cna0916"
+            ],
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "traffic.zn1",
+            "candidate_id": "zhang",
+            "value": "100 天",
+            "text": "「重大交通建設專案窗口」上任後成立期限",
+            "kind": "proposal_target",
+            "source_ids": [
+              "zj-fb-20261028"
+            ],
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "traffic.zn2",
+            "candidate_id": "zhang",
+            "value": "7 處",
+            "text": "花蓮市到吉安的平交道高架化可行性研究範圍",
+            "kind": "candidate_claim",
+            "source_ids": [
+              "zj-fb-20260929"
+            ],
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "traffic.wn-book10",
+            "candidate_id": "wei",
+            "value": "3,600／年",
+            "text": "交通行動金：交通額度（車票、機票都能折抵）",
+            "kind": "proposal_target",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "verified_on": "2026-10-28"
+          }
+        ],
+        "quote": null,
+        "note": "「沒有政見」＝本資料庫尚未找到，不等於候選人沒有主張。魏嘉賢交通項來自其競選網站（一手）；「交通行動金」（w1–w4）目前只有中央社報導，未在網站交通 12 項裡出現。",
+        "source_pool": [
+          "cna0916",
+          "you-fb-20260409",
+          "you-fb-20260528",
+          "you-fb-20261002",
+          "you-ct-20260907",
+          "wei-web-policies",
+          "you-fb-20260307",
+          "you-fb-20260304",
+          "zj-fb-20260916",
+          "zj-fb-20260912",
+          "zj-fb-20260929",
+          "zj-fb-20261028",
+          "zj-fb-20260817-b",
+          "zj-fb-20260818-a",
+          "zj-fb-20261006-b",
+          "zj-fb-20261003-b",
+          "zj-fb-20260907-a",
+          "zj-fb-20260908",
+          "zj-fb-20260930",
+          "zj-fb-20261007-a",
+          "ltn-20260916",
+          "ltn-20260924",
+          "cna-20260930",
+          "scoop-20260903",
+          "you-fb-20260819"
+        ]
+      }
+    },
+    {
+      "id": "care",
+      "n": "03",
+      "name": "長照",
+      "kind": "ext",
+      "subgoals": [],
+      "card": {
+        "title": "長照：花蓮縣長參選人政見",
+        "summary": "長照、敬老與高齡友善。",
+        "points": [
+          {
+            "id": "care.c1",
+            "candidate_id": "you",
+            "text": "65歲以上長輩健保費補助",
+            "commitment": "堅持推動",
+            "source_ids": [
+              "you-fb-20260509"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "care.c2",
+            "candidate_id": "you",
+            "text": "優化「敬老點數加碼」",
+            "commitment": "優化",
+            "source_ids": [
+              "you-fb-20260509"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "care.c3",
+            "candidate_id": "you",
+            "text": "在地老化：社區照護與健康支持",
+            "commitment": "（條列）",
+            "source_ids": [
+              "you-fb-20260528"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "care.c4",
+            "candidate_id": "you",
+            "text": "發展醫療、照護、復健、養生旅遊與AI智慧健康管理（長照經濟）",
+            "commitment": "發展",
+            "also": [
+              {
+                "island": "tour_industry",
+                "basis": "source"
+              }
+            ],
+            "source_ids": [
+              "you-fb-20260528"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "care.c5",
+            "candidate_id": "you",
+            "text": "長青大學持續學習、社區據點與共餐、青銀共學",
+            "commitment": "（條列）",
+            "source_ids": [
+              "you-fb-20260528"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "care.z1",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "敬老愛心卡每月從 1,500 點提高至 2,000 點，且每月點數不歸零",
+            "commitment": "主張",
+            "also": [
+              {
+                "island": "traffic",
+                "basis": "editorial"
+              }
+            ],
+            "source_ids": [
+              "zj-fb-20260930",
+              "zj-fb-20261018-a",
+              "cna-20260930"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "care.z2",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "社區照顧關懷據點覆蓋率由約 90% 於 1 年內提升到 100%",
+            "commitment": "提出（政策總綱「關懷據點2.0」）",
+            "source_ids": [
+              "zj-fb-20260825-a"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "care.z3",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "現有 116 處據點每站每年加碼 10 萬元量能經費，強化防跌、肌力、失智預防、吞嚥篩檢、志工保險與設備",
+            "commitment": "提出（政策總綱「關懷據點2.0」）",
+            "source_ids": [
+              "zj-fb-20260825-a",
+              "zj-fb-20261018-a"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "care.z4",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "敬老禮金、65歲以上健保費補助、假牙補助持續保留（長輩福利只增不減）",
+            "commitment": "承諾",
+            "source_ids": [
+              "zj-fb-20261018-a"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "care.z5",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "強化送餐、就醫接送、居家照護及喘息服務，偏鄉部落都要照顧到",
+            "commitment": "強化",
+            "also": [
+              {
+                "island": "ethnic",
+                "basis": "source"
+              }
+            ],
+            "source_ids": [
+              "zj-fb-20261018-a"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "care.z6",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "失智守護：建立固定照顧聯絡人",
+            "commitment": "提出（「花蓮厝邊失智守護計畫」六大措施之一）",
+            "source_ids": [
+              "zj-fb-20260917"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "care.z7",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "失智守護：培訓 3000 名失智守護員",
+            "commitment": "提出（六大措施之一）",
+            "source_ids": [
+              "zj-fb-20260917"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "care.z8",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "失智守護：為高負荷家庭加碼喘息服務",
+            "commitment": "提出（六大措施之一）",
+            "source_ids": [
+              "zj-fb-20260917"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "care.z9",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "失智守護：補助防走失定位設備",
+            "commitment": "提出（六大措施之一）",
+            "source_ids": [
+              "zj-fb-20260917"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "care.z10",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "失智守護：成立偏鄉行動服務隊",
+            "commitment": "提出（六大措施之一）",
+            "source_ids": [
+              "zj-fb-20260917"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "care.z11",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "失智守護：在 13 鄉鎮市建立失智友善生活圈",
+            "commitment": "提出（六大措施之一）",
+            "source_ids": [
+              "zj-fb-20260917"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "care.z12",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "居服員支持：久任獎勵、偏鄉交通、臨時取消服務的收入保障、移動服務保險及在職進修",
+            "commitment": "希望（給予更實際的支持）",
+            "source_ids": [
+              "zj-fb-20260821"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "care.z13",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "把「長者安心、長照升級」落實到榮民與退伍軍人照顧：強化醫療、交通、生活支持與災後安置，並與地方長照資源銜接",
+            "commitment": "會",
+            "source_ids": [
+              "zj-fb-20260903-c"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "care.z14",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "強化關懷據點與文化健康站的健康篩檢、接送及在地課程",
+            "commitment": "主張",
+            "source_ids": [
+              "zj-fb-20260925"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "care.z15",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "讓文化健康站有更穩定的資源",
+            "commitment": "要",
+            "also": [
+              {
+                "island": "ethnic",
+                "basis": "source"
+              }
+            ],
+            "source_ids": [
+              "zj-fb-20260907-b"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "care.z16",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "擴充社區照顧與喘息服務",
+            "commitment": "要",
+            "source_ids": [
+              "zj-fb-20260924"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "care.z17",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "（身為議長）建議縣府與各鄉鎮公所盤點長輩活動空間，增加合適場地、改善設施",
+            "commitment": "建議",
+            "source_ids": [
+              "zj-fb-20261010-b"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "care.w-P01-18",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "人生向前",
+            "text": "長者重量訓練計畫：以既有長照據點為基礎導入科學化阻力訓練，從源頭降低失能與跌倒風險，健康老化。",
+            "commitment": "導入",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "care.w-P01-19",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "人生向前",
+            "text": "三高常態追蹤站：把衛生所和社區據點做成長輩三高常態追蹤站，在家附近就顧得到，不必每次等回診。",
+            "commitment": "（見原文）",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "care.w-P05-01",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "智慧向前",
+            "text": "守護獨居看得見：AI 輔助每天問候獨居長輩，電話沒人接就轉人工，必要時到家查看，確認平安才結案。",
+            "commitment": "（見原文）",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "note": "網站沒有附貼文連結"
+          },
+          {
+            "id": "care.w-P05-02",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "智慧向前",
+            "text": "遠距門診開進部落：從縣府管理的衛生所與部落據點做遠距門診，先在衛生所檢查上傳，與醫學中心合作判讀。",
+            "commitment": "（見原文）",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "also": [
+              {
+                "island": "ethnic",
+                "basis": "editorial"
+              }
+            ],
+            "note": "網站沒有附貼文連結"
+          },
+          {
+            "id": "care.w-P05-03",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "智慧向前",
+            "text": "救護數據先傳急診：救護車上的心跳、血氧、脈搏等數據在送達前傳到醫院，讓急診先準備緊急處置。",
+            "commitment": "（見原文）",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "also": [
+              {
+                "island": "disaster",
+                "basis": "editorial"
+              }
+            ],
+            "note": "網站沒有附貼文連結"
+          },
+          {
+            "id": "care.w-book07",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "人生向前・未來存摺",
+            "text": "存摺07「家庭喘息金」（照顧者）：喘息預算 12,000／年；與長照服務 可併領",
+            "commitment": "（見原文：以金額與對象列出，未寫動詞）",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "care.w-book08",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "人生向前・未來存摺",
+            "text": "存摺08「身心健檢金」（每個花蓮人）：加值健檢 6,000／年；未滿 25 歲 3,600／年；心理諮商 可使用",
+            "commitment": "（見原文：以金額與對象列出，未寫動詞）",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "care.w-book09",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "人生向前・未來存摺",
+            "text": "存摺09「銀髮樂活金」（65 歲以上長者）：輔具補助 另有提供；結伴出遊補助 6,000／年",
+            "commitment": "（見原文：以金額與對象列出，未寫動詞）",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "care.n-ruisui3",
+            "candidate_id": "you",
+            "text": "強化長照、巡迴醫療、幸福巴士與部落防災（瑞穗）",
+            "commitment": "強化",
+            "source_ids": [
+              "cna-20260930"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "care.n-faith",
+            "candidate_id": "you",
+            "text": "串聯教會、宮廟、文化健康站、社區關懷據點及社福團體，完善兒少、婚姻親職、長者、新住民及弱勢家庭支持網絡",
+            "commitment": "串聯、完善",
+            "source_ids": [
+              "yahoo-20261004"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "care.n-card2000",
+            "candidate_id": "you",
+            "text": "愛心乘車卡每月額度提高至 2000 元，乘車補助比例由 7 成提高至 9 成，並規畫 1000 點生活物資點數",
+            "commitment": "研擬（新聞：拋出／規畫）",
+            "source_ids": [
+              "ct-20261008"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "care.n-dental",
+            "candidate_id": "you",
+            "text": "假牙補助 5 年 5 萬元、每年 6600 元牙齒健檢補助",
+            "commitment": "朝…方向推動",
+            "source_ids": [
+              "ct-20261008"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "care.n-fuqi",
+            "candidate_id": "you",
+            "text": "「福氣站讚2.0」：全面升級福氣站功能，導入雲端醫療3.0評估，為獨居、失能及弱勢長者建立專屬照顧方案",
+            "commitment": "全面升級、導入",
+            "source_ids": [
+              "ct-20261008"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "care.n-beauty-care",
+            "candidate_id": "you",
+            "text": "「美好花蓮」願景・青年創生、社福周延：打造全齡照護體系，讓青年返鄉有希望、長者安養有保障",
+            "commitment": "打造",
+            "source_ids": [
+              "you-fb-20260307",
+              "you-fb-20260304"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "care.n-six-care",
+            "candidate_id": "you",
+            "text": "「6 大長照與部落照顧政策」：方向為強化政策工具、權責整合、在地服務；整合醫療、社福、原民及文化健康站資源",
+            "commitment": "提出",
+            "source_ids": [
+              "cna-20260913"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "care.n-health-hualien",
+            "candidate_id": "you",
+            "text": "「健康洄瀾計畫」：在現有文化健康站、社區照顧關懷據點及長照服務基礎上，整合智慧醫療、AI 健康管理、偏鄉照護及家庭支持系統，建立全齡照護模式",
+            "commitment": "「希望」…進一步整合",
+            "source_ids": [
+              "you-fb-20260724"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          }
+        ],
+        "numbers": [
+          {
+            "id": "care.zn1",
+            "candidate_id": "zhang",
+            "value": "2,000 點／月",
+            "text": "敬老愛心卡每月點數（現行 1,500 點）",
+            "kind": "proposal_target",
+            "source_ids": [
+              "zj-fb-20260930"
+            ],
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "care.zn2",
+            "candidate_id": "zhang",
+            "value": "100%",
+            "text": "社區照顧關懷據點覆蓋率目標（候選人稱現約 90%，未附出處）",
+            "kind": "proposal_target",
+            "source_ids": [
+              "zj-fb-20260825-a"
+            ],
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "care.zn3",
+            "candidate_id": "zhang",
+            "value": "10 萬元／站／年",
+            "text": "關懷據點每站每年加碼經費",
+            "kind": "proposal_target",
+            "source_ids": [
+              "zj-fb-20260825-a"
+            ],
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "care.zn4",
+            "candidate_id": "zhang",
+            "value": "3000 名",
+            "text": "失智守護員培訓人數",
+            "kind": "proposal_target",
+            "source_ids": [
+              "zj-fb-20260917"
+            ],
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "care.wn-book07",
+            "candidate_id": "wei",
+            "value": "12,000／年",
+            "text": "家庭喘息金：喘息預算（給照顧者「顧自己」用）",
+            "kind": "proposal_target",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "care.wn-book08",
+            "candidate_id": "wei",
+            "value": "6,000／年",
+            "text": "身心健檢金：加值健檢（25 歲以上・補上影像檢查）",
+            "kind": "proposal_target",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "care.wn-book09",
+            "candidate_id": "wei",
+            "value": "6,000／年",
+            "text": "銀髮樂活金：結伴出遊補助（核銷制・可結合村里活動）",
+            "kind": "proposal_target",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "verified_on": "2026-10-28"
+          }
+        ],
+        "quote": null,
+        "note": "「沒有政見」＝本資料庫尚未找到，不等於候選人沒有主張。",
+        "source_pool": [
+          "you-fb-20260509",
+          "you-fb-20260528",
+          "wei-web-policies",
+          "you-fb-20260307",
+          "you-fb-20260304",
+          "zj-fb-20260930",
+          "zj-fb-20261018-a",
+          "zj-fb-20260825-a",
+          "zj-fb-20260917",
+          "zj-fb-20260821",
+          "zj-fb-20260903-c",
+          "zj-fb-20260925",
+          "zj-fb-20260907-b",
+          "zj-fb-20260924",
+          "zj-fb-20261010-b",
+          "cna-20260930",
+          "yahoo-20261004",
+          "ct-20261008",
+          "cna-20260913",
+          "you-fb-20260724"
+        ]
+      }
+    },
+    {
+      "id": "disaster",
+      "n": "04",
+      "name": "防災",
+      "kind": "ext",
+      "subgoals": [],
+      "card": {
+        "title": "防災：花蓮縣長參選人政見",
+        "summary": "災害韌性、備援與治水。",
+        "points": [
+          {
+            "id": "disaster.d1",
+            "candidate_id": "you",
+            "text": "全流域治理：從上游到下游完整治水",
+            "commitment": "認為",
+            "source_ids": [
+              "you-fb-20260918",
+              "udn-20260918"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "disaster.d2",
+            "candidate_id": "you",
+            "text": "研議校園及偏鄉、部落據點的儲糧與緊急供餐協作機制（10天備援）",
+            "commitment": "研議",
+            "also": [
+              {
+                "island": "edu",
+                "basis": "source"
+              }
+            ],
+            "source_ids": [
+              "you-fb-20260928-a"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "disaster.d3",
+            "candidate_id": "you",
+            "text": "宜花共好：防災共援，整合救災機具、醫療後送與即時資訊",
+            "commitment": "合作共識",
+            "source_ids": [
+              "you-fb-20261002"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "disaster.z1",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "全面盤點避難處所，建置低軌衛星等備援通訊、重要據點儲能與微電網",
+            "commitment": "將",
+            "source_ids": [
+              "zj-fb-20260811-a",
+              "ltn-20260606"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "disaster.z2",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "提升偏鄉及易成孤島地區的物資、醫療與 14 天自主應變能力",
+            "commitment": "將",
+            "source_ids": [
+              "zj-fb-20260811-a"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "disaster.z3",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "整合警政、消防、醫療、交通及災害資訊，建立縣級智慧應變平台",
+            "commitment": "將",
+            "source_ids": [
+              "zj-fb-20260811-a"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "disaster.z4",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "全面盤點地震、土石流、淹水與堰塞湖高風險區，公布風險地圖及改善清單",
+            "commitment": "主張（打造「防災韌性花蓮」）",
+            "source_ids": [
+              "zj-fb-20260921",
+              "scoop-20260921",
+              "cna-20260921"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "disaster.z5",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "整合消防、醫療、警政、鄉鎮市與民間救援力量",
+            "commitment": "主張（打造「防災韌性花蓮」）",
+            "source_ids": [
+              "zj-fb-20260921",
+              "scoop-20260921",
+              "cna-20260921"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "disaster.z6",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "強化道路、通訊、供水供電及物資備援，讓社區、校園與部落演練更貼近真實災情",
+            "commitment": "主張（打造「防災韌性花蓮」）",
+            "source_ids": [
+              "zj-fb-20260921",
+              "scoop-20260921"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "disaster.z7",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "建立專人、專職、專責的防災體系，整合水位、無人機、衛星與河川資料，完善第二區備援",
+            "commitment": "未來縣府要",
+            "source_ids": [
+              "zj-fb-20260919-b"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "disaster.z8",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "緊急工程與長期重建分開列管，公開權責、預算與進度",
+            "commitment": "並",
+            "source_ids": [
+              "zj-fb-20260919-b"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "disaster.z9",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "把堰塞湖監測、預警、撤離、第二區防災備援系統完整串起來",
+            "commitment": "未來要",
+            "source_ids": [
+              "zj-fb-20260823-b"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "disaster.z10",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "盤點易受風災路段，分期推動電纜地下化",
+            "commitment": "主張",
+            "also": [
+              {
+                "island": "traffic",
+                "basis": "editorial"
+              }
+            ],
+            "source_ids": [
+              "zj-fb-20261025"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "disaster.z11",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "強化醫療及避難處所備援電力",
+            "commitment": "同時",
+            "source_ids": [
+              "zj-fb-20261025"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "disaster.z12",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "研議環境諮詢平台與防災微電網（依既有資訊公開、部落參與及孤島備援政策）",
+            "commitment": "研議",
+            "also": [
+              {
+                "island": "ethnic",
+                "basis": "editorial"
+              }
+            ],
+            "source_ids": [
+              "zj-fb-20261009-c"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "disaster.z13",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "吉安海岸路治水：全面檢視排水系統，持續改善容易淹水的地區（需中央與地方密切合作）",
+            "commitment": "未來治水工作更需要",
+            "source_ids": [
+              "zj-fb-20261021"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "disaster.z14",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "防災韌性政策：推動監測預警、排水改善及撤離安置，讓防災準備做在災害之前",
+            "commitment": "將",
+            "source_ids": [
+              "zj-fb-20261022"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "disaster.w-P02-01",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "安全向前",
+            "text": "成立防災專責單位：成立跨局處的防災專責單位，平時統籌政策、訓練與兵棋推演，災時整合人力物資與災情。",
+            "commitment": "成立",
+            "source_ids": [
+              "wei-web-policies",
+              "hub-20261019"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "disaster.w-P02-06",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "安全向前",
+            "text": "收容所盤點改善：盤點各鄉鎮避難收容所，補足通風、照明、衛浴與無障礙缺口，建立標準化管理機制。",
+            "commitment": "盤點",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "disaster.w-P02-08",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "安全向前",
+            "text": "閒置老屋找出路：主動盤點長期閒置、無力管理的老屋，補助修繕或拆除，結構安全的轉作社會住宅。",
+            "commitment": "盤點",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "also": [
+              {
+                "island": "welfare",
+                "basis": "editorial"
+              }
+            ]
+          },
+          {
+            "id": "disaster.w-P02-07",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "安全向前",
+            "text": "危樓處置與資訊公開：加速 0403 地震危樓補強或拆除，並全面公開紅單、黃單建築資訊，保障住的安全。",
+            "commitment": "（見原文）",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "disaster.w-P02-02",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "安全向前",
+            "text": "智慧防災數位儀表板：把監視器、水位計、淹水感測、圖資與救災資源整合到一個平台，導入 AI 協助判讀。",
+            "commitment": "整合",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "disaster.w-P02-03",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "安全向前",
+            "text": "無人機送藥常態化：無人機送藥、送物資從試飛變常態，在容易成為孤島的部落先整備起降點，平時就演練。",
+            "commitment": "（見原文）",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "also": [
+              {
+                "island": "care",
+                "basis": "editorial"
+              }
+            ]
+          },
+          {
+            "id": "disaster.w-P02-05",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "安全向前",
+            "text": "補足消防人力：補足消防人力、增加輪休、改善排班並足額編列加班費，讓消防同仁專心救災救護。",
+            "commitment": "補足",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "disaster.w-P02-10",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "安全向前",
+            "text": "縣管溪流設水位監測：縣管溪流與光復市區儘速建置水位站與淹水感測器，並派氣象水文人力強化在地預警。",
+            "commitment": "儘速",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "disaster.w-P02-04",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "安全向前",
+            "text": "爭取後送直升機駐花蓮：向中央爭取緊急後送直升機駐花蓮，同時整備玉里夜航起降條件，南區急重症多一條路。",
+            "commitment": "爭取",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "also": [
+              {
+                "island": "care",
+                "basis": "editorial"
+              }
+            ]
+          },
+          {
+            "id": "disaster.w-P02-11",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "安全向前",
+            "text": "強化市區排水：加強市區雨水幹線的容量與管理，並儘速完成南濱滯洪池，真正降低花蓮市區淹水風險。",
+            "commitment": "加強",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "disaster.w-P02-17",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "安全向前",
+            "text": "簡易自來水縣府統籌：簡易自來水改由縣府統籌規劃、興建與管理，讓沒有自來水的部落與偏鄉用水安全穩定。",
+            "commitment": "規劃",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "also": [
+              {
+                "island": "ethnic",
+                "basis": "editorial"
+              }
+            ]
+          },
+          {
+            "id": "disaster.w-P02-09",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "安全向前",
+            "text": "民防與政府持續運作：重新檢視並改革民防體系，建立縣府備援辦公地點與資訊備份，危機時政府持續運作。",
+            "commitment": "改革",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "disaster.w-P02-16",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "安全向前",
+            "text": "極端高溫因應：建立高溫因應機制，高溫警報時道路灑水降溫，並整合全縣道路清洗車等資源。",
+            "commitment": "建立",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "disaster.w-P05-08",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "智慧向前",
+            "text": "補強收訊死角：縣府盤點部落、登山步道及溪流活動熱點的訊號死角，向數位發展部爭取補強基地台。",
+            "commitment": "盤點",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "also": [
+              {
+                "island": "ethnic",
+                "basis": "editorial"
+              }
+            ],
+            "note": "網站沒有附貼文連結"
+          },
+          {
+            "id": "disaster.n-ai-drone",
+            "candidate_id": "zhang",
+            "text": "AI 智慧預警與無人機空域防線：在中橫、蘇花及重要道路布設 AI 監測設備與地滑計；災後以無人機快速掌握災區",
+            "commitment": "布設",
+            "source_ids": [
+              "ltn-20260606"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "disaster.n-river",
+            "candidate_id": "zhang",
+            "text": "震後河川緊急疏濬機制：規模 5.5 以上地震立即啟動河道空拍與緊急疏濬，汛期前提升河川容水能力",
+            "commitment": "啟動",
+            "source_ids": [
+              "ltn-20260606"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "disaster.n-offline-map",
+            "candidate_id": "zhang",
+            "text": "部落互助離線數位地圖：結合原住民族傳統組織系統，斷網也能聯繫與避難",
+            "commitment": "推動",
+            "source_ids": [
+              "ltn-20260606"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "disaster.n-med-net",
+            "candidate_id": "zhang",
+            "text": "南北分區醫療韌性網：智慧行動急診系統與遠距醫療，強化玉里、富里等南區醫療韌性",
+            "commitment": "建立",
+            "source_ids": [
+              "ltn-20260606"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "disaster.n-ppp",
+            "candidate_id": "zhang",
+            "text": "公私協力災防協調平台：整合慈濟及民間搜救團體、急難倉儲、行動廚房等資源",
+            "commitment": "建立",
+            "source_ids": [
+              "ltn-20260606"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "disaster.n-review",
+            "candidate_id": "zhang",
+            "text": "全面檢討水利與營建相關制度與法規：以科技預警代替人工涉險、以預先清淤代替災後搶修",
+            "commitment": "將全面檢討（條件式：未來如果有機會承擔縣政責任）",
+            "source_ids": [
+              "ltn-20260606"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "disaster.n-one-window",
+            "candidate_id": "zhang",
+            "text": "中央與縣府建立單一協調窗口：逐案列管住宅修繕、公共設施、交通命脈與產業振興，公布明確期限",
+            "commitment": "呼籲",
+            "source_ids": [
+              "scoop-20260921",
+              "cna-20260921"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "disaster.n-drill",
+            "candidate_id": "zhang",
+            "text": "依各地災害特性設計社區防災演練：學校、長照據點、社區與部落清楚撤離路線、收容地點及弱勢協助名冊，定期更新",
+            "commitment": "主張",
+            "source_ids": [
+              "scoop-20260921"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "disaster.n-gwhite",
+            "candidate_id": "you",
+            "text": "「花蓮全域韌性治理」：道路巡檢、邊坡監測、智慧預警及跨部門應變，落實到每一個部落（報導提到她的縣政白皮書）",
+            "commitment": "應透過",
+            "source_ids": [
+              "cna-20260921"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "disaster.n-religion",
+            "candidate_id": "you",
+            "text": "鼓勵有意願、有條件的宗教場所參與社區防災工作（平時防災教育、物資整備、緊急通報、避難關懷、災後心理支持）",
+            "commitment": "鼓勵",
+            "source_ids": [
+              "yahoo-20261004"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "disaster.n-water",
+            "candidate_id": "you",
+            "text": "強化防災韌性與水環境治理",
+            "commitment": "強化",
+            "source_ids": [
+              "scoop-20260903"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "disaster.n-beauty-resil",
+            "candidate_id": "you",
+            "text": "「美好花蓮」願景・韌性護家鄉：強化防災與基礎建設韌性",
+            "commitment": "強化",
+            "source_ids": [
+              "you-fb-20260307",
+              "you-fb-20260304"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "disaster.n-wp-island",
+            "candidate_id": "you",
+            "text": "「孤島部落韌性計畫」：部落防災藍圖、一部落一聚會所、防災士培訓及文化健康站防災物資整備",
+            "commitment": "規劃推動",
+            "source_ids": [
+              "upmedia-20260801"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "disaster.n-community",
+            "candidate_id": "you",
+            "text": "強化社區防災、提升預警系統、照顧長者與弱勢避災需求，建立更完整的防災教育",
+            "commitment": "「都是未來必須持續努力的方向」",
+            "source_ids": [
+              "you-fb-20260514"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          }
+        ],
+        "numbers": [
+          {
+            "id": "disaster.zn1",
+            "candidate_id": "zhang",
+            "value": "14 天",
+            "text": "偏鄉及易成孤島地區自主應變能力目標",
+            "kind": "proposal_target",
+            "source_ids": [
+              "zj-fb-20260811-a"
+            ],
+            "verified_on": "2026-10-28"
+          }
+        ],
+        "quote": null,
+        "note": "「沒有政見」＝本資料庫尚未找到，不等於候選人沒有主張。",
+        "source_pool": [
+          "you-fb-20260918",
+          "you-fb-20260928-a",
+          "you-fb-20261002",
+          "wei-web-policies",
+          "you-fb-20260307",
+          "you-fb-20260304",
+          "zj-fb-20260811-a",
+          "zj-fb-20260921",
+          "zj-fb-20260919-b",
+          "zj-fb-20260823-b",
+          "zj-fb-20261025",
+          "zj-fb-20261009-c",
+          "zj-fb-20261021",
+          "zj-fb-20261022",
+          "udn-20260918",
+          "ltn-20260606",
+          "scoop-20260921",
+          "cna-20260921",
+          "hub-20261019",
+          "yahoo-20261004",
+          "scoop-20260903",
+          "upmedia-20260801",
+          "you-fb-20260514"
+        ]
+      }
+    },
+    {
+      "id": "fiscal",
+      "n": "05",
+      "name": "縣政財政",
+      "kind": "ext",
+      "subgoals": [],
+      "card": {
+        "title": "縣政財政：花蓮縣長參選人政見",
+        "summary": "施政方式、白皮書、KPI、預算。",
+        "points": [
+          {
+            "id": "fiscal.f1",
+            "candidate_id": "you",
+            "text": "提出「2026邁向2035政策白皮書」，以 KPI 作為施政考核依據",
+            "commitment": "提出",
+            "source_ids": [
+              "you-ct-20260907"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "fiscal.f2",
+            "candidate_id": "you",
+            "text": "上任100天全面了解縣政，半年內提出具體施政KPI",
+            "commitment": "（報導用語）",
+            "source_ids": [
+              "you-ct-20260907"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "fiscal.z1",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "不新增舉債，116 年花蓮縣民每人普發 1 萬元",
+            "commitment": "主張",
+            "also": [
+              {
+                "island": "tour_industry",
+                "basis": "source"
+              }
+            ],
+            "source_ids": [
+              "zj-fb-20260827"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "fiscal.z2",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "當選後推動每位縣民普發一萬元：完成財源籌措與法定程序，不舉債、不排擠教育、社福與防災支出",
+            "commitment": "承諾",
+            "also": [
+              {
+                "island": "tour_industry",
+                "basis": "source"
+              }
+            ],
+            "source_ids": [
+              "zj-fb-20261015-b"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "fiscal.z3",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "若中央也普發 1 萬元，花蓮可領 2 萬元（需完成地方預算及法定程序）",
+            "commitment": "（條件式：中央普發完成審議並實施，且地方預算及法定程序完成後）",
+            "source_ids": [
+              "zj-fb-20260817-a"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "fiscal.z4",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "縣政公開、預算透明",
+            "commitment": "要讓",
+            "source_ids": [
+              "zj-fb-20260811-c",
+              "zj-fb-20260906"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "fiscal.z5",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "每項政見都要有做法、有財源、能落實，並接受鄉親檢驗",
+            "commitment": "（原文為宣示）",
+            "source_ids": [
+              "zj-fb-20260903-a"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "fiscal.z6",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "「花蓮改革治理聯盟」邀專家共同檢視政策白皮書，列出期程、財源與效益評估",
+            "commitment": "未來將邀請",
+            "source_ids": [
+              "zj-fb-20260913",
+              "cna-20260913"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "fiscal.z7",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "與 13 鄉鎮市各公所定期協作，依地方需求安排預算，公開進度",
+            "commitment": "會",
+            "source_ids": [
+              "zj-fb-20261013-a"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "fiscal.z8",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "市公所提出重大建設需求與計畫時，積極協助、共同解決問題，不因政黨不同有大小眼",
+            "commitment": "會",
+            "source_ids": [
+              "zj-fb-20261001-b"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "fiscal.z9",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "縣政預算依需求公平分配，逐步補足偏鄉交通與社福設施",
+            "commitment": "應",
+            "also": [
+              {
+                "island": "welfare",
+                "basis": "source"
+              }
+            ],
+            "source_ids": [
+              "zj-fb-20261008"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "fiscal.z10",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "宗教補助：公開補助標準、審查原則與核定結果，依文化保存、公益服務、地方需求及傳承價值建立明確機制",
+            "commitment": "主張",
+            "source_ids": [
+              "zj-fb-20260910-c"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "fiscal.w-P05-06",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "智慧向前",
+            "text": "公共服務單一入口：補助申請、災害通報逐步線上化，盡量在同一個入口辦好，長輩在家也辦得到。",
+            "commitment": "補助",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "note": "網站沒有附貼文連結"
+          },
+          {
+            "id": "fiscal.w-P05-07",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "智慧向前",
+            "text": "AI 使用先訂規矩：用 AI 要先訂規矩：事前取得同意、不用有資安疑慮的模型，系統處理不了就交給人。",
+            "commitment": "（見原文）",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "note": "網站沒有附貼文連結"
+          },
+          {
+            "id": "fiscal.n-no-pork",
+            "candidate_id": "zhang",
+            "text": "當選第一步：去掉綁樁及煙火式的活動支出，縣長不分族群與團體照顧每位縣民",
+            "commitment": "承諾（第一步就是要去掉）",
+            "source_ids": [
+              "na-20260515",
+              "cnews-20260515"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "fiscal.n-ten-plans",
+            "candidate_id": "you",
+            "text": "提出「十大旗艦計畫」：效能、智慧、社福、韌性、希望、國際、運能、共榮、玩美、永續花蓮（黃金十年）",
+            "commitment": "提出",
+            "source_ids": [
+              "you-fb-20260907"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "fiscal.n-ai-gov",
+            "candidate_id": "you",
+            "text": "導入 AI 智慧治理、建立全民公共事務即時反應機制",
+            "commitment": "導入、建立",
+            "source_ids": [
+              "scoop-20260903"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "fiscal.n-clean-gov",
+            "candidate_id": "you",
+            "text": "用人唯才、清廉為本：以專業取代關係、以制度取代人治、以清廉建立信任，把堅持帶進縣府團隊",
+            "commitment": "若有機會承擔更大的責任，將把這份堅持帶進縣府團隊",
+            "source_ids": [
+              "you-fb-20260611"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "fiscal.n-four-gov",
+            "candidate_id": "you",
+            "text": "施政核心：開放治理、智慧治理、韌性治理、永續治理；廣納專家學者及青年人才組成縣政團隊",
+            "commitment": "若有機會承擔縣政重任，將以…作為施政核心",
+            "source_ids": [
+              "you-fb-20260715"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "fiscal.n-county-township",
+            "candidate_id": "you",
+            "text": "縣府與各鄉鎮市公所建立更緊密的合作關係：整合縣鄉行政資源，透過點、線、面的治理串聯，逐步改善交通、社會福利、產業發展及公共建設",
+            "commitment": "「未來縣政府必須…」（媒體轉述）",
+            "source_ids": [
+              "ksnews-20261028"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          }
+        ],
+        "numbers": [
+          {
+            "id": "fiscal.zn1",
+            "candidate_id": "zhang",
+            "value": "1 萬元／人",
+            "text": "縣民普發現金額度（縣府自籌；與中央是否普發是兩件事）",
+            "kind": "proposal_target",
+            "source_ids": [
+              "zj-fb-20260827"
+            ],
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "fiscal.zn2",
+            "candidate_id": "zhang",
+            "value": "約 31 億元",
+            "text": "普發 1 萬元所釋出消費力（候選人以 31 萬餘名縣民估算，非縣府財源核算）",
+            "kind": "estimate",
+            "source_ids": [
+              "zj-fb-20260827"
+            ],
+            "verified_on": "2026-10-28"
+          }
+        ],
+        "quote": null,
+        "note": "「沒有政見」＝本資料庫尚未找到，不等於候選人沒有主張。",
+        "source_pool": [
+          "you-ct-20260907",
+          "wei-web-policies",
+          "you-fb-20260907",
+          "zj-fb-20260827",
+          "zj-fb-20261015-b",
+          "zj-fb-20260817-a",
+          "zj-fb-20260811-c",
+          "zj-fb-20260903-a",
+          "zj-fb-20260913",
+          "zj-fb-20261013-a",
+          "zj-fb-20261001-b",
+          "zj-fb-20261008",
+          "zj-fb-20260910-c",
+          "cna-20260913",
+          "na-20260515",
+          "cnews-20260515",
+          "scoop-20260903",
+          "you-fb-20260611",
+          "you-fb-20260715",
+          "ksnews-20261028"
+        ]
+      }
+    },
+    {
+      "id": "edu",
+      "n": "06",
+      "name": "教育",
+      "kind": "official",
+      "subgoals": [],
+      "card": {
+        "title": "教育：花蓮縣長參選人政見",
+        "summary": "教育：依候選人自己的臉書、競選網站、文宣為主，媒體報導為佐證，逐條附原文與出處。",
+        "points": [
+          {
+            "id": "edu.y1",
+            "candidate_id": "you",
+            "text": "提供就學準備金及課後照顧，從幼兒園銜接至高中職",
+            "source_ids": [
+              "cna0916",
+              "cnews-20260916",
+              "cna-20260928"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "edu.y2",
+            "candidate_id": "you",
+            "text": "強化 AI、雙語學習、山海大教育等特色課程",
+            "source_ids": [
+              "cna0916",
+              "cnews-20260916"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "edu.y3",
+            "candidate_id": "you",
+            "text": "增加校務專責人力",
+            "source_ids": [
+              "cna0916",
+              "you-fb-20260427",
+              "cnews-20260916"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "edu.y4",
+            "candidate_id": "you",
+            "text": "提供教師法律支援及午餐指導補貼",
+            "source_ids": [
+              "cna0916",
+              "cnews-20260916"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "edu.y5",
+            "candidate_id": "you",
+            "text": "推動校園廁所美學、師生宿舍翻新、校體維護補強及智慧安全通學網",
+            "source_ids": [
+              "cna0916",
+              "cnews-20260916",
+              "cna-20260928"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "edu.y6",
+            "candidate_id": "you",
+            "text": "支持縣府既有的高中職就學補助與免費營養午餐",
+            "source_ids": [
+              "cna0916",
+              "cnews-20260916"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "edu.z1",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "將實際陪同學生用餐的教師納入免費營養午餐",
+            "commitment": "主張",
+            "source_ids": [
+              "zj-fb-20260918-c"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "edu.z2",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "縣府依物價、食材、運輸與人力成本，定期檢討供餐標準",
+            "commitment": "應",
+            "source_ids": [
+              "zj-fb-20260918-c"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "edu.z3",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "優先採用花蓮在地米、蔬果、畜產及水產品，逐步提高有機友善食材比例",
+            "commitment": "優先／逐步",
+            "also": [
+              {
+                "island": "tour_industry",
+                "basis": "editorial"
+              }
+            ],
+            "source_ids": [
+              "zj-fb-20260918-c"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "edu.z4",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "營養午餐採購制度公開透明，公布採購規格、得標資訊與履約標準",
+            "commitment": "也要",
+            "source_ids": [
+              "zj-fb-20260918-c"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "edu.z5",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "食材檢核查驗產地、標章、來源、驗收紀錄、農藥殘留與食安抽驗結果，並逐步補足營養師人力",
+            "commitment": "應",
+            "source_ids": [
+              "zj-fb-20260918-c"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "edu.z6",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "新財劃法新增的財政空間優先回到校園",
+            "commitment": "應",
+            "also": [
+              {
+                "island": "fiscal",
+                "basis": "source"
+              }
+            ],
+            "source_ids": [
+              "zj-fb-20260918-c"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "edu.z7",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "已簽署教師團體十大教育訴求；支持降低幼教師生比、增加幼幼班、補足正式師資、行政減量與特教支援",
+            "commitment": "簽署／支持",
+            "source_ids": [
+              "zj-fb-20261001-a",
+              "cna-20260928",
+              "yahoo-20260929"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "edu.z8",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "與教師團體持續合作，把教育現場需求納入施政與預算規劃，逐項推動、追蹤進度",
+            "commitment": "承諾",
+            "source_ids": [
+              "zj-fb-20261001-a",
+              "cna-20260928"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "edu.z9",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "教育平權政策白皮書：偏鄉教師宿舍與留才、學區共享、學生輔導、課後照顧、數位學習與營養午餐升級",
+            "commitment": "提出",
+            "source_ids": [
+              "zj-fb-20260928-b",
+              "cna-20260928",
+              "yahoo-20260929"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "edu.z10",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "與教師團體逐項討論需求、盤點經費，持續改善教學環境，縮小城鄉差距",
+            "commitment": "一定全力支持（若有機會服務縣政）",
+            "source_ids": [
+              "zj-fb-20261007-b"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "edu.z11",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "簽署支持：逐年降低班級人數（高中30人、國中25人、國小24人以下；幼兒園師生比1：10、幼幼班1：6以下）",
+            "commitment": "簽署支持（教師團體訴求）",
+            "source_ids": [
+              "zj-img-edu-pledge-20260918"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "edu.z12",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "簽署支持：國中編制提高為每班2.3人、國小每班1.75人",
+            "commitment": "簽署支持（教師團體訴求）",
+            "source_ids": [
+              "zj-img-edu-pledge-20260918"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "edu.z13",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "簽署支持：兼任行政、導師及專任教師每週再減授課一節",
+            "commitment": "簽署支持（教師團體訴求）",
+            "source_ids": [
+              "zj-img-edu-pledge-20260918"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "edu.z14",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "簽署支持：廢止國中小全面學力檢測，並落實學習扶助配套",
+            "commitment": "簽署支持（教師團體訴求）",
+            "source_ids": [
+              "zj-img-edu-pledge-20260918"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "edu.z15",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "簽署支持：縣長每年親自召開教育圓桌會議，徵詢教師、家長、校長團體意見",
+            "commitment": "簽署支持（教師團體訴求）",
+            "source_ids": [
+              "zj-img-edu-pledge-20260918"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "edu.w-P01-14",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "人生向前",
+            "text": "評估停辦學力測驗：上任後邀集第一線教師與教育團體檢討制度，評估停辦學力測驗，回歸學習扶助檢測。",
+            "commitment": "評估",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "edu.w-P01-17",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "人生向前",
+            "text": "特教助理員月薪制：特教助理員改採月薪制與完整聘期，寒暑假有保障，也讓特教學生得到更穩定的陪伴。",
+            "commitment": "改採",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "edu.w-P01-16",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "人生向前",
+            "text": "推動十點教育改革訴求：與教育界建立定期對話機制，優先推動三大教師團體共同提出的十點教育改革訴求。",
+            "commitment": "建立",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "edu.w-P05-04",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "智慧向前",
+            "text": "AI 輔助教學與陪練：學校行政表單先由系統整理，讓老師多陪孩子；偏鄉由 AI 當英語陪練，族語與耆老建資料庫。",
+            "commitment": "（見原文）",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "also": [
+              {
+                "island": "ethnic",
+                "basis": "editorial"
+              }
+            ],
+            "note": "網站沒有附貼文連結"
+          },
+          {
+            "id": "edu.w-book03",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "人生向前・未來存摺",
+            "text": "存摺03「未來教育金」（6–18 歲孩子）：課後學習額度 1,000／月；孩子有地方去 雙受益",
+            "commitment": "（見原文：以金額與對象列出，未寫動詞）",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "edu.n-relief",
+            "candidate_id": "you",
+            "text": "「教師減壓支持計畫」：檢討不必要的行政表單及重複性業務，導入數位化行政系統，增加行政與專業人力",
+            "commitment": "推動",
+            "source_ids": [
+              "you-fb-20260928-b",
+              "yahoo-20260929"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "edu.n-platform",
+            "candidate_id": "you",
+            "text": "建立縣級教師研習與交流平台，發展閱讀、雙語、科技應用及在地文化等多元課程",
+            "commitment": "建立",
+            "source_ids": [
+              "you-fb-20260928-b",
+              "yahoo-20260929"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "edu.n-rural",
+            "candidate_id": "you",
+            "text": "偏鄉教育：爭取中央資源，推動偏鄉教師穩定任教方案；提供交通、住宿、專業社群及職涯發展支持",
+            "commitment": "爭取、推動",
+            "source_ids": [
+              "you-fb-20260928-b",
+              "yahoo-20260929"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "edu.n-remote",
+            "candidate_id": "you",
+            "text": "整合數位學習及遠距教學資源，增加偏鄉學生多元學習機會",
+            "commitment": "整合",
+            "source_ids": [
+              "you-fb-20260928-b",
+              "yahoo-20260929"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "edu.n-rights",
+            "candidate_id": "you",
+            "text": "完善教師申訴、法律諮詢及心理支持機制，建立公開、理性且有程序的溝通平台",
+            "commitment": "完善、建立",
+            "source_ids": [
+              "you-fb-20260928-b",
+              "yahoo-20260929"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "edu.n-one-school",
+            "candidate_id": "you",
+            "text": "推動「一校一特色」：結合社區產業、歷史文化及自然環境發展特色課程，串聯博物館、社區、企業與大專院校",
+            "commitment": "推動",
+            "source_ids": [
+              "you-fb-20260928-b",
+              "yahoo-20260929"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "edu.n-priority",
+            "candidate_id": "you",
+            "text": "將教育列為縣政優先事項",
+            "commitment": "將…列為",
+            "source_ids": [
+              "you-fb-20260928-b"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "edu.n-ai-edu",
+            "candidate_id": "you",
+            "text": "爭取更多教育與育兒資源，推動 AI 與數位教育，縮短城鄉教育落差，改善偏鄉學習環境",
+            "commitment": "持續努力爭取、推動",
+            "source_ids": [
+              "you-fb-20260728"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "edu.n-chain",
+            "candidate_id": "you",
+            "text": "0 至 18 歲「成長支持鏈」：從幼兒照顧、課後服務、教育支出到 AI、語言及多元能力培養，銜接高中職補助",
+            "commitment": "應形成（匯流 9/16）／當選後將建立（聯合報 9/17）",
+            "source_ids": [
+              "cnews-20260916",
+              "udn-20260917"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "edu.n-lunch",
+            "candidate_id": "you",
+            "text": "營養午餐升級，擴大補助範圍",
+            "commitment": "（營養午餐）升級",
+            "source_ids": [
+              "cna-20260928"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "edu.n-beauty-edu",
+            "candidate_id": "you",
+            "text": "「美好花蓮」願景・教育優化：讓家長安心、學生放心、教師減壓並且有靠山",
+            "commitment": "（願景，未寫具體做法）",
+            "source_ids": [
+              "you-fb-20260307"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "edu.n-ai-center",
+            "candidate_id": "you",
+            "text": "在教育處強化並擴大「AI 教育中心」，讓孩子從小接觸 AI、學會使用 AI",
+            "commitment": "提出具體方向（原文：「淑貞提出一個具體方向」）",
+            "source_ids": [
+              "you-fb-20260423"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "edu.n-campus",
+            "candidate_id": "you",
+            "text": "致力於友善校園、雙語及 AI 科技教育、幼兒照顧與親子支援等政策",
+            "commitment": "將致力於",
+            "source_ids": [
+              "you-fb-20260518"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          }
+        ],
+        "numbers": [
+          {
+            "id": "edu.wn-book03",
+            "candidate_id": "wei",
+            "value": "1,000／月",
+            "text": "未來教育金：課後學習額度（才藝、運動、學習探索・6–18 歲）",
+            "kind": "proposal_target",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "verified_on": "2026-10-28"
+          }
+        ],
+        "quote": null,
+        "note": "「沒有政見」＝本資料庫尚未找到，不等於候選人沒有主張。",
+        "source_pool": [
+          "cna0916",
+          "you-fb-20260427",
+          "zj-img-edu-pledge-20260918",
+          "wei-web-policies",
+          "you-fb-20260928-b",
+          "you-fb-20260728",
+          "you-fb-20260307",
+          "zj-fb-20260918-c",
+          "zj-fb-20261001-a",
+          "zj-fb-20260928-b",
+          "zj-fb-20261007-b",
+          "cnews-20260916",
+          "cna-20260928",
+          "yahoo-20260929",
+          "udn-20260917",
+          "you-fb-20260423",
+          "you-fb-20260518"
+        ]
+      }
+    },
+    {
+      "id": "welfare",
+      "n": "07",
+      "name": "社福與育兒青年",
+      "kind": "ext",
+      "subgoals": [],
+      "card": {
+        "title": "社福與育兒青年：花蓮縣長參選人政見",
+        "summary": "育兒、青年、勞工、婦女與健康補助。",
+        "points": [
+          {
+            "id": "welfare.w7",
+            "candidate_id": "wei",
+            "text": "身心健檢金：未滿25歲每年3,600元，用於視力、牙齒及心理等科別（依網站 2026-10-23 資料）",
+            "source_ids": [
+              "wei-web-policies",
+              "tvbs-20260916",
+              "udn-20260916"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張",
+            "note": "中央社 2026-09-16 寫 2,500 元；候選人網站（2026-10-23 更新）寫 3,600 元，以網站為準。",
+            "frame": "人生向前・未來存摺"
+          },
+          {
+            "id": "welfare.w8",
+            "candidate_id": "wei",
+            "text": "身心健檢金：25歲以上每年6000元，補足中央未納入的免費健檢項目",
+            "source_ids": [
+              "cna0916",
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張",
+            "frame": "人生向前・未來存摺"
+          },
+          {
+            "id": "welfare.s1",
+            "candidate_id": "you",
+            "text": "勞工托育「晚鳥」接送專車",
+            "commitment": "提出",
+            "also": [
+              {
+                "island": "traffic",
+                "basis": "editorial"
+              }
+            ],
+            "source_ids": [
+              "you-fb-20260501"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "welfare.s2",
+            "candidate_id": "you",
+            "text": "建立「勞權AI律師系統」",
+            "commitment": "提出",
+            "source_ids": [
+              "you-fb-20260501"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "welfare.s3",
+            "candidate_id": "you",
+            "text": "成立「花蓮AI勞工數位學院」",
+            "commitment": "提出",
+            "source_ids": [
+              "you-fb-20260501"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "welfare.s4",
+            "candidate_id": "you",
+            "text": "青銀共融托育園區，並承諾對弱勢與脆弱家庭「托育加零」由縣府全額負擔",
+            "commitment": "承諾",
+            "source_ids": [
+              "you-fb-20260509"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "welfare.s5",
+            "candidate_id": "you",
+            "text": "青壯年購屋利息補助",
+            "commitment": "推動",
+            "source_ids": [
+              "you-fb-20260616"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "welfare.s6",
+            "candidate_id": "you",
+            "text": "青年創業貸款、專業輔導與創業空間",
+            "commitment": "提供",
+            "source_ids": [
+              "you-fb-20260616"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "welfare.s7",
+            "candidate_id": "you",
+            "text": "Young青年券",
+            "commitment": "推出",
+            "source_ids": [
+              "you-fb-20260616"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "welfare.z1",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "0 至 18 歲健保自付保費由縣府補助，每人每月最高 826 元（已由中央或其他制度補助者不重複領取）",
+            "commitment": "提出（縣長參選政見）",
+            "also": [
+              {
+                "island": "fiscal",
+                "basis": "source"
+              }
+            ],
+            "source_ids": [
+              "zj-fb-20260811-b",
+              "ltn-20260808"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "welfare.z2",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "由縣府統籌，為每一位設籍花蓮的縣民投保最高 100 萬元意外險",
+            "commitment": "提出（具體政策）",
+            "also": [
+              {
+                "island": "disaster",
+                "basis": "source"
+              }
+            ],
+            "source_ids": [
+              "zj-fb-20260918-b",
+              "udn-20260918"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "welfare.z3",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "青年政策：整合招商、產業發展、就業媒合與人才培育，銜接學校、實習到就業",
+            "commitment": "重點",
+            "source_ids": [
+              "zj-fb-20260812"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "welfare.z4",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "建立 13 鄉鎮市青年服務與轉介網絡",
+            "commitment": "重點",
+            "source_ids": [
+              "zj-fb-20260812"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "welfare.z5",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "四年協助至少 300 戶青年取得租屋、包租代管、社宅或共居支持",
+            "commitment": "重點",
+            "source_ids": [
+              "zj-fb-20260812"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "welfare.z6",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "建立青創一站式服務，讓青年提案有公開回應、有進度可以追蹤",
+            "commitment": "重點",
+            "source_ids": [
+              "zj-fb-20260812"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "welfare.z7",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "盤點縣府及所屬機關身障進用情形，建立公開透明的職缺媒合與職務再設計",
+            "commitment": "會納入身障政策",
+            "source_ids": [
+              "zj-fb-20260825-b"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "welfare.z8",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "逐年改善人行道、景點及公廁（無障礙）",
+            "commitment": "會納入身障政策",
+            "also": [
+              {
+                "island": "traffic",
+                "basis": "source"
+              }
+            ],
+            "source_ids": [
+              "zj-fb-20260825-b"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "welfare.z9",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "評估採購或整合營運無障礙大型巴士",
+            "commitment": "評估（未承諾採購）",
+            "also": [
+              {
+                "island": "traffic",
+                "basis": "source"
+              }
+            ],
+            "source_ids": [
+              "zj-fb-20260825-b"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "welfare.z10",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "盤點課後照顧、小作所與社區日照需求，讓療育、教育與成人服務接得起來",
+            "commitment": "主張",
+            "source_ids": [
+              "zj-fb-20261008"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "welfare.z11",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "社工需要合理人力、督導及心理支持",
+            "commitment": "（原文為陳述，未寫由誰、何時、多少）",
+            "source_ids": [
+              "zj-fb-20261008"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "welfare.z12",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "把早療、心理支持、災後創傷照顧與特色教育納入全齡社福、教育平權及韌性安全政策",
+            "commitment": "會",
+            "source_ids": [
+              "zj-fb-20260905-a"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "welfare.z13",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "把心理支持帶進社區、校園與災後照顧，強化成癮預防與轉介",
+            "commitment": "未來要",
+            "source_ids": [
+              "zj-fb-20260905-b"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "welfare.z14",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "重視婦女身心健康，支持社區規律運動、完善友善運動空間",
+            "commitment": "主張（未寫具體措施）",
+            "source_ids": [
+              "zj-fb-20261003-a"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "welfare.z15",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "更重視偏鄉（南區）資源配置",
+            "commitment": "會（未寫具體措施）",
+            "also": [
+              {
+                "island": "fiscal",
+                "basis": "source"
+              }
+            ],
+            "source_ids": [
+              "zj-fb-20260830-b"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "welfare.w-P01-21",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "人生向前",
+            "text": "增加親子室內空間：持續增加親子室內活動空間，結合多元親子活動，打造不受天候影響的週末休憩環境。",
+            "commitment": "（見原文）",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "welfare.w-P01-20",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "人生向前",
+            "text": "鼻噴式流感疫苗：優先推動高風險學童接種公費鼻噴式流感疫苗，其他學童研議部分負擔，提高接種意願。",
+            "commitment": "優先",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "welfare.w-P02-15",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "安全向前",
+            "text": "事件後心理支持：人潮聚集處強化巡邏與應變；公共安全事件後，整合資源為受影響民眾提供心理諮商。",
+            "commitment": "強化",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "also": [
+              {
+                "island": "disaster",
+                "basis": "editorial"
+              }
+            ]
+          },
+          {
+            "id": "welfare.w-book01",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "人生向前・未來存摺",
+            "text": "存摺01「安心生養金」（新生兒家庭）：生育補助（加碼後） 50,000／胎；月子加菜金 30,000／胎",
+            "commitment": "（見原文：以金額與對象列出，未寫動詞）",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "welfare.w-book02",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "人生向前・未來存摺",
+            "text": "存摺02「營養成長金」（孩子）：營養品 10份／月；品項不綁單一乳品 等值兌換",
+            "commitment": "（見原文：以金額與對象列出，未寫動詞）",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "welfare.w-book04",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "人生向前・未來存摺",
+            "text": "存摺04「青年圓夢金」（15–25 歲・不限主題）：一般型提案 10,000／案；旗艦型提案 100,000／案",
+            "commitment": "（見原文：以金額與對象列出，未寫動詞）",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "welfare.w-book05",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "人生向前・未來存摺",
+            "text": "存摺05「專業留才金」（留花青年）：首年加薪 5,000／月；人走了就停 按月發",
+            "commitment": "（見原文：以金額與對象列出，未寫動詞）",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "welfare.w-book06",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "人生向前・未來存摺",
+            "text": "存摺06「結婚成家金」（結婚定居）：成家券 30,000；使用範圍 縣內限定",
+            "commitment": "（見原文：以金額與對象列出，未寫動詞）",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "welfare.n-friendly",
+            "candidate_id": "you",
+            "text": "打造更友善的育兒環境，讓年輕人願意留在花蓮工作、成家、生養下一代",
+            "commitment": "打造",
+            "source_ids": [
+              "you-fb-20260728"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "welfare.n-four-care",
+            "candidate_id": "you",
+            "text": "完善托育、長照、醫療及住宅政策",
+            "commitment": "完善",
+            "source_ids": [
+              "scoop-20260903"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "welfare.n-yuesao",
+            "candidate_id": "you",
+            "text": "持續推動月嫂服務面向、幼兒健檢等措施，打造更安心、友善的育兒環境",
+            "commitment": "未來也將持續推動",
+            "source_ids": [
+              "you-fb-20260506"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          }
+        ],
+        "numbers": [
+          {
+            "id": "welfare.zn1",
+            "candidate_id": "zhang",
+            "value": "826 元／月",
+            "text": "0–18 歲健保自付保費補助每人每月上限",
+            "kind": "proposal_target",
+            "source_ids": [
+              "zj-fb-20260811-b"
+            ],
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "welfare.zn2",
+            "candidate_id": "zhang",
+            "value": "約 4.3 億元",
+            "text": "0–18 歲免健保費預算規模（候選人以約 4.3 萬名兒少估算的理論上限，含行政作業）",
+            "kind": "estimate",
+            "source_ids": [
+              "zj-fb-20260811-b"
+            ],
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "welfare.zn3",
+            "candidate_id": "zhang",
+            "value": "100 萬元",
+            "text": "縣民意外險最高保額",
+            "kind": "proposal_target",
+            "source_ids": [
+              "zj-fb-20260918-b"
+            ],
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "welfare.zn4",
+            "candidate_id": "zhang",
+            "value": "300 戶",
+            "text": "四年協助青年取得居住支持戶數下限",
+            "kind": "proposal_target",
+            "source_ids": [
+              "zj-fb-20260812"
+            ],
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "welfare.wn-book01",
+            "candidate_id": "wei",
+            "value": "50,000／胎",
+            "text": "安心生養金：生育補助（加碼後）（含既有每胎 2 萬）",
+            "kind": "proposal_target",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "welfare.wn-book02",
+            "candidate_id": "wei",
+            "value": "10份／月",
+            "text": "營養成長金：營養品（超商與合作商店都領得到）",
+            "kind": "proposal_target",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "welfare.wn-book04",
+            "candidate_id": "wei",
+            "value": "100,000／案",
+            "text": "青年圓夢金：旗艦型提案（規模較大的計畫）",
+            "kind": "proposal_target",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "welfare.wn-book05",
+            "candidate_id": "wei",
+            "value": "5,000／月",
+            "text": "專業留才金：首年加薪（留花第一年按月加給）",
+            "kind": "proposal_target",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "welfare.wn-book06",
+            "candidate_id": "wei",
+            "value": "30,000",
+            "text": "結婚成家金：成家券（結婚或移居定居都適用）",
+            "kind": "proposal_target",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "verified_on": "2026-10-28"
+          }
+        ],
+        "quote": null,
+        "note": "「沒有政見」＝本資料庫尚未找到，不等於候選人沒有主張。",
+        "source_pool": [
+          "cna0916",
+          "you-fb-20260501",
+          "you-fb-20260509",
+          "you-fb-20260616",
+          "wei-web-policies",
+          "you-fb-20260728",
+          "zj-fb-20260811-b",
+          "zj-fb-20260918-b",
+          "zj-fb-20260812",
+          "zj-fb-20260825-b",
+          "zj-fb-20261008",
+          "zj-fb-20260905-a",
+          "zj-fb-20260905-b",
+          "zj-fb-20261003-a",
+          "zj-fb-20260830-b",
+          "tvbs-20260916",
+          "udn-20260916",
+          "ltn-20260808",
+          "udn-20260918",
+          "scoop-20260903",
+          "you-fb-20260506"
+        ]
+      }
+    },
+    {
+      "id": "ethnic",
+      "n": "08",
+      "name": "族群",
+      "kind": "ext",
+      "subgoals": [],
+      "card": {
+        "title": "族群：花蓮縣長參選人政見",
+        "summary": "客家、原住民族與多元族群文化。",
+        "points": [
+          {
+            "id": "ethnic.e1",
+            "candidate_id": "you",
+            "text": "客庄花蓮、文化新生：客語扎根、青年返鄉、客庄創生、文化廊道、慢旅觀光",
+            "commitment": "提出",
+            "also": [
+              {
+                "island": "tour_industry",
+                "basis": "source"
+              }
+            ],
+            "source_ids": [
+              "you-fb-20260912"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "ethnic.e2",
+            "candidate_id": "you",
+            "text": "原民與南島食育計畫：多元族群飲食文化融入校園食育",
+            "commitment": "推動",
+            "also": [
+              {
+                "island": "edu",
+                "basis": "source"
+              }
+            ],
+            "source_ids": [
+              "you-fb-20260928-a"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "ethnic.z1",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "推動部落自主（發展）基金，支持文化、產業與照顧",
+            "commitment": "推動",
+            "source_ids": [
+              "zj-fb-20260815-b",
+              "zj-fb-20261013-a",
+              "zj-fb-20260906"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "ethnic.z2",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "尊重部落自主，重大政策事前諮詢",
+            "commitment": "主張",
+            "source_ids": [
+              "zj-fb-20261013-a",
+              "ksfb-20261028"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "ethnic.z3",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "培育部落經理人",
+            "commitment": "策略",
+            "source_ids": [
+              "zj-fb-20260815-b"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "ethnic.z4",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "協助青年創業、品牌設計、電商通路與旅遊體驗",
+            "commitment": "策略",
+            "source_ids": [
+              "zj-fb-20260815-b"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "ethnic.z5",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "原鄉產業和在地觀光深度結合",
+            "commitment": "策略",
+            "also": [
+              {
+                "island": "tour_industry",
+                "basis": "source"
+              }
+            ],
+            "source_ids": [
+              "zj-fb-20260815-b"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "ethnic.z6",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "縣府建立專業行銷與招商窗口，把部落品牌帶向全台及國際",
+            "commitment": "也要（「我認為」）",
+            "also": [
+              {
+                "island": "tour_industry",
+                "basis": "source"
+              }
+            ],
+            "source_ids": [
+              "zj-fb-20260815-b"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "ethnic.z7",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "支持部落工藝與品牌展售，協助青年就業、返鄉創業",
+            "commitment": "將",
+            "source_ids": [
+              "zj-fb-20261010-a"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "ethnic.z8",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "強化文化健康站、長照與就醫接送，讓照顧走進部落",
+            "commitment": "將",
+            "also": [
+              {
+                "island": "care",
+                "basis": "source"
+              }
+            ],
+            "source_ids": [
+              "zj-fb-20261010-a"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "ethnic.z9",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "替七腳川、巴爾巴蘭及全縣部落爭取更多文化傳承、聚會空間、青年返鄉、長者照顧與產業發展資源",
+            "commitment": "會爭取",
+            "source_ids": [
+              "zj-fb-20260816-a"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "ethnic.z10",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "客語回到家庭、校園與社區，支持山歌人才培育、耆老文化紀錄，鼓勵青年返鄉",
+            "commitment": "會推動",
+            "source_ids": [
+              "zj-fb-20260814-b",
+              "zj-fb-20260826"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "ethnic.z11",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "客語向下扎根、傳統祭典保存、社區文化場域與青年參與串在一起",
+            "commitment": "會",
+            "source_ids": [
+              "zj-fb-20260901"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "ethnic.z12",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "客家篇章：客語生活化、後山客庄世代共榮，結合老屋、青年、農業、飲食、照顧與環境，並保存移民歷史及聚落記憶",
+            "commitment": "提出（候選人自註：如何轉為符合地方需求的服務，仍須聽取居民意見、確認資源、人力及執行方式）",
+            "source_ids": [
+              "zj-fb-20261014"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "ethnic.w-P06-01",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "族群向前",
+            "text": "讓花蓮成為南島文化中心：歲時祭儀，部落是主角",
+            "commitment": "（見原文）",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "ethnic.w-P06-02",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "族群向前",
+            "text": "母語認證，考過有獎金：初級中級也領得到",
+            "commitment": "（見原文）",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "note": "網站沒有附貼文連結"
+          },
+          {
+            "id": "ethnic.w-P06-03",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "族群向前",
+            "text": "祭典回家，車資縣府出：在外打拼的孩子也常常回家",
+            "commitment": "（見原文）",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "note": "網站沒有附貼文連結"
+          },
+          {
+            "id": "ethnic.n-together",
+            "candidate_id": "you",
+            "text": "推動多元族群共榮",
+            "commitment": "推動",
+            "source_ids": [
+              "scoop-20260903"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "ethnic.n-wp",
+            "candidate_id": "you",
+            "text": "公布《花蓮原住民族政策白皮書》：以「文化治理、部落共好、南島連結」為主軸，涵蓋社會福利、部落經濟、文化傳承、土地正義、韌性治理及國際交流六大方向",
+            "commitment": "公布",
+            "source_ids": [
+              "upmedia-20260801",
+              "cna-20260913"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "ethnic.n-wp-care",
+            "candidate_id": "you",
+            "text": "強化原住民家庭服務中心及文化健康站功能，建立更貼近部落生活與文化需求的照顧體系",
+            "commitment": "將強化",
+            "source_ids": [
+              "upmedia-20260801"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "ethnic.n-wp-econ",
+            "candidate_id": "you",
+            "text": "推動部落深度旅遊、野菜學校、特色農業、文化創意及觀光產業，並提供青年返鄉創業及在地就業支持",
+            "commitment": "提出推動",
+            "source_ids": [
+              "upmedia-20260801"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "ethnic.n-wp-culture",
+            "candidate_id": "you",
+            "text": "以六大族群文化為核心，透過部落大學推動祭歌、口述歷史、族語、飲食文化及傳統工藝等保存工作",
+            "commitment": "將以…為核心、推動",
+            "source_ids": [
+              "upmedia-20260801"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "ethnic.n-wp-lang",
+            "candidate_id": "you",
+            "text": "推動族語保姆制度，讓族語回到家庭、文化回到日常生活",
+            "commitment": "推動",
+            "source_ids": [
+              "upmedia-20260801"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "ethnic.n-wp-venue",
+            "candidate_id": "you",
+            "text": "支持各族群文化館舍、祭儀空間及部落文化據點建置，建立更完整的文化傳承體系",
+            "commitment": "將支持",
+            "source_ids": [
+              "upmedia-20260801"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "ethnic.n-wp-nandao",
+            "candidate_id": "you",
+            "text": "以南島文化為平台，規劃推動國際南島樂舞節、南島教育交流、國際原住民族運動賽事及文化論壇，打造花蓮成為南島文化門戶",
+            "commitment": "規劃推動",
+            "source_ids": [
+              "upmedia-20260801"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "ethnic.n-xilin",
+            "candidate_id": "zhang",
+            "text": "推動就業媒合與返鄉創業輔導，完善偏鄉托育、課後照顧、長照服務及家庭照顧者支持",
+            "commitment": "主張推動／完善",
+            "source_ids": [
+              "zj-fb-20261028-b",
+              "ksfb-20261028"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "ethnic.n-youth-jobs",
+            "candidate_id": "zhang",
+            "text": "青年就業：農業、工藝、旅遊、照顧及數位等領域的工作媒合，結合職涯諮詢、職業訓練與創業輔導",
+            "commitment": "規劃（報導用語）",
+            "source_ids": [
+              "ksfb-20261028"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          },
+          {
+            "id": "ethnic.n-hakka-5",
+            "candidate_id": "you",
+            "text": "客家文化：從客庄長輩照顧、行動醫療、交通接駁，到文化傳承、客家觀光與在地教育（打造未來美好願景）",
+            "commitment": "會努力傳承客家文化、照顧客家族群",
+            "source_ids": [
+              "you-fb-20260507"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28",
+            "stage": "主張"
+          }
+        ],
+        "numbers": [],
+        "quote": null,
+        "note": "「沒有政見」＝本資料庫尚未找到，不等於候選人沒有主張。",
+        "source_pool": [
+          "you-fb-20260912",
+          "you-fb-20260928-a",
+          "wei-web-policies",
+          "zj-fb-20260815-b",
+          "zj-fb-20261013-a",
+          "zj-fb-20261010-a",
+          "zj-fb-20260816-a",
+          "zj-fb-20260814-b",
+          "zj-fb-20260901",
+          "zj-fb-20261014",
+          "ksfb-20261028",
+          "scoop-20260903",
+          "upmedia-20260801",
+          "cna-20260913",
+          "you-fb-20260507"
+        ]
+      }
+    },
+    {
+      "id": "sports",
+      "n": "09",
+      "name": "體育與健康",
+      "kind": "ext",
+      "subgoals": [],
+      "card": {
+        "title": "體育與健康：花蓮縣長參選人政見",
+        "summary": "三位候選人都談到運動：場館、賽事、基層培訓、運動產業。依各候選人自己的貼文與網站整理。",
+        "points": [
+          {
+            "id": "sports.u1",
+            "candidate_id": "you",
+            "stage": "主張",
+            "text": "推動花蓮發展「運動經濟」，把運動變成產業",
+            "commitment": "推動",
+            "source_ids": [
+              "you-fb-20260523"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "sports.u2",
+            "candidate_id": "you",
+            "stage": "主張",
+            "text": "全民運動館（ROT 案已簽約）導入 AI 預約、智慧分流、健康數據管理、長者運動處方與身障友善服務",
+            "commitment": "未來可導入（條件式）",
+            "source_ids": [
+              "you-fb-20260523"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "sports.u3",
+            "candidate_id": "you",
+            "stage": "主張",
+            "text": "以全民運動館為「運動經濟示範場域」，串聯路跑、自行車、SUP、登山、鐵人三項等戶外賽事與商圈、觀光住宿",
+            "commitment": "可把…作為（規劃）",
+            "source_ids": [
+              "you-fb-20260523"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "sports.u4",
+            "candidate_id": "you",
+            "stage": "主張",
+            "text": "推出專屬青年支持方案，鼓勵青年參與運動、藝文活動與在地消費",
+            "commitment": "推出",
+            "source_ids": [
+              "you-fb-20260616"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "sports.z1",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "改善校園、社區及偏鄉運動場地",
+            "commitment": "主張",
+            "source_ids": [
+              "zj-fb-20260816-b"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "sports.z2",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "建立分齡培訓與常態賽事",
+            "commitment": "主張",
+            "source_ids": [
+              "zj-fb-20260816-b"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "sports.z3",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "串聯學校、社團及職業選手",
+            "commitment": "主張",
+            "source_ids": [
+              "zj-fb-20260816-b"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "sports.z4",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "支持在地教練與青年體育人才",
+            "commitment": "主張",
+            "source_ids": [
+              "zj-fb-20260816-b"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "sports.z5",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "持續支持基層賽事、改善運動場館與安全設施",
+            "commitment": "會持續",
+            "source_ids": [
+              "zj-fb-20260822-a"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "sports.z6",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "推動「體育健康城市」：基層體育培育、優秀選手參賽支持、原鄉運動人才發展，都應有更穩定的資源",
+            "commitment": "主張",
+            "source_ids": [
+              "zj-fb-20260830-a"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "sports.z7",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "改善校園與社區運動場地，強化選手、教練培訓與運動防護，支持在地賽事",
+            "commitment": "未來也要",
+            "source_ids": [
+              "zj-fb-20260909-c"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "sports.z8",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "更多大型體育賽事走進中南區",
+            "commitment": "應",
+            "also": [
+              {
+                "island": "tour_industry",
+                "basis": "editorial"
+              }
+            ],
+            "source_ids": [
+              "zj-fb-20260919-a"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "sports.z9",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "全面盤點中南區運動場域，該修繕就修繕、該增設就增設",
+            "commitment": "（原文為宣示）",
+            "source_ids": [
+              "zj-fb-20260919-a"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "sports.z10",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "「山林療癒與文化縫合計畫」：完善美崙山步道指標、飲水與休憩設施，串聯將軍府、松園別館",
+            "commitment": "主張（日前已提出）",
+            "also": [
+              {
+                "island": "tour_industry",
+                "basis": "editorial"
+              }
+            ],
+            "source_ids": [
+              "zj-fb-20261004"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "sports.z11",
+            "candidate_id": "zhang",
+            "stage": "主張",
+            "text": "美崙山運動環境：把廁所便利性、步行安全與日常維護一起做好",
+            "commitment": "未來要",
+            "source_ids": [
+              "zj-fb-20261004"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "sports.w-P01-22",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "人生向前",
+            "text": "研議設立體育專責單位：研議設立體育專責單位，整合體育政策、場館管理、人才培育與運動產業，提升治理效能。",
+            "commitment": "研議",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "sports.w-P01-23",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "人生向前",
+            "text": "運動科學帶進基層：把學校、教練和運動科學串起來，把體能評估、訓練、營養與恢復照護帶進基層。",
+            "commitment": "評估",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "sports.w-P01-24",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "人生向前",
+            "text": "中南區就近運動：運動資源平衡到中區、南區，評估在鳳林、玉里設全民運動館，讓鄉親就近運動。",
+            "commitment": "評估",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          },
+          {
+            "id": "sports.w-P01-35",
+            "candidate_id": "wei",
+            "stage": "政見",
+            "frame": "人生向前",
+            "text": "場館停用先公告與補償：縣府辦賽事停用場館時，先說明原因、協調其他場館分流，並建立一致的補償規定。",
+            "commitment": "建立",
+            "source_ids": [
+              "wei-web-policies"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-10-28"
+          }
+        ],
+        "numbers": [],
+        "quote": null,
+        "note": "「沒有政見」＝本資料庫尚未找到，不等於候選人沒有主張。",
+        "source_pool": [
+          "wei-web-policies",
+          "you-fb-20260523",
+          "you-fb-20260616",
+          "zj-fb-20260816-b",
+          "zj-fb-20260822-a",
+          "zj-fb-20260830-a",
+          "zj-fb-20260909-c",
+          "zj-fb-20260919-a",
+          "zj-fb-20261004"
+        ]
+      }
+    }
+  ],
+  "links": [
+    {
+      "id": "L1",
+      "a": "traffic",
+      "b": "tour_industry",
+      "candidate_id": "you",
+      "source_id": "you-fb-20260409",
+      "quote": "目前的觀光政策若只依賴陸地運輸，風險過於集中"
+    },
+    {
+      "id": "L2",
+      "a": "traffic",
+      "b": "disaster",
+      "candidate_id": "you",
+      "source_id": "you-fb-20260409",
+      "quote": "花蓮航線不只是通勤線，更是災時的生命備援"
+    },
+    {
+      "id": "L3",
+      "a": "tour_industry",
+      "b": "care",
+      "candidate_id": "you",
+      "source_id": "you-fb-20260528",
+      "quote": "發展醫療、照護、復健、養生旅遊與AI智慧健康管理"
+    },
+    {
+      "id": "L4",
+      "a": "ethnic",
+      "b": "edu",
+      "candidate_id": "you",
+      "source_id": "you-fb-20260928-a",
+      "quote": "將花蓮多元族群飲食文化融入校園食育"
+    },
+    {
+      "id": "L5",
+      "a": "ethnic",
+      "b": "tour_industry",
+      "candidate_id": "you",
+      "source_id": "you-fb-20260912",
+      "quote": "到文化廊道與慢旅觀光"
+    },
+    {
+      "id": "L6",
+      "a": "traffic",
+      "b": "tour_industry",
+      "candidate_id": "you",
+      "source_id": "you-fb-20261002",
+      "quote": "觀光共遊｜串聯宜蘭溫泉、花蓮山海"
+    },
+    {
+      "id": "L11",
+      "a": "traffic",
+      "b": "tour_industry",
+      "candidate_id": "zhang",
+      "source_id": "zj-fb-20260908",
+      "quote": "對觀光而言，安全道路也是留住遊客的第一步"
+    },
+    {
+      "id": "L12",
+      "a": "traffic",
+      "b": "disaster",
+      "candidate_id": "zhang",
+      "source_id": "zj-fb-20260907-a",
+      "quote": "顧好每一條路、每一座橋，就是守護鄉親安全，也是花蓮防災韌性最基本的工程"
+    },
+    {
+      "id": "L13",
+      "a": "traffic",
+      "b": "disaster",
+      "candidate_id": "zhang",
+      "source_id": "zj-fb-20260817-b",
+      "quote": "也是鐵公路在災害中斷時的重要備援"
+    },
+    {
+      "id": "L14",
+      "a": "fiscal",
+      "b": "tour_industry",
+      "candidate_id": "zhang",
+      "source_id": "zj-fb-20260827",
+      "quote": "國旅補助把外地旅客帶進來，普發1萬元把在地消費力留下來，形成「外來觀光＋在地消費」雙引擎"
+    },
+    {
+      "id": "L15",
+      "a": "edu",
+      "b": "fiscal",
+      "candidate_id": "zhang",
+      "source_id": "zj-fb-20260918-c",
+      "quote": "新財劃法上路後，花蓮可運用財源增加，新增財政空間應優先回到校園"
+    },
+    {
+      "id": "L12",
+      "a": "traffic",
+      "b": "tour_industry",
+      "candidate_id": "wei",
+      "source_id": "wei-web-policies",
+      "quote": "航線開了，交通行動金也能用"
+    },
+    {
+      "id": "L13",
+      "a": "traffic",
+      "b": "disaster",
+      "candidate_id": "wei",
+      "source_id": "wei-web-policies",
+      "quote": "鐵、公路中斷時有備援。"
+    },
+    {
+      "id": "L14",
+      "a": "traffic",
+      "b": "care",
+      "candidate_id": "wei",
+      "source_id": "wei-web-policies",
+      "quote": "結合長照交通車、偏鄉客運推動客貨共載"
+    },
+    {
+      "id": "L15",
+      "a": "tour_industry",
+      "b": "ethnic",
+      "candidate_id": "wei",
+      "source_id": "wei-web-policies",
+      "quote": "富里米、瑞穗文旦與鮮乳、部落工藝都是資產"
+    }
+  ]
+}
