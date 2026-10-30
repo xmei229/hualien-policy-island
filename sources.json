@@ -1,0 +1,3689 @@
+{
+  "_meta": {
+    "note": "花蓮示範資料集（魏嘉賢）。內容皆取自下列出處原文；網站彙整站『正見』只當索引，不當證據。"
+  },
+  "sources": [
+    {
+      "id": "cna0916",
+      "outlet": "中央社",
+      "outlet_group": "中央社",
+      "title": "花蓮縣長3名參選人政見交鋒 聚焦社福、交通及教育",
+      "url": "https://www.cna.com.tw/news/aloc/202609160241.aspx",
+      "date": "2026-09-16",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "browser",
+        "page_title": "花蓮縣長3名參選人政見交鋒 聚焦社福、交通及教育 | 地方 | 中央社 CNA",
+        "published": "2026-09-16",
+        "published_basis": "page",
+        "text_sha256": "40ca0ae534da499a4b6361b4972647338c39b0b61683e702b871ada9938690f7",
+        "text_chars": 865,
+        "snapshot_scope": "僅三位候選人相關段落（節錄，非全頁；不含圖說與相關新聞）"
+      }
+    },
+    {
+      "id": "wei-web-traffic",
+      "outlet": "魏嘉賢（競選網站）",
+      "outlet_group": "candidate:wei",
+      "candidate_id": "wei",
+      "title": "魏嘉賢競選網站：旗艦三・交通向前（12 項政見）",
+      "url": "https://lovehualien.com/",
+      "date": "2026-10-28",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-28",
+        "published_basis": "manual",
+        "text_sha256": "164ba5846208ece89c1a00d954e9577429ca70e27e0b23700505199963f96eb0",
+        "text_chars": 555,
+        "where": "網站未標示發布日期，posted 以擷取日為準；「高鐵延伸花蓮」彈窗圖卡標示 2026.09.24 政策記者會發表（使用者截圖）"
+      }
+    },
+    {
+      "id": "you-ct-20260907",
+      "outlet": "中國時報",
+      "outlet_group": "中國時報",
+      "candidate_id": "you",
+      "title": "中國時報 2026-09-07 A8「游淑貞力推宜花東 觀光工廠新旅遊」（節錄）",
+      "url": "",
+      "date": "2026-09-07",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-07",
+        "published_basis": "manual",
+        "text_sha256": "4d9c1be8711d2cc95377833e6e2d3e6d865fd5c169b67c7771cf3981212f5494",
+        "text_chars": 404,
+        "where": "游淑貞臉書 9/7 貼文附圖（使用者儲存）；僅轉錄交通、觀光工廠、白皮書三段",
+        "image": "sources/images/you-ct-20260907-a8.jpg",
+        "image_sha256": "520a0256625514c6c0f33a9f8a3ba3ffb08f18427da4cbd4d0323dd91c4621f4",
+        "transcript_verified": false
+      }
+    },
+    {
+      "id": "you-fb-20260409",
+      "outlet": "游淑貞（臉書貼文）",
+      "outlet_group": "candidate:you",
+      "candidate_id": "you",
+      "title": "呼籲民航局、交通部：莫讓區域平衡淪為口號",
+      "url": "https://www.facebook.com/share/p/1Ce9NYFZo1/",
+      "date": "2026-04-09",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-04-09",
+        "published_basis": "manual",
+        "text_sha256": "e40f7e7554ef69def8a691f827d1df12f54aeab89fd3efb8f39f998c182a2c09",
+        "text_chars": 595,
+        "where": "使用者手動複製自粉專（，只有粉專網址與日期）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "you-fb-20260417",
+      "outlet": "游淑貞（臉書貼文）",
+      "outlet_group": "candidate:you",
+      "candidate_id": "you",
+      "title": "紮根山海、接軌國際！淑貞開啟教育對話：讓我們為花蓮的孩子們「#爭氣」！",
+      "url": "https://www.facebook.com/share/p/1D2s57BLZW/",
+      "date": "2026-04-17",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-04-17",
+        "published_basis": "manual",
+        "text_sha256": "76f0f71098e4b58dc72e6da35e9b0c0dd05da1ce1687c89304c7fed768294bc2",
+        "text_chars": 716,
+        "where": "使用者手動複製自粉專（，只有粉專網址與日期）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "you-fb-20260427",
+      "outlet": "游淑貞（臉書貼文）",
+      "outlet_group": "candidate:you",
+      "candidate_id": "you",
+      "title": "淑貞33年來在基礎教育努力深耕，曾經是一個專業的幼教老師、一個有愛的媽媽、一群寶",
+      "url": "https://www.facebook.com/share/p/1DChfAR56U/",
+      "date": "2026-04-27",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-04-27",
+        "published_basis": "manual",
+        "text_sha256": "8c01256924079582d7815ff9aca36d6822876d3ab3155a600d314394c522b81c",
+        "text_chars": 553,
+        "where": "使用者手動複製自粉專（，只有粉專網址與日期）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "you-fb-20260501",
+      "outlet": "游淑貞（臉書貼文）",
+      "outlet_group": "candidate:you",
+      "candidate_id": "you",
+      "title": "《#51勞工大聲說》",
+      "url": "https://www.facebook.com/share/p/1EpSPXuqcc/",
+      "date": "2026-05-01",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-05-01",
+        "published_basis": "manual",
+        "text_sha256": "cda955aa8664ee016b323037181fd3a057d9fa0ebfe1853f07fe675f2bdbb825",
+        "text_chars": 500,
+        "where": "使用者手動複製自粉專（，只有粉專網址與日期）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "you-fb-20260509",
+      "outlet": "游淑貞（臉書貼文）",
+      "outlet_group": "candidate:you",
+      "candidate_id": "you",
+      "title": "康乃馨宣言：花蓮女性的夢想，淑貞陪妳一起扛！",
+      "url": "https://www.facebook.com/share/p/1F7uZz4Sgw/",
+      "date": "2026-05-09",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-05-09",
+        "published_basis": "manual",
+        "text_sha256": "29a9e7796d1b74e834ccef5dd17a949c3d206155ac1ee31bb80b880649f2bf95",
+        "text_chars": 734,
+        "where": "使用者手動複製自粉專（，只有粉專網址與日期）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "you-fb-20260523",
+      "outlet": "游淑貞（臉書貼文）",
+      "outlet_group": "candidate:you",
+      "candidate_id": "you",
+      "title": "運動是門好生意，我會推動花蓮發展「#運動經濟」！",
+      "url": "https://www.facebook.com/share/p/1E9KHCkBpE/",
+      "date": "2026-05-23",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-05-23",
+        "published_basis": "manual",
+        "text_sha256": "d4d61cb5c246f242faedeb4dc0cc510a8a9294d50a746cd8694fbf6ad2d06cd0",
+        "text_chars": 517,
+        "where": "使用者手動複製自粉專（，只有粉專網址與日期）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "you-fb-20260525",
+      "outlet": "游淑貞（臉書貼文）",
+      "outlet_group": "candidate:you",
+      "candidate_id": "you",
+      "title": "讓花蓮好味道　變成好生意",
+      "url": "https://www.facebook.com/share/p/19tSXnkAPk/",
+      "date": "2026-05-25",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-05-25",
+        "published_basis": "manual",
+        "text_sha256": "a8f2b4a3e34bffa572e4babf908c18fa9e814cde43ab50f3ee3ca440948769b1",
+        "text_chars": 320,
+        "where": "使用者手動複製自粉專（，只有粉專網址與日期）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "you-fb-20260528",
+      "outlet": "游淑貞（臉書貼文）",
+      "outlet_group": "candidate:you",
+      "candidate_id": "you",
+      "title": "淑貞主打的「AI後山、揪團拼經濟」，從運動、美食經濟，現在推出第3塊重要的拼圖～",
+      "url": "https://www.facebook.com/share/p/1E4AxthHTU/",
+      "date": "2026-05-28",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-05-28",
+        "published_basis": "manual",
+        "text_sha256": "994607b884b7f12ed698fe1aaef0bd350f5eb424a8550f9b9ea5c609f60a2dc1",
+        "text_chars": 607,
+        "where": "使用者手動複製自粉專（，只有粉專網址與日期）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "you-fb-20260613",
+      "outlet": "游淑貞（臉書貼文）",
+      "outlet_group": "candidate:you",
+      "candidate_id": "you",
+      "title": "《挺基層，拚治安！做波麗士大人的最強後盾！》",
+      "url": "https://www.facebook.com/share/p/18sxE4vqL5/",
+      "date": "2026-06-13",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-06-13",
+        "published_basis": "manual",
+        "text_sha256": "f40020fd6997fecd602119ed92a19b76dd3cb11361ef155e38ceaf4455527d2e",
+        "text_chars": 351,
+        "where": "使用者手動複製自粉專（，只有粉專網址與日期）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "you-fb-20260616",
+      "outlet": "游淑貞（臉書貼文）",
+      "outlet_group": "candidate:you",
+      "candidate_id": "you",
+      "title": "【貞挺青年，讓花蓮成為敢留下來的地方】",
+      "url": "https://www.facebook.com/share/p/1HKoWhVPbE/",
+      "date": "2026-06-16",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-06-16",
+        "published_basis": "manual",
+        "text_sha256": "e0b77988b1208f2d78a8bf8b4a0fb6e1e3ade967bf100ec4744c3df3226de314",
+        "text_chars": 668,
+        "where": "使用者手動複製自粉專（，只有粉專網址與日期）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "you-fb-20260728",
+      "outlet": "游淑貞（臉書貼文）",
+      "outlet_group": "candidate:you",
+      "candidate_id": "you",
+      "title": "【666方案啟動，投資孩子，就是投資花蓮的未來】",
+      "url": "https://www.facebook.com/share/p/1E6biTKvHr/",
+      "date": "2026-07-28",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-07-28",
+        "published_basis": "manual",
+        "text_sha256": "208848945f619ac98298606ad6a0f6c750ee3198923c9ecab53a348759124d7b",
+        "text_chars": 768,
+        "where": "使用者手動複製自粉專（，只有粉專網址與日期）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "you-fb-20260907",
+      "outlet": "游淑貞（臉書貼文）",
+      "outlet_group": "candidate:you",
+      "candidate_id": "you",
+      "title": "「事會做，是我的堅持；會做事，是我的日常；讓花蓮更好，更是我的責任。」",
+      "url": "https://www.facebook.com/share/p/1FNYc5TXZT/",
+      "date": "2026-09-07",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-07",
+        "published_basis": "manual",
+        "text_sha256": "456d95dee4ab8c68ae4f67dc094c0856268693497e1eb70e10e338e89dbec47d",
+        "text_chars": 186,
+        "where": "使用者手動複製自粉專（，只有粉專網址與日期）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "you-fb-20260912",
+      "outlet": "游淑貞（臉書貼文）",
+      "outlet_group": "candidate:you",
+      "candidate_id": "you",
+      "title": "淑貞和好友們一起來幫好吃的鹹豬肉按摩一下❤️❤️",
+      "url": "https://www.facebook.com/share/p/18Z3V23vL1/",
+      "date": "2026-09-12",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-12",
+        "published_basis": "manual",
+        "text_sha256": "a9d31b254d475ca308664cb4e204281ddc4b967361d5e3959ac62b7fd8288fbe",
+        "text_chars": 269,
+        "where": "使用者手動複製自粉專（，只有粉專網址與日期）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "you-fb-20260918",
+      "outlet": "游淑貞（臉書貼文）",
+      "outlet_group": "candidate:you",
+      "candidate_id": "you",
+      "title": "❤️13鄉鎮傾聽行程～貞心團隊一步一腳印👣來到光復😘",
+      "url": "https://www.facebook.com/share/p/1DN4Xfm9he/",
+      "date": "2026-09-18",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-18",
+        "published_basis": "manual",
+        "text_sha256": "c7f0198f9ecc3acdb748c461d715d90b3478f974dfc99267200c9be3f38cbe50",
+        "text_chars": 252,
+        "where": "使用者手動複製自粉專（，只有粉專網址與日期）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "you-fb-20260925",
+      "outlet": "游淑貞（臉書貼文）",
+      "outlet_group": "candidate:you",
+      "candidate_id": "you",
+      "title": "❤️花蓮加游～ #新城加油",
+      "url": "https://www.facebook.com/share/p/1A5XsJGzHk/",
+      "date": "2026-09-25",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-25",
+        "published_basis": "manual",
+        "text_sha256": "06cc256d2f3c3f9160e78e062e67e0d6b81fcc55e8aa021fd85c29c81e6ec216",
+        "text_chars": 275,
+        "where": "使用者手動複製自粉專（，只有粉專網址與日期）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "you-fb-20260928-a",
+      "outlet": "游淑貞（臉書貼文）",
+      "outlet_group": "candidate:you",
+      "candidate_id": "you",
+      "title": "從事30多年的教育工作，淑貞在教師節前，不僅簽署了「#學校午餐升級」承諾書❤️❤",
+      "url": "https://www.facebook.com/share/p/18icSk6ehK/",
+      "date": "2026-09-28",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-28",
+        "published_basis": "manual",
+        "text_sha256": "5da22b1fbab2134d9b1c230e3a1de9b9e5a34623eaf9c54ea69415e5db6d7102",
+        "text_chars": 956,
+        "where": "使用者手動複製自粉專（，只有粉專網址與日期）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "you-fb-20260928-b",
+      "outlet": "游淑貞（臉書貼文）",
+      "outlet_group": "candidate:you",
+      "candidate_id": "you",
+      "title": "💕💕「教師節，您辛苦了」",
+      "url": "https://www.facebook.com/share/p/19U6QXCcg5/",
+      "date": "2026-09-28",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-28",
+        "published_basis": "manual",
+        "text_sha256": "d2c378fd82969db4d815cec2bfbd3dea13a5244aa5c4fb01884929d41073f632",
+        "text_chars": 868,
+        "where": "使用者手動複製自粉專（，只有粉專網址與日期）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "you-fb-20261002",
+      "outlet": "游淑貞（臉書貼文）",
+      "outlet_group": "candidate:you",
+      "candidate_id": "you",
+      "title": "宜花 #貞憲情，攜手讓鄉親的生活更美好！",
+      "url": "https://www.facebook.com/share/p/18aJQxZsNW/",
+      "date": "2026-10-02",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-02",
+        "published_basis": "manual",
+        "text_sha256": "10c5dd8e941446035321b8837a7ad5e79be7755dd085c8f8d2c009cb60584c8f",
+        "text_chars": 278,
+        "where": "使用者手動複製自粉專（，只有粉專網址與日期）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260811-a",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "演習不能只做一天，準備必須落實在平時",
+      "url": "https://www.facebook.com/share/p/1Dp2XhW5HX/",
+      "date": "2026-08-11",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-08-11",
+        "published_basis": "manual",
+        "text_sha256": "71d410f0fca292584ea5734b26529d12e5a56e05f85052f9d7ce261813f688c5",
+        "text_chars": 457,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260811-b",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "0至18歲免健保費，￼張峻提出：政府和父母一起扛！♥️♥️",
+      "url": "https://www.facebook.com/share/p/1WHJVwANLw/",
+      "date": "2026-08-11",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-08-11",
+        "published_basis": "manual",
+        "text_sha256": "83d815dce084dc2f7b23701b1cd5bd320859f0045010444dba06b54093389753",
+        "text_chars": 444,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260811-c",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "花蓮要真正改變 不能再失去下一個4年、8年",
+      "url": "https://www.facebook.com/share/p/1ERPaFAFba/",
+      "date": "2026-08-11",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-08-11",
+        "published_basis": "manual",
+        "text_sha256": "d7c5d00b9ce51a6861a8b2af971583571d539a94b4aeee74b23c04e8898e867a",
+        "text_chars": 516,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260812",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "812國際青年日 走進青創餐飲店 匯聚改變花蓮的力量✨",
+      "url": "https://www.facebook.com/share/p/1J1cGgXUPk/",
+      "date": "2026-08-12",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-08-12",
+        "published_basis": "manual",
+        "text_sha256": "2b2510299e61d94f836142aa5caf1c2e41eb158215c2cf1d975436972aac1af8",
+        "text_chars": 520,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260814-a",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "走訪花蓮果菜批發市場 請託鄉親",
+      "url": "https://www.facebook.com/share/p/1CLdgCboVQ/",
+      "date": "2026-08-14",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-08-14",
+        "published_basis": "manual",
+        "text_sha256": "167a22d739bab6c2b9e79b33d147886860f829fa67d67684a26d9b0ac3b96c57",
+        "text_chars": 461,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260814-b",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "我一定會用客家硬頸精神 為花蓮打拚！",
+      "url": "https://www.facebook.com/share/v/1C4HRnQVyW/",
+      "date": "2026-08-14",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-08-14",
+        "published_basis": "manual",
+        "text_sha256": "a951a60baf8333292fffee8dd4bff22f9cb4f1e9e62d92c81f2a0d6b3ae53fdd",
+        "text_chars": 418,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260815-a",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "要公平的讓藝文資源走進中南區 走進偏鄉",
+      "url": "https://www.facebook.com/share/p/1DTNdi7j9Q/",
+      "date": "2026-08-15",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-08-15",
+        "published_basis": "manual",
+        "text_sha256": "8ff3b69ce949238175e0c2bb3bcf7d0ee5630992b243526cb5057dda8a0f644b",
+        "text_chars": 435,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260815-b",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "推動文化走進城市 青年留在家鄉 參加第五屆太魯閣山市集",
+      "url": "https://www.facebook.com/share/p/19JwbLj4wX/",
+      "date": "2026-08-15",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-08-15",
+        "published_basis": "manual",
+        "text_sha256": "51a7a0c62f01e09898e7e7cc19f58ae5185dc2686f33008d44728e0e74200ac7",
+        "text_chars": 547,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260816-a",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "部落好 花蓮會更好",
+      "url": "https://www.facebook.com/share/p/1FzPNdB6kd/",
+      "date": "2026-08-16",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-08-16",
+        "published_basis": "manual",
+        "text_sha256": "9d626828682c0725a87adf0862a7ace51c258299903c8b2a8c7ff3f642154142",
+        "text_chars": 366,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260816-b",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "熱血上場，讓花蓮孩子都有舞台",
+      "url": "https://www.facebook.com/share/p/1FTKjszHZQ/",
+      "date": "2026-08-16",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-08-16",
+        "published_basis": "manual",
+        "text_sha256": "881da99f604666a83304db8e342aba30e4cf07eb1f62f52812674c39a617fefa",
+        "text_chars": 406,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260816-c",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "花蓮豐富人文值得被看見 議長帶你遊花蓮2：走訪臨港線探索舊鐵道",
+      "url": "https://www.facebook.com/share/p/1A1gEat6SZ/",
+      "date": "2026-08-16",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-08-16",
+        "published_basis": "manual",
+        "text_sha256": "6cfae2a045b1faf5fc99d03aedd6de3b4a1716ab2003928322b0be14886080ba",
+        "text_chars": 388,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260817-a",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "張峻拚經濟  中央1萬+地方1萬 花蓮領2萬",
+      "url": "https://www.facebook.com/share/p/1DtJC6F4sv/",
+      "date": "2026-08-17",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-08-17",
+        "published_basis": "manual",
+        "text_sha256": "377e15d09ef95780327570c0c8d781904ff87f9b2b6a43eaa513f58a9837376a",
+        "text_chars": 404,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260817-b",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "花蓮空中交通 不能說斷就斷",
+      "url": "https://www.facebook.com/share/p/1DVrSfrg4h/",
+      "date": "2026-08-17",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-08-17",
+        "published_basis": "manual",
+        "text_sha256": "cf014673940d3197357fb31c049664195b4fce1cd74025ef72e3d63917431d02",
+        "text_chars": 401,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260818-a",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "公共建設向前 人民權益不能後退 拆遷補償制度應加快檢討‼️",
+      "url": "https://www.facebook.com/share/p/19uGGWf7YE/",
+      "date": "2026-08-18",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-08-18",
+        "published_basis": "manual",
+        "text_sha256": "20971cbf08422d1c1d2cad3e74f1b65ca674256ca852bf96b4a3a00dcc77d5e5",
+        "text_chars": 489,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260818-b",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "Wilson事件不能只查個人　更要檢討消防局長期管理制度",
+      "url": "https://www.facebook.com/share/p/1DsK3SVu5F/",
+      "date": "2026-08-18",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-08-18",
+        "published_basis": "manual",
+        "text_sha256": "b5315c372a8284242c9be82c5dfc28043b2ec3d91cf01da1dd5d8c88542f5564",
+        "text_chars": 469,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260819",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "長輩的笑容 就是我們努力的方向🥰",
+      "url": "https://www.facebook.com/share/p/1Dn149vbGA/",
+      "date": "2026-08-19",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-08-19",
+        "published_basis": "manual",
+        "text_sha256": "2dadd64265f74486363dab3572e881473d0ed9d1ff1e628a1a380e753613038d",
+        "text_chars": 365,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260821",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "照顧長輩，也要照顧第一線居服員",
+      "url": "https://www.facebook.com/share/p/19gE5ke631/",
+      "date": "2026-08-21",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-08-21",
+        "published_basis": "manual",
+        "text_sha256": "6e07f66c1918d6a2f809658b6568eb1fe08de1efe12f2781a508368e4333e929",
+        "text_chars": 385,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260822-a",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "持基層體育  讓花蓮成為健康活力城市",
+      "url": "https://www.facebook.com/share/p/18s98UWbDq/",
+      "date": "2026-08-22",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-08-22",
+        "published_basis": "manual",
+        "text_sha256": "792c3baccc496342f1f9ca2e8def96fdc4c5090cc6379b9c585c4a7a64f72801",
+        "text_chars": 407,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260822-b",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "一路走進8個部落　每一句「縣長好」都是責任",
+      "url": "https://www.facebook.com/share/p/1E39jMh5M8/",
+      "date": "2026-08-22",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-08-22",
+        "published_basis": "manual",
+        "text_sha256": "72d0dbcefdb64ff98a3fc6ce3ed756746e1e4f075d21b9c0e4d226f8687c45a8",
+        "text_chars": 424,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260823-a",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "拚經濟・顧家庭・護安全",
+      "url": "https://www.facebook.com/share/p/19jZCvM45v/",
+      "date": "2026-08-23",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-08-23",
+        "published_basis": "manual",
+        "text_sha256": "e1dc37981b12f92205c70788c654ba9a3445b6f4aad431d40ecb6b785400de65",
+        "text_chars": 405,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260823-b",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "萬里溪堰塞湖升黃色警戒　安全不能等",
+      "url": "https://www.facebook.com/share/p/1KKpg8Q849/",
+      "date": "2026-08-23",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-08-23",
+        "published_basis": "manual",
+        "text_sha256": "fba45dc074fb02b9ddec27010354b6e0a8b2c69eabf01d408430e07cb7b462fc",
+        "text_chars": 386,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260825-a",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "走進福氣站 陪長輩健康到老",
+      "url": "https://www.facebook.com/share/p/19XGViWU2B/",
+      "date": "2026-08-25",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-08-25",
+        "published_basis": "manual",
+        "text_sha256": "d31ed2d7facde4f5be985b9ab010b6126df3f994f6829cd4cc405c1caff20422",
+        "text_chars": 388,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260825-b",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "身障朋友的需要 政府要真正聽見",
+      "url": "https://www.facebook.com/share/p/14vCFotrzES/",
+      "date": "2026-08-25",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-08-25",
+        "published_basis": "manual",
+        "text_sha256": "072185a2b45c7c1268f6aca4b322a730e5211405e8404cc003dbe5ac451290e0",
+        "text_chars": 394,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260827",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "花蓮有條件不新增舉債 讓1萬元真正回到鄉親手中 加速百工百業與產業再興",
+      "url": "https://www.facebook.com/share/p/1Eav6TLkHm/",
+      "date": "2026-08-27",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-08-27",
+        "published_basis": "manual",
+        "text_sha256": "77da5c0cd929df207ed3fb7846b5c817c60169d5fa5ea87a70951dedbf0d2036",
+        "text_chars": 441,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260829-a",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "參加萬榮鄉運動會　看見山地鄉運動觀光新潛力",
+      "url": "https://www.facebook.com/share/p/1DShpsmuJn/",
+      "date": "2026-08-29",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-08-29",
+        "published_basis": "manual",
+        "text_sha256": "7c8eacfac0de4319c4331053e3fb28edd41b30ccdb534dd6ef060299e6588431",
+        "text_chars": 384,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260829-b",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "體驗北濱帆船魅力 花蓮海洋資源應轉化為觀光與產業的力量",
+      "url": "https://www.facebook.com/share/p/1BpgfswF5d/",
+      "date": "2026-08-29",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-08-29",
+        "published_basis": "manual",
+        "text_sha256": "1cc3b4e568b265639948e2b171e5b99a7a3edfbf70b852f472678d0a65de2e8e",
+        "text_chars": 363,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260830-a",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "貓公龍舟隊，真的替豐濱、替花蓮爭了一口氣！",
+      "url": "https://www.facebook.com/share/p/19TMuQQBBg/",
+      "date": "2026-08-30",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-08-30",
+        "published_basis": "manual",
+        "text_sha256": "b08179eb42bc63dde47b816d79431fa4adad5ac5b6c95d5f0a2b3d3ebc575919",
+        "text_chars": 341,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260830-b",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "把關懷送到南區，讓每一份需要都被看見",
+      "url": "https://www.facebook.com/share/p/14uDDtu58CW/",
+      "date": "2026-08-30",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-08-30",
+        "published_basis": "manual",
+        "text_sha256": "a45d70267082ecedec49cac5b2a96fab2f6c185bc084a8de8ea473131bbc3e75",
+        "text_chars": 311,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260901",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "義民信仰守護地方　讓客家文化一代一代傳下去✨",
+      "url": "https://www.facebook.com/share/p/19tKRYXfiU/",
+      "date": "2026-09-01",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-01",
+        "published_basis": "manual",
+        "text_sha256": "fd7e29f0e4bfda65bb9a1cfeb19789d73766911ffdc973368f88f32760aa6331",
+        "text_chars": 352,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260902",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "拜水頭・感謝水源，也守護花蓮農業的根✨",
+      "url": "https://www.facebook.com/share/p/1CLYE6Jo5J/",
+      "date": "2026-09-02",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-02",
+        "published_basis": "manual",
+        "text_sha256": "9285b1554b5b789cee549054aea5eb7711b34adb370cbd58633894b9f741ff0c",
+        "text_chars": 336,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260903-a",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "跨越黨派為花蓮　張峻準備好了",
+      "url": "https://www.facebook.com/share/p/1DL4EaCoJp/",
+      "date": "2026-09-03",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-03",
+        "published_basis": "manual",
+        "text_sha256": "1391b7233fa87558a47c81ab73916987692d14150e4712fba20a2b3d81a9a323",
+        "text_chars": 419,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260903-b",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "一顆西瓜，切出最自然的部落情感🍉",
+      "url": "https://www.facebook.com/share/p/1FM4qMW6ru/",
+      "date": "2026-09-03",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-03",
+        "published_basis": "manual",
+        "text_sha256": "c570862676ba67ea0eb5082253b2265590df7780c6f3e582e73d499097ea7f65",
+        "text_chars": 322,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260903-c",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "九三軍人節前夕　向守護國家的前輩致敬🫡",
+      "url": "https://www.facebook.com/share/p/1C1qy7hS1J/",
+      "date": "2026-09-03",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-03",
+        "published_basis": "manual",
+        "text_sha256": "6d99facf0779fac519a2b9d241c8afe355f94ea4caf2754c65632d39a0ebd286",
+        "text_chars": 344,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260904",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "向鄉親報告：",
+      "url": "https://www.facebook.com/share/v/1ETC51hbyH/",
+      "date": "2026-09-04",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-04",
+        "published_basis": "manual",
+        "text_sha256": "524545667a2ed847ed963a98d3448f78cd35229ab5036857be38fda59a57a0f5",
+        "text_chars": 121,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260905-a",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "讓好的服務被看見被支持 訪吉安馬匹輔助中心",
+      "url": "https://www.facebook.com/share/p/1KdTzDK9Kj/",
+      "date": "2026-09-05",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-05",
+        "published_basis": "manual",
+        "text_sha256": "9cb879f2963f4342329fcc1a5cac41a42f09f4577fb75619383a9667afc8c203",
+        "text_chars": 372,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260905-b",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "雨中逛心理健康市集 花蓮要更安全，也要更安心",
+      "url": "https://www.facebook.com/share/p/1MatRBpK6E/",
+      "date": "2026-09-05",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-05",
+        "published_basis": "manual",
+        "text_sha256": "6c0fad63ad04a8ff501096f35fede4675924cd47b1b0c9b1b7043457489a1da1",
+        "text_chars": 361,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260907-a",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "瑞穗大橋伸縮縫破損下陷要立即修護　道路安全不能等⚠️",
+      "url": "https://www.facebook.com/share/p/19NnV75GRW/",
+      "date": "2026-09-07",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-07",
+        "published_basis": "manual",
+        "text_sha256": "f594a50a8771bf0054504a16e6d187aec06461870f9821e4b683892af7d05d8d",
+        "text_chars": 347,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260907-b",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "走進鳳林三處文健站　把照顧送進部落、把文化留在部落",
+      "url": "https://www.facebook.com/share/p/1CFxxS2NMF/",
+      "date": "2026-09-07",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-07",
+        "published_basis": "manual",
+        "text_sha256": "10e6a3fa16afcd4e137508675d5846549d308640ed70e6e1ae256a2bd6e1b9e8",
+        "text_chars": 354,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260908",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "路要通、排水要順、城鄉都要有安全生命線",
+      "url": "https://www.facebook.com/share/p/14vB9Mgwf82/",
+      "date": "2026-09-08",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-08",
+        "published_basis": "manual",
+        "text_sha256": "2934feb020176200688e467740328cd3ff2e9fda395d44c7c5c7bd401f52d221",
+        "text_chars": 328,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260909-a",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "七小福與友善動物六大主張🐕",
+      "url": "https://www.facebook.com/share/p/1CaW4dCPSY/",
+      "date": "2026-09-09",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-09",
+        "published_basis": "manual",
+        "text_sha256": "e81cc9cca8f310ef6875a0da5496dcdb9c3e82d895de47de0e833e510004577a",
+        "text_chars": 383,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260909-b",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "七小福與友善動物六大主張🐕",
+      "url": "https://www.facebook.com/share/p/1CaW4dCPSY/",
+      "date": "2026-09-09",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-09",
+        "published_basis": "manual",
+        "text_sha256": "e81cc9cca8f310ef6875a0da5496dcdb9c3e82d895de47de0e833e510004577a",
+        "text_chars": 383,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260909-c",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "9月9日國民體育日💡",
+      "url": "https://www.facebook.com/share/p/1FRqfhyzwT/",
+      "date": "2026-09-09",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-09",
+        "published_basis": "manual",
+        "text_sha256": "a825fda003ccb448ff64592d7c82efab4e7ab490a9b97b000a4bb00762452c45",
+        "text_chars": 356,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260910-a",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "走訪花蓮市吉安鄉五處長者據點 推動社區照顧與家庭安全網",
+      "url": "https://www.facebook.com/share/p/19dTz8NinS/",
+      "date": "2026-09-10",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-10",
+        "published_basis": "manual",
+        "text_sha256": "0f0d0271201a1f30a8939770b4ee4ffb14a84ca1e1a93f08e1df1cee092ae641",
+        "text_chars": 355,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260910-b",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "走訪花蓮市吉安鄉五處長者據點 推動社區照顧與家庭安全網",
+      "url": "https://www.facebook.com/share/p/19dTz8NinS/",
+      "date": "2026-09-10",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-10",
+        "published_basis": "manual",
+        "text_sha256": "0f0d0271201a1f30a8939770b4ee4ffb14a84ca1e1a93f08e1df1cee092ae641",
+        "text_chars": 355,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260910-c",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "宗教補助要公平透明 讓信仰成為花蓮善的力量",
+      "url": "https://www.facebook.com/share/p/1Fd68GUy9v/",
+      "date": "2026-09-10",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-10",
+        "published_basis": "manual",
+        "text_sha256": "daa56b208a395442b3e09030f0ffe6d91b442015a5f8e17e3e91c0e456e40eac",
+        "text_chars": 350,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260911-a",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "走訪鳳林輕航機場域　打造花蓮低空觀光新亮點✈️",
+      "url": "https://www.facebook.com/share/p/1KdRrKN1Sb/",
+      "date": "2026-09-11",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-11",
+        "published_basis": "manual",
+        "text_sha256": "f9ee36d6a25540333546ab15a7c48eef3094fe39f2579152345ed13129c97dc1",
+        "text_chars": 343,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260911-b",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "走訪鳳林輕航機場域　打造花蓮低空觀光新亮點✈️",
+      "url": "https://www.facebook.com/share/p/1KdRrKN1Sb/",
+      "date": "2026-09-11",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-11",
+        "published_basis": "manual",
+        "text_sha256": "f9ee36d6a25540333546ab15a7c48eef3094fe39f2579152345ed13129c97dc1",
+        "text_chars": 343,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260912",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "蘇花安通車，花蓮準備好了嗎？",
+      "url": "https://www.facebook.com/share/p/1DyA1Ernqh/",
+      "date": "2026-09-12",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-12",
+        "published_basis": "manual",
+        "text_sha256": "88371926c7cb5cc6fc9f12cbe6cd6b42dafe0d0f7e57d5907f10fe799ad45dcc",
+        "text_chars": 359,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260913",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "花蓮要改變，需要一支真正尊重專業的治理團隊",
+      "url": "https://www.facebook.com/share/p/1EEKmgjQjc/",
+      "date": "2026-09-13",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-13",
+        "published_basis": "manual",
+        "text_sha256": "b7eb08195feccbaa6d68c4396407cadc50990265bf4d9ce70a73b81e711efa98",
+        "text_chars": 581,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260916",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "台9線不再空等紅燈　智慧號誌要讓鄉親真正有感🚦",
+      "url": "https://www.facebook.com/share/p/1DDkPnnMin/",
+      "date": "2026-09-16",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-16",
+        "published_basis": "manual",
+        "text_sha256": "e44fc8980602192543895630ba958760583a1de72008bb2b054f9af7c76c41f5",
+        "text_chars": 382,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260917",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "推動「花蓮厝邊失智守護計畫」六大措施 ",
+      "url": "https://www.facebook.com/share/p/1Dmk2ZUKpr/",
+      "date": "2026-09-17",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-17",
+        "published_basis": "manual",
+        "text_sha256": "96361a640679643f82bb2c5e4483f5bb562cdee3c661cfdfbcae6f9a0735de16",
+        "text_chars": 282,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260918-a",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "一起翻轉花蓮！童子賢擔任張峻花蓮改革治理聯盟召集人 專業治理團隊連結 : htt",
+      "url": "https://www.facebook.com/zhang.jun.901578",
+      "date": "2026-09-18",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-18",
+        "published_basis": "manual",
+        "text_sha256": "b5a007e4118acdb1fa9fe9919789405280232bae650772a6831fb5a506d83008",
+        "text_chars": 226,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；無貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260918-b",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "【每位花蓮縣民，最高100萬意外保障】",
+      "url": "https://www.facebook.com/zhang.jun.901578",
+      "date": "2026-09-18",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-18",
+        "published_basis": "manual",
+        "text_sha256": "e5d751df18ed4c803a7dee3497122a8b1411eceec88d1389099f64655a314ad2",
+        "text_chars": 386,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；無貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260918-c",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "照顧孩子 也要照顧每天陪伴孩子的老師🧑‍🏫",
+      "url": "https://www.facebook.com/share/p/1FJaYSqYvW/",
+      "date": "2026-09-18",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-18",
+        "published_basis": "manual",
+        "text_sha256": "1bcf58600187d630665278698e5139e43afec38f4f3a7de32d4119679704e823",
+        "text_chars": 402,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260919-a",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "要讓更多體育賽事走進中南區　以運動帶動地方活力",
+      "url": "https://www.facebook.com/share/p/1HJ9PTbURC/",
+      "date": "2026-09-19",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-19",
+        "published_basis": "manual",
+        "text_sha256": "22382c2b4239aceb925f84b621358c374c60760bbd83b388d95d0815e49c7437",
+        "text_chars": 345,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260919-b",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "923洪災一週年 重建不能停，防災更要提前做",
+      "url": "https://www.facebook.com/share/p/14nPNzAC4Wb/",
+      "date": "2026-09-19",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-19",
+        "published_basis": "manual",
+        "text_sha256": "0a3b6b7cd6a288f356f4841e66802811b0e70a239ebdbb671efece6e364678ea",
+        "text_chars": 391,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260921",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "防災不能只做一天 讓花蓮更安全地站起來",
+      "url": "https://www.facebook.com/share/p/1Dd8hwZkZG/",
+      "date": "2026-09-21",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-21",
+        "published_basis": "manual",
+        "text_sha256": "18e5e2c43d3abe2eceb6ebf2730da26e28ce1c7ac4ad547ac29ff60e619c5084",
+        "text_chars": 399,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260924",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "中秋連假前，我走進曾記麻糬，關心花蓮名產店的買氣，也聽業者談觀光和員工生活的難題",
+      "url": "https://www.facebook.com/share/p/19eyMS3Qhi/",
+      "date": "2026-09-24",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-24",
+        "published_basis": "manual",
+        "text_sha256": "fd0bb0210541f6b8a979646c2d3474bd4c3be98c9527bd970506f500563f9b33",
+        "text_chars": 364,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260925",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "歡慶中秋節，受花蓮市托瓦本、林園及新夏三個部落邀請，並在周駿宥議員陪同下，到林園",
+      "url": "https://www.facebook.com/share/p/19tPq79msZ/",
+      "date": "2026-09-25",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-25",
+        "published_basis": "manual",
+        "text_sha256": "10c2ba78b9995e95bbe92e16bbb46c8b771fceedfdfe8f2297f2f237f619c1f9",
+        "text_chars": 316,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260927",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "今天參加花蓮縣議員參選人林則葹、陳思伃聯合競選總部成立大會，和許多鄉親見面，也謝",
+      "url": "https://www.facebook.com/share/p/1CVLEHdRLa/",
+      "date": "2026-09-27",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-27",
+        "published_basis": "manual",
+        "text_sha256": "6a410fe1a4f485e0434434a5ee88e65379c9ffaf9f5a67562423c4d80a318e4a",
+        "text_chars": 300,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260928-a",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "張峻支持教師十大訴求 承諾攜手教師團體完善花蓮教育連結 : https://ww",
+      "url": "https://www.facebook.com/zhang.jun.901578",
+      "date": "2026-09-28",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-28",
+        "published_basis": "manual",
+        "text_sha256": "80f1cee1cbdb148a7b8c7f1c26b8b32a7cdf73d9a84499ba6c1547af1593b447",
+        "text_chars": 65,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；無貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260928-b",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "支持老師，讓花蓮教育更好，是我對教師節的承諾。",
+      "url": "https://www.facebook.com/share/p/1F78yxmX8Q/",
+      "date": "2026-09-28",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-28",
+        "published_basis": "manual",
+        "text_sha256": "8500e89259c263df81113634b44739cf01c25ed4eed03520ef827a1c9d990f0f",
+        "text_chars": 339,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260929",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "連假剛結束。花蓮人想要一條安全、方便的返鄉路，我也一樣。記者問我，宜蘭高鐵未來要",
+      "url": "https://www.facebook.com/share/p/1E4tKvBnaU/",
+      "date": "2026-09-29",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-29",
+        "published_basis": "manual",
+        "text_sha256": "51d17c1fcdd94c04211fb52ca22de7723036d0c14fc982cf9303f51c73f6c127",
+        "text_chars": 395,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20260930",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "走訪花蓮火車站前傾聽運將心聲🚖",
+      "url": "https://www.facebook.com/share/p/1d6SuYHqYC/",
+      "date": "2026-09-30",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-30",
+        "published_basis": "manual",
+        "text_sha256": "7da66d05af2a31d30ae272f4762889987b8ef686e7e938614b4a72f646b223a5",
+        "text_chars": 365,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20261001-a",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "照顧孩子，也要照顧老師！",
+      "url": "https://www.facebook.com/share/p/1EJcjiZHNE/",
+      "date": "2026-10-01",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-01",
+        "published_basis": "manual",
+        "text_sha256": "b01ba5a72a0cf1badec5e56d1a8bdd006ea8fc71a74440350d45953f15a76026",
+        "text_chars": 326,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20261001-b",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "在胡仁順議員、歐彥志代表及主農里里長參選人賴宗韋的陪同下，我來到花蓮市中原路附近",
+      "url": "https://www.facebook.com/share/p/1EgrXVN5YY/",
+      "date": "2026-10-01",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-01",
+        "published_basis": "manual",
+        "text_sha256": "2c74774990e39563f270aae2c12008434a6b8ea85cfcef91ed00171a21f01000",
+        "text_chars": 372,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20261003-a",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "與社區婦女共度健康樂活運動會",
+      "url": "https://www.facebook.com/share/p/1CdA99QXWs/",
+      "date": "2026-10-03",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-03",
+        "published_basis": "manual",
+        "text_sha256": "e327bb64c0a50e9b3112b3556d0b6702d01191453f1104f10e8a2330e3d3d2a8",
+        "text_chars": 342,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20261003-b",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "花蓮市中山路吉安鄉建國路掃街 聽鄉親說心裡話",
+      "url": "https://www.facebook.com/share/p/1C83He1Uwc/",
+      "date": "2026-10-03",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-03",
+        "published_basis": "manual",
+        "text_sha256": "d46ec24ed3acc2753716eb125aed8730ac048189d0429b5f6aeff2818156b896",
+        "text_chars": 356,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20261004",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "關心美崙山運動環境與長輩健康",
+      "url": "https://www.facebook.com/share/p/1DLy66DaFs/",
+      "date": "2026-10-04",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-04",
+        "published_basis": "manual",
+        "text_sha256": "84ce483fcd380493b7c6521ac491a410787c24afd1d41144198cfe1474dfa800",
+        "text_chars": 352,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20261006-a",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "科技扎根花蓮，讓青年留鄉",
+      "url": "https://www.facebook.com/share/p/1fgqvxvfsb/",
+      "date": "2026-10-06",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-06",
+        "published_basis": "manual",
+        "text_sha256": "73e847b1d41a2989b5f4b5a2fa61e7acd27b5bfbcab863616c1f3b25013fdc3b",
+        "text_chars": 358,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20261006-b",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "讓每一條回家的路，都能安心，孩子上學的路、長輩買菜的路，都應該是一條安全、安心回",
+      "url": "https://www.facebook.com/zhang.jun.901578",
+      "date": "2026-10-06",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-06",
+        "published_basis": "manual",
+        "text_sha256": "6874e5e5daf087b32260d577456f1f8d947b9da67102a5d76d3a5b8afb092084",
+        "text_chars": 406,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；無貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20261006-c",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "讓每一條回家的路，都能安心❤️",
+      "url": "https://www.facebook.com/share/p/1DmogMsqWu/",
+      "date": "2026-10-06",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-06",
+        "published_basis": "manual",
+        "text_sha256": "f7c406312889a10635cff3eb40588c7585be19778b6db6e5b30d8eed5cb7d17c",
+        "text_chars": 338,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20261007-a",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "拜會醫師公會黃啟嘉理事長 暢談花蓮醫療與教育🩺",
+      "url": "https://www.facebook.com/share/p/1Eh3L5aqPV/",
+      "date": "2026-10-07",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-07",
+        "published_basis": "manual",
+        "text_sha256": "8b97c06df31141f148653d4cfb5e8ee8ee91eff76e39f454c6556236c11c1bcd",
+        "text_chars": 368,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20261007-b",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "關心教師權益與教育環境🎒",
+      "url": "https://www.facebook.com/share/p/18mRwF45cn/",
+      "date": "2026-10-07",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-07",
+        "published_basis": "manual",
+        "text_sha256": "3837782ab9b5b833dd96792711625786f52075ee7b558855b18a7cb537175d0c",
+        "text_chars": 335,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20261008",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "與第一線社工交流",
+      "url": "https://www.facebook.com/share/p/19fNDh9VeM/",
+      "date": "2026-10-08",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-08",
+        "published_basis": "manual",
+        "text_sha256": "344b9ee3570c533763ad9a0320a223801b1b82410804e8467f44357e0b56e284",
+        "text_chars": 344,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20261009-a",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "全面強化治安 督促縣府提出具體改善措施",
+      "url": "https://www.facebook.com/share/p/14spNy2bTk7/",
+      "date": "2026-10-09",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-09",
+        "published_basis": "manual",
+        "text_sha256": "54d2490f17305e4b088bce3938f9fc1544ee46f04e0eb5d23459ed5de9885d70",
+        "text_chars": 367,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20261009-b",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "全面強化治安 督促縣府提出具體改善措施",
+      "url": "https://www.facebook.com/share/p/14spNy2bTk7/",
+      "date": "2026-10-09",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-09",
+        "published_basis": "manual",
+        "text_sha256": "54d2490f17305e4b088bce3938f9fc1544ee46f04e0eb5d23459ed5de9885d70",
+        "text_chars": 367,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20261009-c",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "與環保團體座談 交流永續治理",
+      "url": "https://www.facebook.com/share/p/19n5H4V2jA/",
+      "date": "2026-10-09",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-09",
+        "published_basis": "manual",
+        "text_sha256": "738d5f7f543b26c983823fbf93388071c54770a1c941f838dcf786c1927b33c6",
+        "text_chars": 382,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20261010-a",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "參加萬榮太魯閣族感恩祭看見族人對文化的珍惜與傳承     ",
+      "url": "https://www.facebook.com/share/p/1N26Z4uCdX/",
+      "date": "2026-10-10",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-10",
+        "published_basis": "manual",
+        "text_sha256": "a8a33aeafe7f09103e413027ffb8ae77b290c630e5733948ddf143492d2342ff",
+        "text_chars": 310,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20261010-b",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "參加議長盃重陽敬老長青槌球錦標賽 祝福長輩越動越健康",
+      "url": "https://www.facebook.com/share/p/19gamKSzBw/",
+      "date": "2026-10-10",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-10",
+        "published_basis": "manual",
+        "text_sha256": "8b19198db2fabed0eb4b7af4d2b6e59e37f69209a0c1fd893c17abccdfa7289a",
+        "text_chars": 332,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20261013-a",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "走進秀林鄉每個部落，族人們的支持熱度，遠超乎我的預期。",
+      "url": "https://www.facebook.com/share/p/1Dz1Txr2wX/",
+      "date": "2026-10-13",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-13",
+        "published_basis": "manual",
+        "text_sha256": "0f0952997e78a5c2d80278f0a21e7087e0ae77956dcf2eac3d092ca5d1fda197",
+        "text_chars": 353,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20261013-b",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "讓中南區的觀光帶動鄉親的生活",
+      "url": "https://www.facebook.com/share/p/1FBYRVT8A7/",
+      "date": "2026-10-13",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-13",
+        "published_basis": "manual",
+        "text_sha256": "5403d3062cac736351ddc0ac00c386e7dad2c39811439cd81ea356af1b082bbe",
+        "text_chars": 451,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20261014",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "與春日里長者座談 聊生活與文化傳承",
+      "url": "https://www.facebook.com/share/p/1Dwjmbw3LH/",
+      "date": "2026-10-14",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-14",
+        "published_basis": "manual",
+        "text_sha256": "e108343508eeafbd737aebdc55e15beb48af930d90cc37dd4acae99a1fcda02f",
+        "text_chars": 384,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20261015-a",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "來到壽豐鄉掃街拜訪，從壽豐火車站周邊一路走進壽豐夜市，感謝鄉親們熱情的歡迎與鼓勵",
+      "url": "https://www.facebook.com/zhang.jun.901578",
+      "date": "2026-10-15",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-15",
+        "published_basis": "manual",
+        "text_sha256": "4f1b8ae7022f6ce26220061cf26792e1b631916e0f961d9c1af8642feed7a9bf",
+        "text_chars": 289,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；無貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20261015-b",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "壽豐掃街與夜市拜訪  鄉親的熱情，我收到了！",
+      "url": "https://www.facebook.com/share/p/1H4e4fy3rk/",
+      "date": "2026-10-15",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-15",
+        "published_basis": "manual",
+        "text_sha256": "6a1bc7cfdd8f50648601254c68996905a01207c8652609f0e5a3b99cef7b38c5",
+        "text_chars": 459,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20261017",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "花蓮寫歷史、台灣第一次！",
+      "url": "https://www.facebook.com/share/p/1EeUBpGH3E/",
+      "date": "2026-10-17",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-17",
+        "published_basis": "manual",
+        "text_sha256": "c8cdd5fdabdc623fe393c0c2449b16b463c0474204aa3f787bf33655094b7a6c",
+        "text_chars": 550,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20261018-a",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "九九重陽，福利只增不減！讓長輩安心，讓晚輩放心！",
+      "url": "https://www.facebook.com/zhang.jun.901578",
+      "date": "2026-10-18",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-18",
+        "published_basis": "manual",
+        "text_sha256": "ca6b9bdb84e9c3a9fb4ba6e00e06820bebdd3c7d1699e24f01784856ab7b20f0",
+        "text_chars": 294,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；無貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20261018-b",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "九九重陽 福利只增不減 讓長輩安心 讓晚輩放心",
+      "url": "https://www.facebook.com/share/p/1ZiKJs9b9X/",
+      "date": "2026-10-18",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-18",
+        "published_basis": "manual",
+        "text_sha256": "fabae43d325bbcedae3027793bbcdcb1a63d9f44b588fbceedc15fe07d431d52",
+        "text_chars": 360,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20261020-a",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "感謝《今周刊》深入報導花蓮的未來發展，也感謝童子賢董事長對張峻的信任與支持！",
+      "url": "https://www.facebook.com/zhang.jun.901578",
+      "date": "2026-10-20",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-20",
+        "published_basis": "manual",
+        "text_sha256": "9264f5ec12371447430b8b4e4e4fb11d66a9304d8574f74798802a595dee6cab",
+        "text_chars": 795,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；無貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20261020-b",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "支持養豬產業，讓農友安心經營！",
+      "url": "https://www.facebook.com/zhang.jun.901578",
+      "date": "2026-10-20",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-20",
+        "published_basis": "manual",
+        "text_sha256": "b06974876b3c4407c4b5121be5e37a037b2e02df58396c159d0f4fe1eea303e2",
+        "text_chars": 243,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；無貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20261021",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "深入吉安東區掃街，鄉親的心聲，我都放在心上！",
+      "url": "https://www.facebook.com/zhang.jun.901578",
+      "date": "2026-10-21",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-21",
+        "published_basis": "manual",
+        "text_sha256": "69b5e759394680d829cc2c4b7e36a14fc8bf81de46e179722e6954b6e5aaa1f7",
+        "text_chars": 522,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；無貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20261022",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "請鄉親做好防颱準備",
+      "url": "https://www.facebook.com/share/p/1DaoTEtbgo/",
+      "date": "2026-10-22",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-22",
+        "published_basis": "manual",
+        "text_sha256": "fe31cb294c983ebdd086c6b99dd85124c732e560d1f6d943624fbdc39cc454e8",
+        "text_chars": 356,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20261025",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "薔琵颱風造成花蓮樹倒壓線、電力中斷。停電影響家庭生活及店家營業，供電安全不能輕忽",
+      "url": "https://www.facebook.com/share/p/1H9DPQUbND/",
+      "date": "2026-10-25",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-25",
+        "published_basis": "manual",
+        "text_sha256": "798ba68eecfe8aaf075407af6c1aab73e81c677d9a37bbb3fead6875f35eee86",
+        "text_chars": 264,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-fb-20261028",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "解決問題 上任100日內成立「重大交通建設專案窗口」",
+      "url": "https://www.facebook.com/share/p/19Z7hL8MLL/",
+      "date": "2026-10-28",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-28",
+        "published_basis": "manual",
+        "text_sha256": "75c88ed6d604486aa78d843e1b05718ef8e0e0c84c4861745545e423738d614f",
+        "text_chars": 359,
+        "where": "使用者手動複製自 www.facebook.com（zhang.jun.txt）；已補貼文固定連結"
+      }
+    },
+    {
+      "id": "zj-img-edu-pledge-20260918",
+      "outlet": "張峻（競選文宣）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "教育訴求簽署書（張峻簽署，2026-09-18）",
+      "url": "",
+      "date": "2026-09-18",
+      "type": "candidate_print",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-18",
+        "published_basis": "manual",
+        "text_sha256": "7e1349b3ced024db82cdcd0cb99e19c668003656fa4504affef56c6316fd39fa",
+        "text_chars": 692,
+        "where": "使用者手動收集的臉書貼文附圖（檔名含 ksnews.com.tw，疑為 9/28 教師節貼文圖）；日期取自簽署書上的「2026（民國115）年9月18日」，實際發文日以 9/28 貼文為準",
+        "image": "sources/images/zhang-edu-pledge-20260918.jpg",
+        "image_sha256": "8956a68ec73b3c45a1f93e956efabdb66cff2fded2d37ac88dfbc1f1ca0be1ac",
+        "transcript_verified": false
+      }
+    },
+    {
+      "id": "wei-web-policies",
+      "outlet": "魏嘉賢（競選網站）",
+      "outlet_group": "candidate:wei",
+      "candidate_id": "wei",
+      "title": "魏嘉賢競選網站：六大城市旗艦任務（67 項）與未來存摺（12 本）",
+      "url": "https://lovehualien.com/",
+      "date": "2026-10-23",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "browser",
+        "published": "2026-10-23",
+        "published_basis": "網站資料欄位 POLICY_DATA.updated",
+        "text_sha256": "b190901857149fd4bddcbc14dc730eba9c39e34c5386208adde3b948e237eb8a",
+        "text_chars": 10892,
+        "where": "網站內嵌資料 window.POLICY_DATA（policies.js）；原始 JSON 存 sources/wei-policy-data.json，與頁面即時資料 sha256 一致。每項附的臉書連結只記錄、未讀取貼文本身。"
+      }
+    },
+    {
+      "id": "you-fb-20260304",
+      "outlet": "游淑貞（臉書貼文）",
+      "outlet_group": "candidate:you",
+      "candidate_id": "you",
+      "title": "國民黨中央於4日召開中常會正式通過並宣布徵召淑貞參選花蓮縣長。淑貞也親赴黨中央，",
+      "url": "https://www.facebook.com/share/p/1DR1xxs1aL/",
+      "date": "2026-03-04",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-03-04",
+        "published_basis": "manual",
+        "text_sha256": "1301a3a870e447d71ddd618443544677755d7f35e504e9e90a960e9ef9936bef",
+        "text_chars": 620,
+        "where": "使用者手動複製自臉書貼文（examples/CandyHualien-fb/CandyHualien-fb.txt）；網址為臉書分享連結（share/p），可點開"
+      }
+    },
+    {
+      "id": "you-fb-20260307",
+      "outlet": "游淑貞（臉書貼文）",
+      "outlet_group": "candidate:you",
+      "candidate_id": "you",
+      "title": "針對未來縣政藍圖，淑貞提出「美好花蓮」治理願景，包括：",
+      "url": "https://www.facebook.com/share/p/1CCHa7xRe9/",
+      "date": "2026-03-07",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-03-07",
+        "published_basis": "manual",
+        "text_sha256": "2333df39901f3ea23f6353a4fb7884d0d25a3d3bbf39e89e2cf6727ef6f9eb5f",
+        "text_chars": 244,
+        "where": "使用者手動複製自臉書貼文（examples/CandyHualien-fb/CandyHualien-fb.txt）；網址為臉書分享連結（share/p），可點開"
+      }
+    },
+    {
+      "id": "you-fb-20260319",
+      "outlet": "游淑貞（臉書貼文）",
+      "outlet_group": "candidate:you",
+      "candidate_id": "you",
+      "title": "《觀光雙核心》",
+      "url": "https://www.facebook.com/share/p/1EqpLFvney/",
+      "date": "2026-03-19",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-03-19",
+        "published_basis": "manual",
+        "text_sha256": "5824204d5a70429605025eac394551aa616e535a86bf76f4d872e134ce7b8331",
+        "text_chars": 717,
+        "where": "使用者手動複製自臉書貼文（examples/CandyHualien-fb/CandyHualien-fb.txt）；網址為臉書分享連結（share/p），可點開"
+      }
+    },
+    {
+      "id": "zj-fb-20260826",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "桃花開、客庄興　讓客語有人講 山歌有人唱",
+      "url": "https://www.facebook.com/share/p/18rUfD5pj7/",
+      "date": "2026-08-26",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-08-26",
+        "published_basis": "manual",
+        "text_sha256": "4bb63890ee745881c4239c98b979254b3bebe4248acab7de20b6bca0905a7d0e",
+        "text_chars": 385,
+        "where": "使用者手動複製自 www.facebook.com（zj-new.txt）"
+      }
+    },
+    {
+      "id": "zj-fb-20260903-d",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "建國路二段拓寬，不能再卡在行政區界線‼️",
+      "url": "https://www.facebook.com/share/p/1KL43M5eDz/",
+      "date": "2026-09-03",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-03",
+        "published_basis": "manual",
+        "text_sha256": "fbf077482813492a22af42a1bde3cf0bc0aed5ded42c23e13efb02a5a1c57888",
+        "text_chars": 344,
+        "where": "使用者手動複製自 www.facebook.com（zj-new.txt）"
+      }
+    },
+    {
+      "id": "zj-fb-20260906",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "今天前往壽豐鄉月眉部落，參加豐年祭檢討會議與巴歌浪活動，特別向月眉部落頭目林進華",
+      "url": "https://www.facebook.com/share/p/1ZDEr2Kr5o/",
+      "date": "2026-09-06",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-06",
+        "published_basis": "manual",
+        "text_sha256": "0550e53a6ed8111fb2ca103ec8a34e5529590f53bbe80be7bb27494941e09080",
+        "text_chars": 418,
+        "where": "使用者手動複製自 www.facebook.com（zj-new.txt）"
+      }
+    },
+    {
+      "id": "zj-fb-20260927-b",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "中秋連假，大家原本可以在家團聚，週六卻有許多選手和家長來參加議長盃書法比賽。看到",
+      "url": "https://www.facebook.com/share/p/1C214p3fXZ/",
+      "date": "2026-09-27",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-27",
+        "published_basis": "manual",
+        "text_sha256": "dd05957cb7f894407bb596a56dbcb3e5d5573afc1026e776b29c904096bb5fb7",
+        "text_chars": 262,
+        "where": "使用者手動複製自 www.facebook.com（zj-new.txt）"
+      }
+    },
+    {
+      "id": "zj-fb-20261020-c",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "努力為花蓮打開「塵封已久」的投資大門",
+      "url": "https://www.facebook.com/share/p/19kMEQQa9J/",
+      "date": "2026-10-20",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-20",
+        "published_basis": "manual",
+        "text_sha256": "b73624454a66fa5db3ad608ceee2ba079faeb8763308def42910ea7c4353b9e6",
+        "text_chars": 443,
+        "where": "使用者手動複製自 www.facebook.com（zj-new.txt）"
+      }
+    },
+    {
+      "id": "zj-fb-20261020-d",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "人行道安全與住戶進出都要照顧💡",
+      "url": "https://www.facebook.com/share/p/1DkawdgGZY/",
+      "date": "2026-10-20",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-20",
+        "published_basis": "manual",
+        "text_sha256": "3ccc527e48ca64590ddb763469cb40dbd2ef425350a5e1a75c2b19e17ea0da71",
+        "text_chars": 379,
+        "where": "使用者手動複製自 www.facebook.com（zj-new.txt）"
+      }
+    },
+    {
+      "id": "zj-fb-20261021-b",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "走進吉安街道 傾聽鄉親心聲",
+      "url": "https://www.facebook.com/share/p/1JDpFZRVqU/",
+      "date": "2026-10-21",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-21",
+        "published_basis": "manual",
+        "text_sha256": "2d51e76495774b82849aff7917bd47d00ba14aa1a59e8f75d1de1280a29397f2",
+        "text_chars": 330,
+        "where": "使用者手動複製自 www.facebook.com（zj-new.txt）"
+      }
+    },
+    {
+      "id": "zj-fb-20261028-b",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "走進萬榮西林村 與族人交流生薑農產發展與家庭照顧",
+      "url": "https://www.facebook.com/share/p/1A1p8LuoqT/",
+      "date": "2026-10-28",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-28",
+        "published_basis": "manual",
+        "text_sha256": "28e5699c33e49e72e13389362dc294861120ef5dd1890beff1aed55fed9ed3e5",
+        "text_chars": 504,
+        "where": "使用者手動複製自 www.facebook.com（zj-new.txt）"
+      }
+    },
+    {
+      "id": "you-fb-20260330",
+      "outlet": "游淑貞（臉書貼文）",
+      "outlet_group": "candidate:you",
+      "candidate_id": "you",
+      "title": "今天，我選擇用「對話」為花蓮觀光找方向。",
+      "url": "https://www.facebook.com/share/p/19Q87xzB1Y/",
+      "date": "2026-03-30",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-03-30",
+        "published_basis": "manual",
+        "text_sha256": "edbac7669f1ed47089fa2d746908b337e6cf686f06edbc731fa2d6dfa79c20f2",
+        "text_chars": 361,
+        "where": "使用者手動複製自 www.facebook.com（you-new.txt）"
+      }
+    },
+    {
+      "id": "you-fb-20260422",
+      "outlet": "游淑貞（臉書貼文）",
+      "outlet_group": "candidate:you",
+      "candidate_id": "you",
+      "title": "淑貞從3月30日的觀光座談會出發，到4月20日透過環境永續座談再次集思，最讓我感",
+      "url": "https://www.facebook.com/share/v/1JXGqs49RA/",
+      "date": "2026-04-22",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-04-22",
+        "published_basis": "manual",
+        "text_sha256": "d7345a18622e3f5b466abc882636902bfa2a14429dc275b04df8139d15e9bc44",
+        "text_chars": 349,
+        "where": "使用者手動複製自 www.facebook.com（you-new.txt）"
+      }
+    },
+    {
+      "id": "you-fb-20260423",
+      "outlet": "游淑貞（臉書貼文）",
+      "outlet_group": "candidate:you",
+      "candidate_id": "you",
+      "title": "一場讓花蓮孩子再次接軌國際的座談，4/26號誠摯邀請大家一同共商！",
+      "url": "https://www.facebook.com/share/p/122BbWMGskp/",
+      "date": "2026-04-23",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-04-23",
+        "published_basis": "manual",
+        "text_sha256": "405995fcf8275fccbd338e9834490c59b1966f51ec9f52034b9e7d4aa0592907",
+        "text_chars": 344,
+        "where": "使用者手動複製自 www.facebook.com（you-new.txt）"
+      }
+    },
+    {
+      "id": "you-fb-20260506",
+      "outlet": "游淑貞（臉書貼文）",
+      "outlet_group": "candidate:you",
+      "candidate_id": "you",
+      "title": "小腳一踢・幸福就開門】",
+      "url": "https://www.facebook.com/share/p/1DNvzajYgH/",
+      "date": "2026-05-06",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-05-06",
+        "published_basis": "manual",
+        "text_sha256": "a47161635f43b47a52514a5b8d9c08c2162fdcb2260d28fb97ca069f0a38c119",
+        "text_chars": 200,
+        "where": "使用者手動複製自 www.facebook.com（you-new.txt）"
+      }
+    },
+    {
+      "id": "you-fb-20260507",
+      "outlet": "游淑貞（臉書貼文）",
+      "outlet_group": "candidate:you",
+      "candidate_id": "you",
+      "title": "淑貞跟hagˋ gaˊ姊妹，一起跳舞",
+      "url": "https://www.facebook.com/share/r/1ECXgvX7VT/",
+      "date": "2026-05-07",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-05-07",
+        "published_basis": "manual",
+        "text_sha256": "002fc611ffb1a44633c179c790fff913450beb76771fb4d287101a99a1387b5d",
+        "text_chars": 262,
+        "where": "使用者手動複製自 www.facebook.com（you-new.txt）"
+      }
+    },
+    {
+      "id": "you-fb-20260514",
+      "outlet": "游淑貞（臉書貼文）",
+      "outlet_group": "candidate:you",
+      "candidate_id": "you",
+      "title": "今天淑貞親自前往花蓮縣客家文化會館，參與「氣候變遷下的防災策略」專題講座。",
+      "url": "https://www.facebook.com/share/p/1CEfej2qdj/",
+      "date": "2026-05-14",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-05-14",
+        "published_basis": "manual",
+        "text_sha256": "347898e5e19791d4b7b6e5b34ae7e169dd7d0ff432ef4bacdf3e1f5d7328352b",
+        "text_chars": 277,
+        "where": "使用者手動複製自 www.facebook.com（you-new.txt）"
+      }
+    },
+    {
+      "id": "you-fb-20260518",
+      "outlet": "游淑貞（臉書貼文）",
+      "outlet_group": "candidate:you",
+      "candidate_id": "you",
+      "title": "看着孩子們身穿畢業服，拍下人生第一張團體照，淑貞阿姨很感動，因為孩子的笑容是花蓮",
+      "url": "https://www.facebook.com/share/p/19ij2vVJt8/",
+      "date": "2026-05-18",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-05-18",
+        "published_basis": "manual",
+        "text_sha256": "f8ee47203bd00c3d4f0a567a27183909cda543989003c684902ff19bbcd80fb9",
+        "text_chars": 141,
+        "where": "使用者手動複製自 www.facebook.com（you-new.txt）"
+      }
+    },
+    {
+      "id": "you-fb-20260611",
+      "outlet": "游淑貞（臉書貼文）",
+      "outlet_group": "candidate:you",
+      "candidate_id": "you",
+      "title": "清廉透明，是最重要的競爭力】",
+      "url": "https://www.facebook.com/share/p/1DxN52tdrt/",
+      "date": "2026-06-11",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-06-11",
+        "published_basis": "manual",
+        "text_sha256": "395e678f63134a862f369c0274dba3e06954dfe0eed6283ce3e9983f1cb9eb81",
+        "text_chars": 309,
+        "where": "使用者手動複製自 www.facebook.com（you-new.txt）"
+      }
+    },
+    {
+      "id": "you-fb-20260530",
+      "outlet": "游淑貞（臉書貼文）",
+      "outlet_group": "candidate:you",
+      "candidate_id": "you",
+      "title": "「咱ㄟ老人 咱ㄟ寶」",
+      "url": "https://www.facebook.com/share/p/1HvxcsXc7R/",
+      "date": "2026-05-30",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-05-30",
+        "published_basis": "manual",
+        "text_sha256": "0247c3d865d979ced113a4610288954cbb9a03485f63088c1bef65c17efdd583",
+        "text_chars": 273,
+        "where": "使用者手動複製自 www.facebook.com（you-new.txt）"
+      }
+    },
+    {
+      "id": "you-fb-20260715",
+      "outlet": "游淑貞（臉書貼文）",
+      "outlet_group": "candidate:you",
+      "candidate_id": "you",
+      "title": "淑貞敦聘李鴻源部長任競選總顧問，打造花蓮韌性安全永續發展施政藍圖💪",
+      "url": "https://www.facebook.com/share/p/1YqihV9FwM/",
+      "date": "2026-07-15",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-07-15",
+        "published_basis": "manual",
+        "text_sha256": "bccc5064a9c5b78399dbec620662286241f0803a9518826725ff8d8aa12f41cd",
+        "text_chars": 1027,
+        "where": "使用者手動複製自 www.facebook.com（you-new.txt）"
+      }
+    },
+    {
+      "id": "you-fb-20260724",
+      "outlet": "游淑貞（臉書貼文）",
+      "outlet_group": "candidate:you",
+      "candidate_id": "you",
+      "title": "淑貞敦聘 #全球 前2%頂尖科學家 #洪啓峯任競選顧問　擬定「健康洄瀾大計畫」打",
+      "url": "https://www.facebook.com/share/p/19zdHjqBUk/",
+      "date": "2026-07-24",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-07-24",
+        "published_basis": "manual",
+        "text_sha256": "600c1f6b9e8e9a046202c705174df90eae1a768b54081a0a8a15a49ecb497db5",
+        "text_chars": 857,
+        "where": "使用者手動複製自 www.facebook.com（you-new.txt）"
+      }
+    },
+    {
+      "id": "you-fb-20260819",
+      "outlet": "游淑貞（臉書貼文）",
+      "outlet_group": "candidate:you",
+      "candidate_id": "you",
+      "title": "藍軍團結 花蓮唯一支持 #游淑貞",
+      "url": "https://www.facebook.com/share/r/1JmgcEkTCE/",
+      "date": "2026-08-19",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-08-19",
+        "published_basis": "manual",
+        "text_sha256": "3501d5cdfad3b8762ec8592dbb068bad2120471108e324a16b58ea3f752086a8",
+        "text_chars": 282,
+        "where": "使用者手動複製自 www.facebook.com（you-new.txt）"
+      }
+    },
+    {
+      "id": "you-fb-20260906",
+      "outlet": "游淑貞（臉書貼文）",
+      "outlet_group": "candidate:you",
+      "candidate_id": "you",
+      "title": "乾淨選舉 #不是口號，而是 #每一位候選人的基本責任】",
+      "url": "https://www.facebook.com/share/p/1c2bKNa49d/",
+      "date": "2026-09-06",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-06",
+        "published_basis": "manual",
+        "text_sha256": "9e58443a32558ed59906e7e339a8a6a3f002be4486133eef5cc6b0fa76a3ec00",
+        "text_chars": 600,
+        "where": "使用者手動複製自 www.facebook.com（you-new.txt）"
+      }
+    },
+    {
+      "id": "wei-fb-20261029",
+      "outlet": "魏嘉賢（臉書貼文）",
+      "outlet_group": "candidate:wei",
+      "candidate_id": "wei",
+      "title": "才花1,500萬元修復，颱風一來又毀了！",
+      "url": "https://www.facebook.com/share/p/1bjqGoVJie/",
+      "date": "2026-10-29",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-30",
+        "via": "manual",
+        "published": "2026-10-29",
+        "published_basis": "manual",
+        "text_sha256": "f3b8a740214e901b4e5c691370052297ef8b104e9c99e5f09797fb5e6364f9c9",
+        "text_chars": 321,
+        "where": "使用者手動複製自 www.facebook.com（examples/weijiaxian-fb.txt）"
+      }
+    },
+    {
+      "id": "zj-fb-20261029-a",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "「翻轉花蓮，能翻轉我的薪水嗎？」",
+      "url": "https://www.facebook.com/share/p/19uVR4iY1i/",
+      "date": "2026-10-29",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-30",
+        "via": "manual",
+        "published": "2026-10-29",
+        "published_basis": "manual",
+        "text_sha256": "edbf87b511e0b43898fd850e243947cc4972c7e889a5541351b21b7c5a265be0",
+        "text_chars": 452,
+        "where": "使用者手動複製自 www.facebook.com（examples/zhang.jun-fb/zhang.jun.txt）"
+      }
+    },
+    {
+      "id": "zj-fb-20261029-b",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "走訪重慶市場關心攤商生計",
+      "url": "https://www.facebook.com/share/p/1FrCGNeMNE/",
+      "date": "2026-10-29",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-30",
+        "via": "manual",
+        "published": "2026-10-29",
+        "published_basis": "manual",
+        "text_sha256": "bc079483b662a56c0b83fbefb0d34b0f22f66b2fc416dc67e0f22c9440e851c5",
+        "text_chars": 331,
+        "where": "使用者手動複製自 www.facebook.com（examples/zhang.jun-fb/zhang.jun.txt）"
+      }
+    },
+    {
+      "id": "wei-fb-20261030-a",
+      "outlet": "魏嘉賢（臉書貼文）",
+      "outlet_group": "candidate:wei",
+      "candidate_id": "wei",
+      "title": "縣府預算創新高  花蓮漁港卻2年沒冰用！",
+      "url": "https://www.facebook.com/share/p/19tx7fYUH5/",
+      "date": "2026-10-30",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-31",
+        "via": "manual",
+        "published": "2026-10-30",
+        "published_basis": "manual",
+        "text_sha256": "8a2f8ea72527372aa6bf955efd8daaecf652322b47f26901f9444f4461e8400f",
+        "text_chars": 444,
+        "where": "使用者手動複製自 www.facebook.com（examples/weijiaxian-fb.txt）"
+      }
+    },
+    {
+      "id": "wei-fb-20261030-b",
+      "outlet": "魏嘉賢（臉書貼文）",
+      "outlet_group": "candidate:wei",
+      "candidate_id": "wei",
+      "title": "花蓮掛國旗預算是臺北市的5.5倍 🇹🇼",
+      "url": "https://www.facebook.com/share/p/1EwKzXvMNR/",
+      "date": "2026-10-30",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-31",
+        "via": "manual",
+        "published": "2026-10-30",
+        "published_basis": "manual",
+        "text_sha256": "e8325c6f7e738dd6af481c4b1a324c0f9e1e455cfc448ca725486993b8eefcc4",
+        "text_chars": 515,
+        "where": "使用者手動複製自 www.facebook.com（examples/weijiaxian-fb.txt）"
+      }
+    },
+    {
+      "id": "zj-fb-20261030-a",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "美崙掃街 跨黨派議員陪同 感謝大家",
+      "url": "https://www.facebook.com/share/p/1CFF9spiwn/",
+      "date": "2026-10-30",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-31",
+        "via": "manual",
+        "published": "2026-10-30",
+        "published_basis": "manual",
+        "text_sha256": "fd9db416b1cddfd6ff7169c8cedfa2881ade396df925e0351558f6066cc1aab0",
+        "text_chars": 364,
+        "where": "使用者手動複製自 www.facebook.com（examples/zhang.jun-fb/zhang.jun.txt）"
+      }
+    },
+    {
+      "id": "zj-fb-20261030-b",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "我最了解花蓮的需要，也準備好結合專業團隊、承擔縣政責任，讓花蓮在未來四年內脫胎換骨！",
+      "url": "https://www.facebook.com/share/p/1K6Yh9pfP4/",
+      "date": "2026-10-30",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-31",
+        "via": "manual",
+        "published": "2026-10-30",
+        "published_basis": "manual",
+        "text_sha256": "2dc0effa8884d23df6f193b67c155a21d47a0e9156e911b06d69eb9e4557996e",
+        "text_chars": 384,
+        "where": "使用者手動複製自 www.facebook.com（examples/zhang.jun-fb/zhang.jun.txt）"
+      }
+    },
+    {
+      "id": "ltn-20260606",
+      "outlet": "自由時報",
+      "outlet_group": "自由時報",
+      "title": "不忍花蓮受災 張峻提低軌衛星網、智慧預警政見",
+      "url": "https://news.ltn.com.tw/news/Hualien/breakingnews/5462639",
+      "date": "2026-06-06",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-06-06",
+        "published_basis": "manual",
+        "text_sha256": "0312bba6aebd34bac3ae4bc85a861aaad7de09c2d3930197b2423d2686a2d8fc",
+        "text_chars": 592,
+        "where": "使用者貼上的新聞全文（examples/zhenjian/zhenjian.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）"
+      }
+    },
+    {
+      "id": "ltn-20260808",
+      "outlet": "自由時報",
+      "outlet_group": "自由時報",
+      "title": "減輕「付清節」負擔！張峻端政策牛肉花蓮0-18歲免健保費",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5532994",
+      "date": "2026-08-08",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-08-08",
+        "published_basis": "manual",
+        "text_sha256": "22061ffa4242f7d7c33c6918b0b77e2a4d8a01640dde54f072e6fae1fc0d338e",
+        "text_chars": 686,
+        "where": "使用者貼上的新聞全文（examples/zhenjian/zhenjian.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）"
+      }
+    },
+    {
+      "id": "udn-20260918",
+      "outlet": "聯合報",
+      "outlet_group": "聯合報",
+      "title": "花蓮天災多…魏嘉賢提智慧儀表板主張專責防災 張峻要為縣民保意外險",
+      "url": "https://udn.com/news/story/124652/9763271",
+      "date": "2026-09-18",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-18",
+        "published_basis": "manual",
+        "text_sha256": "230428353a4993848276fedb4b8f16a0cc2406b260a629af9218d665e7ce078b",
+        "text_chars": 937,
+        "where": "使用者貼上的新聞全文（examples/zhenjian/zhenjian.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）"
+      }
+    },
+    {
+      "id": "cna-20260930",
+      "outlet": "中央社",
+      "outlet_group": "中央社",
+      "title": "張峻承諾提高敬老愛心卡額度　游淑貞提瑞穗發展規劃",
+      "url": "https://www.cna.com.tw/news/aipl/202609300236.aspx",
+      "date": "2026-09-30",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-30",
+        "published_basis": "manual",
+        "text_sha256": "ae0eba4cbb9fcdb65f50effb117cea8af9efd0ce5a66c18550a1bd9422f6ecc7",
+        "text_chars": 670,
+        "where": "使用者貼上的新聞全文（examples/zhenjian/zhenjian.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）"
+      }
+    },
+    {
+      "id": "ltn-20260916",
+      "outlet": "自由時報",
+      "outlet_group": "自由時報",
+      "title": "花蓮台9線空等紅燈惹民怨 張峻提改善專案",
+      "url": "https://news.ltn.com.tw/news/Hualien/breakingnews/5575863",
+      "date": "2026-09-16",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-16",
+        "published_basis": "manual",
+        "text_sha256": "ac5b50cbecb0b8389be10a3152fffbd3c91cd4edea46c92ea43c3430e6c926b8",
+        "text_chars": 797,
+        "where": "使用者貼上的新聞全文（examples/zhenjian/zhenjian.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）"
+      }
+    },
+    {
+      "id": "ltn-20260924",
+      "outlet": "自由時報",
+      "outlet_group": "自由時報",
+      "title": "花蓮縣長選戰拚交通！張峻推台9線智慧號誌 魏嘉賢拋高鐵延伸",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5584968",
+      "date": "2026-09-24",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-24",
+        "published_basis": "manual",
+        "text_sha256": "bd7069d8732c556fc9b3aad4f0708999ee916c10845313bf501a8b592f65468e",
+        "text_chars": 810,
+        "where": "使用者貼上的新聞全文（examples/zhenjian/zhenjian.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）"
+      }
+    },
+    {
+      "id": "scoop-20260921",
+      "outlet": "獨家報導",
+      "outlet_group": "匯流新聞網",
+      "title": "張峻「防災韌性花蓮」政見　建高風險清單、中央地方單一協調窗口",
+      "url": "https://www.scooptw.com/cnews/530257/%E5%BC%B5%E5%B3%BB%E3%80%8C%E9%98%B2%E7%81%BD%E9%9F%8C%E6%80%A7%E8%8A%B1%E8%93%AE%E3%80%8D%E6%94%BF%E8%A6%8B%E3%80%80%E5%BB%BA%E9%AB%98%E9%A2%A8%E9%9A%AA%E6%B8%85%E5%96%AE%E3%80%81%E4%B8%AD%E5%A4%AE/",
+      "date": "2026-09-21",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-21",
+        "published_basis": "manual",
+        "text_sha256": "1424e28b529c40e5c13b7d5cce7627902d4375697ab6a78addf8411ff25600d0",
+        "text_chars": 868,
+        "where": "使用者貼上的新聞全文（examples/zhenjian/zhenjian.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "網址路徑為 /cnews/，保守計為匯流新聞網同一來源群"
+      }
+    },
+    {
+      "id": "cna-20260921",
+      "outlet": "中央社",
+      "outlet_group": "中央社",
+      "title": "國家防災日 花蓮縣長參選人提政策韌性治理",
+      "url": "https://www.cna.com.tw/news/aipl/202609210250.aspx",
+      "date": "2026-09-21",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-21",
+        "published_basis": "manual",
+        "text_sha256": "53f8adf1da584420bb75c42b1f21a0c16771db24e88d11d07b8078e2ba2aeaae",
+        "text_chars": 1013,
+        "where": "使用者貼上的新聞全文（examples/zhenjian/zhenjian.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）"
+      }
+    },
+    {
+      "id": "cna-20260928",
+      "outlet": "中央社",
+      "outlet_group": "中央社",
+      "title": "教師節拚政見　花蓮縣長3參選人提教育願景",
+      "url": "https://www.cna.com.tw/news/aipl/202609280069.aspx",
+      "date": "2026-09-28",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-28",
+        "published_basis": "manual",
+        "text_sha256": "e968c0be2c53028ec89792589355c48381a448736de20922d1a22e54f57ca466",
+        "text_chars": 985,
+        "where": "使用者貼上的新聞全文（examples/zhenjian/zhenjian.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）"
+      }
+    },
+    {
+      "id": "yahoo-20260929",
+      "outlet": "Yahoo新聞（轉載匯流新聞網）",
+      "outlet_group": "匯流新聞網",
+      "title": "魏嘉賢、張峻簽署花蓮教育界10點訴求　游淑貞推「教師減壓支持計畫」",
+      "url": "https://tw.news.yahoo.com/%E7%B0%BD%E7%BD%B2%E8%8A%B1%E8%93%AE%E6%95%99%E8%82%B2%E7%95%8C10%E9%BB%9E%E8%A8%B4%E6%B1%82-%E9%AD%8F%E5%98%89%E8%B3%A2%E6%89%BF%E8%AB%BE%E9%99%8D%E4%BD%8E%E5%B8%AB%E7%94%9F%E6%AF%94-%E8%A3%9C%E8%B6%B3%E5%B0%88%E6%A5%AD%E6%94%AF%E6%8C%81%E4%BA%BA%E5%8A%9B-014621456.html",
+      "date": "2026-09-29",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-29",
+        "published_basis": "manual",
+        "text_sha256": "f7e4b42a0ae519527fb35f4bed928d19b36ed4fe61ba7c8e26d1ebf6cf3a91eb",
+        "text_chars": 1294,
+        "where": "使用者貼上的新聞全文（examples/zhenjian/zhenjian.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "內文署名「CNEWS匯流新聞網記者」，計為匯流新聞網同一來源群"
+      }
+    },
+    {
+      "id": "na-20260515",
+      "outlet": "壹蘋果新聞網",
+      "outlet_group": "壹蘋果新聞網",
+      "title": "他「拚」花蓮縣長　喊話當選第一步去掉綁樁及煙火式活動",
+      "url": "https://news.nextapple.com/politics/20260515/5D38A01442818FB201D6FD67FAE8BA3C",
+      "date": "2026-05-15",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-05-15",
+        "published_basis": "manual",
+        "text_sha256": "0f64bb38517c4e130725238c005c89a4a18b3fa828aae5a3ea3b9548faa277db",
+        "text_chars": 1004,
+        "where": "使用者貼上的新聞全文（examples/zhenjian/zhenjian.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）"
+      }
+    },
+    {
+      "id": "cnews-20260515",
+      "outlet": "匯流新聞網",
+      "outlet_group": "匯流新聞網",
+      "title": "參選花蓮縣長大型看板上架　張峻承諾拚經濟、百業再興",
+      "url": "https://cnews.com.tw/250260515a05/",
+      "date": "2026-05-15",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-05-15",
+        "published_basis": "manual",
+        "text_sha256": "899bbd1b08a53695afaaccc2434efd48b6ee13d98f01402c96076442917315f3",
+        "text_chars": 762,
+        "where": "使用者貼上的新聞全文（examples/zhenjian/zhenjian.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "原貼檔日期列誤植為「5/5」；內文寫「今（15）日」，網址日期為 20260515，採 2026-05-15"
+      }
+    },
+    {
+      "id": "cnews-20260916",
+      "outlet": "匯流新聞網",
+      "outlet_group": "匯流新聞網",
+      "title": "游淑貞拋0至18歲花蓮教育藍圖　「成長支持鏈」打造完整體系",
+      "url": "https://cnews.com.tw/250260916a06/",
+      "date": "2026-09-16",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-16",
+        "published_basis": "manual",
+        "text_sha256": "0c04c72b5cb3279b4239abb9c4b5a65d6cd4e25e9f7bc205ec635073b1350d1e",
+        "text_chars": 904,
+        "where": "使用者貼上的新聞全文（examples/zhenjian/zhenjian.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）"
+      }
+    },
+    {
+      "id": "scoop-20260903",
+      "outlet": "獨家報導",
+      "outlet_group": "匯流新聞網",
+      "title": "徐榛蔚陪游淑貞登記參選花蓮縣長　持續一步一腳印走遍13鄉鎮爭支持",
+      "url": "https://www.scooptw.com/cnews/522768/%E5%BE%90%E6%A6%9B%E8%94%9A%E9%99%AA%E6%B8%B8%E6%B7%91%E8%B2%9E%E7%99%BB%E8%A8%98%E5%8F%83%E9%81%B8%E8%8A%B1%E8%93%AE%E7%B8%A3%E9%95%B7%E3%80%80%E6%8C%81%E7%BA%8C%E4%B8%80%E6%AD%A5%E4%B8%80%E8%85%B3/",
+      "date": "2026-09-03",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-03",
+        "published_basis": "manual",
+        "text_sha256": "700dede83241ac3dbb1bfa6f68f4e4336446869e33f6c275125c2c5d70dd58e5",
+        "text_chars": 1216,
+        "where": "使用者貼上的新聞全文（examples/zhenjian/zhenjian.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "網址路徑為 /cnews/，保守計為匯流新聞網同一來源群"
+      }
+    },
+    {
+      "id": "yahoo-20261004",
+      "outlet": "Yahoo新聞網",
+      "outlet_group": "Yahoo新聞網",
+      "title": "游淑貞推宗教場域參與防災：平時弱勢關懷、災時避難撫慰",
+      "url": "https://tw.news.yahoo.com/%E6%B8%B8%E6%B7%91%E8%B2%9E%E6%8E%A8%E5%AE%97%E6%95%99%E5%A0%B4%E5%9F%9F%E5%8F%83%E8%88%87%E9%98%B2%E7%81%BD-%E5%B9%B3%E6%99%82%E5%BC%B1%E5%8B%A2%E9%97%9C%E6%87%B7-%E7%81%BD%E6%99%82%E9%81%BF%E9%9B%A3%E6%92%AB%E6%85%B0-071529349.html",
+      "date": "2026-10-04",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-04",
+        "published_basis": "manual",
+        "text_sha256": "b4ab56889fe1cbcb557a419e730021678f5de9b362e03304e8794305ed75b67c",
+        "text_chars": 867,
+        "where": "使用者貼上的新聞全文（examples/zhenjian/zhenjian.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "頁面未見原始署名媒體，單獨計為一群"
+      }
+    },
+    {
+      "id": "ct-20261008",
+      "outlet": "中時新聞網",
+      "outlet_group": "中國時報",
+      "title": "游淑貞端長者福利政見 愛心乘車卡擬衝2000元 補助增至9成",
+      "url": "https://www.chinatimes.com/realtimenews/20261008004197-260407?chdtv",
+      "date": "2026-10-08",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-08",
+        "published_basis": "manual",
+        "text_sha256": "ee1ac0763be453e12d57b1881b51c2e8283e914d4348cf4434a266c5a1849ae4",
+        "text_chars": 765,
+        "where": "使用者貼上的新聞全文（examples/zhenjian/zhenjian.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）"
+      }
+    },
+    {
+      "id": "upmedia-20260801",
+      "outlet": "上報",
+      "outlet_group": "上報",
+      "title": "原住民族日發布政策白皮書　游淑貞提六大主軸：打造花蓮成南島文化新門戶",
+      "url": "https://www.upmedia.mg/tw/lifestyle/policy/265186",
+      "date": "2026-08-01",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-08-01",
+        "published_basis": "manual",
+        "text_sha256": "6533bacffa46b31ec50d014af7e41540ed3a15395e697977ba68c3017519c58b",
+        "text_chars": 1145,
+        "where": "使用者貼上的新聞全文（examples/其他相關.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）"
+      }
+    },
+    {
+      "id": "cna-20260913",
+      "outlet": "中央社",
+      "outlet_group": "中央社",
+      "title": "張峻邀童子賢助改革、魏嘉賢開箱未來基地　游淑貞提長照政策",
+      "url": "https://www.cna.com.tw/news/aloc/202609130075.aspx",
+      "date": "2026-09-13",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-13",
+        "published_basis": "manual",
+        "text_sha256": "0c5c00ad3dec8cac4c7e61d3a0ec2e5e07ce75705ab791e55b3616549a83ea9c",
+        "text_chars": 1048,
+        "where": "使用者貼上的新聞全文（examples/其他相關.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）"
+      }
+    },
+    {
+      "id": "udn-20260917",
+      "outlet": "聯合報",
+      "outlet_group": "聯合報",
+      "title": "花蓮縣長選情加溫 游淑貞、魏嘉賢、張峻政見比拚",
+      "url": "https://udn.com/vote2026/story/124652/9759336",
+      "date": "2026-09-17",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-17",
+        "published_basis": "manual",
+        "text_sha256": "c0c1517d76eb20b46312c0d86a13318b61b89de98bc0b2fc3a7bcf9fe3e929cf",
+        "text_chars": 640,
+        "where": "使用者貼上的新聞全文（examples/其他相關.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）"
+      }
+    },
+    {
+      "id": "tvbs-20260916",
+      "outlet": "TVBS新聞網",
+      "outlet_group": "TVBS",
+      "title": "終結大撒幣！魏嘉賢亮「未來存摺」全齡照護　拋花蓮新局",
+      "url": "https://news.tvbs.com.tw/politics/4022973",
+      "date": "2026-09-16",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-16",
+        "published_basis": "manual",
+        "text_sha256": "4f86a3367d7b4070bf61429fa4254c4372666a71a3088d878a044d00a0d58b40",
+        "text_chars": 376,
+        "where": "使用者貼上的新聞全文（examples/其他相關.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）"
+      }
+    },
+    {
+      "id": "ksfb-20261028",
+      "outlet": "更生日報（臉書分享）",
+      "outlet_group": "更生日報",
+      "title": "10/28 更生日報",
+      "url": "https://www.facebook.com/share/p/19Dd6EVbBm/",
+      "date": "2026-10-28",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-28",
+        "published_basis": "manual",
+        "text_sha256": "d03963050f0cf9dfac53b58fa19f3bb9dc63f42406543bbf7a10a59012764cce",
+        "text_chars": 799,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "網址是臉書分享連結，內容為更生日報記者何國豐報導；與更生日報網站同一媒體群"
+      }
+    },
+    {
+      "id": "ksnews-20261028",
+      "outlet": "更生日報",
+      "outlet_group": "更生日報",
+      "title": "10/28 更生日報",
+      "url": "https://www.ksnews.com.tw/e/154344",
+      "date": "2026-10-28",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-28",
+        "published_basis": "manual",
+        "text_sha256": "afbb63d68789401a204450dca2284b03614f9a2a60664512d9fa2d3f5d2856f9",
+        "text_chars": 1013,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）"
+      }
+    },
+    {
+      "id": "hub-20261019",
+      "outlet": "新頭條",
+      "outlet_group": "新頭條",
+      "title": "花蓮縣議會總質詢 魏嘉賢：兩大方向 留住人才",
+      "url": "https://www.thehubnews.net/archives/676491",
+      "date": "2026-10-19",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-19",
+        "published_basis": "manual",
+        "text_sha256": "62012dbe385a953c2017e23cd043fb289431579e966fe73bf4ee57bde0b9e813",
+        "text_chars": 772,
+        "where": "使用者貼上的新聞全文（examples/其他相關.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）"
+      }
+    },
+    {
+      "id": "udn-20260916",
+      "outlet": "聯合報",
+      "outlet_group": "聯合報",
+      "title": "花蓮縣長參選人魏嘉賢推未來存摺首波3本曝光 縣民每年最高1.32萬元",
+      "url": "https://udn.com/vote2026/story/124652/9758344",
+      "date": "2026-09-16",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-09-16",
+        "published_basis": "manual",
+        "text_sha256": "89f38a2c723e710c270e4059e20262464fdd208fd6ac42d26e79bd6597f34a36",
+        "text_chars": 657,
+        "where": "使用者貼上的新聞全文（examples/zhenjian/zhenjian.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）"
+      }
+    },
+    {
+      "id": "ksnews-20261029",
+      "outlet": "更生新聞網",
+      "outlet_group": "更生日報",
+      "title": "化仁砸1,500萬又沖毀！魏嘉賢籲建永久堤防",
+      "url": "https://www.ksnews.com.tw/e/154587",
+      "date": "2026-10-29",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-29",
+        "published_basis": "manual",
+        "text_sha256": "b9797a93590428c79b3fd25292fd7f013cb91f1d98907472d2cf8704bbe5416c",
+        "text_chars": 687,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "更生新聞網為更生日報的網路版（使用者說明），與更生日報計為同一媒體群"
+      }
+    },
+    {
+      "id": "ksfb-20261029",
+      "outlet": "更生日報（臉書分享）",
+      "outlet_group": "更生日報",
+      "title": "張峻走訪重慶市場 協助公所改善環境與活絡經營",
+      "url": "https://www.facebook.com/share/p/18MKhTTQRW/",
+      "date": "2026-10-29",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-29",
+        "published_basis": "manual",
+        "text_sha256": "3bb78068d11a0aa8fa1dc45777716a3522c5cb7e84e41435dcc1dafb7233d6dc",
+        "text_chars": 695,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "網址是臉書分享連結，內容為更生日報記者何國豐報導；與更生日報網站同一媒體群"
+      }
+    },
+    {
+      "id": "kssweep-20261029",
+      "outlet": "更生新聞網",
+      "outlet_group": "更生日報",
+      "title": "游淑貞連兩日徒步深入花蓮市街巷　基層熱情相挺",
+      "url": "https://www.ksnews.com.tw/e/154647",
+      "date": "2026-10-29",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-29",
+        "published_basis": "manual",
+        "text_sha256": "d4a92955929c2c55dfdbe437328be2b0911c1e8a32c89d24cd117e5bba011092",
+        "text_chars": 1238,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "更生新聞網為更生日報的網路版（使用者說明），與更生日報計為同一媒體群"
+      }
+    },
+    {
+      "id": "ksfb-20261030",
+      "outlet": "更生日報（臉書分享）",
+      "outlet_group": "更生日報",
+      "title": "跨黨派議員陪同 張峻美崙拜票同步關注環境與親子空間",
+      "url": "https://www.facebook.com/share/p/19uXjGe7UU/",
+      "date": "2026-10-30",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-30",
+        "published_basis": "manual",
+        "text_sha256": "d5c4b35da886b06505d9d383b757ab79208dcf5dc5f8eaf026149b71c2f83dfa",
+        "text_chars": 743,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "網址是臉書分享連結，內容為更生日報記者何國豐報導；與更生日報網站同一媒體群"
+      }
+    },
+    {
+      "id": "hsice-20261030",
+      "outlet": "花蓮最速報",
+      "outlet_group": "花蓮最速報",
+      "title": "花蓮漁港2年沒冰用 魏嘉賢質疑：供冰問題遲未解決",
+      "url": "https://www.hsnews.com.tw/political-news/hua-lian-yu-gang2nian-mei-bing-yong-wei-jia-xian-zhi-yi-gong-bing-wen-ti-chi-wei-jie-jue.html",
+      "date": "2026-10-30",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-30",
+        "published_basis": "manual",
+        "text_sha256": "c9bb97080fad0a70b0541f567813dd91789979b780736f5b060d5fae7b32651d",
+        "text_chars": 805,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）"
+      }
+    },
+    {
+      "id": "hsgov-20261030",
+      "outlet": "花蓮最速報",
+      "outlet_group": "花蓮最速報",
+      "title": "花蓮縣政府積極協調短期供冰、加速計畫審查",
+      "url": "https://hsn.tw/NVELl",
+      "date": "2026-10-30",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-30",
+        "published_basis": "manual",
+        "text_sha256": "3c64ac4d25fc091e9e648ed2917a46a6a507c653346804449fbe4c4736751d95",
+        "text_chars": 1281,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "花蓮縣政府（農業處）對漁港供冰問題的說明；本平台只作為 context 收錄"
+      }
+    },
+    {
+      "id": "hshuaren-20261030",
+      "outlet": "花蓮最速報",
+      "outlet_group": "花蓮最速報",
+      "title": "吉安化仁自行車道再受災 魏嘉賢籲建永久堤防",
+      "url": "https://www.hsnews.com.tw/lifestyle-and-community/ji-an-hua-ren-zi-xing-che-dao-zai-shou-zai-wei-jia-xian-yu-jian-yong-jiu-di-fang.html",
+      "date": "2026-10-30",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-30",
+        "published_basis": "manual",
+        "text_sha256": "b7f300a2a8b109ab5ba93ed97333db15027f792d10db07226c82075d56ecc1e2",
+        "text_chars": 681,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "內文與更生新聞網 10/29（ksnews-20261029）高度雷同（去空白後逐字相似度約 97%），疑為同一新聞稿；不重複計入媒體群數"
+      }
+    },
+    {
+      "id": "ksgov-20261030",
+      "outlet": "更生新聞網",
+      "outlet_group": "更生日報",
+      "title": "化仁自行車道遭颱風沖毀？ 吉安鄉所澄清",
+      "url": "https://www.ksnews.com.tw/e/155105",
+      "date": "2026-10-30",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-30",
+        "published_basis": "manual",
+        "text_sha256": "f98b3f4b572e0ac689d7ab64368310354331a33e177bd7ec63b62d677d5d3e23",
+        "text_chars": 1480,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "吉安鄉公所聲明（對魏嘉賢說法的反駁）；本平台只作為 context 收錄，不作為魏嘉賢政見的佐證"
+      }
+    },
+    {
+      "id": "kszhang-20261030",
+      "outlet": "更生新聞網",
+      "outlet_group": "更生日報",
+      "title": "張峻 四年讓花蓮脫胎換骨為目標！",
+      "url": "https://www.ksnews.com.tw/e/155003",
+      "date": "2026-10-30",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-30",
+        "published_basis": "manual",
+        "text_sha256": "db5cb7aa03ea481b997e3bbccf9d6ae949989f5017ccfcd13c521c72e25a4e6f",
+        "text_chars": 803,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "張峻接受華視專訪的報導（記者何國豐）"
+      }
+    },
+    {
+      "id": "ksyouth-20261030",
+      "outlet": "更生新聞網",
+      "outlet_group": "更生日報",
+      "title": "延續歷任縣長施政基礎游淑貞提青年五大行動",
+      "url": "https://www.ksnews.com.tw/e/155046",
+      "date": "2026-10-30",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-30",
+        "published_basis": "manual",
+        "text_sha256": "81f7114716ea69f21c241e107cfdf53840e79d5e150884ccdcdbc24488e0e30a",
+        "text_chars": 1114,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "更生新聞網為更生日報的網路版（使用者說明）"
+      }
+    },
+    {
+      "id": "hsyouth-20261030",
+      "outlet": "花蓮最速報",
+      "outlet_group": "花蓮最速報",
+      "title": "游淑貞提青年五大行動 ! 讓花蓮成為青年有夢可追、幸福成家的歸宿",
+      "url": "https://www.hsnews.com.tw/political-news/you-shu-zhen-ti-qing-nian-wu-da-xing-dong-rang-hua-lian-cheng-wei-qing-nian-you-meng-ke-zhui-xing-fu-cheng-jia-de-gui-su.html",
+      "date": "2026-10-30",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-30",
+        "published_basis": "manual",
+        "text_sha256": "32ed8099b250a2328407a5110f68d76aa1c342cc21e4432f1339046c0b5bd9b0",
+        "text_chars": 1124,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "內文與更生新聞網 10/30（ksyouth-20261030）幾乎逐字相同，疑為同一新聞稿；不重複計入媒體群數"
+      }
+    }
+  ]
+}
