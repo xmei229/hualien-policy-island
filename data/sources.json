@@ -2890,6 +2890,187 @@
       }
     },
     {
+      "id": "wei-fb-20261030-a",
+      "outlet": "魏嘉賢（臉書貼文）",
+      "outlet_group": "candidate:wei",
+      "candidate_id": "wei",
+      "title": "縣府預算創新高  花蓮漁港卻2年沒冰用！",
+      "url": "https://www.facebook.com/share/p/19tx7fYUH5/",
+      "date": "2026-10-30",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-31",
+        "via": "manual",
+        "published": "2026-10-30",
+        "published_basis": "manual",
+        "text_sha256": "8a2f8ea72527372aa6bf955efd8daaecf652322b47f26901f9444f4461e8400f",
+        "text_chars": 444,
+        "where": "使用者手動複製自 www.facebook.com（examples/weijiaxian-fb.txt）"
+      }
+    },
+    {
+      "id": "wei-fb-20261030-b",
+      "outlet": "魏嘉賢（臉書貼文）",
+      "outlet_group": "candidate:wei",
+      "candidate_id": "wei",
+      "title": "花蓮掛國旗預算是臺北市的5.5倍 🇹🇼",
+      "url": "https://www.facebook.com/share/p/1EwKzXvMNR/",
+      "date": "2026-10-30",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-31",
+        "via": "manual",
+        "published": "2026-10-30",
+        "published_basis": "manual",
+        "text_sha256": "e8325c6f7e738dd6af481c4b1a324c0f9e1e455cfc448ca725486993b8eefcc4",
+        "text_chars": 515,
+        "where": "使用者手動複製自 www.facebook.com（examples/weijiaxian-fb.txt）"
+      }
+    },
+    {
+      "id": "zj-fb-20261030-a",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "美崙掃街 跨黨派議員陪同 感謝大家",
+      "url": "https://www.facebook.com/share/p/1CFF9spiwn/",
+      "date": "2026-10-30",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-31",
+        "via": "manual",
+        "published": "2026-10-30",
+        "published_basis": "manual",
+        "text_sha256": "fd9db416b1cddfd6ff7169c8cedfa2881ade396df925e0351558f6066cc1aab0",
+        "text_chars": 364,
+        "where": "使用者手動複製自 www.facebook.com（examples/zhang.jun-fb/zhang.jun.txt）"
+      }
+    },
+    {
+      "id": "zj-fb-20261030-b",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "我最了解花蓮的需要，也準備好結合專業團隊、承擔縣政責任，讓花蓮在未來四年內脫胎換骨！",
+      "url": "https://www.facebook.com/share/p/1K6Yh9pfP4/",
+      "date": "2026-10-30",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-10-31",
+        "via": "manual",
+        "published": "2026-10-30",
+        "published_basis": "manual",
+        "text_sha256": "2dc0effa8884d23df6f193b67c155a21d47a0e9156e911b06d69eb9e4557996e",
+        "text_chars": 384,
+        "where": "使用者手動複製自 www.facebook.com（examples/zhang.jun-fb/zhang.jun.txt）"
+      }
+    },
+    {
+      "id": "wei-fb-20261031-a",
+      "outlet": "魏嘉賢（臉書貼文）",
+      "outlet_group": "candidate:wei",
+      "candidate_id": "wei",
+      "title": "萬聖節可以扮鬼，選舉不能搞鬼！",
+      "url": "https://www.facebook.com/share/p/1QN1ie8acv/",
+      "date": "2026-10-31",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-11-01",
+        "via": "manual",
+        "published": "2026-10-31",
+        "published_basis": "manual",
+        "text_sha256": "3cc9b348d2bf3ab29a58fa8e5f67fe3d8f63bca7721ba703886dc490121e8b8e",
+        "text_chars": 416,
+        "where": "使用者手動複製自 www.facebook.com（examples/weijiaxian-fb.txt）"
+      }
+    },
+    {
+      "id": "wei-fb-20261031-b",
+      "outlet": "魏嘉賢（臉書貼文）",
+      "outlet_group": "candidate:wei",
+      "candidate_id": "wei",
+      "title": "敬邀游淑貞鄉長一起騎自行車會勘！🚲",
+      "url": "https://www.facebook.com/share/p/1C5J3EdaBz/",
+      "date": "2026-10-31",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-11-01",
+        "via": "manual",
+        "published": "2026-10-31",
+        "published_basis": "manual",
+        "text_sha256": "3f9650225a8e3c754f8aaebd3e2b6aaabe17ca76b919a612a8d0e080a777f8f2",
+        "text_chars": 786,
+        "where": "使用者手動複製自 www.facebook.com（examples/weijiaxian-fb.txt）"
+      }
+    },
+    {
+      "id": "zj-fb-20261031-a",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "我用雙手打拼 要讓百業再興 感謝南區鄉親跨黨派跨族群相挺",
+      "url": "https://www.facebook.com/share/p/1BjrCaZA7Z/",
+      "date": "2026-10-31",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-11-01",
+        "via": "manual",
+        "published": "2026-10-31",
+        "published_basis": "manual",
+        "text_sha256": "10526afc8633f7f3d5af46fbab439a0be42d9a3fb2897638ea10c16f5f720fff",
+        "text_chars": 421,
+        "where": "使用者手動複製自 www.facebook.com（examples/zhang.jun-fb/zhang.jun.txt）"
+      }
+    },
+    {
+      "id": "zj-fb-20261031-b",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "今天來到玉里鎮藝文中心，參加115年議長盃花蓮南區四驅車、戰鬥陀螺交流賽，感受到現場滿滿的熱情與活力！假日帶著孩子一起玩、一起交流，就是最珍貴的陪伴。",
+      "url": "https://www.facebook.com/share/p/1RNNPM4PhR/",
+      "date": "2026-10-31",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-11-01",
+        "via": "manual",
+        "published": "2026-10-31",
+        "published_basis": "manual",
+        "text_sha256": "c70961c5a746b3f7f307113af0ee0627620cb731fc025b5ad8de1ffa835872e9",
+        "text_chars": 320,
+        "where": "使用者手動複製自 www.facebook.com（examples/zhang.jun-fb/zhang.jun.txt）"
+      }
+    },
+    {
+      "id": "you-fb-20261031",
+      "outlet": "游淑貞（臉書貼文）",
+      "outlet_group": "candidate:you",
+      "candidate_id": "you",
+      "title": "從今天的生活，擘劃未來黃金十年！",
+      "url": "https://www.facebook.com/share/p/1EXQCJCU6c/",
+      "date": "2026-10-31",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-11-01",
+        "via": "manual",
+        "published": "2026-10-31",
+        "published_basis": "manual",
+        "text_sha256": "cb5c9c5b6cc26ecae135a19e66f31d9c3d46bef355d322d3385130e2fe3f2140",
+        "text_chars": 1560,
+        "where": "使用者手動複製自 www.facebook.com（examples/CandyHualien-fb/CandyHualien-fb.txt，附 4 張圖）",
+        "note": "快照＝貼文文字＋附圖圖卡文字（人工逐字轉錄，非貼文本文）；原圖在 examples/CandyHualien-fb/fb-10-31-images/you-10-year-1～4.jfif，請抽查。"
+      }
+    },
+    {
       "id": "ltn-20260606",
       "outlet": "自由時報",
       "outlet_group": "自由時報",
@@ -3230,7 +3411,7 @@
         "published_basis": "manual",
         "text_sha256": "6533bacffa46b31ec50d014af7e41540ed3a15395e697977ba68c3017519c58b",
         "text_chars": 1145,
-        "where": "使用者貼上的新聞全文（examples/其他相關.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
         "snapshot_scope": "整篇貼文（含非本專案候選人的段落）"
       }
     },
@@ -3250,7 +3431,7 @@
         "published_basis": "manual",
         "text_sha256": "0c5c00ad3dec8cac4c7e61d3a0ec2e5e07ce75705ab791e55b3616549a83ea9c",
         "text_chars": 1048,
-        "where": "使用者貼上的新聞全文（examples/其他相關.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
         "snapshot_scope": "整篇貼文（含非本專案候選人的段落）"
       }
     },
@@ -3270,7 +3451,7 @@
         "published_basis": "manual",
         "text_sha256": "c0c1517d76eb20b46312c0d86a13318b61b89de98bc0b2fc3a7bcf9fe3e929cf",
         "text_chars": 640,
-        "where": "使用者貼上的新聞全文（examples/其他相關.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
         "snapshot_scope": "整篇貼文（含非本專案候選人的段落）"
       }
     },
@@ -3290,7 +3471,7 @@
         "published_basis": "manual",
         "text_sha256": "4f86a3367d7b4070bf61429fa4254c4372666a71a3088d878a044d00a0d58b40",
         "text_chars": 376,
-        "where": "使用者貼上的新聞全文（examples/其他相關.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
         "snapshot_scope": "整篇貼文（含非本專案候選人的段落）"
       }
     },
@@ -3351,7 +3532,7 @@
         "published_basis": "manual",
         "text_sha256": "62012dbe385a953c2017e23cd043fb289431579e966fe73bf4ee57bde0b9e813",
         "text_chars": 772,
-        "where": "使用者貼上的新聞全文（examples/其他相關.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
         "snapshot_scope": "整篇貼文（含非本專案候選人的段落）"
       }
     },
@@ -3436,6 +3617,236 @@
         "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
         "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
         "note": "更生新聞網為更生日報的網路版（使用者說明），與更生日報計為同一媒體群"
+      }
+    },
+    {
+      "id": "ksfb-20261030",
+      "outlet": "更生日報（臉書分享）",
+      "outlet_group": "更生日報",
+      "title": "跨黨派議員陪同 張峻美崙拜票同步關注環境與親子空間",
+      "url": "https://www.facebook.com/share/p/19uXjGe7UU/",
+      "date": "2026-10-30",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-30",
+        "published_basis": "manual",
+        "text_sha256": "d5c4b35da886b06505d9d383b757ab79208dcf5dc5f8eaf026149b71c2f83dfa",
+        "text_chars": 743,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "網址是臉書分享連結，內容為更生日報記者何國豐報導；與更生日報網站同一媒體群"
+      }
+    },
+    {
+      "id": "hsice-20261030",
+      "outlet": "花蓮最速報",
+      "outlet_group": "花蓮最速報",
+      "title": "花蓮漁港2年沒冰用 魏嘉賢質疑：供冰問題遲未解決",
+      "url": "https://www.hsnews.com.tw/political-news/hua-lian-yu-gang2nian-mei-bing-yong-wei-jia-xian-zhi-yi-gong-bing-wen-ti-chi-wei-jie-jue.html",
+      "date": "2026-10-30",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-30",
+        "published_basis": "manual",
+        "text_sha256": "c9bb97080fad0a70b0541f567813dd91789979b780736f5b060d5fae7b32651d",
+        "text_chars": 805,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）"
+      }
+    },
+    {
+      "id": "hsgov-20261030",
+      "outlet": "花蓮最速報",
+      "outlet_group": "花蓮最速報",
+      "title": "花蓮縣政府積極協調短期供冰、加速計畫審查",
+      "url": "https://hsn.tw/NVELl",
+      "date": "2026-10-30",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-30",
+        "published_basis": "manual",
+        "text_sha256": "3c64ac4d25fc091e9e648ed2917a46a6a507c653346804449fbe4c4736751d95",
+        "text_chars": 1281,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "花蓮縣政府（農業處）對漁港供冰問題的說明；本平台只作為 context 收錄"
+      }
+    },
+    {
+      "id": "hshuaren-20261030",
+      "outlet": "花蓮最速報",
+      "outlet_group": "花蓮最速報",
+      "title": "吉安化仁自行車道再受災 魏嘉賢籲建永久堤防",
+      "url": "https://www.hsnews.com.tw/lifestyle-and-community/ji-an-hua-ren-zi-xing-che-dao-zai-shou-zai-wei-jia-xian-yu-jian-yong-jiu-di-fang.html",
+      "date": "2026-10-30",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-30",
+        "published_basis": "manual",
+        "text_sha256": "b7f300a2a8b109ab5ba93ed97333db15027f792d10db07226c82075d56ecc1e2",
+        "text_chars": 681,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "內文與更生新聞網 10/29（ksnews-20261029）高度雷同（去空白後逐字相似度約 97%），疑為同一新聞稿；不重複計入媒體群數"
+      }
+    },
+    {
+      "id": "ksgov-20261030",
+      "outlet": "更生新聞網",
+      "outlet_group": "更生日報",
+      "title": "化仁自行車道遭颱風沖毀？ 吉安鄉所澄清",
+      "url": "https://www.ksnews.com.tw/e/155105",
+      "date": "2026-10-30",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-30",
+        "published_basis": "manual",
+        "text_sha256": "f98b3f4b572e0ac689d7ab64368310354331a33e177bd7ec63b62d677d5d3e23",
+        "text_chars": 1480,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "吉安鄉公所聲明（對魏嘉賢說法的反駁）；本平台只作為 context 收錄，不作為魏嘉賢政見的佐證"
+      }
+    },
+    {
+      "id": "kszhang-20261030",
+      "outlet": "更生新聞網",
+      "outlet_group": "更生日報",
+      "title": "張峻 四年讓花蓮脫胎換骨為目標！",
+      "url": "https://www.ksnews.com.tw/e/155003",
+      "date": "2026-10-30",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-30",
+        "published_basis": "manual",
+        "text_sha256": "db5cb7aa03ea481b997e3bbccf9d6ae949989f5017ccfcd13c521c72e25a4e6f",
+        "text_chars": 803,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "張峻接受華視專訪的報導（記者何國豐）"
+      }
+    },
+    {
+      "id": "ksyouth-20261030",
+      "outlet": "更生新聞網",
+      "outlet_group": "更生日報",
+      "title": "延續歷任縣長施政基礎游淑貞提青年五大行動",
+      "url": "https://www.ksnews.com.tw/e/155046",
+      "date": "2026-10-30",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-30",
+        "published_basis": "manual",
+        "text_sha256": "81f7114716ea69f21c241e107cfdf53840e79d5e150884ccdcdbc24488e0e30a",
+        "text_chars": 1114,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "更生新聞網為更生日報的網路版（使用者說明）"
+      }
+    },
+    {
+      "id": "hsyouth-20261030",
+      "outlet": "花蓮最速報",
+      "outlet_group": "花蓮最速報",
+      "title": "游淑貞提青年五大行動 ! 讓花蓮成為青年有夢可追、幸福成家的歸宿",
+      "url": "https://www.hsnews.com.tw/political-news/you-shu-zhen-ti-qing-nian-wu-da-xing-dong-rang-hua-lian-cheng-wei-qing-nian-you-meng-ke-zhui-xing-fu-cheng-jia-de-gui-su.html",
+      "date": "2026-10-30",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-30",
+        "published_basis": "manual",
+        "text_sha256": "32ed8099b250a2328407a5110f68d76aa1c342cc21e4432f1339046c0b5bd9b0",
+        "text_chars": 1124,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "內文與更生新聞網 10/30（ksyouth-20261030）幾乎逐字相同，疑為同一新聞稿；不重複計入媒體群數"
+      }
+    },
+    {
+      "id": "tdn-20261031",
+      "outlet": "東台灣新聞網",
+      "outlet_group": "東台灣新聞網",
+      "title": "下戰帖｜清出柏油路面就好？魏嘉賢批化仁自行車道治標不治本，邀游淑貞騎車會勘！",
+      "url": "https://reurl.cc/Wz9a5y",
+      "date": "2026-10-31",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-31",
+        "published_basis": "manual",
+        "text_sha256": "45efc86a8062cd4653a1ecc2bbfa720137970e6259ce46fec7defc90847899fd",
+        "text_chars": 1047,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "魏嘉賢對吉安鄉公所聲明的回應（化仁自行車道）；原貼檔標題在 reurl.cc/Wz9a5y、內文在 reurl.cc/omEq9j，已合併"
+      }
+    },
+    {
+      "id": "tdnyou-20261031",
+      "outlet": "東台灣新聞網",
+      "outlet_group": "東台灣新聞網",
+      "title": "③號縣長候選人游淑貞領軍｜串聯南北基層力量，秀林新城壽豐鳳林萬榮五鄉鎮競總接力成立，凝聚團結氣勢迎戰選舉！",
+      "url": "https://reurl.cc/jV0qEZ",
+      "date": "2026-10-31",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-31",
+        "published_basis": "manual",
+        "text_sha256": "557e60ba25d04931708d3b90154641c7075767eada1d5c1de359fce500451058",
+        "text_chars": 1034,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "國民黨縣黨部五鄉鎮競總成立活動報導；內含黨部主委、傅崐萁、徐榛蔚等他人談話，本平台只引游淑貞的部分"
+      }
+    },
+    {
+      "id": "tdnice-20261031",
+      "outlet": "東台灣新聞網",
+      "outlet_group": "東台灣新聞網",
+      "title": "穩定漁民用冰需求｜花蓮縣政府攜手漁會持續推進冷鏈建設多元調度供冰來源，逐步改善漁港儲冰與漁獲保鮮環境！",
+      "url": "https://reurl.cc/YmzWda",
+      "date": "2026-10-31",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-10-31",
+        "published_basis": "manual",
+        "text_sha256": "66a1b3e60cadea7d5f5e0db1dff1ecb4ba3c3d1d6379b8f739d876fa24127dce",
+        "text_chars": 1604,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "花蓮縣政府（農業處）對漁港供冰問題的說明；本平台只作為 context 收錄"
       }
     }
   ]

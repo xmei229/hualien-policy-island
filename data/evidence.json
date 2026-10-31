@@ -7371,6 +7371,1007 @@
         "method": "新聞全文快照去空白後 includes",
         "hit": true
       }
+    },
+    {
+      "id": "hualien.n187",
+      "target_id": "disaster.n-env-whitepaper",
+      "source_id": "you-fb-20260422",
+      "relation": "supports",
+      "quote": "也請大家期待，淑貞的《環境永續政策白皮書》即將定案",
+      "checked": {
+        "at": "2026-10-31",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n188",
+      "target_id": "disaster.n-garbage-recycle",
+      "source_id": "zj-fb-20261030-a",
+      "relation": "supports",
+      "quote": "未來，我會積極處理花蓮市垃圾問題，重視工業區內環保去化廠的環境維護，守護生活品質",
+      "checked": {
+        "at": "2026-10-31",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n189",
+      "target_id": "disaster.n-garbage-recycle",
+      "source_id": "ksfb-20261030",
+      "relation": "supports",
+      "quote": "花蓮市垃圾問題，以及工業區內部分環保去化廠的環境維護，都是未來縣政府必須積極面對的工作",
+      "note": "報導補充：處理應「重視居民感受，釐清問題、落實管理」，仍未列具體措施。",
+      "checked": {
+        "at": "2026-10-31",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n190",
+      "target_id": "disaster.n-jian-east",
+      "source_id": "zj-fb-20261021-b",
+      "relation": "supports",
+      "quote": "我會把鄉親的聲音帶進縣政，逐項找出改善辦法，讓生活更安心",
+      "checked": {
+        "at": "2026-10-31",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n191",
+      "target_id": "fiscal.n-flag-budget",
+      "source_id": "wei-fb-20261030-b",
+      "relation": "supports",
+      "quote": "嘉賢認為，未來應重新檢討此案的預算規模與編列依據",
+      "checked": {
+        "at": "2026-10-31",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n192",
+      "target_id": "fiscal.n-flag-budget",
+      "source_id": "wei-fb-20261030-b",
+      "relation": "supports",
+      "quote": "今年花蓮縣政府懸掛國旗的採購決標金額高達506萬元，遠高於人口與都市規模更大的雙北地區，不僅是臺北市91萬元的5.5倍、新北市136萬元的3.7倍",
+      "note": "這是魏嘉賢貼文自己列的比較數字；本平台未查證決標金額，縣府說明未見於現有資料。",
+      "checked": {
+        "at": "2026-10-31",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n193",
+      "target_id": "tour_industry.n-fishport-ice",
+      "source_id": "wei-fb-20261030-a",
+      "relation": "supports",
+      "quote": "嘉賢也呼籲縣府儘速編列配合款，加速相關設施興建，同時與漁會研擬過渡期間的臨時冰塊供應方案，減輕漁民跨縣市購冰的負擔，確保漁獲保鮮與食品安全",
+      "checked": {
+        "at": "2026-10-31",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n194",
+      "target_id": "tour_industry.n-fishport-ice",
+      "source_id": "hsice-20261030",
+      "relation": "supports",
+      "quote": "他主張縣府應儘速完善製冰與冷凍庫設施，從根本解決漁民困境",
+      "checked": {
+        "at": "2026-10-31",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n195",
+      "target_id": "tour_industry.n-fishport-ice",
+      "source_id": "hsice-20261030",
+      "relation": "supports",
+      "quote": "縣府應與漁會儘速研擬過渡期間的供冰方案，避免漁民持續遠赴宜蘭購冰",
+      "checked": {
+        "at": "2026-10-31",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n196",
+      "target_id": "tour_industry.n-fishport-ice",
+      "source_id": "hsgov-20261030",
+      "relation": "context",
+      "quote": "縣府自114年即持續協助花蓮區漁會辦理計畫提報及修正作業",
+      "note": "縣府（農業處）說明：計畫已提報、審查中。與魏嘉賢「縣府應儘速」的呼籲屬不同立場的事實陳述，並列供對照，不判斷誰對。",
+      "checked": {
+        "at": "2026-10-31",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n197",
+      "target_id": "tour_industry.n-fishport-ice",
+      "source_id": "hsgov-20261030",
+      "relation": "context",
+      "quote": "目前縣府已完成計畫複審，預計於10月底前函送農業部漁業署審查",
+      "note": "縣府說明的進度。",
+      "checked": {
+        "at": "2026-10-31",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n198",
+      "target_id": "disaster.n-huaren-seawall",
+      "source_id": "hshuaren-20261030",
+      "relation": "partial",
+      "quote": "補齊吉安鄉化仁海堤至東華大橋段的堤防缺口，是他此次參選縣長的重要政見",
+      "note": "內文與更生新聞網 10/29 雷同，疑同一新聞稿，不計獨立媒體群。",
+      "checked": {
+        "at": "2026-10-31",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n199",
+      "target_id": "disaster.n-huaren-seawall",
+      "source_id": "ksgov-20261030",
+      "relation": "context",
+      "quote": "化仁自行車道僅因颱風長浪造成海砂、石塊覆蓋，並未發生道路本體沖毀情形",
+      "note": "吉安鄉公所 10/30 聲明：反駁魏嘉賢「自行車道遭強颱摧毀」的說法（受損程度的事實爭議）。本點主張是「補齊堤防缺口」，兩者並列供對照。",
+      "checked": {
+        "at": "2026-10-31",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n200",
+      "target_id": "disaster.n-huaren-seawall",
+      "source_id": "ksgov-20261030",
+      "relation": "context",
+      "quote": "化仁海堤南段堤防屬花蓮溪河岸堤防，花蓮溪為中央管河川，相關治理及堤防主管機關屬經濟部水利署",
+      "note": "公所聲明：南段堤防主管機關為經濟部水利署（中央），涉及誰有權責興建。",
+      "checked": {
+        "at": "2026-10-31",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n201",
+      "target_id": "welfare.n-park-library",
+      "source_id": "zj-fb-20261030-a",
+      "relation": "supports",
+      "quote": "我也會盤點縣有非公用土地與房舍，評估增設或改善親子公園，串聯即將完工的縣立圖書館資源，讓閱讀、休閒與親子活動融入日常",
+      "checked": {
+        "at": "2026-10-31",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n202",
+      "target_id": "welfare.n-park-library",
+      "source_id": "ksfb-20261030",
+      "relation": "supports",
+      "quote": "將盤點縣有非公用土地及房舍，依據區位、使用條件與居民需求，評估開闢或改善親子公園設施，增加家庭休閒與孩子活動的空間",
+      "note": "報導補充評估依據：區位、使用條件、居民需求。",
+      "checked": {
+        "at": "2026-10-31",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n203",
+      "target_id": "tour_industry.n-livelihood-first",
+      "source_id": "zj-fb-20261030-b",
+      "relation": "supports",
+      "quote": "若當選，我會先顧生計，讓客人回來、店家有生意、工作穩定，讓收入撐得起家庭，並同步推動家庭照顧、防災與重建",
+      "checked": {
+        "at": "2026-10-31",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n204",
+      "target_id": "tour_industry.n-livelihood-first",
+      "source_id": "kszhang-20261030",
+      "relation": "supports",
+      "quote": "最急迫的是先顧生計，讓客人回來、工作穩定、收入支撐生活",
+      "note": "更生新聞網轉述華視專訪。",
+      "checked": {
+        "at": "2026-10-31",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n205",
+      "target_id": "fiscal.n-central-township",
+      "source_id": "zj-fb-20261030-b",
+      "relation": "supports",
+      "quote": "我會與中央合作，跟各公所建立夥伴關係，讓各項政策真正回應鄉親的需要",
+      "checked": {
+        "at": "2026-10-31",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n206",
+      "target_id": "fiscal.z6",
+      "source_id": "zj-fb-20261030-b",
+      "relation": "partial",
+      "quote": "我會結合花蓮改革治理聯盟的專業人才，讓決策公開、資源公平，好的政策延續，不足的改善",
+      "note": "本點是「聯盟邀專家檢視白皮書」；貼文說的是結合聯盟人才、決策公開、資源公平，範圍更概括。",
+      "checked": {
+        "at": "2026-10-31",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n207",
+      "target_id": "fiscal.z6",
+      "source_id": "kszhang-20261030",
+      "relation": "partial",
+      "quote": "透過花蓮改革治理聯盟結合地方與各領域人才",
+      "note": "媒體轉述專訪。",
+      "checked": {
+        "at": "2026-10-31",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n208",
+      "target_id": "welfare.s5",
+      "source_id": "ksyouth-20261030",
+      "relation": "supports",
+      "quote": "針對青年安居，她提出青壯年購屋利息補助",
+      "checked": {
+        "at": "2026-10-31",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n209",
+      "target_id": "welfare.s6",
+      "source_id": "ksyouth-20261030",
+      "relation": "supports",
+      "quote": "規劃青年創業貸款、專業輔導及創業空間",
+      "checked": {
+        "at": "2026-10-31",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n210",
+      "target_id": "welfare.s7",
+      "source_id": "ksyouth-20261030",
+      "relation": "supports",
+      "quote": "另規劃Young青年券，鼓勵青年參與運動、藝文活動及在地消費",
+      "checked": {
+        "at": "2026-10-31",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n211",
+      "target_id": "edu.n-lunch",
+      "source_id": "ksyouth-20261030",
+      "relation": "partial",
+      "quote": "並結合開學準備金、營養午餐、校園照顧與育兒支持，減輕年輕家庭負擔",
+      "note": "報導把營養午餐列為青年安居配套之一，未說「擴大補助範圍」。",
+      "checked": {
+        "at": "2026-10-31",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n212",
+      "target_id": "edu.y2",
+      "source_id": "ksyouth-20261030",
+      "relation": "partial",
+      "quote": "她主張推動AI教育、雙語學習及技職人才培育，縮短城鄉與部落數位落差",
+      "note": "報導是概括主張；本點列「特色課程」。",
+      "checked": {
+        "at": "2026-10-31",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n213",
+      "target_id": "welfare.s5",
+      "source_id": "hsyouth-20261030",
+      "relation": "supports",
+      "quote": "針對青年安居，她提出青壯年購屋利息補助",
+      "note": "與更生新聞網同稿，不計獨立媒體群。",
+      "checked": {
+        "at": "2026-10-31",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n214",
+      "target_id": "welfare.s6",
+      "source_id": "hsyouth-20261030",
+      "relation": "supports",
+      "quote": "規劃青年創業貸款、專業輔導及創業空間",
+      "note": "與更生新聞網同稿，不計獨立媒體群。",
+      "checked": {
+        "at": "2026-10-31",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n215",
+      "target_id": "welfare.s7",
+      "source_id": "hsyouth-20261030",
+      "relation": "supports",
+      "quote": "另規劃Young青年券，鼓勵青年參與運動、藝文活動及在地消費",
+      "note": "與更生新聞網同稿，不計獨立媒體群。",
+      "checked": {
+        "at": "2026-10-31",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n216",
+      "target_id": "edu.n-lunch",
+      "source_id": "hsyouth-20261030",
+      "relation": "partial",
+      "quote": "並結合開學準備金、營養午餐、校園照顧與育兒支持，減輕年輕家庭負擔",
+      "note": "報導把營養午餐列為青年安居配套之一，未說「擴大補助範圍」。與更生新聞網同稿，不計獨立媒體群。",
+      "checked": {
+        "at": "2026-10-31",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n217",
+      "target_id": "edu.y2",
+      "source_id": "hsyouth-20261030",
+      "relation": "partial",
+      "quote": "她主張推動AI教育、雙語學習及技職人才培育，縮短城鄉與部落數位落差",
+      "note": "報導是概括主張；本點列「特色課程」。與更生新聞網同稿，不計獨立媒體群。",
+      "checked": {
+        "at": "2026-10-31",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n218",
+      "target_id": "welfare.n-content-industry",
+      "source_id": "ksyouth-20261030",
+      "relation": "supports",
+      "quote": "吸引影視、設計、自媒體與數位創作團隊進駐，讓青年創意轉化為在地產業與工作機會",
+      "checked": {
+        "at": "2026-10-31",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n219",
+      "target_id": "welfare.n-content-industry",
+      "source_id": "hsyouth-20261030",
+      "relation": "supports",
+      "quote": "吸引影視、設計、自媒體與數位創作團隊進駐，讓青年創意轉化為在地產業與工作機會",
+      "note": "與更生新聞網同稿，不計獨立媒體群。",
+      "checked": {
+        "at": "2026-10-31",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n220",
+      "target_id": "welfare.n-school-start",
+      "source_id": "ksyouth-20261030",
+      "relation": "supports",
+      "quote": "並結合開學準備金、營養午餐、校園照顧與育兒支持，減輕年輕家庭負擔",
+      "checked": {
+        "at": "2026-10-31",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n221",
+      "target_id": "welfare.n-school-start",
+      "source_id": "hsyouth-20261030",
+      "relation": "supports",
+      "quote": "並結合開學準備金、營養午餐、校園照顧與育兒支持，減輕年輕家庭負擔",
+      "note": "與更生新聞網同稿，不計獨立媒體群。",
+      "checked": {
+        "at": "2026-10-31",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n222",
+      "target_id": "fiscal.n-gold-eff-1",
+      "source_id": "you-fb-20261031",
+      "relation": "supports",
+      "quote": "統整十三鄉鎮市建設資源",
+      "checked": {
+        "at": "2026-11-01",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n223",
+      "target_id": "fiscal.n-gold-eff-2",
+      "source_id": "you-fb-20261031",
+      "relation": "supports",
+      "quote": "延攬專業人才，打造高效清廉政府",
+      "checked": {
+        "at": "2026-11-01",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n224",
+      "target_id": "fiscal.n-gold-eff-3",
+      "source_id": "you-fb-20261031",
+      "relation": "supports",
+      "quote": "擴大公民參與、資訊公開",
+      "checked": {
+        "at": "2026-11-01",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n225",
+      "target_id": "fiscal.n-gold-smart-1",
+      "source_id": "you-fb-20261031",
+      "relation": "supports",
+      "quote": "導入AI與數位科技",
+      "checked": {
+        "at": "2026-11-01",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n226",
+      "target_id": "fiscal.n-gold-smart-2",
+      "source_id": "you-fb-20261031",
+      "relation": "supports",
+      "quote": "推動智慧治理與縣政數位轉型",
+      "checked": {
+        "at": "2026-11-01",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n227",
+      "target_id": "fiscal.n-gold-smart-3",
+      "source_id": "you-fb-20261031",
+      "relation": "supports",
+      "quote": "成立花蓮智庫發展委員會",
+      "checked": {
+        "at": "2026-11-01",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n228",
+      "target_id": "fiscal.n-gold-smart-4",
+      "source_id": "you-fb-20261031",
+      "relation": "supports",
+      "quote": "推動智慧公共服務",
+      "checked": {
+        "at": "2026-11-01",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n229",
+      "target_id": "fiscal.n-gold-smart-5",
+      "source_id": "you-fb-20261031",
+      "relation": "supports",
+      "quote": "打造數位轉型的政府",
+      "checked": {
+        "at": "2026-11-01",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n230",
+      "target_id": "disaster.n-gold-res-1",
+      "source_id": "you-fb-20261031",
+      "relation": "supports",
+      "quote": "強化防災、水資源、河川、森林及海岸治理",
+      "checked": {
+        "at": "2026-11-01",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n231",
+      "target_id": "disaster.n-gold-res-2",
+      "source_id": "you-fb-20261031",
+      "relation": "supports",
+      "quote": "成立防災專業團隊",
+      "checked": {
+        "at": "2026-11-01",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n232",
+      "target_id": "disaster.n-gold-res-3",
+      "source_id": "you-fb-20261031",
+      "relation": "supports",
+      "quote": "建制老屋健檢、延壽、耐震補強",
+      "checked": {
+        "at": "2026-11-01",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n233",
+      "target_id": "care.n-gold-soc-1",
+      "source_id": "you-fb-20261031",
+      "relation": "supports",
+      "quote": "長照據點擴充",
+      "checked": {
+        "at": "2026-11-01",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n234",
+      "target_id": "care.n-gold-soc-2",
+      "source_id": "you-fb-20261031",
+      "relation": "supports",
+      "quote": "雲端醫療3.0",
+      "checked": {
+        "at": "2026-11-01",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n235",
+      "target_id": "welfare.n-gold-soc-3",
+      "source_id": "you-fb-20261031",
+      "relation": "supports",
+      "quote": "育兒、青年、長者、弱勢福利加碼",
+      "checked": {
+        "at": "2026-11-01",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n236",
+      "target_id": "edu.n-gold-hope-1",
+      "source_id": "you-fb-20261031",
+      "relation": "supports",
+      "quote": "優化校園環境",
+      "checked": {
+        "at": "2026-11-01",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n237",
+      "target_id": "edu.n-gold-hope-2",
+      "source_id": "you-fb-20261031",
+      "relation": "supports",
+      "quote": "教師減量並提升教職福利",
+      "checked": {
+        "at": "2026-11-01",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n238",
+      "target_id": "welfare.n-gold-hope-3",
+      "source_id": "you-fb-20261031",
+      "relation": "supports",
+      "quote": "青年創業與數位就業支持",
+      "checked": {
+        "at": "2026-11-01",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n239",
+      "target_id": "tour_industry.n-gold-hope-4",
+      "source_id": "you-fb-20261031",
+      "relation": "supports",
+      "quote": "推動「花蓮+購」集點平台",
+      "checked": {
+        "at": "2026-11-01",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n240",
+      "target_id": "tour_industry.n-gold-int-1",
+      "source_id": "you-fb-20261031",
+      "relation": "supports",
+      "quote": "拓展城市外交，深化國際交流合作",
+      "checked": {
+        "at": "2026-11-01",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n241",
+      "target_id": "tour_industry.n-gold-int-2",
+      "source_id": "you-fb-20261031",
+      "relation": "supports",
+      "quote": "開拓國際直航，帶動觀光、招商與投資",
+      "checked": {
+        "at": "2026-11-01",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n242",
+      "target_id": "tour_industry.n-gold-int-3",
+      "source_id": "you-fb-20261031",
+      "relation": "supports",
+      "quote": "接軌國際人才與產業，提升國際能見度",
+      "checked": {
+        "at": "2026-11-01",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n243",
+      "target_id": "traffic.n-gold-mob-1",
+      "source_id": "you-fb-20261031",
+      "relation": "supports",
+      "quote": "完善交通路網與公共運輸",
+      "checked": {
+        "at": "2026-11-01",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n244",
+      "target_id": "traffic.n-gold-mob-2",
+      "source_id": "you-fb-20261031",
+      "relation": "supports",
+      "quote": "推動觀光輕軌電車，串聯各鄉鎮東西橫向交通路網",
+      "checked": {
+        "at": "2026-11-01",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n245",
+      "target_id": "sports.n-gold-mob-3",
+      "source_id": "you-fb-20261031",
+      "relation": "supports",
+      "quote": "培育競技人才，爭取國際賽事，發展賽事經濟",
+      "checked": {
+        "at": "2026-11-01",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n246",
+      "target_id": "ethnic.n-gold-com-1",
+      "source_id": "you-fb-20261031",
+      "relation": "supports",
+      "quote": "促進原民、客家、閩南、外省、新住民多元共融",
+      "checked": {
+        "at": "2026-11-01",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n247",
+      "target_id": "ethnic.n-gold-com-2",
+      "source_id": "you-fb-20261031",
+      "relation": "supports",
+      "quote": "培育在地工藝師與扶植部落文化資產",
+      "checked": {
+        "at": "2026-11-01",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n248",
+      "target_id": "tour_industry.n-gold-com-3",
+      "source_id": "you-fb-20261031",
+      "relation": "supports",
+      "quote": "推動一鄉一特色、一村一亮點",
+      "checked": {
+        "at": "2026-11-01",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n249",
+      "target_id": "tour_industry.n-gold-play-1",
+      "source_id": "you-fb-20261031",
+      "relation": "supports",
+      "quote": "打造四季觀光、月月精彩的旅遊品牌",
+      "checked": {
+        "at": "2026-11-01",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n250",
+      "target_id": "tour_industry.n-gold-play-2",
+      "source_id": "you-fb-20261031",
+      "relation": "supports",
+      "quote": "加碼縣內振興，拓展國際客源",
+      "checked": {
+        "at": "2026-11-01",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n251",
+      "target_id": "tour_industry.n-gold-play-3",
+      "source_id": "you-fb-20261031",
+      "relation": "supports",
+      "quote": "發展療癒慢活、夜間經濟及深度旅遊",
+      "checked": {
+        "at": "2026-11-01",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n252",
+      "target_id": "tour_industry.n-gold-sus-1",
+      "source_id": "you-fb-20261031",
+      "relation": "supports",
+      "quote": "升級農漁牧產業，強化產銷鏈結與品牌價值",
+      "checked": {
+        "at": "2026-11-01",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n253",
+      "target_id": "disaster.n-gold-sus-2",
+      "source_id": "you-fb-20261031",
+      "relation": "supports",
+      "quote": "推動淨零減碳，打造低碳宜居、安養的樂活縣城",
+      "checked": {
+        "at": "2026-11-01",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n254",
+      "target_id": "tour_industry.n-gold-sus-3",
+      "source_id": "you-fb-20261031",
+      "relation": "supports",
+      "quote": "發展有機、智慧及六級農業，打造花蓮百大農產好禮",
+      "checked": {
+        "at": "2026-11-01",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n255",
+      "target_id": "disaster.n-huaren-seawall",
+      "source_id": "wei-fb-20261031-b",
+      "relation": "partial",
+      "quote": "化仁海堤南端至東華大橋缺乏永久性堤防，這些都是事實",
+      "note": "貼文重申堤防缺口與反覆受災的問題；重點是質問鄉公所／游淑貞的立場，未再重述「補齊」的措施。",
+      "checked": {
+        "at": "2026-11-01",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n256",
+      "target_id": "disaster.n-huaren-seawall",
+      "source_id": "tdn-20261031",
+      "relation": "partial",
+      "quote": "化仁海堤南端至東華大橋缺乏永久性堤防，都是事實",
+      "note": "同一議題的後續報導；重點在回應吉安鄉公所，未再重述「補齊」的措施。",
+      "checked": {
+        "at": "2026-11-01",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n257",
+      "target_id": "ethnic.n-indigenous-5",
+      "source_id": "tdnyou-20261031",
+      "relation": "supports",
+      "quote": "游淑貞也提出土地權益保障、族語文化復振、青年返鄉創業及部落防災等施政方向",
+      "checked": {
+        "at": "2026-11-01",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n258",
+      "target_id": "fiscal.n-county-township",
+      "source_id": "tdnyou-20261031",
+      "relation": "supports",
+      "quote": "未來將持續推動縣鄉協力，從交通建設、農業升級、觀光振興、長者照顧到青年就業，建立跨區域合作機制",
+      "note": "同一主張的另一則報導（國民黨縣黨部活動新聞）。",
+      "checked": {
+        "at": "2026-11-01",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n259",
+      "target_id": "tour_industry.n-fishport-ice",
+      "source_id": "tdnice-20261031",
+      "relation": "context",
+      "quote": "縣府持續推動花蓮漁港儲冰廠及冷凍庫新建計畫，計畫總經費約新臺幣1億2,194萬元，並持續與中央相關單位協調計畫審查及經費事宜",
+      "note": "縣府（農業處）的說明，與魏嘉賢「呼籲縣府儘速編列配合款」並列對照，不判斷誰對。",
+      "checked": {
+        "at": "2026-11-01",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n260",
+      "target_id": "tour_industry.n-fishport-ice",
+      "source_id": "tdnice-20261031",
+      "relation": "context",
+      "quote": "目前整體供應量尚能因應漁民基本需求",
+      "note": "縣府說明目前供冰情形。",
+      "checked": {
+        "at": "2026-11-01",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n261",
+      "target_id": "sports.z8",
+      "source_id": "zj-fb-20261031-b",
+      "relation": "partial",
+      "quote": "期待未來有更多議長盃、縣長盃活動在中南區舉辦，讓青年活動更活絡，讓親子在家鄉就能找到休閒好去處",
+      "note": "10/31 貼文再提「中南區辦賽事」，是「期待」，沒有具體措施；為舊主張重申，非新政見。",
+      "checked": {
+        "at": "2026-11-01",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
     }
   ]
 }
