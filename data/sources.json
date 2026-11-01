@@ -3071,6 +3071,86 @@
       }
     },
     {
+      "id": "wei-fb-20261101-a",
+      "outlet": "魏嘉賢（臉書貼文）",
+      "outlet_group": "candidate:wei",
+      "candidate_id": "wei",
+      "title": "門牌貼QR Code就叫智慧？",
+      "url": "https://www.facebook.com/share/p/1Jm5PSreZq/",
+      "date": "2026-11-01",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-11-02",
+        "via": "manual",
+        "published": "2026-11-01",
+        "published_basis": "manual",
+        "text_sha256": "9060bd36a3d57f3756c6397d4c0c496a7d070ecad7f274fccb00c69f8d51e1c7",
+        "text_chars": 408,
+        "where": "使用者手動複製自 www.facebook.com（examples/weijiaxian-fb.txt）"
+      }
+    },
+    {
+      "id": "wei-fb-20261101-b",
+      "outlet": "魏嘉賢（臉書貼文）",
+      "outlet_group": "candidate:wei",
+      "candidate_id": "wei",
+      "title": "吉安明明也有海，為什麼建設一過七腳川溪就停了？",
+      "url": "https://www.facebook.com/share/p/1FqAHgFETD/",
+      "date": "2026-11-01",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-11-02",
+        "via": "manual",
+        "published": "2026-11-01",
+        "published_basis": "manual",
+        "text_sha256": "b8555b6f5016efb21c050c2ea7062bdfd51fbb3e9b6a97fb9dbf6ab52026bdd3",
+        "text_chars": 574,
+        "where": "使用者手動複製自 www.facebook.com（examples/weijiaxian-fb.txt）"
+      }
+    },
+    {
+      "id": "zj-fb-20261101-a",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "讓店家有生意 讓家庭有希望",
+      "url": "https://www.facebook.com/share/p/14zWZotEpki/",
+      "date": "2026-11-01",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-11-02",
+        "via": "manual",
+        "published": "2026-11-01",
+        "published_basis": "manual",
+        "text_sha256": "2ac579a30d446d7cb59e7ff2ad76e4e3b63ff3720414354f02e597fdf2599bcb",
+        "text_chars": 511,
+        "where": "使用者手動複製自 www.facebook.com（examples/zhang.jun-fb/zhang.jun.txt）"
+      }
+    },
+    {
+      "id": "zj-fb-20261101-b",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "穩定供冰守護漁民生計",
+      "url": "https://www.facebook.com/share/p/1FmvkhQ26q/",
+      "date": "2026-11-01",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-11-02",
+        "via": "manual",
+        "published": "2026-11-01",
+        "published_basis": "manual",
+        "text_sha256": "e0069c101a643f4dbe3e591167104cc5b9b708813d838158415c5a4fed792ea4",
+        "text_chars": 326,
+        "where": "使用者手動複製自 www.facebook.com（examples/zhang.jun-fb/zhang.jun.txt）"
+      }
+    },
+    {
       "id": "ltn-20260606",
       "outlet": "自由時報",
       "outlet_group": "自由時報",
@@ -3847,6 +3927,90 @@
         "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
         "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
         "note": "花蓮縣政府（農業處）對漁港供冰問題的說明；本平台只作為 context 收錄"
+      }
+    },
+    {
+      "id": "kshai-20261101",
+      "outlet": "更生新聞網",
+      "outlet_group": "更生日報",
+      "title": "魏嘉賢批吉安缺規劃：鄉親等太久",
+      "url": "https://www.ksnews.com.tw/e/155547",
+      "date": "2026-11-01",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-11-01",
+        "published_basis": "manual",
+        "text_sha256": "078dc934b7ac6aeacb1889f76aee88a13878c6d7a76612ddd9b9d70617c61745",
+        "text_chars": 893,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "魏嘉賢吉安海濱發展構想報導；含魏對游淑貞／吉安鄉公所的批評，本平台只引魏的政策部分"
+      }
+    },
+    {
+      "id": "ksnan-20261101",
+      "outlet": "更生新聞網",
+      "outlet_group": "更生日報",
+      "title": "國民黨花蓮隊中南區六鄉鎮競總接力成立",
+      "url": "https://www.ksnews.com.tw/e/155629",
+      "date": "2026-11-01",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-11-01",
+        "published_basis": "manual",
+        "text_sha256": "4ec556267f571201e5aabb097616150350636d6f544c3f0a956c50a2cba77160",
+        "text_chars": 1077,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "國民黨南區六鄉鎮競總成立報導；內含徐榛蔚、傅崐萁等他人談話，本平台只引游淑貞的部分；與東台灣新聞網、花蓮最速報同稿"
+      }
+    },
+    {
+      "id": "tdnnan-20261101",
+      "outlet": "東台灣新聞網",
+      "outlet_group": "東台灣新聞網",
+      "title": "國民黨花蓮隊中南區六鄉鎮競總接力成立｜徐榛蔚、傅崐萁力挺游淑貞！",
+      "url": "https://reurl.cc/jV0lEn",
+      "date": "2026-11-01",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-11-01",
+        "published_basis": "manual",
+        "text_sha256": "e851c168cbb66598ba9f9153493ac9fd1577019b361fa84d790a37d42faa7a38",
+        "text_chars": 1084,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "與更生新聞網同稿，不計獨立媒體群"
+      }
+    },
+    {
+      "id": "hsnnan-20261101",
+      "outlet": "花蓮最速報",
+      "outlet_group": "花蓮最速報",
+      "title": "國民黨花蓮隊「中南區六鄉鎮競總」接力成立 徐榛蔚、傅崐萁力挺游淑貞",
+      "url": "https://hsn.tw/0aArf",
+      "date": "2026-11-01",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-11-01",
+        "published_basis": "manual",
+        "text_sha256": "eed44e2a34b15dd1164901ef647ffd779441f959890e95c72b5079bb25828bf0",
+        "text_chars": 1081,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "與更生新聞網同稿，不計獨立媒體群"
       }
     }
   ]

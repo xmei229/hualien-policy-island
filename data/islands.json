@@ -1142,6 +1142,59 @@
             "stage": "政見",
             "frame": "共創黃金十年旗艦計劃・永續花蓮",
             "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "tour_industry.n-jian-coast",
+            "candidate_id": "wei",
+            "text": "吉安海濱整體發展：與吉安鄉公所、花蓮市公所及第九河川分署等合作，整合海岸防護、交通路網與運動休憩空間，邀集專家與居民研議東昌、仁安、光華三村沿岸土地的發展方向，打造從七星潭到花蓮溪出海口的完整濱海廊帶",
+            "commitment": "未來若當選縣長，將…（原文）",
+            "source_ids": [
+              "wei-fb-20261101-b",
+              "kshai-20261101"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-02",
+            "stage": "主張",
+            "also": [
+              {
+                "island": "disaster",
+                "basis": "source"
+              },
+              {
+                "island": "traffic",
+                "basis": "source"
+              },
+              {
+                "island": "sports",
+                "basis": "source"
+              }
+            ],
+            "note": "是競選構想，貼文與報導都沒有經費、時程。魏嘉賢官網（10/23 版）未列此項。"
+          },
+          {
+            "id": "tour_industry.n-recovery-group",
+            "candidate_id": "zhang",
+            "text": "成立「跨局處觀光復甦小組」，公開資訊及滾動檢討，帶動產業復甦",
+            "commitment": "推動（原文：「我也會推動成立…」）",
+            "source_ids": [
+              "zj-fb-20261101-a"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-02",
+            "stage": "主張"
+          },
+          {
+            "id": "tour_industry.n-ice",
+            "candidate_id": "zhang",
+            "text": "由縣府出資，在花蓮港與石梯漁港協助漁會興建現代化保鮮製冰廠；推動製冰、儲冰與冷鏈整合，並將營運維護一併納入規劃",
+            "commitment": "「提出…的政見」／推動",
+            "source_ids": [
+              "zj-fb-20261101-b"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-02",
+            "stage": "主張",
+            "note": "貼文說 6/8 國家海洋日已提出；本平台尚未收到 6/8 的原貼文，以這則 11/1 貼文為準。"
           }
         ],
         "numbers": [
@@ -1195,7 +1248,8 @@
           "ksfb-20261029",
           "kssweep-20261029",
           "hsice-20261030",
-          "kszhang-20261030"
+          "kszhang-20261030",
+          "kshai-20261101"
         ]
       }
     },
@@ -3644,6 +3698,27 @@
             "stage": "政見",
             "frame": "共創黃金十年旗艦計劃・永續花蓮",
             "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "disaster.n-farmland-solar",
+            "candidate_id": "you",
+            "text": "優良農田應以農業生產與糧食安全為優先，未來不能任意在良田鋪設光電板",
+            "commitment": "強調（報導用語：「強調…未來不能…」）",
+            "source_ids": [
+              "ksnan-20261101",
+              "tdnnan-20261101",
+              "hsnnan-20261101"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-11-02",
+            "stage": "主張",
+            "also": [
+              {
+                "island": "tour_industry",
+                "basis": "source"
+              }
+            ],
+            "note": "僅見於同一份新聞稿（三家轉載），尚無游淑貞自己的貼文可對照；報導是轉述她在南區競總的致詞，沒有條件或範圍。"
           }
         ],
         "numbers": [
@@ -3689,7 +3764,10 @@
           "scoop-20260903",
           "upmedia-20260801",
           "ksnews-20261029",
-          "ksfb-20261030"
+          "ksfb-20261030",
+          "ksnan-20261101",
+          "tdnnan-20261101",
+          "hsnnan-20261101"
         ]
       }
     },

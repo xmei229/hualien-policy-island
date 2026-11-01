@@ -8372,6 +8372,167 @@
         "method": "貼文全文快照去空白後 includes",
         "hit": true
       }
+    },
+    {
+      "id": "hualien.n262",
+      "target_id": "tour_industry.n-jian-coast",
+      "source_id": "wei-fb-20261101-b",
+      "relation": "supports",
+      "quote": "未來若當選縣長，將與吉安鄉公所、花蓮市公所及第九河川分署等單位攜手合作，共同推動吉安海濱整體發展",
+      "checked": {
+        "at": "2026-11-02",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n263",
+      "target_id": "tour_industry.n-jian-coast",
+      "source_id": "wei-fb-20261101-b",
+      "relation": "supports",
+      "quote": "嘉賢將邀集專家與居民，共同研議東昌村、仁安村及光華村沿岸土地的發展方向，同時整合海岸防護、交通路網與運動休憩空間，不再讓吉安海濱成為花蓮發展藍圖上的空白，打造從七星潭到花蓮溪出海口的完整濱海廊帶",
+      "checked": {
+        "at": "2026-11-02",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n264",
+      "target_id": "tour_industry.n-jian-coast",
+      "source_id": "kshai-20261101",
+      "relation": "supports",
+      "quote": "將與花蓮市、吉安鄉公所等單位合作，跨越行政區界線，整合海岸防護、交通路網與公共休憩設施，並適度引入運動及休閒空間",
+      "checked": {
+        "at": "2026-11-02",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n265",
+      "target_id": "disaster.n-farmland-solar",
+      "source_id": "ksnan-20261101",
+      "relation": "supports",
+      "quote": "強調優良農田應以農業生產與糧食安全為優先，未來不能任意在良田鋪設光電板",
+      "checked": {
+        "at": "2026-11-02",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n266",
+      "target_id": "disaster.n-farmland-solar",
+      "source_id": "tdnnan-20261101",
+      "relation": "supports",
+      "quote": "強調優良農田應以農業生產與糧食安全為優先，未來不能任意在良田鋪設光電板",
+      "note": "與更生新聞網同稿，不計獨立媒體群。",
+      "checked": {
+        "at": "2026-11-02",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n267",
+      "target_id": "disaster.n-farmland-solar",
+      "source_id": "hsnnan-20261101",
+      "relation": "supports",
+      "quote": "強調優良農田應以農業生產與糧食安全為優先，未來不能任意在良田鋪設光電板",
+      "note": "與更生新聞網同稿，不計獨立媒體群。",
+      "checked": {
+        "at": "2026-11-02",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n268",
+      "target_id": "tour_industry.z5",
+      "source_id": "zj-fb-20261101-a",
+      "relation": "partial",
+      "quote": "串聯住宿與商圈消費，把人潮帶回來",
+      "note": "貼文把「觀光復甦」拆成短期、中期、長期三段。",
+      "checked": {
+        "at": "2026-11-02",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n269",
+      "target_id": "tour_industry.z5",
+      "source_id": "zj-fb-20261101-a",
+      "relation": "partial",
+      "quote": "整合山海、縱谷與文化遊程，讓旅客多住幾晚",
+      "note": "中期。",
+      "checked": {
+        "at": "2026-11-02",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n270",
+      "target_id": "tour_industry.z5",
+      "source_id": "zj-fb-20261101-a",
+      "relation": "partial",
+      "quote": "建立四季旅遊品牌與多元客源，讓產業穩定下來",
+      "note": "長期。",
+      "checked": {
+        "at": "2026-11-02",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n271",
+      "target_id": "tour_industry.n-recovery-group",
+      "source_id": "zj-fb-20261101-a",
+      "relation": "supports",
+      "quote": "我也會推動成立「跨局處觀光復甦小組」，公開資訊及滾動檢討，帶動產業復甦",
+      "checked": {
+        "at": "2026-11-02",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n272",
+      "target_id": "tour_industry.n-ice",
+      "source_id": "zj-fb-20261101-b",
+      "relation": "supports",
+      "quote": "今年6月8日國家海洋日，我就已提出由縣府出資，在花蓮港與石梯漁港協助漁會興建現代化保鮮製冰廠的政見",
+      "checked": {
+        "at": "2026-11-02",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n273",
+      "target_id": "tour_industry.n-ice",
+      "source_id": "zj-fb-20261101-b",
+      "relation": "supports",
+      "quote": "我會持續關心，推動製冰、儲冰與冷鏈整合，並將營運維護一併納入規劃",
+      "checked": {
+        "at": "2026-11-02",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
     }
   ]
 }
