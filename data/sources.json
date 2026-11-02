@@ -3151,6 +3151,66 @@
       }
     },
     {
+      "id": "wei-fb-20261102",
+      "outlet": "魏嘉賢（臉書貼文）",
+      "outlet_group": "candidate:wei",
+      "candidate_id": "wei",
+      "title": "香榭大道「車道」傾斜問題，嘉賢承諾優先改善",
+      "url": "https://www.facebook.com/share/p/1F7Lid8SJ7/",
+      "date": "2026-11-02",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-11-03",
+        "via": "manual",
+        "published": "2026-11-02",
+        "published_basis": "manual",
+        "text_sha256": "c43deeec14b77a35d3474f663afa62c35a3e8e12a2d3629e8b49077ed2e354d2",
+        "text_chars": 508,
+        "where": "使用者手動複製自 www.facebook.com（examples/weijiaxian-fb.txt）"
+      }
+    },
+    {
+      "id": "zj-fb-20261102-a",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "我是花蓮的孩子，珍惜每一份讓家鄉更好的心意。",
+      "url": "https://www.facebook.com/share/p/17ngvQVMcE/",
+      "date": "2026-11-02",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-11-03",
+        "via": "manual",
+        "published": "2026-11-02",
+        "published_basis": "manual",
+        "text_sha256": "a78336967d1a47fe98a8848e32226c3905f7e49c7bfeb757a6f9831b0b626308",
+        "text_chars": 364,
+        "where": "使用者手動複製自 www.facebook.com（examples/zhang.jun-fb/zhang.jun.txt）"
+      }
+    },
+    {
+      "id": "zj-fb-20261102-b",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "讓花蓮走向海洋，打造觀光新契機！",
+      "url": "https://www.facebook.com/share/p/1HprREqhvp/",
+      "date": "2026-11-02",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-11-03",
+        "via": "manual",
+        "published": "2026-11-02",
+        "published_basis": "manual",
+        "text_sha256": "6160f7ebd8c749d8600552dc64a120c7bac6663226f555c8fa4681fa350b64d4",
+        "text_chars": 356,
+        "where": "使用者手動複製自 www.facebook.com（examples/zhang.jun-fb/zhang.jun.txt）"
+      }
+    },
+    {
       "id": "ltn-20260606",
       "outlet": "自由時報",
       "outlet_group": "自由時報",
@@ -4011,6 +4071,132 @@
         "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
         "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
         "note": "與更生新聞網同稿，不計獨立媒體群"
+      }
+    },
+    {
+      "id": "ksxie-20261102",
+      "outlet": "更生新聞網",
+      "outlet_group": "更生日報",
+      "title": "香榭大道安全疑慮　魏嘉賢：當選拆歪斜石板",
+      "url": "https://www.ksnews.com.tw/e/155966",
+      "date": "2026-11-02",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-11-02",
+        "published_basis": "manual",
+        "text_sha256": "d1bd5a2a62efbd1b48bdd130429b533df3ef515b427d73ea1d847beb6929d859",
+        "text_chars": 1046,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "魏嘉賢香榭大道記者會報導；含對縣府的批評，本平台只引魏的承諾與提案"
+      }
+    },
+    {
+      "id": "hnxie-20261102",
+      "outlet": "花蓮新聞網",
+      "outlet_group": "花蓮新聞網",
+      "title": "日出香榭大道歪斜再成焦點！魏嘉賢：當選優先拆車道石板、整體規劃市民共議",
+      "url": "https://hualien-news.com/news.php?id=4168",
+      "date": "2026-11-02",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-11-02",
+        "published_basis": "manual",
+        "text_sha256": "0bfbaa336e1669823380c5d57a2d1d412f0e05c8b95256c333d5efa91511442e",
+        "text_chars": 1062,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "與更生新聞網同稿，不計獨立媒體群"
+      }
+    },
+    {
+      "id": "hlxie-20261102",
+      "outlet": "今日花蓮",
+      "outlet_group": "今日花蓮",
+      "title": "當選縣長就拆！花蓮香榭大道「歪斜石板」惹議　魏嘉賢喊恢復柏油路",
+      "url": "https://hualien-today.com/news.php?listno=2693",
+      "date": "2026-11-02",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-11-02",
+        "published_basis": "manual",
+        "text_sha256": "133eb9e752e5560d115b6ba663bc5e7e03c35ace4cdd271fbedead6ede5e3eb1",
+        "text_chars": 1027,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "同一場記者會，由該網自行改寫"
+      }
+    },
+    {
+      "id": "hsagri-20261102",
+      "outlet": "花蓮最速報",
+      "outlet_group": "花蓮最速報",
+      "title": "游淑貞訪鳳林家政班 肯定女力傳承客家米食文化",
+      "url": "https://hsn.tw/FikrD",
+      "date": "2026-11-02",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-11-02",
+        "published_basis": "manual",
+        "text_sha256": "c9fb18e18fe3a6cbf9f7638d744b08a41448bd996d439febfca2728c05e5fcca",
+        "text_chars": 1125,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "游淑貞訪鳳林農會家政班與座談的報導（單一媒體）"
+      }
+    },
+    {
+      "id": "hnice-20261102",
+      "outlet": "花蓮新聞網",
+      "outlet_group": "花蓮新聞網",
+      "title": "關心花蓮漁業發展 花蓮縣政府持續攜手漁會完善供冰及冷鏈設施 推動花蓮漁港儲冰廠及冷凍庫新建計畫 感謝中央支持及地方各界共同協助",
+      "url": "https://hualien-news.com/news.php?id=4162",
+      "date": "2026-11-02",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-11-02",
+        "published_basis": "manual",
+        "text_sha256": "73b1520a19c2bd626f1347bc02c79295e2ea8d8e3ea918a9e79f35811a1aeca6",
+        "text_chars": 1505,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "花蓮縣政府（農業處）對漁港供冰的說明；本平台只作為 context 收錄"
+      }
+    },
+    {
+      "id": "hsicetwo-20261102",
+      "outlet": "花蓮最速報",
+      "outlet_group": "花蓮最速報",
+      "title": "花蓮縣政府持續攜手漁會完善供冰及冷鏈設施",
+      "url": "https://hsn.tw/EaWI6",
+      "date": "2026-11-02",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-11-02",
+        "published_basis": "manual",
+        "text_sha256": "25753ab6cea8837f7de265f302214d7aa4300eb9189a9e5b7c6cfff3d463e45f",
+        "text_chars": 1636,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "與花蓮新聞網同稿，只作為 context 收錄"
       }
     }
   ]

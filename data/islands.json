@@ -758,9 +758,10 @@
             "text": "升級農漁牧產業、推動農業六級產業化",
             "commitment": "升級、推動",
             "source_ids": [
-              "scoop-20260903"
+              "scoop-20260903",
+              "hsagri-20261102"
             ],
-            "status": "single_source",
+            "status": "confirmed",
             "verified_on": "2026-10-28",
             "stage": "主張",
             "under": [
@@ -1195,6 +1196,57 @@
             "verified_on": "2026-11-02",
             "stage": "主張",
             "note": "貼文說 6/8 國家海洋日已提出；本平台尚未收到 6/8 的原貼文，以這則 11/1 貼文為準。"
+          },
+          {
+            "id": "tour_industry.n-sea-tourism",
+            "candidate_id": "zhang",
+            "text": "發展海洋觀光：串聯郵輪、環島航線、部落文化與地方旅遊，帶動住宿、餐飲及觀光產業；整合港口接駁、觀光遊程與在地產業，讓旅客走進花蓮、帶動地方消費",
+            "commitment": "發展／創造（原文條列）",
+            "source_ids": [
+              "zj-fb-20261102-b"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-03",
+            "stage": "主張"
+          },
+          {
+            "id": "tour_industry.n-agri-platform",
+            "candidate_id": "you",
+            "text": "縣府扮演資源整合與市場媒合角色，協助農會及合作社強化共同品牌、產銷履歷、集貨分級、冷鏈物流及加工設備，並拓展電商宅配、企業採購與都會直銷市場",
+            "commitment": "「未來縣府應扮演…」（報導用語）",
+            "source_ids": [
+              "hsagri-20261102"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-11-03",
+            "stage": "主張",
+            "note": "僅見於這一篇報導（花蓮最速報），尚無游淑貞自己的貼文可對照；沒有經費與時程。"
+          },
+          {
+            "id": "tour_industry.n-young-farmers",
+            "candidate_id": "you",
+            "text": "強化青年農民培力，從智慧農業、加工技術到數位行銷提供支持",
+            "commitment": "主張（報導用語：「也主張強化」）",
+            "source_ids": [
+              "hsagri-20261102"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-11-03",
+            "stage": "主張",
+            "note": "僅見於這一篇報導（花蓮最速報），尚無游淑貞自己的貼文可對照；沒有經費與時程。"
+          },
+          {
+            "id": "tour_industry.n-organic-capital",
+            "candidate_id": "you",
+            "text": "以「有機農業首都」為願景，推動產業升級與地方創生",
+            "commitment": "「未來將以…為願景」（報導用語）",
+            "source_ids": [
+              "hsagri-20261102"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-11-03",
+            "stage": "主張",
+            "note": "僅見於這一篇報導（花蓮最速報），尚無游淑貞自己的貼文可對照；沒有經費與時程。"
           }
         ],
         "numbers": [
@@ -1240,11 +1292,13 @@
           "zj-fb-20261020-b",
           "zj-fb-20260814-a",
           "zj-fb-20260902",
+          "wei-fb-20261101-b",
           "na-20260515",
           "cnews-20260515",
           "udn-20260918",
           "cna-20260930",
           "scoop-20260903",
+          "hsagri-20261102",
           "ksfb-20261029",
           "kssweep-20261029",
           "hsice-20261030",
@@ -2198,6 +2252,85 @@
               }
             ],
             "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "traffic.n-xiangxie-road",
+            "candidate_id": "wei",
+            "text": "當選後優先拆除日出香榭大道兩側車道嚴重傾斜的石板，恢復柏油路面",
+            "commitment": "承諾（原文：「嘉賢承諾，若當選縣長，將優先…」）",
+            "source_ids": [
+              "wei-fb-20261102",
+              "ksxie-20261102",
+              "hnxie-20261102",
+              "hlxie-20261102"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-03",
+            "stage": "主張",
+            "note": "只涵蓋「兩側車道」的石板；沒有寫經費與工期。拆除整條香榭大道（開蓋重現水岸）是另一件事，見下一點。"
+          },
+          {
+            "id": "traffic.n-xiangxie-walk",
+            "candidate_id": "wei",
+            "text": "中間「徒步區」的未來（開蓋重現水岸或保留現況）：邀集市民、專家學者及民意代表共同研議，必要時不排除推動公民投票，由花蓮市民共同決定",
+            "commitment": "計畫（原文：「嘉賢計畫邀集…，必要時不排除推動公民投票」）",
+            "source_ids": [
+              "wei-fb-20261102",
+              "ksxie-20261102",
+              "hnxie-20261102",
+              "hlxie-20261102"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-03",
+            "stage": "主張",
+            "also": [
+              {
+                "island": "fiscal",
+                "basis": "source"
+              }
+            ],
+            "note": "他沒有表明偏向哪一案；「不排除」公投是條件式說法。"
+          },
+          {
+            "id": "traffic.n-blue-highway",
+            "candidate_id": "zhang",
+            "text": "積極向中央爭取，讓花蓮港成為「全國藍色公路」及「海運備援船舶」母港",
+            "commitment": "主張（原文：「我主張積極向中央爭取」）",
+            "source_ids": [
+              "zj-fb-20261102-b"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-03",
+            "stage": "主張",
+            "also": [
+              {
+                "island": "tour_industry",
+                "basis": "source"
+              },
+              {
+                "island": "disaster",
+                "basis": "source"
+              }
+            ],
+            "note": "是向中央爭取，不是縣府自己的承諾。與既有的「對外交通不斷線」（traffic.z16，含海運）相關但說法不同，並列。"
+          },
+          {
+            "id": "traffic.n-sea-backup",
+            "candidate_id": "zhang",
+            "text": "強化交通備援：地震、豪雨造成鐵公路中斷時，在安全條件允許下，讓海運成為另一條疏運管道",
+            "commitment": "強化（原文條列：「強化交通備援」）",
+            "source_ids": [
+              "zj-fb-20261102-b"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-03",
+            "stage": "主張",
+            "also": [
+              {
+                "island": "disaster",
+                "basis": "source"
+              }
+            ]
           }
         ],
         "numbers": [
@@ -2274,7 +2407,10 @@
           "ltn-20260916",
           "ltn-20260924",
           "cna-20260930",
-          "scoop-20260903"
+          "scoop-20260903",
+          "ksxie-20261102",
+          "hnxie-20261102",
+          "hlxie-20261102"
         ]
       }
     },
@@ -4207,6 +4343,18 @@
             "stage": "政見",
             "frame": "共創黃金十年旗艦計劃・智慧花蓮",
             "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "fiscal.n-ocean-office",
+            "candidate_id": "zhang",
+            "text": "成立海洋事務專責單位：整合海洋保育、教育、休閒與產業發展",
+            "commitment": "成立（原文條列）",
+            "source_ids": [
+              "zj-fb-20261102-b"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-03",
+            "stage": "主張"
           }
         ],
         "numbers": [
@@ -5472,6 +5620,43 @@
             "stage": "政見",
             "frame": "共創黃金十年旗艦計劃・希望花蓮",
             "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "welfare.n-youth-kit",
+            "candidate_id": "zhang",
+            "text": "青年政策應涵蓋職涯探索與實習媒合、微型企業三年陪跑（提供記帳、稅務與法規協助），並規劃青年安居、空屋活化及整合就業、住宅與交通的返鄉服務包，結合地方創生陪伴、托育與心理健康支持",
+            "commitment": "「我也認為…應涵蓋」「也要規劃」",
+            "source_ids": [
+              "zj-fb-20261102-a"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-03",
+            "stage": "主張",
+            "also": [
+              {
+                "island": "care",
+                "basis": "source"
+              }
+            ],
+            "note": "與既有的「青年政策」（welfare.z3）同主題，這則補上具體項目；貼文是客廳會後的整理，語氣是「應涵蓋」，沒有經費與時程。"
+          },
+          {
+            "id": "welfare.n-industry-import",
+            "candidate_id": "zhang",
+            "text": "希望透過童子賢董事長的產業經驗與人脈，協助引進適合花蓮的產業，支持在地產業升級，增加多元就業選擇",
+            "commitment": "希望（原文：「我也希望…」）",
+            "source_ids": [
+              "zj-fb-20261102-a"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-03",
+            "stage": "主張",
+            "also": [
+              {
+                "island": "tour_industry",
+                "basis": "source"
+              }
+            ]
           }
         ],
         "numbers": [

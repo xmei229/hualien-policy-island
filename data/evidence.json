@@ -8533,6 +8533,381 @@
         "method": "貼文全文快照去空白後 includes",
         "hit": true
       }
+    },
+    {
+      "id": "hualien.n274",
+      "target_id": "traffic.n-xiangxie-road",
+      "source_id": "wei-fb-20261102",
+      "relation": "supports",
+      "quote": "嘉賢承諾，若當選縣長，將優先拆除「兩側車道」嚴重傾斜、危及行車安全的「石板」，恢復柏油路面",
+      "checked": {
+        "at": "2026-11-03",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n275",
+      "target_id": "traffic.n-xiangxie-road",
+      "source_id": "ksxie-20261102",
+      "relation": "supports",
+      "quote": "若當選縣長，將優先拆除傾斜石板、恢復柏油路面",
+      "checked": {
+        "at": "2026-11-03",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n276",
+      "target_id": "traffic.n-xiangxie-road",
+      "source_id": "hnxie-20261102",
+      "relation": "supports",
+      "quote": "若當選縣長，將優先拆除傾斜石板、恢復柏油路面",
+      "note": "與更生新聞網同稿，不計獨立媒體群。",
+      "checked": {
+        "at": "2026-11-03",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n277",
+      "target_id": "traffic.n-xiangxie-road",
+      "source_id": "hlxie-20261102",
+      "relation": "supports",
+      "quote": "他承諾，若順利當選縣長，將把拆除車道花崗石板列為優先工作，恢復一般柏油鋪面",
+      "checked": {
+        "at": "2026-11-03",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n278",
+      "target_id": "traffic.n-xiangxie-walk",
+      "source_id": "wei-fb-20261102",
+      "relation": "supports",
+      "quote": "嘉賢計畫邀集市民、專家學者及民意代表共同研議，必要時不排除推動公民投票，讓花蓮市民共同決定香榭大道的未來",
+      "checked": {
+        "at": "2026-11-03",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n279",
+      "target_id": "traffic.n-xiangxie-walk",
+      "source_id": "ksxie-20261102",
+      "relation": "supports",
+      "quote": "也將邀集市民、專家學者及民意代表共同評估各項方案，必要時不排除推動公民投票，讓花蓮市民共同決定香榭大道的未來",
+      "checked": {
+        "at": "2026-11-03",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n280",
+      "target_id": "traffic.n-xiangxie-walk",
+      "source_id": "hnxie-20261102",
+      "relation": "supports",
+      "quote": "也將邀集市民、專家學者及民意代表共同評估各項方案，必要時不排除推動公民投票，讓花蓮市民共同決定香榭大道的未來",
+      "note": "與更生新聞網同稿，不計獨立媒體群。",
+      "checked": {
+        "at": "2026-11-03",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n281",
+      "target_id": "traffic.n-xiangxie-walk",
+      "source_id": "hlxie-20261102",
+      "relation": "supports",
+      "quote": "應邀集市民、專家學者及民意代表共同討論，必要時不排除辦理公民投票",
+      "checked": {
+        "at": "2026-11-03",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n282",
+      "target_id": "welfare.n-youth-kit",
+      "source_id": "zj-fb-20261102-a",
+      "relation": "supports",
+      "quote": "青年政策應涵蓋職涯探索與實習媒合、微型企業三年陪跑，提供記帳、稅務與法規協助",
+      "checked": {
+        "at": "2026-11-03",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n283",
+      "target_id": "welfare.n-youth-kit",
+      "source_id": "zj-fb-20261102-a",
+      "relation": "supports",
+      "quote": "也要規劃青年安居、空屋活化及整合就業、住宅與交通的返鄉服務包，結合地方創生陪伴、托育與心理健康支持",
+      "checked": {
+        "at": "2026-11-03",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n284",
+      "target_id": "welfare.n-industry-import",
+      "source_id": "zj-fb-20261102-a",
+      "relation": "supports",
+      "quote": "我也希望透過童子賢董事長的產業經驗與人脈，協助引進適合花蓮的產業，支持在地產業升級，增加多元就業選擇",
+      "checked": {
+        "at": "2026-11-03",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n285",
+      "target_id": "traffic.n-blue-highway",
+      "source_id": "zj-fb-20261102-b",
+      "relation": "supports",
+      "quote": "我主張積極向中央爭取，讓花蓮港成為「全國藍色公路」及「海運備援船舶」母港",
+      "checked": {
+        "at": "2026-11-03",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n286",
+      "target_id": "traffic.n-sea-backup",
+      "source_id": "zj-fb-20261102-b",
+      "relation": "supports",
+      "quote": "強化交通備援：當地震、豪雨造成鐵公路中斷時，在安全條件允許下，讓海運成為另一條疏運管道",
+      "checked": {
+        "at": "2026-11-03",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n287",
+      "target_id": "tour_industry.n-sea-tourism",
+      "source_id": "zj-fb-20261102-b",
+      "relation": "supports",
+      "quote": "發展海洋觀光：串聯郵輪、環島航線、部落文化與地方旅遊，帶動住宿、餐飲及觀光產業",
+      "checked": {
+        "at": "2026-11-03",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n288",
+      "target_id": "tour_industry.n-sea-tourism",
+      "source_id": "zj-fb-20261102-b",
+      "relation": "supports",
+      "quote": "創造地方商機：整合港口接駁、觀光遊程與在地產業，讓旅客走進花蓮、帶動地方消費",
+      "checked": {
+        "at": "2026-11-03",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n289",
+      "target_id": "fiscal.n-ocean-office",
+      "source_id": "zj-fb-20261102-b",
+      "relation": "supports",
+      "quote": "成立海洋事務專責單位：整合海洋保育、教育、休閒與產業發展，讓花蓮的海洋資源發揮更大價值",
+      "checked": {
+        "at": "2026-11-03",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n290",
+      "target_id": "tour_industry.n-agri6",
+      "source_id": "hsagri-20261102",
+      "relation": "supports",
+      "quote": "未來應朝向農業六級產業化發展，串聯生產、加工、行銷與觀光",
+      "note": "鳳林農會家政班活動報導；同一主張再次出現。",
+      "checked": {
+        "at": "2026-11-03",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n291",
+      "target_id": "tour_industry.n-agri-platform",
+      "source_id": "hsagri-20261102",
+      "relation": "supports",
+      "quote": "未來縣府應扮演資源整合與市場媒合角色，協助農會及合作社強化共同品牌、產銷履歷、集貨分級、冷鏈物流及加工設備，並拓展電商宅配、企業採購與都會直銷市場",
+      "checked": {
+        "at": "2026-11-03",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n292",
+      "target_id": "tour_industry.n-young-farmers",
+      "source_id": "hsagri-20261102",
+      "relation": "supports",
+      "quote": "游淑貞也主張強化青年農民培力，從智慧農業、加工技術到數位行銷提供支持",
+      "checked": {
+        "at": "2026-11-03",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n293",
+      "target_id": "tour_industry.n-organic-capital",
+      "source_id": "hsagri-20261102",
+      "relation": "supports",
+      "quote": "未來將以「有機農業首都」為願景，推動產業升級與地方創生",
+      "checked": {
+        "at": "2026-11-03",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n294",
+      "target_id": "tour_industry.n-fishport-ice",
+      "source_id": "hnice-20261102",
+      "relation": "context",
+      "quote": "花蓮漁港儲冰廠及冷凍庫新建計畫，總經費約新臺幣1億2,194萬元",
+      "note": "縣府（農業處）11/2 的說明，與候選人的主張並列對照，不判斷誰對。",
+      "checked": {
+        "at": "2026-11-03",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n295",
+      "target_id": "tour_industry.n-fishport-ice",
+      "source_id": "hnice-20261102",
+      "relation": "context",
+      "quote": "整體供應量目前尚能因應漁船基本作業需求",
+      "note": "縣府說明目前供冰情形。",
+      "checked": {
+        "at": "2026-11-03",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n296",
+      "target_id": "tour_industry.n-ice",
+      "source_id": "hnice-20261102",
+      "relation": "context",
+      "quote": "花蓮漁港儲冰廠及冷凍庫新建計畫，總經費約新臺幣1億2,194萬元",
+      "note": "縣府（農業處）11/2 的說明，與候選人的主張並列對照，不判斷誰對。",
+      "checked": {
+        "at": "2026-11-03",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n297",
+      "target_id": "tour_industry.n-ice",
+      "source_id": "hnice-20261102",
+      "relation": "context",
+      "quote": "整體供應量目前尚能因應漁船基本作業需求",
+      "note": "縣府說明目前供冰情形。",
+      "checked": {
+        "at": "2026-11-03",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n298",
+      "target_id": "tour_industry.n-fishport-ice",
+      "source_id": "hsicetwo-20261102",
+      "relation": "context",
+      "quote": "花蓮漁港儲冰廠及冷凍庫新建計畫，總經費約新臺幣1億2,194萬元",
+      "note": "縣府（農業處）11/2 的說明，與候選人的主張並列對照，不判斷誰對。與花蓮新聞網同稿，不計獨立媒體群。",
+      "checked": {
+        "at": "2026-11-03",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n299",
+      "target_id": "tour_industry.n-fishport-ice",
+      "source_id": "hsicetwo-20261102",
+      "relation": "context",
+      "quote": "整體供應量目前尚能因應漁船基本作業需求",
+      "note": "縣府說明目前供冰情形。與花蓮新聞網同稿，不計獨立媒體群。",
+      "checked": {
+        "at": "2026-11-03",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n300",
+      "target_id": "tour_industry.n-ice",
+      "source_id": "hsicetwo-20261102",
+      "relation": "context",
+      "quote": "花蓮漁港儲冰廠及冷凍庫新建計畫，總經費約新臺幣1億2,194萬元",
+      "note": "縣府（農業處）11/2 的說明，與候選人的主張並列對照，不判斷誰對。與花蓮新聞網同稿，不計獨立媒體群。",
+      "checked": {
+        "at": "2026-11-03",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n301",
+      "target_id": "tour_industry.n-ice",
+      "source_id": "hsicetwo-20261102",
+      "relation": "context",
+      "quote": "整體供應量目前尚能因應漁船基本作業需求",
+      "note": "縣府說明目前供冰情形。與花蓮新聞網同稿，不計獨立媒體群。",
+      "checked": {
+        "at": "2026-11-03",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
     }
   ]
 }
