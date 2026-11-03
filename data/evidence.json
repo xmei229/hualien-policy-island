@@ -8908,6 +8908,346 @@
         "method": "新聞全文快照去空白後 includes",
         "hit": true
       }
+    },
+    {
+      "id": "hualien.n302",
+      "target_id": "tour_industry.n-religion-brand",
+      "source_id": "ksre-20261103",
+      "relation": "supports",
+      "quote": "主張整合全縣宮廟節慶、客庄文化與山海旅遊資源，建立具有花蓮特色的宗教文化觀光品牌",
+      "checked": {
+        "at": "2026-11-04",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n303",
+      "target_id": "tour_industry.n-religion-brand",
+      "source_id": "tdnre-20261103",
+      "relation": "supports",
+      "quote": "主張整合全縣宮廟節慶、客庄文化與山海旅遊資源，建立具有花蓮特色的宗教文化觀光品牌",
+      "note": "與更生新聞網同稿，不計獨立媒體群。",
+      "checked": {
+        "at": "2026-11-04",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n304",
+      "target_id": "tour_industry.n-religion-brand",
+      "source_id": "hsnre-20261103",
+      "relation": "supports",
+      "quote": "主張整合全縣宮廟節慶、客庄文化與山海旅遊資源，建立具有花蓮特色的宗教文化觀光品牌",
+      "note": "與更生新聞網同稿，不計獨立媒體群。",
+      "checked": {
+        "at": "2026-11-04",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n305",
+      "target_id": "tour_industry.n-religion-brand",
+      "source_id": "ksre-20261103",
+      "relation": "supports",
+      "quote": "未來縣政應從單點活動補助，提升為跨局處、跨鄉鎮的整體文化觀光治理",
+      "checked": {
+        "at": "2026-11-04",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n306",
+      "target_id": "tour_industry.n-festival-calendar",
+      "source_id": "ksre-20261103",
+      "relation": "supports",
+      "quote": "建立「花蓮宗教文化節慶日曆」，盤點十三鄉鎮市特色宮廟、祭典與文化資產，串聯周邊景點、農特產品、特色餐飲及旅宿業者，規劃文化小旅行與主題遊程；同步培育在地導覽人才，導入數位行銷與多語服務",
+      "checked": {
+        "at": "2026-11-04",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n307",
+      "target_id": "tour_industry.n-festival-calendar",
+      "source_id": "tdnre-20261103",
+      "relation": "supports",
+      "quote": "建立「花蓮宗教文化節慶日曆」，盤點十三鄉鎮市特色宮廟、祭典與文化資產，串聯周邊景點、農特產品、特色餐飲及旅宿業者，規劃文化小旅行與主題遊程；同步培育在地導覽人才，導入數位行銷與多語服務",
+      "note": "與更生新聞網同稿，不計獨立媒體群。",
+      "checked": {
+        "at": "2026-11-04",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n308",
+      "target_id": "tour_industry.n-festival-calendar",
+      "source_id": "hsnre-20261103",
+      "relation": "supports",
+      "quote": "建立「花蓮宗教文化節慶日曆」，盤點十三鄉鎮市特色宮廟、祭典與文化資產，串聯周邊景點、農特產品、特色餐飲及旅宿業者，規劃文化小旅行與主題遊程；同步培育在地導覽人才，導入數位行銷與多語服務",
+      "note": "與更生新聞網同稿，不計獨立媒體群。",
+      "checked": {
+        "at": "2026-11-04",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n309",
+      "target_id": "tour_industry.n-temple-eco",
+      "source_id": "ksre-20261103",
+      "relation": "supports",
+      "quote": "未來可結合低碳交通、綠色旅遊及友善參拜環境，鼓勵各宮廟依自身條件推動環保措施，兼顧宗教自主、文化傳承與環境永續",
+      "checked": {
+        "at": "2026-11-04",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n310",
+      "target_id": "tour_industry.n-temple-eco",
+      "source_id": "tdnre-20261103",
+      "relation": "supports",
+      "quote": "未來可結合低碳交通、綠色旅遊及友善參拜環境，鼓勵各宮廟依自身條件推動環保措施，兼顧宗教自主、文化傳承與環境永續",
+      "note": "與更生新聞網同稿，不計獨立媒體群。",
+      "checked": {
+        "at": "2026-11-04",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n311",
+      "target_id": "tour_industry.n-temple-eco",
+      "source_id": "hsnre-20261103",
+      "relation": "supports",
+      "quote": "未來可結合低碳交通、綠色旅遊及友善參拜環境，鼓勵各宮廟依自身條件推動環保措施，兼顧宗教自主、文化傳承與環境永續",
+      "note": "與更生新聞網同稿，不計獨立媒體群。",
+      "checked": {
+        "at": "2026-11-04",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n312",
+      "target_id": "tour_industry.n-market-care",
+      "source_id": "wei-fb-20261103-b",
+      "relation": "supports",
+      "quote": "未來擔任花蓮縣長，會持續關注市場環境改善與攤商需求，讓傳統市場保有特色、持續發展",
+      "checked": {
+        "at": "2026-11-04",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n313",
+      "target_id": "fiscal.n-neutral-wei",
+      "source_id": "kswei-20261103",
+      "relation": "supports",
+      "quote": "自己絕不會利用行政權力要求公務人員為個人選舉服務",
+      "checked": {
+        "at": "2026-11-04",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n314",
+      "target_id": "fiscal.n-neutral-zhang",
+      "source_id": "zj-fb-20261103-c",
+      "relation": "supports",
+      "quote": "我的立場：不能動用行政資源輔選，更不能要求公務人員配合違法政治動員",
+      "checked": {
+        "at": "2026-11-04",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n315",
+      "target_id": "fiscal.n-neutral-zhang",
+      "source_id": "zj-fb-20261103-c",
+      "relation": "supports",
+      "quote": "我尊重首長的人事權，但用人應該看專業、看表現，不能看有沒有幫誰輔選",
+      "checked": {
+        "at": "2026-11-04",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n316",
+      "target_id": "fiscal.n-neutral-you",
+      "source_id": "ksneu-20261103",
+      "relation": "supports",
+      "quote": "競選團隊自成立以來，亦將「依法行政」與「行政中立」視為不可妥協的最高原則",
+      "checked": {
+        "at": "2026-11-04",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n317",
+      "target_id": "fiscal.n-neutral-you",
+      "source_id": "tdnneu-20261103",
+      "relation": "supports",
+      "quote": "競選團隊自成立以來，亦將「依法行政」與「行政中立」視為不可妥協的最高原則",
+      "note": "與更生新聞網同稿，不計獨立媒體群。",
+      "checked": {
+        "at": "2026-11-04",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n318",
+      "target_id": "fiscal.n-neutral-you",
+      "source_id": "hsnneu-20261103",
+      "relation": "supports",
+      "quote": "競選團隊成立以來，始終將依法行政與行政中立列為重要原則",
+      "note": "花蓮最速報改寫同一份聲明，不計獨立媒體群。",
+      "checked": {
+        "at": "2026-11-04",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n319",
+      "target_id": "fiscal.n-framework",
+      "source_id": "ksfbz-20261103",
+      "relation": "supports",
+      "quote": "將以「拚經濟、顧家庭、護安全」為主軸，透過十二大治理面向與一百二十項行動方案，推動產業投資、增加就業選擇，並強化家庭照顧、交通與防災",
+      "checked": {
+        "at": "2026-11-04",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n320",
+      "target_id": "fiscal.n-framework",
+      "source_id": "zj-fb-20261103-b",
+      "relation": "partial",
+      "quote": "拚經濟、顧家庭、護安全，張峻準備好了",
+      "note": "貼文只寫三個主軸詞；「十二大面向、一百二十項方案」見報導。",
+      "checked": {
+        "at": "2026-11-04",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n321",
+      "target_id": "fiscal.z6",
+      "source_id": "zj-fb-20261103-b",
+      "relation": "supports",
+      "quote": "我籌組花蓮改革治理聯盟，邀請童子賢董事長擔任召集人，結合專家學者，從產業就業、家庭照顧，到交通防災，提出具體治理方案",
+      "note": "新增：貼文寫明召集人是童子賢董事長。",
+      "checked": {
+        "at": "2026-11-04",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n322",
+      "target_id": "traffic.n-blue-highway",
+      "source_id": "zj-fb-20261103-d",
+      "relation": "supports",
+      "quote": "我主張積極爭取花蓮港成為母港，發展環島、跳島旅遊；遇到災害造成陸路中斷，也能在海象允許下支援疏運",
+      "note": "貼文引述交通部規劃：至少 8000 總噸的藍色公路暨海運備援船舶，預計 2029 年底交船營運（貼文轉述，本平台未另查）。",
+      "checked": {
+        "at": "2026-11-04",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n323",
+      "target_id": "traffic.n-sea-backup",
+      "source_id": "zj-fb-20261103-d",
+      "relation": "supports",
+      "quote": "遇到災害造成陸路中斷，也能在海象允許下支援疏運",
+      "note": "同一貼文。",
+      "checked": {
+        "at": "2026-11-04",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n324",
+      "target_id": "tour_industry.n-sea-tourism",
+      "source_id": "zj-fb-20261103-d",
+      "relation": "supports",
+      "quote": "花蓮港已有郵輪靠泊及旅客服務基礎，應整合航班、接駁與行程",
+      "note": "同一貼文。",
+      "checked": {
+        "at": "2026-11-04",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n325",
+      "target_id": "fiscal.n-ocean-office",
+      "source_id": "zj-fb-20261103-d",
+      "relation": "supports",
+      "quote": "當選後推動成立海洋事務二級專責單位，整合海洋教育、生態保育、休閒與產業",
+      "note": "新增：貼文寫明是「二級」專責單位。",
+      "checked": {
+        "at": "2026-11-04",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n326",
+      "target_id": "tour_industry.z3",
+      "source_id": "zj-fb-20261103-d",
+      "relation": "partial",
+      "quote": "我也將爭取與交通部、花蓮港務分公司合作，推展帆船休閒運動",
+      "note": "「水域經濟」列有帆船；本則補上合作對象。",
+      "checked": {
+        "at": "2026-11-04",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
     }
   ]
 }

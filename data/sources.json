@@ -2984,8 +2984,8 @@
         "via": "manual",
         "published": "2026-10-31",
         "published_basis": "manual",
-        "text_sha256": "3cc9b348d2bf3ab29a58fa8e5f67fe3d8f63bca7721ba703886dc490121e8b8e",
-        "text_chars": 416,
+        "text_sha256": "6be01078d1114a7a12e56b87c82d574b7cc492d50d031edc65b68e6b3576f4eb",
+        "text_chars": 419,
         "where": "使用者手動複製自 www.facebook.com（examples/weijiaxian-fb.txt）"
       }
     },
@@ -3004,8 +3004,8 @@
         "via": "manual",
         "published": "2026-10-31",
         "published_basis": "manual",
-        "text_sha256": "3f9650225a8e3c754f8aaebd3e2b6aaabe17ca76b919a612a8d0e080a777f8f2",
-        "text_chars": 786,
+        "text_sha256": "7d6cc79337844eae5b69b968cab0d13abffb097535c9e0ca148c5e1405deb403",
+        "text_chars": 789,
         "where": "使用者手動複製自 www.facebook.com（examples/weijiaxian-fb.txt）"
       }
     },
@@ -3085,8 +3085,8 @@
         "via": "manual",
         "published": "2026-11-01",
         "published_basis": "manual",
-        "text_sha256": "9060bd36a3d57f3756c6397d4c0c496a7d070ecad7f274fccb00c69f8d51e1c7",
-        "text_chars": 408,
+        "text_sha256": "bda1977d1e2595b2735d4aeee2e273827a5294ab5d6d461d2e2bdb10468d19de",
+        "text_chars": 411,
         "where": "使用者手動複製自 www.facebook.com（examples/weijiaxian-fb.txt）"
       }
     },
@@ -3105,8 +3105,8 @@
         "via": "manual",
         "published": "2026-11-01",
         "published_basis": "manual",
-        "text_sha256": "b8555b6f5016efb21c050c2ea7062bdfd51fbb3e9b6a97fb9dbf6ab52026bdd3",
-        "text_chars": 574,
+        "text_sha256": "5590c1aa0fa1824ed4d9a825404cba1ea1f848235e94e84622398dbba03e54b4",
+        "text_chars": 577,
         "where": "使用者手動複製自 www.facebook.com（examples/weijiaxian-fb.txt）"
       }
     },
@@ -3125,8 +3125,8 @@
         "via": "manual",
         "published": "2026-11-01",
         "published_basis": "manual",
-        "text_sha256": "2ac579a30d446d7cb59e7ff2ad76e4e3b63ff3720414354f02e597fdf2599bcb",
-        "text_chars": 511,
+        "text_sha256": "8d8f47f04046ea4d55d7c5a384d1311f5ce8acb14010e201bfa0776a201350c6",
+        "text_chars": 514,
         "where": "使用者手動複製自 www.facebook.com（examples/zhang.jun-fb/zhang.jun.txt）"
       }
     },
@@ -3145,8 +3145,8 @@
         "via": "manual",
         "published": "2026-11-01",
         "published_basis": "manual",
-        "text_sha256": "e0069c101a643f4dbe3e591167104cc5b9b708813d838158415c5a4fed792ea4",
-        "text_chars": 326,
+        "text_sha256": "fa4cd61f7245291637a87c4abf96cbfb7a0e01624e59833125842b81beb6d916",
+        "text_chars": 329,
         "where": "使用者手動複製自 www.facebook.com（examples/zhang.jun-fb/zhang.jun.txt）"
       }
     },
@@ -3165,8 +3165,8 @@
         "via": "manual",
         "published": "2026-11-02",
         "published_basis": "manual",
-        "text_sha256": "c43deeec14b77a35d3474f663afa62c35a3e8e12a2d3629e8b49077ed2e354d2",
-        "text_chars": 508,
+        "text_sha256": "c176a94fd18c2da56286832680a1ead8a4879e3f336dff739f0fbe2760318f42",
+        "text_chars": 511,
         "where": "使用者手動複製自 www.facebook.com（examples/weijiaxian-fb.txt）"
       }
     },
@@ -3185,8 +3185,8 @@
         "via": "manual",
         "published": "2026-11-02",
         "published_basis": "manual",
-        "text_sha256": "a78336967d1a47fe98a8848e32226c3905f7e49c7bfeb757a6f9831b0b626308",
-        "text_chars": 364,
+        "text_sha256": "6d75e665c22a0944dbc529d07a1f2d6429321677bf4592026ec5d42390b8d673",
+        "text_chars": 367,
         "where": "使用者手動複製自 www.facebook.com（examples/zhang.jun-fb/zhang.jun.txt）"
       }
     },
@@ -3205,8 +3205,129 @@
         "via": "manual",
         "published": "2026-11-02",
         "published_basis": "manual",
-        "text_sha256": "6160f7ebd8c749d8600552dc64a120c7bac6663226f555c8fa4681fa350b64d4",
-        "text_chars": 356,
+        "text_sha256": "bb6460a33d24c8aaeabab29f7f28129cf8c2524c5e7a649a8509cfc0a24b8e69",
+        "text_chars": 359,
+        "where": "使用者手動複製自 www.facebook.com（examples/zhang.jun-fb/zhang.jun.txt）"
+      }
+    },
+    {
+      "id": "wei-fb-20261103-a",
+      "outlet": "魏嘉賢（臉書貼文）",
+      "outlet_group": "candidate:wei",
+      "candidate_id": "wei",
+      "title": "花蓮縣政府不是競選總部",
+      "url": "https://www.facebook.com/share/p/1N1S8Mw2YC/",
+      "date": "2026-11-03",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-11-04",
+        "via": "manual",
+        "published": "2026-11-03",
+        "published_basis": "manual",
+        "text_sha256": "9713c94ce231fe3cce02dfb29ecb81f1a041690edb7a487225a08eb414a0550c",
+        "text_chars": 549,
+        "where": "使用者手動複製自 www.facebook.com（examples/weijiaxian-fb.txt）"
+      }
+    },
+    {
+      "id": "wei-fb-20261103-b",
+      "outlet": "魏嘉賢（臉書貼文）",
+      "outlet_group": "candidate:wei",
+      "candidate_id": "wei",
+      "title": "市場有活力，城市就有生命力！",
+      "url": "https://www.facebook.com/share/p/1cRhFDwfPr/",
+      "date": "2026-11-03",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-11-04",
+        "via": "manual",
+        "published": "2026-11-03",
+        "published_basis": "manual",
+        "text_sha256": "aebc72b1db602d8e24481e73ec4990a9f0c900dcb3b74a1b73a7705b2c9e0078",
+        "text_chars": 360,
+        "where": "使用者手動複製自 www.facebook.com（examples/weijiaxian-fb.txt）",
+        "note": "貼文檔裡沒有日期列；發布日為 2026-11-03（使用者確認）。內文寫「11月2日下午」是拜訪日。"
+      }
+    },
+    {
+      "id": "zj-fb-20261103-a",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "走進萬榮，記錄部落日常",
+      "url": "https://www.facebook.com/share/p/1F5ZWYtVvd/",
+      "date": "2026-11-03",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-11-04",
+        "via": "manual",
+        "published": "2026-11-03",
+        "published_basis": "manual",
+        "text_sha256": "49f69d520d47466daaade5671263c9e44dfab997fc1a67d48d8790367aacc421",
+        "text_chars": 330,
+        "where": "使用者手動複製自 www.facebook.com（examples/zhang.jun-fb/zhang.jun.txt）"
+      }
+    },
+    {
+      "id": "zj-fb-20261103-b",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "張峻民調持續上升 感謝鄉親支持 繼續打拚",
+      "url": "https://www.facebook.com/share/p/1GwGNnpx5d/",
+      "date": "2026-11-03",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-11-04",
+        "via": "manual",
+        "published": "2026-11-03",
+        "published_basis": "manual",
+        "text_sha256": "c4bdeec02e859bcfa9ba5b3182e9b41ee6f45a520deac507cfd471cfc399720c",
+        "text_chars": 382,
+        "where": "使用者手動複製自 www.facebook.com（examples/zhang.jun-fb/zhang.jun.txt）"
+      }
+    },
+    {
+      "id": "zj-fb-20261103-c",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "權力應該用來照顧花蓮 尊重專業守住行政中立",
+      "url": "https://www.facebook.com/share/p/1FAsKyktCr/",
+      "date": "2026-11-03",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-11-04",
+        "via": "manual",
+        "published": "2026-11-03",
+        "published_basis": "manual",
+        "text_sha256": "c6b382615320074bcea1fa3cb96ad9d5b8a75dedd903d7ef0529f635cc72ddc8",
+        "text_chars": 345,
+        "where": "使用者手動複製自 www.facebook.com（examples/zhang.jun-fb/zhang.jun.txt）"
+      }
+    },
+    {
+      "id": "zj-fb-20261103-d",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "讓交通帶動生意 讓海洋創造機會🚢",
+      "url": "https://www.facebook.com/share/p/1A96VRvfxJ/",
+      "date": "2026-11-03",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-11-04",
+        "via": "manual",
+        "published": "2026-11-03",
+        "published_basis": "manual",
+        "text_sha256": "6400de7de794e1667c81cae62eb039c03b0dfa0d6e3cfc4694444e625d2d48f2",
+        "text_chars": 362,
         "where": "使用者手動複製自 www.facebook.com（examples/zhang.jun-fb/zhang.jun.txt）"
       }
     },
@@ -4129,8 +4250,8 @@
         "via": "manual",
         "published": "2026-11-02",
         "published_basis": "manual",
-        "text_sha256": "133eb9e752e5560d115b6ba663bc5e7e03c35ace4cdd271fbedead6ede5e3eb1",
-        "text_chars": 1027,
+        "text_sha256": "0e77583082a2c803e07a048d7380795f37affae80654e76cef5205fc4a79130f",
+        "text_chars": 1030,
         "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
         "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
         "note": "同一場記者會，由該網自行改寫"
@@ -4192,11 +4313,179 @@
         "via": "manual",
         "published": "2026-11-02",
         "published_basis": "manual",
-        "text_sha256": "25753ab6cea8837f7de265f302214d7aa4300eb9189a9e5b7c6cfff3d463e45f",
-        "text_chars": 1636,
+        "text_sha256": "80a7ec8a064f280b1b7b70005546dc10086642fc1b6e0f20cf42ee56024fefa1",
+        "text_chars": 1639,
         "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
         "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
         "note": "與花蓮新聞網同稿，只作為 context 收錄"
+      }
+    },
+    {
+      "id": "ksre-20261103",
+      "outlet": "更生新聞網",
+      "outlet_group": "更生日報",
+      "title": "游淑貞：倡宗教文化觀光新願景 永續旅遊",
+      "url": "https://www.ksnews.com.tw/e/156354",
+      "date": "2026-11-03",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-11-03",
+        "published_basis": "manual",
+        "text_sha256": "063fc0c3f9cae0e0641c660f165cade1e704e3845f219ed3edc8b6f951a37e9b",
+        "text_chars": 1147,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "游淑貞出席護國宮收冬祭時提出宗教文化觀光構想；與東台灣新聞網、花蓮最速報同稿"
+      }
+    },
+    {
+      "id": "tdnre-20261103",
+      "outlet": "東台灣新聞網",
+      "outlet_group": "東台灣新聞網",
+      "title": "游淑貞倡宗教文化觀光新願景｜打造花蓮低碳永續旅遊品牌，出席護國宮收冬祭祈福，推宗教節慶整合、文化小旅行與地方創生！",
+      "url": "https://reurl.cc/omGOA3",
+      "date": "2026-11-03",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-11-03",
+        "published_basis": "manual",
+        "text_sha256": "717046bcf492a35df34e64a57a8880dfd4cf083903266d19c90091af0480e522",
+        "text_chars": 1188,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "與更生新聞網同稿，不計獨立媒體群"
+      }
+    },
+    {
+      "id": "hsnre-20261103",
+      "outlet": "花蓮最速報",
+      "outlet_group": "花蓮最速報",
+      "title": "游淑貞倡宗教文化觀光新願景　打造花蓮低碳永續旅遊品牌 出席護國宮收冬祭祈福　推宗教節慶整合、文化小旅行與地方創生",
+      "url": "https://hsn.tw/Oq9sF",
+      "date": "2026-11-03",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-11-03",
+        "published_basis": "manual",
+        "text_sha256": "2daeeeb187cbb75ac3ffb2a48647faf4a7dd42ee8ed425b2e17e2e0295657143",
+        "text_chars": 1183,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "與更生新聞網同稿，不計獨立媒體群"
+      }
+    },
+    {
+      "id": "kswei-20261103",
+      "outlet": "更生新聞網",
+      "outlet_group": "更生日報",
+      "title": "拒挺游遭撤換？魏嘉賢轟：縣府淪競選總部",
+      "url": "https://www.ksnews.com.tw/e/156183",
+      "date": "2026-11-03",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-11-03",
+        "published_basis": "manual",
+        "text_sha256": "07bd8605685563ec2f0ae48c150c5ef1e71112969e350465ef6650141f31cbcf",
+        "text_chars": 1106,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "魏嘉賢對縣府人事異動的批評與自述立場；本平台只收他自述的立場，不判斷人事事件的事實"
+      }
+    },
+    {
+      "id": "ksneu-20261103",
+      "outlet": "更生新聞網",
+      "outlet_group": "更生日報",
+      "title": "游淑貞競總：拒絕選前政治操作",
+      "url": "https://www.ksnews.com.tw/e/156201",
+      "date": "2026-11-03",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-11-03",
+        "published_basis": "manual",
+        "text_sha256": "22e0058216ff84048ec821925dc53cd72eb4357a574cd24b7d4e6652aad5b6e4",
+        "text_chars": 501,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "游淑貞競選辦公室對縣府人事異動的三點回應（行政中立表態）；本平台只收表態，不判斷人事事件的事實"
+      }
+    },
+    {
+      "id": "tdnneu-20261103",
+      "outlet": "東台灣新聞網",
+      "outlet_group": "東台灣新聞網",
+      "title": "朱家祥被辭退衛生局長一職臨別拋震撼彈｜游淑貞競選辦公室三點回應，呼籲各界回歸實質政策討論，拒絕選前政治操作！",
+      "url": "https://reurl.cc/7Yx815",
+      "date": "2026-11-03",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-11-03",
+        "published_basis": "manual",
+        "text_sha256": "713fd60fa4bc49d8f641864fb1c04bc8bd60b393dbd9434751ab64c2f2ee8507",
+        "text_chars": 565,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "與更生新聞網同稿，不計獨立媒體群；原貼檔標題在 reurl.cc/7Yx815、聲明內文在 reurl.cc/aEyY9l，已合併"
+      }
+    },
+    {
+      "id": "hsnneu-20261103",
+      "outlet": "花蓮最速報",
+      "outlet_group": "花蓮最速報",
+      "title": "花蓮縣府人事異動引關注　游淑貞：未參與也無權干涉",
+      "url": "https://hsn.tw/WsCok",
+      "date": "2026-11-03",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-11-03",
+        "published_basis": "manual",
+        "text_sha256": "1738da19435b9db15d56d757c310d9c1a826e97ca0479d57bfdadbb3197c24b2",
+        "text_chars": 585,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "同一份聲明由該報改寫，不計獨立媒體群"
+      }
+    },
+    {
+      "id": "ksfbz-20261103",
+      "outlet": "更生日報（臉書分享）",
+      "outlet_group": "更生日報",
+      "title": "民調攀升 張峻感謝民意支持 強調以專業治理回應鄉親期待",
+      "url": "https://www.facebook.com/share/p/1E23Ujx8wz/",
+      "date": "2026-11-03",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-11-03",
+        "published_basis": "manual",
+        "text_sha256": "b38de63b95c3b6fd47952bb8c05a0ae96fd3801002c1acb6ccec3b0a5fc48a0c",
+        "text_chars": 764,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "更生日報記者何國豐報導張峻回應民調；網址是臉書分享連結，與更生日報同一媒體群"
       }
     }
   ]

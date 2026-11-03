@@ -1203,7 +1203,8 @@
             "text": "發展海洋觀光：串聯郵輪、環島航線、部落文化與地方旅遊，帶動住宿、餐飲及觀光產業；整合港口接駁、觀光遊程與在地產業，讓旅客走進花蓮、帶動地方消費",
             "commitment": "發展／創造（原文條列）",
             "source_ids": [
-              "zj-fb-20261102-b"
+              "zj-fb-20261102-b",
+              "zj-fb-20261103-d"
             ],
             "status": "confirmed",
             "verified_on": "2026-11-03",
@@ -1265,6 +1266,70 @@
                 "words": "有機農業"
               }
             ]
+          },
+          {
+            "id": "tour_industry.n-religion-brand",
+            "candidate_id": "you",
+            "text": "整合全縣宮廟節慶、客庄文化與山海旅遊資源，建立具有花蓮特色的宗教文化觀光品牌；縣政從單點活動補助，提升為跨局處、跨鄉鎮的整體文化觀光治理",
+            "commitment": "主張（報導用語：「主張整合…」「縣政應從…提升為…」）",
+            "source_ids": [
+              "ksre-20261103",
+              "tdnre-20261103",
+              "hsnre-20261103"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-11-04",
+            "stage": "主張",
+            "note": "僅見於同一份新聞稿（三家轉載），尚無游淑貞自己的貼文可對照；沒有經費與時程。與既有的「信仰經濟」（tour_industry.u3）、宮廟參與社區防災（disaster.n-religion）主題相關，並列。"
+          },
+          {
+            "id": "tour_industry.n-festival-calendar",
+            "candidate_id": "you",
+            "text": "建立「花蓮宗教文化節慶日曆」，盤點十三鄉鎮市特色宮廟、祭典與文化資產，串聯周邊景點、農特產品、特色餐飲及旅宿業者，規劃文化小旅行與主題遊程；培育在地導覽人才，導入數位行銷與多語服務",
+            "commitment": "提出（報導用語：「提出建立…」）",
+            "source_ids": [
+              "ksre-20261103",
+              "tdnre-20261103",
+              "hsnre-20261103"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-11-04",
+            "stage": "主張",
+            "note": "僅見於同一份新聞稿（三家轉載），尚無游淑貞自己的貼文可對照；沒有經費與時程。與既有的「信仰經濟」（tour_industry.u3）、宮廟參與社區防災（disaster.n-religion）主題相關，並列。"
+          },
+          {
+            "id": "tour_industry.n-temple-eco",
+            "candidate_id": "you",
+            "text": "鼓勵各宮廟依自身條件推動環保措施：結合低碳交通、綠色旅遊及友善參拜環境，兼顧宗教自主、文化傳承與環境永續",
+            "commitment": "「未來可結合…鼓勵…」（報導用語，條件式）",
+            "source_ids": [
+              "ksre-20261103",
+              "tdnre-20261103",
+              "hsnre-20261103"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-11-04",
+            "stage": "主張",
+            "also": [
+              {
+                "island": "disaster",
+                "basis": "source"
+              }
+            ],
+            "note": "僅見於同一份新聞稿（三家轉載），尚無游淑貞自己的貼文可對照；沒有經費與時程。與既有的「信仰經濟」（tour_industry.u3）、宮廟參與社區防災（disaster.n-religion）主題相關，並列。"
+          },
+          {
+            "id": "tour_industry.n-market-care",
+            "candidate_id": "wei",
+            "text": "持續關注花蓮市傳統市場的環境改善與攤商需求，讓傳統市場保有特色、持續發展",
+            "commitment": "會持續關注…（原文）",
+            "source_ids": [
+              "wei-fb-20261103-b"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-04",
+            "stage": "主張",
+            "note": "只有「持續關注」，沒有具體措施；貼文是拜會花蓮市五大公有零售市場自治會主委之後所寫。"
           }
         ],
         "numbers": [
@@ -1311,6 +1376,7 @@
           "zj-fb-20261020-b",
           "zj-fb-20260814-a",
           "zj-fb-20260902",
+          "wei-fb-20261103-b",
           "na-20260515",
           "cnews-20260515",
           "udn-20260918",
@@ -1321,7 +1387,10 @@
           "kssweep-20261029",
           "hsice-20261030",
           "kszhang-20261030",
-          "kshai-20261101"
+          "kshai-20261101",
+          "ksre-20261103",
+          "tdnre-20261103",
+          "hsnre-20261103"
         ]
       }
     },
@@ -2315,7 +2384,8 @@
             "text": "積極向中央爭取，讓花蓮港成為「全國藍色公路」及「海運備援船舶」母港",
             "commitment": "主張（原文：「我主張積極向中央爭取」）",
             "source_ids": [
-              "zj-fb-20261102-b"
+              "zj-fb-20261102-b",
+              "zj-fb-20261103-d"
             ],
             "status": "confirmed",
             "verified_on": "2026-11-03",
@@ -2338,7 +2408,8 @@
             "text": "強化交通備援：地震、豪雨造成鐵公路中斷時，在安全條件允許下，讓海運成為另一條疏運管道",
             "commitment": "強化（原文條列：「強化交通備援」）",
             "source_ids": [
-              "zj-fb-20261102-b"
+              "zj-fb-20261102-b",
+              "zj-fb-20261103-d"
             ],
             "status": "confirmed",
             "verified_on": "2026-11-03",
@@ -4041,7 +4112,8 @@
             "commitment": "未來將邀請",
             "source_ids": [
               "zj-fb-20260913",
-              "cna-20260913"
+              "cna-20260913",
+              "zj-fb-20261103-b"
             ],
             "status": "confirmed",
             "verified_on": "2026-10-28"
@@ -4369,11 +4441,66 @@
             "text": "成立海洋事務專責單位：整合海洋保育、教育、休閒與產業發展",
             "commitment": "成立（原文條列）",
             "source_ids": [
-              "zj-fb-20261102-b"
+              "zj-fb-20261102-b",
+              "zj-fb-20261103-d"
             ],
             "status": "confirmed",
             "verified_on": "2026-11-03",
             "stage": "主張"
+          },
+          {
+            "id": "fiscal.n-neutral-wei",
+            "candidate_id": "wei",
+            "text": "不會利用行政權力要求公務人員為個人選舉服務；縣府與鄉公所都應恪守行政中立",
+            "commitment": "強調（報導用語：「自己絕不會…」）",
+            "source_ids": [
+              "kswei-20261103"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-11-04",
+            "stage": "主張",
+            "note": "這是對 11/2–3 縣府衛生局長人事異動事件的表態；本平台只收各方自述的立場，不判斷事件事實，也不判斷誰對。"
+          },
+          {
+            "id": "fiscal.n-neutral-zhang",
+            "candidate_id": "zhang",
+            "text": "不能動用行政資源輔選，更不能要求公務人員配合違法政治動員；用人應看專業、看表現",
+            "commitment": "我的立場（原文：「我的立場：不能…」）",
+            "source_ids": [
+              "zj-fb-20261103-c"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-04",
+            "stage": "主張",
+            "note": "這是對 11/2–3 縣府衛生局長人事異動事件的表態；本平台只收各方自述的立場，不判斷事件事實，也不判斷誰對。"
+          },
+          {
+            "id": "fiscal.n-neutral-you",
+            "candidate_id": "you",
+            "text": "競選團隊將「依法行政」與「行政中立」視為不可妥協的最高原則",
+            "commitment": "聲明（游淑貞競選辦公室）",
+            "source_ids": [
+              "ksneu-20261103",
+              "tdnneu-20261103",
+              "hsnneu-20261103"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-11-04",
+            "stage": "主張",
+            "note": "這是對 11/2–3 縣府衛生局長人事異動事件的表態，出自「游淑貞競選辦公室」聲明，不是候選人本人貼文；本平台只收各方自述的立場，不判斷事件事實，也不判斷誰對。"
+          },
+          {
+            "id": "fiscal.n-framework",
+            "candidate_id": "zhang",
+            "text": "以「拚經濟、顧家庭、護安全」為主軸，透過十二大治理面向與一百二十項行動方案，推動產業投資、增加就業選擇，並強化家庭照顧、交通與防災",
+            "commitment": "「將以…為主軸，透過…推動」（報導用語）",
+            "source_ids": [
+              "ksfbz-20261103"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-11-04",
+            "stage": "主張",
+            "note": "目前只見名稱與主軸，這 120 項行動方案的原文尚未取得；若他公布，就是他的統整版（屆時政見／主張要重新分層）。"
           }
         ],
         "numbers": [
@@ -4425,7 +4552,12 @@
           "cnews-20260515",
           "scoop-20260903",
           "ksnews-20261028",
-          "tdnyou-20261031"
+          "tdnyou-20261031",
+          "kswei-20261103",
+          "ksneu-20261103",
+          "tdnneu-20261103",
+          "hsnneu-20261103",
+          "ksfbz-20261103"
         ]
       }
     },
