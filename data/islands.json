@@ -1363,6 +1363,7 @@
           "wei-fb-20261030-a",
           "you-fb-20261031",
           "wei-fb-20261101-b",
+          "wei-fb-20261103-b",
           "zj-fb-20260911-a",
           "zj-fb-20261013-b",
           "zj-fb-20260829-b",
@@ -1376,7 +1377,6 @@
           "zj-fb-20261020-b",
           "zj-fb-20260814-a",
           "zj-fb-20260902",
-          "wei-fb-20261103-b",
           "na-20260515",
           "cnews-20260515",
           "udn-20260918",
@@ -2420,6 +2420,74 @@
                 "basis": "source"
               }
             ]
+          },
+          {
+            "id": "traffic.n-four-in-one",
+            "candidate_id": "you",
+            "text": "整合公路、鐵路、海港與空港，打造「四位一體」的韌性交通網",
+            "commitment": "我們更需要…打造（原文）；「推動『運能花蓮』的重要方向」",
+            "source_ids": [
+              "you-fb-20261104",
+              "ksroad-20261104"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-05",
+            "stage": "主張",
+            "also": [
+              {
+                "island": "disaster",
+                "basis": "source"
+              },
+              {
+                "island": "tour_industry",
+                "basis": "source"
+              }
+            ],
+            "note": "貼文自述這是「運能花蓮」的重要方向；同時是向中央爭取資源（貼文：「會持續爭取中央資源」），不是縣府自己出錢的承諾。",
+            "under": [
+              {
+                "id": "traffic.n-gold-mob-1",
+                "words": "交通路網（貼文自述為「運能花蓮」方向）"
+              }
+            ]
+          },
+          {
+            "id": "traffic.n-port-air",
+            "candidate_id": "you",
+            "text": "積極爭取提升花蓮港客貨運能，強化港埠物流、郵輪觀光及海運備援，評估穩定海上客貨運輸航線的可行性；提升國內航線穩定性、航班密度與緊急航空運輸能力，積極爭取恢復與拓展國際及兩岸航線",
+            "commitment": "主張／積極爭取（報導用語）",
+            "source_ids": [
+              "ksroad-20261104"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-11-05",
+            "stage": "主張",
+            "also": [
+              {
+                "island": "disaster",
+                "basis": "source"
+              }
+            ],
+            "note": "僅見於這一篇報導（更生新聞網），尚無游淑貞自己的貼文可對照；沒有經費與時程。與張峻的藍色公路／海運備援主張主題相近，並列。"
+          },
+          {
+            "id": "traffic.n-coord-platform",
+            "candidate_id": "you",
+            "text": "縣府建立跨部會交通協調平台，統合公路、鐵路、港埠與航空資源，推動客貨運分流、複合運輸及災害備援機制",
+            "commitment": "認為未來縣府應建立…（報導用語）",
+            "source_ids": [
+              "ksroad-20261104"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-11-05",
+            "stage": "主張",
+            "also": [
+              {
+                "island": "disaster",
+                "basis": "source"
+              }
+            ],
+            "note": "僅見於這一篇報導（更生新聞網），尚無游淑貞自己的貼文可對照；沒有經費與時程。與張峻的藍色公路／海運備援主張主題相近，並列。"
           }
         ],
         "numbers": [
@@ -2500,7 +2568,9 @@
           "scoop-20260903",
           "ksxie-20261102",
           "hnxie-20261102",
-          "hlxie-20261102"
+          "hlxie-20261102",
+          "you-fb-20261104",
+          "ksroad-20261104"
         ]
       }
     },
@@ -3066,6 +3136,21 @@
             "stage": "政見",
             "frame": "共創黃金十年旗艦計劃・社福花蓮",
             "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "care.n-south-medical",
+            "candidate_id": "wei",
+            "text": "協調中央及醫療院所，強化南區專科診療與緊急救護量能，推動遠距醫療、救護車生理數據即時傳輸及社區健康照護網絡",
+            "commitment": "將協調／推動（原文）",
+            "source_ids": [
+              "wei-fb-20261104-a",
+              "kssouth-20261104",
+              "hnsouth-20261104"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-05",
+            "stage": "主張",
+            "note": "官網另有「遠距門診開進部落」，本點是針對南區的補充說明；「救護車生理數據即時傳輸」只見於報導。"
           }
         ],
         "numbers": [
@@ -3171,7 +3256,9 @@
           "yahoo-20261004",
           "ct-20261008",
           "cna-20260913",
-          "kssweep-20261029"
+          "kssweep-20261029",
+          "kssouth-20261104",
+          "hnsouth-20261104"
         ]
       }
     },
@@ -4501,6 +4588,27 @@
             "verified_on": "2026-11-04",
             "stage": "主張",
             "note": "目前只見名稱與主軸，這 120 項行動方案的原文尚未取得；若他公布，就是他的統整版（屆時政見／主張要重新分層）。"
+          },
+          {
+            "id": "fiscal.n-second-center",
+            "candidate_id": "wei",
+            "text": "將玉里打造為花蓮縣「第二行政中心」：盤點縣府各局處業務，逐步整合南區行政服務據點，結合數位行政與跨局處服務，讓南區鄉親就近辦理縣政業務",
+            "commitment": "提出（原文：「嘉賢提出將玉里打造為…」）",
+            "source_ids": [
+              "wei-fb-20261104-a",
+              "kssouth-20261104",
+              "hnsouth-20261104"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-05",
+            "stage": "主張",
+            "also": [
+              {
+                "island": "care",
+                "basis": "source"
+              }
+            ],
+            "note": "魏嘉賢官網（10/23 版）未列此項；貼文與報導都沒有預算與時程。"
           }
         ],
         "numbers": [
@@ -4557,7 +4665,9 @@
           "ksneu-20261103",
           "tdnneu-20261103",
           "hsnneu-20261103",
-          "ksfbz-20261103"
+          "ksfbz-20261103",
+          "kssouth-20261104",
+          "hnsouth-20261104"
         ]
       }
     },
@@ -6388,6 +6498,19 @@
               }
             ],
             "note": "僅見於這一篇新聞（國民黨縣黨部活動報導），尚無游淑貞自己的貼文可對照。"
+          },
+          {
+            "id": "ethnic.n-tribe-culture",
+            "candidate_id": "zhang",
+            "text": "尊重部落的文化自主，讓合作成果回到在地，提供資源協助青年持續創作，累積地方文化能量",
+            "commitment": "也非常重要（原文語氣）",
+            "source_ids": [
+              "zj-fb-20261104"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-05",
+            "stage": "主張",
+            "note": "貼文提到他的「文化政策白皮書」，但本平台尚未取得白皮書原文；其餘文化治理項目放在待歸島（無對應主題島）。"
           }
         ],
         "numbers": [],
@@ -6656,7 +6779,9 @@
             "text": "中南區就近運動：運動資源平衡到中區、南區，評估在鳳林、玉里設全民運動館，讓鄉親就近運動。",
             "commitment": "評估",
             "source_ids": [
-              "wei-web-policies"
+              "wei-web-policies",
+              "wei-fb-20261104-a",
+              "kssouth-20261104"
             ],
             "status": "confirmed",
             "verified_on": "2026-10-28"
@@ -6702,7 +6827,8 @@
           "zj-fb-20260830-a",
           "zj-fb-20260909-c",
           "zj-fb-20260919-a",
-          "zj-fb-20261004"
+          "zj-fb-20261004",
+          "kssouth-20261104"
         ]
       }
     }

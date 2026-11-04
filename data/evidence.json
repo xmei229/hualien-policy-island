@@ -9248,6 +9248,205 @@
         "method": "貼文全文快照去空白後 includes",
         "hit": true
       }
+    },
+    {
+      "id": "hualien.n327",
+      "target_id": "fiscal.n-second-center",
+      "source_id": "wei-fb-20261104-a",
+      "relation": "supports",
+      "quote": "嘉賢提出將玉里打造為花蓮縣「第二行政中心」，整合縣府行政資源，讓鄉親就近辦理縣政業務，減輕交通負擔",
+      "checked": {
+        "at": "2026-11-05",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n328",
+      "target_id": "fiscal.n-second-center",
+      "source_id": "kssouth-20261104",
+      "relation": "supports",
+      "quote": "他提出以玉里作為「花蓮縣第二行政中心」，未來將盤點縣府各局處業務，逐步整合南區行政服務據點，結合數位行政與跨局處服務",
+      "checked": {
+        "at": "2026-11-05",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n329",
+      "target_id": "fiscal.n-second-center",
+      "source_id": "hnsouth-20261104",
+      "relation": "supports",
+      "quote": "他提出以玉里作為「花蓮縣第二行政中心」，未來將盤點縣府各局處業務，逐步整合南區行政服務據點，結合數位行政與跨局處服務",
+      "note": "與更生新聞網同稿，不計獨立媒體群。",
+      "checked": {
+        "at": "2026-11-05",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n330",
+      "target_id": "care.n-south-medical",
+      "source_id": "wei-fb-20261104-a",
+      "relation": "supports",
+      "quote": "將協調中央及醫療院所，強化南區專科診療與緊急救護服務，推動遠距醫療及社區健康照護",
+      "checked": {
+        "at": "2026-11-05",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n331",
+      "target_id": "care.n-south-medical",
+      "source_id": "kssouth-20261104",
+      "relation": "supports",
+      "quote": "未來將積極協調中央及醫療院所，強化南區專科診療與緊急救護量能，推動遠距醫療、救護車生理數據即時傳輸及社區健康照護網絡",
+      "checked": {
+        "at": "2026-11-05",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n332",
+      "target_id": "care.n-south-medical",
+      "source_id": "hnsouth-20261104",
+      "relation": "supports",
+      "quote": "未來將積極協調中央及醫療院所，強化南區專科診療與緊急救護量能，推動遠距醫療、救護車生理數據即時傳輸及社區健康照護網絡",
+      "note": "與更生新聞網同稿，不計獨立媒體群。",
+      "checked": {
+        "at": "2026-11-05",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n333",
+      "target_id": "sports.w-P01-24",
+      "source_id": "wei-fb-20261104-a",
+      "relation": "supports",
+      "quote": "同時，評估於玉里興建全民運動館",
+      "note": "官網已列「評估在鳳林、玉里設全民運動館」；這則貼文再次提到（玉里）。",
+      "checked": {
+        "at": "2026-11-05",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n334",
+      "target_id": "sports.w-P01-24",
+      "source_id": "kssouth-20261104",
+      "relation": "supports",
+      "quote": "評估於鳳林鎮及玉里鎮興建全民運動館",
+      "note": "官網已列的項目，報導再次提到。",
+      "checked": {
+        "at": "2026-11-05",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n335",
+      "target_id": "traffic.n-four-in-one",
+      "source_id": "you-fb-20261104",
+      "relation": "supports",
+      "quote": "我們更需要整合公路、鐵路、海港與空港，打造「四位一體」的韌性交通網",
+      "checked": {
+        "at": "2026-11-05",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n336",
+      "target_id": "traffic.n-four-in-one",
+      "source_id": "ksroad-20261104",
+      "relation": "supports",
+      "quote": "她並主張進一步整合公路、鐵路、海港與空港運能，建立「四位一體」的立體交通運輸體系",
+      "checked": {
+        "at": "2026-11-05",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n337",
+      "target_id": "traffic.n-four-in-one",
+      "source_id": "ksroad-20261104",
+      "relation": "supports",
+      "quote": "未來將以「交通平權、全域韌性、山海共榮」為施政方向",
+      "checked": {
+        "at": "2026-11-05",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n338",
+      "target_id": "traffic.n-port-air",
+      "source_id": "ksroad-20261104",
+      "relation": "supports",
+      "quote": "她主張積極爭取提升花蓮港客貨運能，強化港埠物流、郵輪觀光及海運備援功能，並評估穩定海上客貨運輸航線的可行性",
+      "checked": {
+        "at": "2026-11-05",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n339",
+      "target_id": "traffic.n-port-air",
+      "source_id": "ksroad-20261104",
+      "relation": "supports",
+      "quote": "積極爭取恢復與拓展國際及兩岸航線",
+      "checked": {
+        "at": "2026-11-05",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n340",
+      "target_id": "traffic.n-coord-platform",
+      "source_id": "ksroad-20261104",
+      "relation": "supports",
+      "quote": "她認為，未來縣府應建立跨部會交通協調平台，統合公路、鐵路、港埠與航空資源，推動客貨運分流、複合運輸及災害備援機制，降低單一交通系統中斷造成的衝擊",
+      "checked": {
+        "at": "2026-11-05",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n341",
+      "target_id": "ethnic.n-tribe-culture",
+      "source_id": "zj-fb-20261104",
+      "relation": "supports",
+      "quote": "尊重部落的文化自主，讓合作成果回到在地，提供資源協助青年持續創作，累積地方文化能量也非常重要",
+      "checked": {
+        "at": "2026-11-05",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
     }
   ]
 }

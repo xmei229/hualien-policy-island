@@ -3064,8 +3064,8 @@
         "via": "manual",
         "published": "2026-10-31",
         "published_basis": "manual",
-        "text_sha256": "cb5c9c5b6cc26ecae135a19e66f31d9c3d46bef355d322d3385130e2fe3f2140",
-        "text_chars": 1560,
+        "text_sha256": "c49150baf2c683943d6b46364b942dd004767d19d3723d8c26e8863176dc26e0",
+        "text_chars": 1563,
         "where": "使用者手動複製自 www.facebook.com（examples/CandyHualien-fb/CandyHualien-fb.txt，附 4 張圖）",
         "note": "快照＝貼文文字＋附圖圖卡文字（人工逐字轉錄，非貼文本文）；原圖在 examples/CandyHualien-fb/fb-10-31-images/you-10-year-1～4.jfif，請抽查。"
       }
@@ -3329,6 +3329,86 @@
         "text_sha256": "6400de7de794e1667c81cae62eb039c03b0dfa0d6e3cfc4694444e625d2d48f2",
         "text_chars": 362,
         "where": "使用者手動複製自 www.facebook.com（examples/zhang.jun-fb/zhang.jun.txt）"
+      }
+    },
+    {
+      "id": "wei-fb-20261104-a",
+      "outlet": "魏嘉賢（臉書貼文）",
+      "outlet_group": "candidate:wei",
+      "candidate_id": "wei",
+      "title": "南區競選服務處在玉里成立！",
+      "url": "https://www.facebook.com/share/p/1QmKA2ihf2/",
+      "date": "2026-11-04",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-11-05",
+        "via": "manual",
+        "published": "2026-11-04",
+        "published_basis": "manual",
+        "text_sha256": "c12c90c0da0a0702372bb570053b97b2844151e4dc32a687b04055fa4355581c",
+        "text_chars": 437,
+        "where": "使用者手動複製自 www.facebook.com（examples/weijiaxian-fb.txt）"
+      }
+    },
+    {
+      "id": "wei-fb-20261104-b",
+      "outlet": "魏嘉賢（臉書貼文）",
+      "outlet_group": "candidate:wei",
+      "candidate_id": "wei",
+      "title": "吉安智慧門牌不智慧，陳情增加4成竟成政績？",
+      "url": "https://www.facebook.com/share/p/1KPZBJAmuc/",
+      "date": "2026-11-04",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-11-05",
+        "via": "manual",
+        "published": "2026-11-04",
+        "published_basis": "manual",
+        "text_sha256": "f780b8e8a9950d85f69329b44c9ebb9971c82409e22d051994955475c8e1aac1",
+        "text_chars": 474,
+        "where": "使用者手動複製自 www.facebook.com（examples/weijiaxian-fb.txt）"
+      }
+    },
+    {
+      "id": "zj-fb-20261104",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "關心森川里海成果走訪松園別館",
+      "url": "https://www.facebook.com/share/p/18sAuxxXB4/",
+      "date": "2026-11-04",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-11-05",
+        "via": "manual",
+        "published": "2026-11-04",
+        "published_basis": "manual",
+        "text_sha256": "e8022fe7d6f0023df01d4b86f2efaa7d699e1a577cff77d1286dcef8413a8b8e",
+        "text_chars": 486,
+        "where": "使用者手動複製自 www.facebook.com（examples/zhang.jun-fb/zhang.jun.txt）"
+      }
+    },
+    {
+      "id": "you-fb-20261104",
+      "outlet": "游淑貞（臉書貼文）",
+      "outlet_group": "candidate:you",
+      "candidate_id": "you",
+      "title": "一條平安回家的路，是政府對人民最基本的承諾！",
+      "url": "https://www.facebook.com/share/p/18ec5ThcHy/",
+      "date": "2026-11-04",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-11-05",
+        "via": "manual",
+        "published": "2026-11-04",
+        "published_basis": "manual",
+        "text_sha256": "bafebad651e77a7339835610bfa0694b605513b02c55c36666bdd860f55570b2",
+        "text_chars": 601,
+        "where": "使用者手動複製自 www.facebook.com（examples/CandyHualien-fb/CandyHualien-fb.txt）"
       }
     },
     {
@@ -4486,6 +4566,69 @@
         "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
         "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
         "note": "更生日報記者何國豐報導張峻回應民調；網址是臉書分享連結，與更生日報同一媒體群"
+      }
+    },
+    {
+      "id": "kssouth-20261104",
+      "outlet": "更生新聞網",
+      "outlet_group": "更生日報",
+      "title": "魏嘉賢玉里南區競選服務處成立",
+      "url": "https://www.ksnews.com.tw/e/156673",
+      "date": "2026-11-04",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-11-04",
+        "published_basis": "manual",
+        "text_sha256": "e98b272c7e3e17abb9c88f6be313f4c7ff08af9a46be22994930c96f04db26d7",
+        "text_chars": 840,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "魏嘉賢玉里南區競選服務處成立報導；與花蓮新聞網同稿"
+      }
+    },
+    {
+      "id": "hnsouth-20261104",
+      "outlet": "花蓮新聞網",
+      "outlet_group": "花蓮新聞網",
+      "title": "魏嘉賢玉里南區競選服務處成立 打造第二行政中心、實現南北均衡發展",
+      "url": "https://hualien-news.com/news.php?id=4197",
+      "date": "2026-11-04",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-11-04",
+        "published_basis": "manual",
+        "text_sha256": "27cacb9ae2052eee2b06f8981810da0a38d5625e3f3553bd8b1501111bdc0550",
+        "text_chars": 853,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "與更生新聞網同稿，不計獨立媒體群"
+      }
+    },
+    {
+      "id": "ksroad-20261104",
+      "outlet": "更生新聞網",
+      "outlet_group": "更生日報",
+      "title": "游淑貞：蘇花安打通花蓮對外交通命脈",
+      "url": "https://www.ksnews.com.tw/e/156677",
+      "date": "2026-11-04",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-11-04",
+        "published_basis": "manual",
+        "text_sha256": "669e3865c4dac87024cea786072cd40452f2da5d95b58598d6ac4820239765af",
+        "text_chars": 1136,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "游淑貞談蘇花安動工與「四位一體」交通；報導內文有少數錯字，引文照原文"
       }
     }
   ]
