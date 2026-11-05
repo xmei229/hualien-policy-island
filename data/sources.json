@@ -3412,6 +3412,26 @@
       }
     },
     {
+      "id": "zj-fb-20261105",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "今天，豐濱鄉後援會成立！地方人士與鄉親踴躍到場，讓豐濱難得出現如此熱鬧的選舉場面，也讓我深深感受到大家對未來的期待。",
+      "url": "https://www.facebook.com/share/p/18hzNMvdzS/",
+      "date": "2026-11-05",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-11-06",
+        "via": "manual",
+        "published": "2026-11-05",
+        "published_basis": "manual",
+        "text_sha256": "2b86887964579a3dc4514f1f52e6b6c92c373e06640ee2288d995f5c41ec4dfe",
+        "text_chars": 386,
+        "where": "使用者手動複製自 www.facebook.com（examples/zhang.jun-fb/zhang.jun.txt）"
+      }
+    },
+    {
       "id": "ltn-20260606",
       "outlet": "自由時報",
       "outlet_group": "自由時報",
@@ -4629,6 +4649,48 @@
         "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
         "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
         "note": "游淑貞談蘇花安動工與「四位一體」交通；報導內文有少數錯字，引文照原文"
+      }
+    },
+    {
+      "id": "ksfeng-20261105",
+      "outlet": "更生新聞網",
+      "outlet_group": "更生日報",
+      "title": "張峻豐濱後援會五日熱鬧成立 地方各界踴躍出席助陣",
+      "url": "https://www.ksnews.com.tw/e/156947",
+      "date": "2026-11-05",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-11-05",
+        "published_basis": "manual",
+        "text_sha256": "606ba993d5030b333edc8eccec6c64e1a49c348c390328b8bdfe52a2b11ac548",
+        "text_chars": 849,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "張峻豐濱鄉後援會成立報導（服務處提供圖片）"
+      }
+    },
+    {
+      "id": "ksvisit-20261105",
+      "outlet": "更生新聞網",
+      "outlet_group": "更生日報",
+      "title": "前桃園縣長吳志揚拜會游淑貞分享地方治理經驗",
+      "url": "https://www.ksnews.com.tw/e/157015",
+      "date": "2026-11-05",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-11-05",
+        "published_basis": "manual",
+        "text_sha256": "3387397c49c07acfa720cbb3b4f260e7f158f2cac608580fe4336b7d1a9b4759",
+        "text_chars": 1104,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "前桃園縣長吳志揚拜會游淑貞；內文有數處亂碼，引文只取完整句。報導同時出現「四大構面12項旗艦計劃」與她 10/31 貼文的「十大支柱」兩種說法"
       }
     }
   ]

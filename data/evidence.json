@@ -9447,6 +9447,88 @@
         "method": "貼文全文快照去空白後 includes",
         "hit": true
       }
+    },
+    {
+      "id": "hualien.n342",
+      "target_id": "fiscal.z1",
+      "source_id": "zj-fb-20261105",
+      "relation": "supports",
+      "quote": "我提出普發1萬元、0至18歲免健保費、敬老愛心卡每月2000點及縣民100萬元意外險",
+      "note": "重申：同一則貼文一次列出四項既有主張。",
+      "checked": {
+        "at": "2026-11-06",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n343",
+      "target_id": "welfare.z1",
+      "source_id": "zj-fb-20261105",
+      "relation": "supports",
+      "quote": "我提出普發1萬元、0至18歲免健保費、敬老愛心卡每月2000點及縣民100萬元意外險",
+      "note": "重申：同一則貼文一次列出四項既有主張。",
+      "checked": {
+        "at": "2026-11-06",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n344",
+      "target_id": "care.z1",
+      "source_id": "zj-fb-20261105",
+      "relation": "supports",
+      "quote": "我提出普發1萬元、0至18歲免健保費、敬老愛心卡每月2000點及縣民100萬元意外險",
+      "note": "重申：同一則貼文一次列出四項既有主張。",
+      "checked": {
+        "at": "2026-11-06",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n345",
+      "target_id": "welfare.z2",
+      "source_id": "zj-fb-20261105",
+      "relation": "supports",
+      "quote": "我提出普發1萬元、0至18歲免健保費、敬老愛心卡每月2000點及縣民100萬元意外險",
+      "note": "重申：同一則貼文一次列出四項既有主張。",
+      "checked": {
+        "at": "2026-11-06",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n346",
+      "target_id": "tour_industry.n-fengbin-star",
+      "source_id": "ksfeng-20261105",
+      "relation": "supports",
+      "quote": "張峻也提出，要積極結合中央及公所改善設施與營運，打造豐濱為「海洋之星」的施政目標",
+      "checked": {
+        "at": "2026-11-06",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n347",
+      "target_id": "fiscal.n-three-axes",
+      "source_id": "ksvisit-20261105",
+      "relation": "supports",
+      "quote": "花蓮未來應在既有縣政基礎上，持續推動「三軸三心多亮點」永續城鄉發展策略，串聯海洋藍帶軸、森林綠廊軸及縱谷金線軸，強化北、中、南核心城鎮功能",
+      "checked": {
+        "at": "2026-11-06",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
     }
   ]
 }
