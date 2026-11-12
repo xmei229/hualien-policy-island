@@ -9529,6 +9529,584 @@
         "method": "新聞全文快照去空白後 includes",
         "hit": true
       }
+    },
+    {
+      "id": "hualien.n348",
+      "target_id": "fiscal.n-pkg-cash",
+      "source_id": "you-fb-20261110",
+      "relation": "supports",
+      "quote": "規劃推動每人普發2萬元",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n349",
+      "target_id": "fiscal.n-pkg-cash",
+      "source_id": "you-fb-20261110",
+      "relation": "supports",
+      "quote": "希望透過適時的民生支持，減輕家庭經濟負擔，同時帶動地方商圈、餐飲、旅宿及服務業的消費循環，讓花蓮逐步恢復經濟活力",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n350",
+      "target_id": "fiscal.n-pkg-fiscal-principle",
+      "source_id": "you-fb-20261110",
+      "relation": "supports",
+      "quote": "這次提出的政策，是以整體財政盤點與初步試算為基礎，並以不排擠教育經費、不延宕重大建設、不縮減既有社會福利為原則",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n351",
+      "target_id": "welfare.n-pkg-newborn",
+      "source_id": "you-fb-20261110",
+      "relation": "supports",
+      "quote": "規劃新生兒在中央10萬元補助方案之外，縣府再加碼10萬元",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n352",
+      "target_id": "welfare.n-pkg-childcare",
+      "source_id": "you-fb-20261110",
+      "relation": "supports",
+      "quote": "自行照顧幼兒家庭提供5,000元育兒補助",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n353",
+      "target_id": "welfare.n-pkg-quasi-public",
+      "source_id": "you-fb-20261110",
+      "relation": "supports",
+      "quote": "並補足準公共托育及幼兒園的補助差額",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n354",
+      "target_id": "edu.n-pkg-lunch",
+      "source_id": "you-fb-20261110",
+      "relation": "supports",
+      "quote": "持續推動國小、國中及高中免費營養午餐",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n355",
+      "target_id": "edu.n-pkg-hs-grant",
+      "source_id": "you-fb-20261110",
+      "relation": "supports",
+      "quote": "並規劃高中每學期1萬元助學金",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n356",
+      "target_id": "edu.n-pkg-away-study",
+      "source_id": "you-fb-20261110",
+      "relation": "supports",
+      "quote": "以及赴外縣市求學每年4萬8,000元補助",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n357",
+      "target_id": "welfare.n-pkg-startup-loan",
+      "source_id": "you-fb-20261110",
+      "relation": "supports",
+      "quote": "我們規劃推動青年創業低利貸款、購屋貸款利率補助50%",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n358",
+      "target_id": "welfare.n-pkg-startup-loan",
+      "source_id": "you-fb-20261110",
+      "relation": "supports",
+      "quote": "青年創業支持：推動青年創業低利貸款；結合地方創生與產業發展提供青年培力資源",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n359",
+      "target_id": "welfare.n-pkg-home-loan",
+      "source_id": "you-fb-20261110",
+      "relation": "supports",
+      "quote": "我們規劃推動青年創業低利貸款、購屋貸款利率補助50%",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n360",
+      "target_id": "care.n-pkg-health-fee",
+      "source_id": "you-fb-20261110",
+      "relation": "supports",
+      "quote": "持續推動65歲以上長者免繳健保費",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n361",
+      "target_id": "care.n-pkg-ride2000",
+      "source_id": "you-fb-20261110",
+      "relation": "supports",
+      "quote": "並規劃將敬老愛心乘車補助提高至2,000元，加碼1,000點生活購物點數",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n362",
+      "target_id": "care.n-pkg-points1000",
+      "source_id": "you-fb-20261110",
+      "relation": "supports",
+      "quote": "並規劃將敬老愛心乘車補助提高至2,000元，加碼1,000點生活購物點數",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n363",
+      "target_id": "care.n-pkg-travel",
+      "source_id": "you-fb-20261110",
+      "relation": "supports",
+      "quote": "同時提升長者旅遊補助，一日遊提高至1,500元、兩日遊提高至3,000元",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n364",
+      "target_id": "care.n-pkg-more-care",
+      "source_id": "you-fb-20261110",
+      "relation": "supports",
+      "quote": "並擴大醫療、疫苗及輔具相關支持",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n365",
+      "target_id": "care.n-pkg-more-care",
+      "source_id": "you-fb-20261110",
+      "relation": "supports",
+      "quote": "更多貼心照顧：擴大疫苗接種補助、醫療輔具補助、就醫相關補助",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n366",
+      "target_id": "fiscal.n-pkg-cash",
+      "source_id": "tdnrally-20261107",
+      "relation": "supports",
+      "quote": "若當選縣長，將在不排擠既有社福與重大建設預算前提下，推動每位縣民普發現金2萬元，擴大內需、刺激消費，帶動花蓮經濟復甦",
+      "note": "11/7 競總成立大會報導；11/10 貼文是「正式提出」。",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n367",
+      "target_id": "fiscal.n-pkg-cash",
+      "source_id": "tdnmkt-20261110",
+      "relation": "supports",
+      "quote": "提出花蓮縣政府普發每人兩萬元的政策主張，就是希望透過實質的民生支持，減輕家庭經濟負擔，並進一步帶動市場、商圈、餐飲及服務業的消費動能",
+      "note": "重慶市場掃街報導，說明理由。",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n368",
+      "target_id": "welfare.n-pkg-newborn",
+      "source_id": "tdnrally-20261107",
+      "relation": "supports",
+      "quote": "在育兒教育方面，她提出中央生育補助每胎10萬元、縣府再加碼10萬元，並規劃每月5000元育兒補助、高中職免費營養午餐及每學期1萬元補助；離鄉求學大學生每年租屋補助4萬8000元",
+      "note": "11/7 報導把整段列在一起。",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n369",
+      "target_id": "welfare.n-pkg-childcare",
+      "source_id": "tdnrally-20261107",
+      "relation": "partial",
+      "quote": "在育兒教育方面，她提出中央生育補助每胎10萬元、縣府再加碼10萬元，並規劃每月5000元育兒補助、高中職免費營養午餐及每學期1萬元補助；離鄉求學大學生每年租屋補助4萬8000元",
+      "note": "對照：11/7 報導寫「每月5000元育兒補助」；11/10 貼文與圖卡寫「5,000元育兒補助」，沒有寫「每月」。本平台不判斷，兩種說法都保留。",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n370",
+      "target_id": "edu.n-pkg-lunch",
+      "source_id": "tdnrally-20261107",
+      "relation": "partial",
+      "quote": "在育兒教育方面，她提出中央生育補助每胎10萬元、縣府再加碼10萬元，並規劃每月5000元育兒補助、高中職免費營養午餐及每學期1萬元補助；離鄉求學大學生每年租屋補助4萬8000元",
+      "note": "對照：11/7 報導寫「高中職免費營養午餐」；11/10 貼文寫「國小、國中及高中」。",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n371",
+      "target_id": "edu.n-pkg-away-study",
+      "source_id": "tdnrally-20261107",
+      "relation": "partial",
+      "quote": "在育兒教育方面，她提出中央生育補助每胎10萬元、縣府再加碼10萬元，並規劃每月5000元育兒補助、高中職免費營養午餐及每學期1萬元補助；離鄉求學大學生每年租屋補助4萬8000元",
+      "note": "對照：11/7 報導寫「離鄉求學大學生每年租屋補助4萬8000元」；11/10 貼文與圖卡寫「赴外縣市求學每年4萬8,000元補助」，沒有寫「大學生」「租屋」。本平台不判斷。",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n372",
+      "target_id": "edu.n-pkg-hs-grant",
+      "source_id": "tdnrally-20261107",
+      "relation": "supports",
+      "quote": "在育兒教育方面，她提出中央生育補助每胎10萬元、縣府再加碼10萬元，並規劃每月5000元育兒補助、高中職免費營養午餐及每學期1萬元補助；離鄉求學大學生每年租屋補助4萬8000元",
+      "note": "11/7 報導寫「每學期1萬元補助」。",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n373",
+      "target_id": "care.n-age-friendly",
+      "source_id": "tdnpub-20261109",
+      "relation": "supports",
+      "quote": "未來她將從健康促進、樂齡學習、在地安老、長照服務及偏鄉交通醫療等面向，建構更完整的高齡友善支持網絡",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n374",
+      "target_id": "edu.n-one-school",
+      "source_id": "tdnedu-20261109",
+      "relation": "supports",
+      "quote": "針對未來教育願景，游淑貞提出「一校一特色、一人一才藝」的育才方向，鼓勵各校結合地方文化、自然環境與產業特色，發展多元課程",
+      "note": "報導另加「一人一才藝」。",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n375",
+      "target_id": "tour_industry.n-district-market",
+      "source_id": "tdnmkt-20261110",
+      "relation": "supports",
+      "quote": "未來縣府應積極結合鄉鎮市公所及市場自治組織，從市場環境活化、設施優化、食品品質管理、公共衛生維護及營運行銷等面向，建立更完善的協力機制",
+      "note": "報導列出更細的面向。",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n376",
+      "target_id": "sports.w-P01-24",
+      "source_id": "wei-fb-20261108-b",
+      "relation": "supports",
+      "quote": "上任後，我會評估在鳳林、玉里設全民運動館，讓大家颳風下雨也能就近運動",
+      "note": "官網已列；貼文再提。",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n377",
+      "target_id": "tour_industry.w-P04-01",
+      "source_id": "wei-fb-20261113",
+      "relation": "supports",
+      "quote": "當縣長，我會每年辦花蓮週，把國際表演和運動賽事帶到花蓮的縱谷和海岸",
+      "note": "官網已列；貼文再提，並補上「縱谷和海岸」。",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n378",
+      "target_id": "tour_industry.w-P05-09",
+      "source_id": "tdnwei-20261112",
+      "relation": "supports",
+      "quote": "花蓮應突破過度依賴觀光產業的發展模式，推動既有工業區轉型升級，結合地方特色產業與大學研發能量，創造更多元的就業機會",
+      "note": "官網已列；報導是他在東華青年論壇的說法，補上「結合大學研發能量」。",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n379",
+      "target_id": "fiscal.n-second-center",
+      "source_id": "wei-fb-20261108-a",
+      "relation": "partial",
+      "quote": "不只顧好市中心，更要以玉里為核心串聯周邊鄉鎮，照顧好中南區的每一位鄉親",
+      "note": "影片文字用「區域共好、衛星城市」稱呼同一構想（以玉里為核心）；沒有再寫「第二行政中心」。",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n380",
+      "target_id": "care.n-med-priority",
+      "source_id": "wei-fb-20261112-a",
+      "relation": "supports",
+      "quote": "未來，我也期盼有機會從縣政的高度，將提升花蓮醫療量能、改善醫護待遇、強化偏鄉醫療及緊急救護體系，列為重要施政方向",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n381",
+      "target_id": "traffic.n-human-traffic",
+      "source_id": "wei-fb-20261112-b",
+      "relation": "supports",
+      "quote": "這次也很高興與下一代人本交通促進會交流，負責花蓮事務的成員正是東華學生，並在現場簽署「2026交通改善承諾白皮書」，共同推動人本交通，朝道路交通零死亡的願景邁進",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n382",
+      "target_id": "fiscal.z2",
+      "source_id": "zj-fb-20261109",
+      "relation": "supports",
+      "quote": "我主張普發1萬元，經費約32億元，帶動在地消費，並承諾公開財源，在不舉新債、不排擠福利、教育、建設與防災的原則下推動",
+      "note": "新增：貼文寫出經費約 32 億元。",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n383",
+      "target_id": "tour_industry.n-recovery-timeline",
+      "source_id": "zj-fb-20261106",
+      "relation": "supports",
+      "quote": "同時推動觀光復甦方案，「短期」將於上任30日內盤點觀光預算，中期上任90日內啟動首波措施，串聯住宿、交通與夜市消費，讓旅客住下來、走進攤位",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n384",
+      "target_id": "disaster.n-disaster-100",
+      "source_id": "zj-fb-20261107",
+      "relation": "supports",
+      "quote": "上任一百天內完成防災權責盤點。第一年檢討醫療後送、斷路備援與災後復原流程並演練。依風險與經費，兩年內優先改善急迫防災設備，讓救援與復原更有準備",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n385",
+      "target_id": "tour_industry.z15",
+      "source_id": "zj-fb-20261111",
+      "relation": "supports",
+      "quote": "未來，我會推動改善市場交通動線、集貨拍賣空間及冷鏈設備，強化產銷資訊透明、供需調節及交易價格資訊公開",
+      "note": "重申：花蓮縣果菜批發市場。",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n386",
+      "target_id": "tour_industry.z14",
+      "source_id": "zj-fb-20261111",
+      "relation": "supports",
+      "quote": "未來，我會推動改善市場交通動線、集貨拍賣空間及冷鏈設備，強化產銷資訊透明、供需調節及交易價格資訊公開",
+      "note": "重申：產銷資訊透明。",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n387",
+      "target_id": "tour_industry.z18",
+      "source_id": "zj-fb-20261111",
+      "relation": "supports",
+      "quote": "主管機關應在兼顧合法程序、工程安全與施工品質的前提下，積極協調，儘速提出可行的復工方案",
+      "note": "重申：拍賣場新建工程復工。",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n388",
+      "target_id": "edu.z9",
+      "source_id": "zj-fb-20261112",
+      "relation": "supports",
+      "quote": "我提出改善偏鄉教師宿舍、穩定師資，讓孩子安心學習",
+      "note": "重申：偏鄉教師宿舍與留才。",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n389",
+      "target_id": "disaster.n-med-net",
+      "source_id": "zj-fb-20261112",
+      "relation": "supports",
+      "quote": "補強巡迴、遠距醫療與轉診，擴大就醫交通支持",
+      "note": "重申：南區醫療。",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n390",
+      "target_id": "traffic.n-yellow-bus",
+      "source_id": "zj-fb-20261112",
+      "relation": "supports",
+      "quote": "整合小黃公車與公共運輸，讓上學、看病、工作更方便",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
     }
   ]
 }

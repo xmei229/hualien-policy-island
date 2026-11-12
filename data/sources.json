@@ -3432,6 +3432,247 @@
       }
     },
     {
+      "id": "wei-fb-20261107",
+      "outlet": "魏嘉賢（臉書貼文）",
+      "outlet_group": "candidate:wei",
+      "candidate_id": "wei",
+      "title": "選舉拚的是未來，別耽誤孩子的重要考試！",
+      "url": "https://www.facebook.com/share/p/1CDKmSxDoD/",
+      "date": "2026-11-07",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "published": "2026-11-07",
+        "published_basis": "manual",
+        "text_sha256": "8174a792c1c828c2d4fb4a8924782e2e6fe9d8f81c30ae0b25f241e82f007d51",
+        "text_chars": 303,
+        "where": "使用者手動複製自 www.facebook.com（examples/weijiaxian-fb.txt）"
+      }
+    },
+    {
+      "id": "wei-fb-20261108-a",
+      "outlet": "魏嘉賢（臉書貼文）",
+      "outlet_group": "candidate:wei",
+      "candidate_id": "wei",
+      "title": "『 每到了選舉時刻，我們總是反思：什麼才是花蓮真正需要的改變？』",
+      "url": "https://www.facebook.com/share/v/1CGZZDDja3/",
+      "date": "2026-11-08",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "published": "2026-11-08",
+        "published_basis": "manual",
+        "text_sha256": "6067356b5f3ef8c1712183ddae800b530f70753e3ffac5c9026811856a1e7e18",
+        "text_chars": 371,
+        "where": "使用者手動複製自 www.facebook.com（examples/weijiaxian-fb.txt）"
+      }
+    },
+    {
+      "id": "wei-fb-20261108-b",
+      "outlet": "魏嘉賢（臉書貼文）",
+      "outlet_group": "candidate:wei",
+      "candidate_id": "wei",
+      "title": "市長任內做到的，當縣長，我要推到全花蓮！",
+      "url": "https://www.facebook.com/share/p/1E1QN2812E/",
+      "date": "2026-11-08",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "published": "2026-11-08",
+        "published_basis": "manual",
+        "text_sha256": "0d0efcf862437390bd4e7dc50ed253bc54b1968ffec9ec30aa33596eb3234a33",
+        "text_chars": 194,
+        "where": "使用者手動複製自 www.facebook.com（examples/weijiaxian-fb.txt）"
+      }
+    },
+    {
+      "id": "wei-fb-20261112-a",
+      "outlet": "魏嘉賢（臉書貼文）",
+      "outlet_group": "candidate:wei",
+      "candidate_id": "wei",
+      "title": "醫師節快樂｜因為走過醫療第一線，更懂得醫護人員的辛苦與付出",
+      "url": "https://www.facebook.com/share/p/1DNRcf6v9h/",
+      "date": "2026-11-12",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "published": "2026-11-12",
+        "published_basis": "manual",
+        "text_sha256": "1be9183edeb15b40bb365ddb27c79ac133c69b2c7f51abc6b859d42ea033e32a",
+        "text_chars": 630,
+        "where": "使用者手動複製自 www.facebook.com（examples/weijiaxian-fb.txt）"
+      }
+    },
+    {
+      "id": "wei-fb-20261112-b",
+      "outlet": "魏嘉賢（臉書貼文）",
+      "outlet_group": "candidate:wei",
+      "candidate_id": "wei",
+      "title": "重返母校東華大學，與青年一起談花蓮的未來！",
+      "url": "https://www.facebook.com/share/v/1RgBfoiKhV/",
+      "date": "2026-11-12",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "published": "2026-11-12",
+        "published_basis": "manual",
+        "text_sha256": "247d88b2ceedff4b3c2765f4a3120433dc6c88624076e3749dbbc20a78543b64",
+        "text_chars": 692,
+        "where": "使用者手動複製自 www.facebook.com（examples/weijiaxian-fb.txt）"
+      }
+    },
+    {
+      "id": "wei-fb-20261113",
+      "outlet": "魏嘉賢（臉書貼文）",
+      "outlet_group": "candidate:wei",
+      "candidate_id": "wei",
+      "title": "從一場跑在山海之間的馬拉松開始，未來我要透過每年的花蓮週，把更多國際賽事帶進花蓮！",
+      "url": "https://www.facebook.com/share/p/1AEbcdDd7W/",
+      "date": "2026-11-13",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "published": "2026-11-13",
+        "published_basis": "manual",
+        "text_sha256": "42f430d1872f6a1630713cf032b95aa7391befb637695b8c99e107bc5cabf8b2",
+        "text_chars": 322,
+        "where": "使用者手動複製自 www.facebook.com（examples/weijiaxian-fb.txt）"
+      }
+    },
+    {
+      "id": "zj-fb-20261106",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "讓東大門有生意 讓攤商有盼望",
+      "url": "https://www.facebook.com/share/p/18ZckNBRyX/",
+      "date": "2026-11-06",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "published": "2026-11-06",
+        "published_basis": "manual",
+        "text_sha256": "44c545a5e4a5e27642680a8c07f5b01b9181b3b49093cbce97b9874e0001cf1a",
+        "text_chars": 375,
+        "where": "使用者手動複製自 www.facebook.com（examples/zhang.jun-fb/zhang.jun.txt）"
+      }
+    },
+    {
+      "id": "zj-fb-20261107",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "光復街上拜票 懇託鄉親",
+      "url": "https://www.facebook.com/share/p/18VZ2hPWpj/",
+      "date": "2026-11-07",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "published": "2026-11-07",
+        "published_basis": "manual",
+        "text_sha256": "16417dfc6c35dafeb7c15b17bbf0d7fdf23f821d27c77089018058aedd719574",
+        "text_chars": 361,
+        "where": "使用者手動複製自 www.facebook.com（examples/zhang.jun-fb/zhang.jun.txt）"
+      }
+    },
+    {
+      "id": "zj-fb-20261109",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "政治人物要對選民負責，不能為了選票開空頭支票！",
+      "url": "https://www.facebook.com/share/p/1DcwEskzKp/",
+      "date": "2026-11-09",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "published": "2026-11-09",
+        "published_basis": "manual",
+        "text_sha256": "c73644c5101e4215cb1b7d771468026724a4d2049bac95845adad47b6f4d0ee3",
+        "text_chars": 338,
+        "where": "使用者手動複製自 www.facebook.com（examples/zhang.jun-fb/zhang.jun.txt）"
+      }
+    },
+    {
+      "id": "zj-fb-20261111",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "再次走進花蓮果菜市場，看到許多熟悉的攤商朋友。大家熱情握手、比出「2號」勝利手勢，讓我感受到滿滿的鼓勵與期待！",
+      "url": "https://www.facebook.com/share/p/19vpcu7Hod/",
+      "date": "2026-11-11",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "published": "2026-11-11",
+        "published_basis": "manual",
+        "text_sha256": "a5bb056329d972d4e6cd4559beecddefb28659de5043bae188971fa3fc434b8f",
+        "text_chars": 391,
+        "where": "使用者手動複製自 www.facebook.com（examples/zhang.jun-fb/zhang.jun.txt）"
+      }
+    },
+    {
+      "id": "zj-fb-20261112",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "今天，我再次走進富里鄉、玉里鎮的村里與部落，向鄉親請託。謝謝黃玲蘭、哈尼．噶照兩位議員、鎮民代表周鑾英、富里後援會會長江添發、觀音里里長陳金寶及啟模里長陳文祥等人陪同。",
+      "url": "https://www.facebook.com/share/p/1DCbenqZgW/",
+      "date": "2026-11-12",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "published": "2026-11-12",
+        "published_basis": "manual",
+        "text_sha256": "fc9552c5cd804737afd9136e8eb9a7861cfbcbc040a82f7dd4e1ea98027476c3",
+        "text_chars": 361,
+        "where": "使用者手動複製自 www.facebook.com（examples/zhang.jun-fb/zhang.jun.txt）"
+      }
+    },
+    {
+      "id": "you-fb-20261110",
+      "outlet": "游淑貞（臉書貼文）",
+      "outlet_group": "candidate:you",
+      "candidate_id": "you",
+      "title": "從民生支持到產業復甦，讓花蓮每個家庭，都能看見更安定的未來！",
+      "url": "https://www.facebook.com/share/p/18bBiS8HTJ/",
+      "date": "2026-11-10",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "published": "2026-11-10",
+        "published_basis": "manual",
+        "text_sha256": "03aa647c4000fab323ecebee7f8faf6bbe93f25a6533dfa988732ac39f32f4a0",
+        "text_chars": 1652,
+        "where": "使用者手動複製自 www.facebook.com（examples/CandyHualien-fb/CandyHualien-fb.txt，附 4 張圖）",
+        "note": "快照＝貼文文字＋附圖圖卡文字（人工逐字轉錄，非貼文本文）；原圖在 examples/CandyHualien-fb/fb-11-10-images/you-11-10-1～4.jfif，請抽查。"
+      }
+    },
+    {
       "id": "ltn-20260606",
       "outlet": "自由時報",
       "outlet_group": "自由時報",
@@ -4691,6 +4932,111 @@
         "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
         "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
         "note": "前桃園縣長吳志揚拜會游淑貞；內文有數處亂碼，引文只取完整句。報導同時出現「四大構面12項旗艦計劃」與她 10/31 貼文的「十大支柱」兩種說法"
+      }
+    },
+    {
+      "id": "tdnrally-20261107",
+      "outlet": "東台灣新聞網",
+      "outlet_group": "東台灣新聞網",
+      "title": "游淑貞競總成立感性告白｜從清潔隊員女兒到縣長候選人，感恩承擔花蓮未來！",
+      "url": "https://reurl.cc/0k3E5Y",
+      "date": "2026-11-07",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-11-07",
+        "published_basis": "manual",
+        "text_sha256": "fb327362bbdcd1cc1c12eaa84f5ff06ce79b419b323f55cf907bc3d126bd0838",
+        "text_chars": 1195,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "游淑貞競選總部成立大會報導；內含他人致詞，本平台只引游淑貞的部分"
+      }
+    },
+    {
+      "id": "tdnmkt-20261110",
+      "outlet": "東台灣新聞網",
+      "outlet_group": "東台灣新聞網",
+      "title": "ㄧ步一腳印｜游淑貞深入花蓮市重慶市場拜票，鄉親熱情相擁高喊當選！",
+      "url": "https://reurl.cc/90l20a",
+      "date": "2026-11-10",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-11-10",
+        "published_basis": "manual",
+        "text_sha256": "bc8211aeffe402a514657b61e84d0e5db7e98eeccdbf78931260d79c28833bac",
+        "text_chars": 1288,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "游淑貞重慶市場掃街報導"
+      }
+    },
+    {
+      "id": "tdnpub-20261109",
+      "outlet": "東台灣新聞網",
+      "outlet_group": "東台灣新聞網",
+      "title": "游淑貞拜會北區退休公教協會｜力挺年金停砍，籲政院依法行政強調政府誠信與公教尊嚴不容打折，承諾完善銀髮照護、守護退休人員權益！",
+      "url": "https://reurl.cc/bevbzE",
+      "date": "2026-11-09",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-11-09",
+        "published_basis": "manual",
+        "text_sha256": "11d3a9f09fc618b9998db249b46bd7ac47d870c09d635a7ca75b2a0d608a6983",
+        "text_chars": 1160,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "游淑貞拜會北區公教退休人員協會；年金屬中央議題，本平台不收，只收她談高齡照顧的施政面向"
+      }
+    },
+    {
+      "id": "tdnedu-20261109",
+      "outlet": "東台灣新聞網",
+      "outlet_group": "東台灣新聞網",
+      "title": "游淑貞感念吳清基教育改革情誼｜攜手推動教育平權，擘劃花蓮人才培育新願景！",
+      "url": "https://reurl.cc/Vn9ZmY",
+      "date": "2026-11-09",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-11-09",
+        "published_basis": "manual",
+        "text_sha256": "4edd3dcdbef04272cbb7c151e2d8e88313b20a1e1d7fe1ec987c442b358ee0f8",
+        "text_chars": 1323,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "游淑貞談教育願景（媒體訪問）"
+      }
+    },
+    {
+      "id": "tdnwei-20261112",
+      "outlet": "東台灣新聞網",
+      "outlet_group": "東台灣新聞網",
+      "title": "魏嘉賢重返母校東華大學｜青年論壇暢談花蓮未來，強調青年參與縣政治理！",
+      "url": "https://reurl.cc/yWd3Ml",
+      "date": "2026-11-12",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-11-12",
+        "published_basis": "manual",
+        "text_sha256": "c79d8a83c036120da233722ff8cef5156c26229a6f53f789b0795c3f709c177d",
+        "text_chars": 993,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "魏嘉賢東華大學青年論壇報導；含他自述與其他候選人的差異，本平台只收政策部分"
       }
     }
   ]

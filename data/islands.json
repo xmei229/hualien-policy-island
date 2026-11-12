@@ -310,7 +310,8 @@
             "text": "果菜批發市場：透明產銷資訊，讓農民掌握行情、攤商穩定進貨",
             "commitment": "將推動",
             "source_ids": [
-              "zj-fb-20260814-a"
+              "zj-fb-20260814-a",
+              "zj-fb-20261111"
             ],
             "status": "confirmed",
             "verified_on": "2026-10-28"
@@ -322,7 +323,8 @@
             "text": "果菜批發市場：改善集貨、冷藏及運輸設備，降低蔬果耗損",
             "commitment": "將推動",
             "source_ids": [
-              "zj-fb-20260814-a"
+              "zj-fb-20260814-a",
+              "zj-fb-20261111"
             ],
             "status": "confirmed",
             "verified_on": "2026-10-28"
@@ -364,7 +366,8 @@
             "text": "新建拍賣大樓工程：整合專業、公開進度，在確保安全及品質的前提下儘速推動後續工作",
             "commitment": "應（工程涉履約爭議及司法程序）",
             "source_ids": [
-              "zj-fb-20260814-a"
+              "zj-fb-20260814-a",
+              "zj-fb-20261111"
             ],
             "status": "confirmed",
             "verified_on": "2026-10-28"
@@ -395,7 +398,8 @@
             "text": "每年辦花蓮週：每年舉辦花蓮週，結合國際表演、運動賽事、文化交流，以及姊妹市和棒球交流。",
             "commitment": "舉辦",
             "source_ids": [
-              "wei-web-policies"
+              "wei-web-policies",
+              "wei-fb-20261113"
             ],
             "status": "confirmed",
             "verified_on": "2026-10-28"
@@ -651,7 +655,8 @@
             "text": "讓花蓮產業轉型升級：既有工業區轉型升級，爭取輕小高單價的零組件在花蓮組裝測試，縣府先把地、水、人備齊。",
             "commitment": "升級",
             "source_ids": [
-              "wei-web-policies"
+              "wei-web-policies",
+              "tdnwei-20261112"
             ],
             "status": "confirmed",
             "verified_on": "2026-10-28",
@@ -956,9 +961,10 @@
             "text": "商圈與傳統市場：縣府與市公所、商圈組織及觀光業者建立協力機制，結合觀光導流、數位行銷與產業轉型，帶動消費人潮",
             "commitment": "她主張（報導用語）",
             "source_ids": [
-              "kssweep-20261029"
+              "kssweep-20261029",
+              "tdnmkt-20261110"
             ],
-            "status": "single_source",
+            "status": "confirmed",
             "verified_on": "2026-10-30",
             "stage": "主張"
           },
@@ -1349,6 +1355,25 @@
               }
             ],
             "note": "僅見於這一篇報導，他的貼文只寫「串聯文化與海洋觀光」；「海洋之星」沒有具體內容、經費與時程。"
+          },
+          {
+            "id": "tour_industry.n-recovery-timeline",
+            "candidate_id": "zhang",
+            "text": "觀光復甦方案：「短期」於上任30日內盤點觀光預算，中期上任90日內啟動首波措施，串聯住宿、交通與夜市消費",
+            "commitment": "推動（原文：「推動觀光復甦方案」）",
+            "source_ids": [
+              "zj-fb-20261106"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-13",
+            "stage": "主張",
+            "also": [
+              {
+                "island": "fiscal",
+                "basis": "source"
+              }
+            ],
+            "note": "補上既有「觀光復甦計畫」（tour_industry.z5）的時程。他在同一貼文也把「中期」用在別的項目（整合山海、縱谷與文化遊程），照原文保留。"
           }
         ],
         "numbers": [
@@ -1396,6 +1421,7 @@
           "zj-fb-20261020-b",
           "zj-fb-20260814-a",
           "zj-fb-20260902",
+          "tdnwei-20261112",
           "na-20260515",
           "cnews-20260515",
           "udn-20260918",
@@ -1404,6 +1430,7 @@
           "hsagri-20261102",
           "ksfb-20261029",
           "kssweep-20261029",
+          "tdnmkt-20261110",
           "hsice-20261030",
           "kszhang-20261030",
           "kshai-20261101",
@@ -2508,6 +2535,32 @@
               }
             ],
             "note": "僅見於這一篇報導（更生新聞網），尚無游淑貞自己的貼文可對照；沒有經費與時程。與張峻的藍色公路／海運備援主張主題相近，並列。"
+          },
+          {
+            "id": "traffic.n-human-traffic",
+            "candidate_id": "wei",
+            "text": "與「下一代人本交通促進會」簽署「2026交通改善承諾白皮書」，共同推動人本交通，朝道路交通零死亡的願景邁進",
+            "commitment": "簽署（原文：「並在現場簽署…」）",
+            "source_ids": [
+              "wei-fb-20261112-b"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-13",
+            "stage": "主張",
+            "note": "這份承諾白皮書由該促進會提出，本平台尚未取得原文，不知道他承諾了哪些項目。"
+          },
+          {
+            "id": "traffic.n-yellow-bus",
+            "candidate_id": "zhang",
+            "text": "整合小黃公車與公共運輸，讓上學、看病、工作更方便",
+            "commitment": "我提出…（原文）",
+            "source_ids": [
+              "zj-fb-20261112"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-13",
+            "stage": "主張",
+            "note": "針對富里、玉里等偏鄉；沒有路線、經費與時程。"
           }
         ],
         "numbers": [
@@ -2614,7 +2667,13 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-10-28",
-            "stage": "主張"
+            "stage": "主張",
+            "under": [
+              {
+                "id": "care.n-pkg-health-fee",
+                "words": "65歲以上健保費"
+              }
+            ]
           },
           {
             "id": "care.c2",
@@ -3049,7 +3108,13 @@
             ],
             "status": "single_source",
             "verified_on": "2026-10-28",
-            "stage": "主張"
+            "stage": "主張",
+            "under": [
+              {
+                "id": "care.n-pkg-ride2000",
+                "words": "敬老愛心乘車補助提高至2,000元"
+              }
+            ]
           },
           {
             "id": "care.n-dental",
@@ -3172,6 +3237,102 @@
             "verified_on": "2026-11-05",
             "stage": "主張",
             "note": "官網另有「遠距門診開進部落」，本點是針對南區的補充說明；「救護車生理數據即時傳輸」只見於報導。"
+          },
+          {
+            "id": "care.n-pkg-health-fee",
+            "candidate_id": "you",
+            "text": "持續推動 65 歲以上長者免繳健保費",
+            "commitment": "持續推動（原文）",
+            "source_ids": [
+              "you-fb-20261110"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-13",
+            "stage": "政見",
+            "frame": "民生支持與全齡社福政策（11/10 提出）",
+            "note": "11/10 貼文與 4 張圖卡所列項目；用語都是「規劃…」，沒有發放時程與總預算。圖卡文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "care.n-pkg-ride2000",
+            "candidate_id": "you",
+            "text": "敬老愛心乘車補助提高至 2,000 元",
+            "commitment": "規劃（原文）",
+            "source_ids": [
+              "you-fb-20261110"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-13",
+            "stage": "政見",
+            "frame": "民生支持與全齡社福政策（11/10 提出）",
+            "note": "11/10 貼文與 4 張圖卡所列項目；用語都是「規劃…」，沒有發放時程與總預算。圖卡文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "care.n-pkg-points1000",
+            "candidate_id": "you",
+            "text": "加碼 1,000 點生活購物點數",
+            "commitment": "規劃（原文）",
+            "source_ids": [
+              "you-fb-20261110"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-13",
+            "stage": "政見",
+            "frame": "民生支持與全齡社福政策（11/10 提出）",
+            "note": "11/10 貼文與 4 張圖卡所列項目；用語都是「規劃…」，沒有發放時程與總預算。圖卡文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "care.n-pkg-travel",
+            "candidate_id": "you",
+            "text": "提升長者旅遊補助：一日遊提高至 1,500 元、兩日遊提高至 3,000 元",
+            "commitment": "（原文：「提升…」）",
+            "source_ids": [
+              "you-fb-20261110"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-13",
+            "stage": "政見",
+            "frame": "民生支持與全齡社福政策（11/10 提出）",
+            "note": "11/10 貼文與 4 張圖卡所列項目；用語都是「規劃…」，沒有發放時程與總預算。圖卡文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "care.n-pkg-more-care",
+            "candidate_id": "you",
+            "text": "擴大醫療、疫苗及輔具相關支持（圖卡：擴大疫苗接種補助、醫療輔具補助、就醫相關補助）",
+            "commitment": "（原文：「擴大…」）",
+            "source_ids": [
+              "you-fb-20261110"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-13",
+            "stage": "政見",
+            "frame": "民生支持與全齡社福政策（11/10 提出）",
+            "note": "11/10 貼文與 4 張圖卡所列項目；用語都是「規劃…」，沒有發放時程與總預算。圖卡文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "care.n-age-friendly",
+            "candidate_id": "you",
+            "text": "從健康促進、樂齡學習、在地安老、長照服務及偏鄉交通醫療等面向，建構更完整的高齡友善支持網絡",
+            "commitment": "未來她將…（報導用語）",
+            "source_ids": [
+              "tdnpub-20261109"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-11-13",
+            "stage": "主張",
+            "note": "僅見於這一篇報導（拜會公教退休人員協會），沒有經費與時程。同一場合她也表態支持立法院修正公教退休相關法律（中央年金議題），本平台不收。"
+          },
+          {
+            "id": "care.n-med-priority",
+            "candidate_id": "wei",
+            "text": "期盼有機會從縣政的高度，將提升花蓮醫療量能、改善醫護待遇、強化偏鄉醫療及緊急救護體系，列為重要施政方向",
+            "commitment": "期盼（原文：「期盼有機會…列為重要施政方向」）",
+            "source_ids": [
+              "wei-fb-20261112-a"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-13",
+            "stage": "主張",
+            "note": "是「期盼」與「施政方向」，沒有具體措施；與官網的醫療項目並列。"
           }
         ],
         "numbers": [
@@ -3263,6 +3424,7 @@
           "you-fb-20260304",
           "you-fb-20260724",
           "you-fb-20261031",
+          "wei-fb-20261104-a",
           "zj-fb-20260930",
           "zj-fb-20261018-a",
           "zj-fb-20260825-a",
@@ -3273,14 +3435,15 @@
           "zj-fb-20260907-b",
           "zj-fb-20260924",
           "zj-fb-20261010-b",
-          "wei-fb-20261104-a",
           "cna-20260930",
           "yahoo-20261004",
           "ct-20261008",
           "cna-20260913",
           "kssweep-20261029",
           "kssouth-20261104",
-          "hnsouth-20261104"
+          "hnsouth-20261104",
+          "you-fb-20261110",
+          "tdnpub-20261109"
         ]
       }
     },
@@ -3779,9 +3942,10 @@
             "text": "南北分區醫療韌性網：智慧行動急診系統與遠距醫療，強化玉里、富里等南區醫療韌性",
             "commitment": "建立",
             "source_ids": [
-              "ltn-20260606"
+              "ltn-20260606",
+              "zj-fb-20261112"
             ],
-            "status": "single_source",
+            "status": "confirmed",
             "verified_on": "2026-10-28",
             "stage": "主張"
           },
@@ -4054,6 +4218,19 @@
               }
             ],
             "note": "僅見於同一份新聞稿（三家轉載），尚無游淑貞自己的貼文可對照；報導是轉述她在南區競總的致詞，沒有條件或範圍。"
+          },
+          {
+            "id": "disaster.n-disaster-100",
+            "candidate_id": "zhang",
+            "text": "上任一百天內完成防災權責盤點；第一年檢討醫療後送、斷路備援與災後復原流程並演練；依風險與經費，兩年內優先改善急迫防災設備",
+            "commitment": "「這份責任，我已寫進政見」（原文）",
+            "source_ids": [
+              "zj-fb-20261107"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-13",
+            "stage": "主張",
+            "note": "他說已寫進政見（政策白皮書）；本平台尚未取得白皮書原文，以貼文為準。"
           }
         ],
         "numbers": [
@@ -4172,7 +4349,8 @@
               }
             ],
             "source_ids": [
-              "zj-fb-20261015-b"
+              "zj-fb-20261015-b",
+              "zj-fb-20261109"
             ],
             "status": "confirmed",
             "verified_on": "2026-10-28"
@@ -4645,6 +4823,36 @@
             "verified_on": "2026-11-06",
             "stage": "主張",
             "note": "「三軸三心多亮點」是縣長徐榛蔚提出的策略（11/1 報導），她表示要延續。同一篇報導把她的旗艦計劃稱為「『美好花蓮』四大構面12項旗艦計劃」，與她 10/31 貼文的「共創黃金十年旗艦計劃十大支柱」說法不同；本平台不判斷，兩種說法都照原文保留，等她本人的文件說明。僅見於這一篇報導。"
+          },
+          {
+            "id": "fiscal.n-pkg-cash",
+            "candidate_id": "you",
+            "text": "規劃推動每人普發2萬元，希望減輕家庭經濟負擔、帶動地方商圈、餐飲、旅宿及服務業的消費循環，讓花蓮逐步恢復經濟活力",
+            "commitment": "規劃（原文：「規劃推動每人普發2萬元」）",
+            "source_ids": [
+              "you-fb-20261110",
+              "tdnrally-20261107",
+              "tdnmkt-20261110"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-13",
+            "stage": "政見",
+            "frame": "民生支持與全齡社福政策（11/10 提出）",
+            "note": "11/10 貼文與 4 張圖卡所列項目；用語都是「規劃…」，沒有發放時程與總預算。圖卡文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "fiscal.n-pkg-fiscal-principle",
+            "candidate_id": "you",
+            "text": "財政原則：以整體財政盤點與初步試算為基礎，不排擠教育經費、不延宕重大建設、不縮減既有社會福利；相關經費規劃與實施細節會持續向鄉親說明",
+            "commitment": "原則（原文：「以…為原則」）",
+            "source_ids": [
+              "you-fb-20261110"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-13",
+            "stage": "政見",
+            "frame": "民生支持與全齡社福政策（11/10 提出）",
+            "note": "11/10 貼文與 4 張圖卡所列項目；用語都是「規劃…」，沒有發放時程與總預算。圖卡文字由本平台人工轉錄，請對照原圖。"
           }
         ],
         "numbers": [
@@ -4681,6 +4889,7 @@
           "you-fb-20260715",
           "wei-fb-20261030-b",
           "you-fb-20261031",
+          "wei-fb-20261104-a",
           "zj-fb-20260827",
           "zj-fb-20261015-b",
           "zj-fb-20260817-a",
@@ -4691,7 +4900,6 @@
           "zj-fb-20261001-b",
           "zj-fb-20261008",
           "zj-fb-20260910-c",
-          "wei-fb-20261104-a",
           "cna-20260913",
           "na-20260515",
           "cnews-20260515",
@@ -4705,7 +4913,10 @@
           "ksfbz-20261103",
           "kssouth-20261104",
           "hnsouth-20261104",
-          "ksvisit-20261105"
+          "ksvisit-20261105",
+          "you-fb-20261110",
+          "tdnrally-20261107",
+          "tdnmkt-20261110"
         ]
       }
     },
@@ -4792,7 +5003,13 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-10-28",
-            "stage": "主張"
+            "stage": "主張",
+            "under": [
+              {
+                "id": "edu.n-pkg-lunch",
+                "words": "免費營養午餐"
+              }
+            ]
           },
           {
             "id": "edu.z1",
@@ -4914,7 +5131,8 @@
             "source_ids": [
               "zj-fb-20260928-b",
               "cna-20260928",
-              "yahoo-20260929"
+              "yahoo-20260929",
+              "zj-fb-20261112"
             ],
             "status": "confirmed",
             "verified_on": "2026-10-28"
@@ -5141,7 +5359,8 @@
             "commitment": "推動",
             "source_ids": [
               "you-fb-20260928-b",
-              "yahoo-20260929"
+              "yahoo-20260929",
+              "tdnedu-20261109"
             ],
             "status": "confirmed",
             "verified_on": "2026-10-28",
@@ -5194,7 +5413,13 @@
             ],
             "status": "single_source",
             "verified_on": "2026-10-28",
-            "stage": "主張"
+            "stage": "主張",
+            "under": [
+              {
+                "id": "edu.n-pkg-lunch",
+                "words": "營養午餐"
+              }
+            ]
           },
           {
             "id": "edu.n-beauty-edu",
@@ -5259,6 +5484,49 @@
             "stage": "政見",
             "frame": "共創黃金十年旗艦計劃・希望花蓮",
             "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "edu.n-pkg-lunch",
+            "candidate_id": "you",
+            "text": "持續推動國小、國中及高中免費營養午餐",
+            "commitment": "持續推動（原文）",
+            "source_ids": [
+              "you-fb-20261110"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-13",
+            "stage": "政見",
+            "frame": "民生支持與全齡社福政策（11/10 提出）",
+            "note": "11/10 貼文與 4 張圖卡所列項目；用語都是「規劃…」，沒有發放時程與總預算。圖卡文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "edu.n-pkg-hs-grant",
+            "candidate_id": "you",
+            "text": "高中每學期 1 萬元助學金",
+            "commitment": "規劃（原文）",
+            "source_ids": [
+              "you-fb-20261110",
+              "tdnrally-20261107"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-13",
+            "stage": "政見",
+            "frame": "民生支持與全齡社福政策（11/10 提出）",
+            "note": "11/10 貼文與 4 張圖卡所列項目；用語都是「規劃…」，沒有發放時程與總預算。圖卡文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "edu.n-pkg-away-study",
+            "candidate_id": "you",
+            "text": "赴外縣市求學每年 4 萬 8,000 元補助",
+            "commitment": "規劃（原文）",
+            "source_ids": [
+              "you-fb-20261110"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-13",
+            "stage": "政見",
+            "frame": "民生支持與全齡社福政策（11/10 提出）",
+            "note": "11/10 貼文與 4 張圖卡所列項目；用語都是「規劃…」，沒有發放時程與總預算。圖卡文字由本平台人工轉錄，請對照原圖。"
           }
         ],
         "numbers": [
@@ -5294,7 +5562,10 @@
           "cnews-20260916",
           "cna-20260928",
           "yahoo-20260929",
-          "udn-20260917"
+          "tdnedu-20261109",
+          "udn-20260917",
+          "you-fb-20261110",
+          "tdnrally-20261107"
         ]
       }
     },
@@ -5414,7 +5685,13 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-10-28",
-            "stage": "主張"
+            "stage": "主張",
+            "under": [
+              {
+                "id": "welfare.n-pkg-home-loan",
+                "words": "購屋貸款（利率／利息）補助"
+              }
+            ]
           },
           {
             "id": "welfare.s6",
@@ -5431,8 +5708,8 @@
             "stage": "主張",
             "under": [
               {
-                "id": "welfare.n-gold-hope-3",
-                "words": "青年創業"
+                "id": "welfare.n-pkg-startup-loan",
+                "words": "青年創業貸款"
               }
             ]
           },
@@ -5958,6 +6235,77 @@
                 "basis": "source"
               }
             ]
+          },
+          {
+            "id": "welfare.n-pkg-newborn",
+            "candidate_id": "you",
+            "text": "新生兒在中央 10 萬元補助方案之外，縣府再加碼 10 萬元",
+            "commitment": "規劃（原文）",
+            "source_ids": [
+              "you-fb-20261110",
+              "tdnrally-20261107"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-13",
+            "stage": "政見",
+            "frame": "民生支持與全齡社福政策（11/10 提出）",
+            "note": "11/10 貼文與 4 張圖卡所列項目；用語都是「規劃…」，沒有發放時程與總預算。圖卡文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "welfare.n-pkg-childcare",
+            "candidate_id": "you",
+            "text": "自行照顧幼兒家庭提供 5,000 元育兒補助",
+            "commitment": "（原文：「提供…補助」）",
+            "source_ids": [
+              "you-fb-20261110"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-13",
+            "stage": "政見",
+            "frame": "民生支持與全齡社福政策（11/10 提出）",
+            "note": "11/10 貼文與 4 張圖卡所列項目；用語都是「規劃…」，沒有發放時程與總預算。圖卡文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "welfare.n-pkg-quasi-public",
+            "candidate_id": "you",
+            "text": "補足準公共托育及幼兒園的補助差額",
+            "commitment": "（原文：「並補足…」）",
+            "source_ids": [
+              "you-fb-20261110"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-13",
+            "stage": "政見",
+            "frame": "民生支持與全齡社福政策（11/10 提出）",
+            "note": "11/10 貼文與 4 張圖卡所列項目；用語都是「規劃…」，沒有發放時程與總預算。圖卡文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "welfare.n-pkg-startup-loan",
+            "candidate_id": "you",
+            "text": "青年創業低利貸款，並結合地方創生與產業發展提供青年培力資源",
+            "commitment": "規劃推動（原文）",
+            "source_ids": [
+              "you-fb-20261110"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-13",
+            "stage": "政見",
+            "frame": "民生支持與全齡社福政策（11/10 提出）",
+            "note": "11/10 貼文與 4 張圖卡所列項目；用語都是「規劃…」，沒有發放時程與總預算。圖卡文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "welfare.n-pkg-home-loan",
+            "candidate_id": "you",
+            "text": "購屋貸款利率補助 50%",
+            "commitment": "規劃推動（原文）",
+            "source_ids": [
+              "you-fb-20261110"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-13",
+            "stage": "政見",
+            "frame": "民生支持與全齡社福政策（11/10 提出）",
+            "note": "11/10 貼文與 4 張圖卡所列項目；用語都是「規劃…」，沒有發放時程與總預算。圖卡文字由本平台人工轉錄，請對照原圖。"
           }
         ],
         "numbers": [
@@ -6089,7 +6437,9 @@
           "udn-20260918",
           "scoop-20260903",
           "kssweep-20261029",
-          "ksfb-20261030"
+          "ksfb-20261030",
+          "you-fb-20261110",
+          "tdnrally-20261107"
         ]
       }
     },
@@ -6821,7 +7171,8 @@
             "source_ids": [
               "wei-web-policies",
               "wei-fb-20261104-a",
-              "kssouth-20261104"
+              "kssouth-20261104",
+              "wei-fb-20261108-b"
             ],
             "status": "confirmed",
             "verified_on": "2026-10-28"
