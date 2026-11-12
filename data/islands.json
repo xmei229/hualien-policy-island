@@ -2636,6 +2636,7 @@
           "zj-fb-20260908",
           "zj-fb-20260930",
           "zj-fb-20261007-a",
+          "wei-fb-20261112-b",
           "ltn-20260916",
           "ltn-20260924",
           "cna-20260930",
@@ -3412,6 +3413,39 @@
               "wei-web-policies"
             ],
             "verified_on": "2026-10-28"
+          },
+          {
+            "id": "care.yn-ride2000",
+            "candidate_id": "you",
+            "value": "2,000 元",
+            "text": "敬老愛心乘車補助提高至（規劃）",
+            "kind": "proposal_target",
+            "source_ids": [
+              "you-fb-20261110"
+            ],
+            "verified_on": "2026-11-13"
+          },
+          {
+            "id": "care.yn-points1000",
+            "candidate_id": "you",
+            "value": "1,000 點",
+            "text": "加碼生活購物點數（規劃）",
+            "kind": "proposal_target",
+            "source_ids": [
+              "you-fb-20261110"
+            ],
+            "verified_on": "2026-11-13"
+          },
+          {
+            "id": "care.yn-travel",
+            "candidate_id": "you",
+            "value": "1,500／3,000 元",
+            "text": "長者旅遊補助：一日遊提高至 1,500 元、兩日遊提高至 3,000 元",
+            "kind": "proposal_target",
+            "source_ids": [
+              "you-fb-20261110"
+            ],
+            "verified_on": "2026-11-13"
           }
         ],
         "quote": null,
@@ -3425,6 +3459,7 @@
           "you-fb-20260724",
           "you-fb-20261031",
           "wei-fb-20261104-a",
+          "you-fb-20261110",
           "zj-fb-20260930",
           "zj-fb-20261018-a",
           "zj-fb-20260825-a",
@@ -3435,6 +3470,7 @@
           "zj-fb-20260907-b",
           "zj-fb-20260924",
           "zj-fb-20261010-b",
+          "wei-fb-20261112-a",
           "cna-20260930",
           "yahoo-20261004",
           "ct-20261008",
@@ -3442,7 +3478,6 @@
           "kssweep-20261029",
           "kssouth-20261104",
           "hnsouth-20261104",
-          "you-fb-20261110",
           "tdnpub-20261109"
         ]
       }
@@ -4877,6 +4912,17 @@
               "zj-fb-20260827"
             ],
             "verified_on": "2026-10-28"
+          },
+          {
+            "id": "fiscal.yn-cash",
+            "candidate_id": "you",
+            "value": "2 萬元／人",
+            "text": "縣民普發現金（規劃）",
+            "kind": "proposal_target",
+            "source_ids": [
+              "you-fb-20261110"
+            ],
+            "verified_on": "2026-11-13"
           }
         ],
         "quote": null,
@@ -4890,6 +4936,7 @@
           "wei-fb-20261030-b",
           "you-fb-20261031",
           "wei-fb-20261104-a",
+          "you-fb-20261110",
           "zj-fb-20260827",
           "zj-fb-20261015-b",
           "zj-fb-20260817-a",
@@ -4914,7 +4961,6 @@
           "kssouth-20261104",
           "hnsouth-20261104",
           "ksvisit-20261105",
-          "you-fb-20261110",
           "tdnrally-20261107",
           "tdnmkt-20261110"
         ]
@@ -5540,6 +5586,28 @@
               "wei-web-policies"
             ],
             "verified_on": "2026-10-28"
+          },
+          {
+            "id": "edu.yn-hs-grant",
+            "candidate_id": "you",
+            "value": "1 萬元／學期",
+            "text": "高中生助學金（規劃）",
+            "kind": "proposal_target",
+            "source_ids": [
+              "you-fb-20261110"
+            ],
+            "verified_on": "2026-11-13"
+          },
+          {
+            "id": "edu.yn-away-study",
+            "candidate_id": "you",
+            "value": "4 萬 8,000 元／年",
+            "text": "赴外縣市求學補助（貼文未寫對象學制）",
+            "kind": "proposal_target",
+            "source_ids": [
+              "you-fb-20261110"
+            ],
+            "verified_on": "2026-11-13"
           }
         ],
         "quote": null,
@@ -5555,6 +5623,7 @@
           "you-fb-20260423",
           "you-fb-20260518",
           "you-fb-20261031",
+          "you-fb-20261110",
           "zj-fb-20260918-c",
           "zj-fb-20261001-a",
           "zj-fb-20260928-b",
@@ -5564,7 +5633,6 @@
           "yahoo-20260929",
           "tdnedu-20261109",
           "udn-20260917",
-          "you-fb-20261110",
           "tdnrally-20261107"
         ]
       }
@@ -6407,6 +6475,39 @@
               "wei-web-policies"
             ],
             "verified_on": "2026-10-28"
+          },
+          {
+            "id": "welfare.yn-newborn",
+            "candidate_id": "you",
+            "value": "縣府加碼 10 萬元",
+            "text": "新生兒照顧：中央規劃補助 10 萬元之外，縣府再加碼（規劃）",
+            "kind": "proposal_target",
+            "source_ids": [
+              "you-fb-20261110"
+            ],
+            "verified_on": "2026-11-13"
+          },
+          {
+            "id": "welfare.yn-childcare",
+            "candidate_id": "you",
+            "value": "5,000 元",
+            "text": "自行照顧幼兒家庭育兒補助（貼文未寫發放週期）",
+            "kind": "proposal_target",
+            "source_ids": [
+              "you-fb-20261110"
+            ],
+            "verified_on": "2026-11-13"
+          },
+          {
+            "id": "welfare.yn-home-loan",
+            "candidate_id": "you",
+            "value": "50%",
+            "text": "青年購屋貸款利率補助比例（規劃）",
+            "kind": "proposal_target",
+            "source_ids": [
+              "you-fb-20261110"
+            ],
+            "verified_on": "2026-11-13"
           }
         ],
         "quote": null,
@@ -6420,6 +6521,7 @@
           "you-fb-20260728",
           "you-fb-20260506",
           "you-fb-20261031",
+          "you-fb-20261110",
           "zj-fb-20260811-b",
           "zj-fb-20260918-b",
           "zj-fb-20260812",
@@ -6438,7 +6540,6 @@
           "scoop-20260903",
           "kssweep-20261029",
           "ksfb-20261030",
-          "you-fb-20261110",
           "tdnrally-20261107"
         ]
       }

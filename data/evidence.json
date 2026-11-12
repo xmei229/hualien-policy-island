@@ -9766,6 +9766,123 @@
     },
     {
       "id": "hualien.n366",
+      "target_id": "fiscal.yn-cash",
+      "source_id": "you-fb-20261110",
+      "relation": "supports",
+      "quote": "規劃推動每人普發2萬元",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n367",
+      "target_id": "welfare.yn-newborn",
+      "source_id": "you-fb-20261110",
+      "relation": "supports",
+      "quote": "規劃新生兒在中央10萬元補助方案之外，縣府再加碼10萬元",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n368",
+      "target_id": "welfare.yn-childcare",
+      "source_id": "you-fb-20261110",
+      "relation": "supports",
+      "quote": "自行照顧幼兒家庭提供5,000元育兒補助",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n369",
+      "target_id": "welfare.yn-home-loan",
+      "source_id": "you-fb-20261110",
+      "relation": "supports",
+      "quote": "購屋貸款利率補助50%",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n370",
+      "target_id": "edu.yn-hs-grant",
+      "source_id": "you-fb-20261110",
+      "relation": "supports",
+      "quote": "並規劃高中每學期1萬元助學金",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n371",
+      "target_id": "edu.yn-away-study",
+      "source_id": "you-fb-20261110",
+      "relation": "supports",
+      "quote": "以及赴外縣市求學每年4萬8,000元補助",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n372",
+      "target_id": "care.yn-ride2000",
+      "source_id": "you-fb-20261110",
+      "relation": "supports",
+      "quote": "並規劃將敬老愛心乘車補助提高至2,000元，加碼1,000點生活購物點數",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n373",
+      "target_id": "care.yn-points1000",
+      "source_id": "you-fb-20261110",
+      "relation": "supports",
+      "quote": "並規劃將敬老愛心乘車補助提高至2,000元，加碼1,000點生活購物點數",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n374",
+      "target_id": "care.yn-travel",
+      "source_id": "you-fb-20261110",
+      "relation": "supports",
+      "quote": "同時提升長者旅遊補助，一日遊提高至1,500元、兩日遊提高至3,000元",
+      "checked": {
+        "at": "2026-11-13",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n375",
       "target_id": "fiscal.n-pkg-cash",
       "source_id": "tdnrally-20261107",
       "relation": "supports",
@@ -9779,7 +9896,7 @@
       }
     },
     {
-      "id": "hualien.n367",
+      "id": "hualien.n376",
       "target_id": "fiscal.n-pkg-cash",
       "source_id": "tdnmkt-20261110",
       "relation": "supports",
@@ -9793,7 +9910,7 @@
       }
     },
     {
-      "id": "hualien.n368",
+      "id": "hualien.n377",
       "target_id": "welfare.n-pkg-newborn",
       "source_id": "tdnrally-20261107",
       "relation": "supports",
@@ -9807,7 +9924,7 @@
       }
     },
     {
-      "id": "hualien.n369",
+      "id": "hualien.n378",
       "target_id": "welfare.n-pkg-childcare",
       "source_id": "tdnrally-20261107",
       "relation": "partial",
@@ -9821,7 +9938,7 @@
       }
     },
     {
-      "id": "hualien.n370",
+      "id": "hualien.n379",
       "target_id": "edu.n-pkg-lunch",
       "source_id": "tdnrally-20261107",
       "relation": "partial",
@@ -9835,7 +9952,7 @@
       }
     },
     {
-      "id": "hualien.n371",
+      "id": "hualien.n380",
       "target_id": "edu.n-pkg-away-study",
       "source_id": "tdnrally-20261107",
       "relation": "partial",
@@ -9849,7 +9966,7 @@
       }
     },
     {
-      "id": "hualien.n372",
+      "id": "hualien.n381",
       "target_id": "edu.n-pkg-hs-grant",
       "source_id": "tdnrally-20261107",
       "relation": "supports",
@@ -9863,7 +9980,7 @@
       }
     },
     {
-      "id": "hualien.n373",
+      "id": "hualien.n382",
       "target_id": "care.n-age-friendly",
       "source_id": "tdnpub-20261109",
       "relation": "supports",
@@ -9876,7 +9993,7 @@
       }
     },
     {
-      "id": "hualien.n374",
+      "id": "hualien.n383",
       "target_id": "edu.n-one-school",
       "source_id": "tdnedu-20261109",
       "relation": "supports",
@@ -9890,7 +10007,7 @@
       }
     },
     {
-      "id": "hualien.n375",
+      "id": "hualien.n384",
       "target_id": "tour_industry.n-district-market",
       "source_id": "tdnmkt-20261110",
       "relation": "supports",
@@ -9904,7 +10021,7 @@
       }
     },
     {
-      "id": "hualien.n376",
+      "id": "hualien.n385",
       "target_id": "sports.w-P01-24",
       "source_id": "wei-fb-20261108-b",
       "relation": "supports",
@@ -9918,7 +10035,7 @@
       }
     },
     {
-      "id": "hualien.n377",
+      "id": "hualien.n386",
       "target_id": "tour_industry.w-P04-01",
       "source_id": "wei-fb-20261113",
       "relation": "supports",
@@ -9932,7 +10049,7 @@
       }
     },
     {
-      "id": "hualien.n378",
+      "id": "hualien.n387",
       "target_id": "tour_industry.w-P05-09",
       "source_id": "tdnwei-20261112",
       "relation": "supports",
@@ -9946,7 +10063,7 @@
       }
     },
     {
-      "id": "hualien.n379",
+      "id": "hualien.n388",
       "target_id": "fiscal.n-second-center",
       "source_id": "wei-fb-20261108-a",
       "relation": "partial",
@@ -9960,7 +10077,7 @@
       }
     },
     {
-      "id": "hualien.n380",
+      "id": "hualien.n389",
       "target_id": "care.n-med-priority",
       "source_id": "wei-fb-20261112-a",
       "relation": "supports",
@@ -9973,7 +10090,7 @@
       }
     },
     {
-      "id": "hualien.n381",
+      "id": "hualien.n390",
       "target_id": "traffic.n-human-traffic",
       "source_id": "wei-fb-20261112-b",
       "relation": "supports",
@@ -9986,7 +10103,7 @@
       }
     },
     {
-      "id": "hualien.n382",
+      "id": "hualien.n391",
       "target_id": "fiscal.z2",
       "source_id": "zj-fb-20261109",
       "relation": "supports",
@@ -10000,7 +10117,7 @@
       }
     },
     {
-      "id": "hualien.n383",
+      "id": "hualien.n392",
       "target_id": "tour_industry.n-recovery-timeline",
       "source_id": "zj-fb-20261106",
       "relation": "supports",
@@ -10013,7 +10130,7 @@
       }
     },
     {
-      "id": "hualien.n384",
+      "id": "hualien.n393",
       "target_id": "disaster.n-disaster-100",
       "source_id": "zj-fb-20261107",
       "relation": "supports",
@@ -10026,7 +10143,7 @@
       }
     },
     {
-      "id": "hualien.n385",
+      "id": "hualien.n394",
       "target_id": "tour_industry.z15",
       "source_id": "zj-fb-20261111",
       "relation": "supports",
@@ -10040,7 +10157,7 @@
       }
     },
     {
-      "id": "hualien.n386",
+      "id": "hualien.n395",
       "target_id": "tour_industry.z14",
       "source_id": "zj-fb-20261111",
       "relation": "supports",
@@ -10054,7 +10171,7 @@
       }
     },
     {
-      "id": "hualien.n387",
+      "id": "hualien.n396",
       "target_id": "tour_industry.z18",
       "source_id": "zj-fb-20261111",
       "relation": "supports",
@@ -10068,7 +10185,7 @@
       }
     },
     {
-      "id": "hualien.n388",
+      "id": "hualien.n397",
       "target_id": "edu.z9",
       "source_id": "zj-fb-20261112",
       "relation": "supports",
@@ -10082,7 +10199,7 @@
       }
     },
     {
-      "id": "hualien.n389",
+      "id": "hualien.n398",
       "target_id": "disaster.n-med-net",
       "source_id": "zj-fb-20261112",
       "relation": "supports",
@@ -10096,7 +10213,7 @@
       }
     },
     {
-      "id": "hualien.n390",
+      "id": "hualien.n399",
       "target_id": "traffic.n-yellow-bus",
       "source_id": "zj-fb-20261112",
       "relation": "supports",
