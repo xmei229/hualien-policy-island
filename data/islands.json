@@ -623,7 +623,8 @@
             "text": "十三鄉鎮路線多留一晚：串聯十三鄉鎮市特色，發展自行車、鐵道、農村旅遊路線，讓旅客多住一晚、多走一站。",
             "commitment": "（見原文）",
             "source_ids": [
-              "wei-web-policies"
+              "wei-web-policies",
+              "wei-fb-20261115"
             ],
             "status": "confirmed",
             "verified_on": "2026-10-28"
@@ -2237,7 +2238,8 @@
             "text": "敬老卡跨縣市與花蓮卡：主動協商敬老卡在宜花東跨縣市使用，並逐步整合敬老、交通補助等服務成花蓮卡。",
             "commitment": "主動協商",
             "source_ids": [
-              "wei-web-policies"
+              "wei-web-policies",
+              "tdnsouth-20261114"
             ],
             "status": "confirmed",
             "verified_on": "2026-10-28",
@@ -2269,7 +2271,8 @@
             "text": "存摺10「交通行動金」（每個花蓮人）：交通額度 3,600／年；敬老卡照發 不折抵",
             "commitment": "（見原文：以金額與對象列出，未寫動詞）",
             "source_ids": [
-              "wei-web-policies"
+              "wei-web-policies",
+              "wei-fb-20261114"
             ],
             "status": "confirmed",
             "verified_on": "2026-10-28"
@@ -2561,6 +2564,19 @@
             "verified_on": "2026-11-13",
             "stage": "主張",
             "note": "針對富里、玉里等偏鄉；沒有路線、經費與時程。"
+          },
+          {
+            "id": "traffic.n-houzhan-road",
+            "candidate_id": "zhang",
+            "text": "協助花蓮市公所提報「生活圈道路交通系統改善計畫」，推動富強路至十六股大道計畫道路的開闢，改善東西向聯繫",
+            "commitment": "未來若有機會擔任縣長，將協助…（原文）",
+            "source_ids": [
+              "zj-fb-20261113"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-15",
+            "stage": "主張",
+            "note": "針對花蓮後站（市八市場周邊）；是「協助市公所提報」，沒有經費與時程。"
           }
         ],
         "numbers": [
@@ -2624,6 +2640,7 @@
           "you-fb-20261031",
           "wei-fb-20261102",
           "you-fb-20261104",
+          "wei-fb-20261112-b",
           "zj-fb-20260916",
           "zj-fb-20260912",
           "zj-fb-20260929",
@@ -2636,10 +2653,10 @@
           "zj-fb-20260908",
           "zj-fb-20260930",
           "zj-fb-20261007-a",
-          "wei-fb-20261112-b",
           "ltn-20260916",
           "ltn-20260924",
           "cna-20260930",
+          "tdnsouth-20261114",
           "scoop-20260903",
           "ksxie-20261102",
           "hnxie-20261102",
@@ -2977,7 +2994,8 @@
             "text": "三高常態追蹤站：把衛生所和社區據點做成長輩三高常態追蹤站，在家附近就顧得到，不必每次等回診。",
             "commitment": "（見原文）",
             "source_ids": [
-              "wei-web-policies"
+              "wei-web-policies",
+              "tdnsouth-20261114"
             ],
             "status": "confirmed",
             "verified_on": "2026-10-28"
@@ -3460,6 +3478,7 @@
           "you-fb-20261031",
           "wei-fb-20261104-a",
           "you-fb-20261110",
+          "wei-fb-20261112-a",
           "zj-fb-20260930",
           "zj-fb-20261018-a",
           "zj-fb-20260825-a",
@@ -3470,8 +3489,8 @@
           "zj-fb-20260907-b",
           "zj-fb-20260924",
           "zj-fb-20261010-b",
-          "wei-fb-20261112-a",
           "cna-20260930",
+          "tdnsouth-20261114",
           "yahoo-20261004",
           "ct-20261008",
           "cna-20260913",
@@ -3846,7 +3865,8 @@
             "text": "爭取後送直升機駐花蓮：向中央爭取緊急後送直升機駐花蓮，同時整備玉里夜航起降條件，南區急重症多一條路。",
             "commitment": "爭取",
             "source_ids": [
-              "wei-web-policies"
+              "wei-web-policies",
+              "tdnsouth-20261114"
             ],
             "status": "confirmed",
             "verified_on": "2026-10-28",
@@ -4266,6 +4286,25 @@
             "verified_on": "2026-11-13",
             "stage": "主張",
             "note": "他說已寫進政見（政策白皮書）；本平台尚未取得白皮書原文，以貼文為準。"
+          },
+          {
+            "id": "disaster.n-farm-relief",
+            "candidate_id": "wei",
+            "text": "強化天然災害預警機制，在颱風、豪雨來臨前主動協助農民防範；災後編列充足救助及復耕預算，加速災損認定與補助",
+            "commitment": "「更要…」「也應…」（報導用語）",
+            "source_ids": [
+              "tdnsouth-20261114"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-11-15",
+            "stage": "主張",
+            "also": [
+              {
+                "island": "tour_industry",
+                "basis": "source"
+              }
+            ],
+            "note": "僅見於這一篇報導（尚無他自己的貼文可對照）；官網（10/23 版）沒有「災後復耕預算」。說法是「應」「更要」，沒有金額與時程。"
           }
         ],
         "numbers": [
@@ -4307,6 +4346,7 @@
           "scoop-20260921",
           "cna-20260921",
           "hub-20261019",
+          "tdnsouth-20261114",
           "yahoo-20261004",
           "scoop-20260903",
           "upmedia-20260801",
@@ -4366,7 +4406,8 @@
             ],
             "source_ids": [
               "zj-fb-20260827",
-              "zj-fb-20261105"
+              "zj-fb-20261105",
+              "zj-fb-20261113"
             ],
             "status": "confirmed",
             "verified_on": "2026-10-28"
@@ -4833,7 +4874,8 @@
             "source_ids": [
               "wei-fb-20261104-a",
               "kssouth-20261104",
-              "hnsouth-20261104"
+              "hnsouth-20261104",
+              "tdnsouth-20261114"
             ],
             "status": "confirmed",
             "verified_on": "2026-11-05",
@@ -4960,6 +5002,7 @@
           "ksfbz-20261103",
           "kssouth-20261104",
           "hnsouth-20261104",
+          "tdnsouth-20261114",
           "ksvisit-20261105",
           "tdnrally-20261107",
           "tdnmkt-20261110"
@@ -6374,6 +6417,24 @@
             "stage": "政見",
             "frame": "民生支持與全齡社福政策（11/10 提出）",
             "note": "11/10 貼文與 4 張圖卡所列項目；用語都是「規劃…」，沒有發放時程與總預算。圖卡文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "welfare.n-houzhan-park",
+            "candidate_id": "zhang",
+            "text": "盤點公有土地，請市公所提出公園、親子空間等公共設施計畫，並給予補助、分期改善；結合輔導傳統市場",
+            "commitment": "同時盤點…（原文）",
+            "source_ids": [
+              "zj-fb-20261113"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-15",
+            "stage": "主張",
+            "also": [
+              {
+                "island": "tour_industry",
+                "basis": "source"
+              }
+            ]
           }
         ],
         "numbers": [
@@ -7304,6 +7365,25 @@
             "stage": "政見",
             "frame": "共創黃金十年旗艦計劃・運能花蓮",
             "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "sports.n-meilun-park",
+            "candidate_id": "you",
+            "text": "美崙山公園：善用既有步道與森林環境，依坡度、距離及體能需求規劃樂齡健走、森林漫步及登階運動等分級路線；結合既有社團、社區關懷據點、銀髮健身俱樂部及醫療專業資源，規劃健康健走、肌力訓練、伸展運動及戶外交流活動",
+            "commitment": "提出（報導用語：「游淑貞提出，可…」「未來可結合…」）",
+            "source_ids": [
+              "ksmeilun-20261114"
+            ],
+            "status": "single_source",
+            "verified_on": "2026-11-15",
+            "stage": "主張",
+            "also": [
+              {
+                "island": "care",
+                "basis": "source"
+              }
+            ],
+            "note": "僅見於這一篇報導，尚無游淑貞自己的貼文可對照；用語是「可」「未來可」，沒有經費與時程。報導其餘篇幅是縣府園區改造工程的說明，不是她的主張，本平台不收。"
           }
         ],
         "numbers": [],
@@ -7320,7 +7400,8 @@
           "zj-fb-20260909-c",
           "zj-fb-20260919-a",
           "zj-fb-20261004",
-          "kssouth-20261104"
+          "kssouth-20261104",
+          "ksmeilun-20261114"
         ]
       }
     }

@@ -10224,6 +10224,211 @@
         "method": "貼文全文快照去空白後 includes",
         "hit": true
       }
+    },
+    {
+      "id": "hualien.n400",
+      "target_id": "traffic.w-book10",
+      "source_id": "wei-fb-20261114",
+      "relation": "supports",
+      "quote": "上任後，我會推出未來存摺裡的交通行動金，讓每個花蓮人每年都有3,600元的交通額度",
+      "note": "官網「存摺10 交通行動金」；貼文再提並舉例說明。",
+      "checked": {
+        "at": "2026-11-15",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n401",
+      "target_id": "traffic.w-book10",
+      "source_id": "wei-fb-20261114",
+      "relation": "partial",
+      "quote": "搭火車、搭船、搭飛機都能折，用多少扣多少",
+      "note": "官網寫「車票、機票都能折抵」；貼文多列了「搭船」。",
+      "checked": {
+        "at": "2026-11-15",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n402",
+      "target_id": "traffic.w-book10",
+      "source_id": "wei-fb-20261114",
+      "relation": "supports",
+      "quote": "額度直接折抵票價，不發現金",
+      "note": "貼文明講不發現金。",
+      "checked": {
+        "at": "2026-11-15",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n403",
+      "target_id": "tour_industry.w-P04-04",
+      "source_id": "wei-fb-20261115",
+      "relation": "supports",
+      "quote": "縣長任內，我要把這種走法帶到全花蓮，把十三個鄉鎮市的特色，用自行車、鐵道和農村旅遊的路線接起來",
+      "note": "官網已列「十三鄉鎮路線多留一晚」；貼文以他任花蓮市長時的「奇萊玩一夏」單車輕旅行為例再提。",
+      "checked": {
+        "at": "2026-11-15",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n404",
+      "target_id": "fiscal.n-second-center",
+      "source_id": "tdnsouth-20261114",
+      "relation": "supports",
+      "quote": "主張將玉里打造為花蓮第二行政中心，讓南區鄉親不必再為了辦事、看病長途奔波",
+      "note": "11/13 晚「南區政策說明會」。",
+      "checked": {
+        "at": "2026-11-15",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n405",
+      "target_id": "fiscal.n-second-center",
+      "source_id": "tdnsouth-20261114",
+      "relation": "supports",
+      "quote": "未來將整合縣府行政資源進駐玉里，讓補助申請、縣政服務及災害通報等業務能就近辦理，並逐步推動線上申辦，縮短南北行政服務落差",
+      "note": "報導列出具體業務：補助申請、縣政服務、災害通報，並逐步線上申辦。",
+      "checked": {
+        "at": "2026-11-15",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n406",
+      "target_id": "care.w-P01-19",
+      "source_id": "tdnsouth-20261114",
+      "relation": "supports",
+      "quote": "魏嘉賢提出強化各鄉鎮衛生所三高追蹤服務、擴大部落遠距醫療，並整備玉里直升機夜間起降條件，提升急重症後送效率",
+      "note": "官網已列（三高常態追蹤站）；報導把三項一起列出。",
+      "checked": {
+        "at": "2026-11-15",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n407",
+      "target_id": "disaster.w-P02-04",
+      "source_id": "tdnsouth-20261114",
+      "relation": "supports",
+      "quote": "魏嘉賢提出強化各鄉鎮衛生所三高追蹤服務、擴大部落遠距醫療，並整備玉里直升機夜間起降條件，提升急重症後送效率",
+      "note": "官網已列（整備玉里夜航起降條件）。",
+      "checked": {
+        "at": "2026-11-15",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n408",
+      "target_id": "traffic.w-P03-10",
+      "source_id": "tdnsouth-20261114",
+      "relation": "supports",
+      "quote": "並推動敬老卡跨宜花東使用",
+      "note": "官網已列「敬老卡跨縣市」。",
+      "checked": {
+        "at": "2026-11-15",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n409",
+      "target_id": "disaster.n-farm-relief",
+      "source_id": "tdnsouth-20261114",
+      "relation": "supports",
+      "quote": "縣府除了應協助農產品品牌行銷、拓展通路，更要強化天然災害預警機制，在颱風、豪雨來臨前主動協助農民防範。災後也應編列充足救助及復耕預算，加速災損認定與補助，協助農民度過難關",
+      "checked": {
+        "at": "2026-11-15",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n410",
+      "target_id": "fiscal.z1",
+      "source_id": "zj-fb-20261113",
+      "relation": "supports",
+      "quote": "我主張普發1萬元，帶動在地消費，更要改善後站的發展條件",
+      "note": "重申。",
+      "checked": {
+        "at": "2026-11-15",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n411",
+      "target_id": "traffic.n-houzhan-road",
+      "source_id": "zj-fb-20261113",
+      "relation": "supports",
+      "quote": "未來若有機會擔任縣長，將協助花蓮市公所提報「生活圈道路交通系統改善計畫」，推動富強路至十六股大道計畫道路的開闢，改善東西向聯繫，讓區域發展更均衡",
+      "checked": {
+        "at": "2026-11-15",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n412",
+      "target_id": "welfare.n-houzhan-park",
+      "source_id": "zj-fb-20261113",
+      "relation": "supports",
+      "quote": "同時盤點公有土地，請市公所提出公園、親子空間等公共設施計畫，並給予補助、分期改善；結合輔導傳統市場，讓人潮走進市場、消費留在店家",
+      "checked": {
+        "at": "2026-11-15",
+        "via": "manual",
+        "method": "貼文全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n413",
+      "target_id": "sports.n-meilun-park",
+      "source_id": "ksmeilun-20261114",
+      "relation": "supports",
+      "quote": "游淑貞提出，可善用美崙山既有步道及森林環境，依據不同路段的坡度、距離及體能需求，規劃樂齡健走、森林漫步及登階運動等分級路線，提供民眾選擇適合自身體能的運動方式",
+      "checked": {
+        "at": "2026-11-15",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
+    },
+    {
+      "id": "hualien.n414",
+      "target_id": "sports.n-meilun-park",
+      "source_id": "ksmeilun-20261114",
+      "relation": "supports",
+      "quote": "游淑貞提出，未來可結合既有社團、社區關懷據點、銀髮健身俱樂部及醫療專業資源，規劃健康健走、肌力訓練、伸展運動及戶外交流等活動",
+      "checked": {
+        "at": "2026-11-15",
+        "via": "manual",
+        "method": "新聞全文快照去空白後 includes",
+        "hit": true
+      }
     }
   ]
 }

@@ -3673,6 +3673,66 @@
       }
     },
     {
+      "id": "wei-fb-20261114",
+      "outlet": "魏嘉賢（臉書貼文）",
+      "outlet_group": "candidate:wei",
+      "candidate_id": "wei",
+      "title": "每年3,600元，",
+      "url": "https://www.facebook.com/share/p/1HJfS4Kg7J/",
+      "date": "2026-11-14",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-11-15",
+        "via": "manual",
+        "published": "2026-11-14",
+        "published_basis": "manual",
+        "text_sha256": "5fa0d79a943e9b27f1c2db4a951e4ee56749d012d4e97c3205da1cc472be3081",
+        "text_chars": 467,
+        "where": "使用者手動複製自 www.facebook.com（examples/weijiaxian-fb.txt）"
+      }
+    },
+    {
+      "id": "wei-fb-20261115",
+      "outlet": "魏嘉賢（臉書貼文）",
+      "outlet_group": "candidate:wei",
+      "candidate_id": "wei",
+      "title": "那幾年在花蓮市做起來的單車輕旅行，未來我要推展到全縣十三個鄉鎮市，把整個花蓮串成好玩的深度路線！",
+      "url": "https://www.facebook.com/share/p/1EtZVLvqfJ/",
+      "date": "2026-11-15",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-11-15",
+        "via": "manual",
+        "published": "2026-11-15",
+        "published_basis": "manual",
+        "text_sha256": "8eae1b1adb398b80e58d422759f14edf2b4e07dcd6b1850e5646589739c785a6",
+        "text_chars": 348,
+        "where": "使用者手動複製自 www.facebook.com（examples/weijiaxian-fb.txt）"
+      }
+    },
+    {
+      "id": "zj-fb-20261113",
+      "outlet": "張峻（臉書貼文）",
+      "outlet_group": "candidate:zhang",
+      "candidate_id": "zhang",
+      "title": "走進花蓮後站市八市場及附近街區，向鄉親懇託支持，也聽大家談生意、談生活。攤商與店家反映，中山路地下道興建後，市場生意受到影響，周邊發展受限；鐵路切割東西兩側，聯絡道路不足，公園與親子活動空間也不夠。",
+      "url": "https://www.facebook.com/share/p/1ECRW73B93/",
+      "date": "2026-11-13",
+      "type": "candidate_social",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-11-15",
+        "via": "manual",
+        "published": "2026-11-13",
+        "published_basis": "manual",
+        "text_sha256": "4c49f2aca9321d485907cc986cc91e0dfb4ec26db4b764ce493bdafbcf9ed9b2",
+        "text_chars": 347,
+        "where": "使用者手動複製自 www.facebook.com（examples/zhang.jun-fb/zhang.jun.txt）"
+      }
+    },
+    {
       "id": "ltn-20260606",
       "outlet": "自由時報",
       "outlet_group": "自由時報",
@@ -5037,6 +5097,48 @@
         "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
         "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
         "note": "魏嘉賢東華大學青年論壇報導；含他自述與其他候選人的差異，本平台只收政策部分"
+      }
+    },
+    {
+      "id": "tdnsouth-20261114",
+      "outlet": "東台灣新聞網",
+      "outlet_group": "東台灣新聞網",
+      "title": "玉里辦南區政策說明會｜魏嘉賢：玉里要做花蓮的第二行政中心！",
+      "url": "https://reurl.cc/EY3RYR",
+      "date": "2026-11-14",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-11-14",
+        "published_basis": "manual",
+        "text_sha256": "9eafa4833860a4b5b81cf868dd5580b5e9e59af8b4985f0cf9f752488254c079",
+        "text_chars": 733,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "魏嘉賢 11/13 晚玉里「南區政策說明會」報導；本平台只收政策部分，不收他邀請其他候選人同台的說明"
+      }
+    },
+    {
+      "id": "ksmeilun-20261114",
+      "outlet": "更生新聞網",
+      "outlet_group": "更生日報",
+      "title": "美崙山公園游淑貞提出全齡友善樂活園區構想",
+      "url": "https://www.ksnews.com.tw/e/159789",
+      "date": "2026-11-14",
+      "type": "media",
+      "tier": "secondary",
+      "retrieval": {
+        "at": "2026-10-28",
+        "via": "manual",
+        "published": "2026-11-14",
+        "published_basis": "manual",
+        "text_sha256": "0b0f6a9d424e315ba2049803360b2e4a24342467652566a161d42281a1516dbc",
+        "text_chars": 1051,
+        "where": "使用者貼上的新聞全文（examples/news.txt）；內含其他候選人段落，不代表本平台引用全文",
+        "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
+        "note": "游淑貞走訪美崙山公園報導；大半篇幅是縣府園區改造工程的說明，本平台只引「游淑貞提出」的部分"
       }
     }
   ]
