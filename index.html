@@ -76,7 +76,7 @@ canvas{display:block;touch-action:none}
 
 <div id="top">
   <div id="title"><h1>花蓮縣長 2026・政見島</h1><button id="abtn" onclick="openAbout()">ⓘ 關於本頁・資料怎麼來</button>
-    <p>資料截至 <span id="today"></span>。<b>政見</b>＝候選人整合發布的文件／網站；<b>主張</b>＝零散貼文或報導中的表態。<b>已確認</b>只代表「候選人自己說過」，不代表可行或屬實。</p></div>
+    <p><b>政見以花蓮縣選舉委員會的選舉公報為準</b>；<b>主張</b>＝公報以外的貼文、報導、圖卡中的表態。<span id="today" hidden></span><b>已確認</b>只代表「候選人自己說過」，不代表可行或屬實。</p></div>
   <div id="legend"></div>
 <div id="about" role="dialog" aria-modal="true" aria-labelledby="abt"><div class="abox"><button class="aclose" onclick="closeAbout()" aria-label="關閉">×</button><div id="abody"></div></div></div>
 </div>
@@ -96,7 +96,7 @@ canvas{display:block;touch-action:none}
 "use strict";
 /* ---------- 自動換新版：對照 version.json（不走快取），發現自己是舊頁就重新載入一次 ---------- */
 (function () {
-  const BUILD = "20261117-1554"; if (BUILD.indexOf("__") === 0) return; // 未經發布流程（例如預覽）不啟用
+  const BUILD = "20261117-1608"; if (BUILD.indexOf("__") === 0) return; // 未經發布流程（例如預覽）不啟用
   try { if (!/^https?:/.test(location.protocol)) return; } catch (e) { return; }
   fetch("version.json?ts=" + Date.now(), { cache: "no-store" }).then(r => r.ok ? r.json() : null).then(j => {
     if (!j || !j.build || j.build === BUILD) return;
@@ -660,21 +660,21 @@ function openAbout() {
   $("abody").innerHTML = `<h2 id="abt">關於本頁</h2>
   <p>這是把候選人<b>自己公開發布</b>的政見與主張，依主題整理在一起的資料頁，供查閱與比對。${A.declaration ? esc2(A.declaration) : ""}${A.operator ? `整理者：${A.operator_url ? `<a href="${esc2(A.operator_url)}" target="_blank" rel="noopener noreferrer">${esc2(A.operator)}</a>` : esc2(A.operator)}。` : ""}${A.operator_url ? `<br>發現錯誤或有補充，請用臉書聯絡我（${esc2(A.contact_note || "私訊或留言")}）：<a href="${esc2(A.operator_url)}" target="_blank" rel="noopener noreferrer">${esc2(A.operator_url.replace(/^https?:\/\/(www\.)?/, ""))}</a>` : ""}</p>
   <h3>資料從哪裡來</h3>
-  <ul><li>主要來源：候選人的官方競選網站、臉書粉專貼文、競選文宣、候選人簽署的文件。</li>
+  <ul><li><b>政見以選舉公報為準</b>：花蓮縣選舉委員會刊印的《第二十屆縣長選舉選舉公報》（投票日 2026-11-28），上面的政見是候選人自己填列的正式政見。公報文字由本平台人工轉錄，請對照原件。魏嘉賢另有競選網站（內容與公報一致）。</li><li>公報以外的來源（候選人的臉書貼文、競選網站、文宣圖卡、新聞）一律是<b>主張</b>，用來補充與比對。</li>
   <li>媒體報導只當第二來源，用來佐證，每篇都標明媒體與日期。</li>
-  <li>張峻、游淑貞的貼文由人工逐篇複製收集；魏嘉賢的政見取自其競選網站。收集範圍有限，<b>「找不到」不等於「沒有」</b>。</li>
-  <li>資料截至 ${esc2(DATA.today)}，之後會更新。</li></ul>
+  <li>三位候選人的貼文都由人工逐篇複製收集（魏嘉賢以競選網站為主，臉書自 10/28 起收）。收集範圍有限，<b>「找不到」不等於「沒有」</b>。</li>
+  <li>公報已出，政見依選舉公報為準；公報之後的貼文與報導，仍會陸續補入主張。</li></ul>
   <h3>怎麼讀</h3>
   <ul><li><b>逐字原句</b>：從原文直接複製，沒有增減，是判讀的依據。</li>
   <li><b>大字標題</b>：為了縮短而整理的文字，若與逐字原句有出入，以逐字原句為準。</li>
-  <li><b>政見</b>：候選人把主張整合成文件或網站發布。<b>主張</b>：零散貼文或報導中的表態。</li>
+  <li><b>政見</b>：選舉公報上候選人自己填列的政見。<b>主張</b>：公報以外的貼文、報導、圖卡中的表態，可掛在對應政見底下當延伸。</li>
   <li><b>已確認：候選人自己說過</b>：這句話確實出自他自己發布的原文，<b>不代表可行、經費有著落或內容為真</b>。<b>單一來源</b>：目前只有一則媒體報導，尚未找到候選人自己的原文。</li>
   <li>「他使用的動詞」保留原文的語氣，例如「爭取」「研議」「評估」與「推動」「承諾」不一樣。</li>
   <li>本頁不做事實查核，也不評價政見好壞。</li></ul>
   <h3>整理時有哪些人為決定</h3>
   <ul><li>每條歸在哪個主題島是整理者的分類；跨主題的會標「另見」。</li>
   <li>同一候選人的條目，政見排在主張前面，順序不代表重要性。</li>
-  <li>各人條數不同，主要反映來源形式（官網一次整理 vs 零散貼文），不代表誰的政見比較多或比較少。</li></ul>`;
+  <li>政見的條數，是各候選人在選舉公報上自己列的條數，也是公報的分條方式，不代表誰的政見比較多或比較少；主張的條數主要反映貼文被收集到的多寡。</li></ul>`;
   document.body.appendChild($("about"));
   $("about").classList.add("open");
 }
