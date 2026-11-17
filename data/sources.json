@@ -5140,6 +5140,69 @@
         "snapshot_scope": "整篇貼文（含非本專案候選人的段落）",
         "note": "游淑貞走訪美崙山公園報導；大半篇幅是縣府園區改造工程的說明，本平台只引「游淑貞提出」的部分"
       }
+    },
+    {
+      "id": "gazette-wei",
+      "outlet": "花蓮縣選舉委員會（選舉公報）",
+      "outlet_group": "official:gazette",
+      "candidate_id": "wei",
+      "title": "臺灣省花蓮縣第二十屆縣長選舉選舉公報・候選人政見",
+      "url": "",
+      "date": "2026-11-17",
+      "type": "official_gazette",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-11-17",
+        "via": "manual",
+        "published": "2026-11-17",
+        "published_basis": "manual（使用者取得日；公報刊登日未載）",
+        "text_sha256": "ada6ddc502ca628cf2d89f284c923ce93aac672b01a3453d20dc9f5d36e22fa8",
+        "text_chars": 863,
+        "where": "使用者提供的 examples/花蓮縣縣長.pdf 第一頁；PDF 文字層為亂碼，由本平台看圖人工轉錄，請對照原圖抽查",
+        "note": "選舉公報的政見是候選人自己填列、選委會刊登；候選人個人資料與政見內容的真實性由候選人自行負責（公報原文）。"
+      }
+    },
+    {
+      "id": "gazette-zhang",
+      "outlet": "花蓮縣選舉委員會（選舉公報）",
+      "outlet_group": "official:gazette",
+      "candidate_id": "zhang",
+      "title": "臺灣省花蓮縣第二十屆縣長選舉選舉公報・候選人政見",
+      "url": "",
+      "date": "2026-11-17",
+      "type": "official_gazette",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-11-17",
+        "via": "manual",
+        "published": "2026-11-17",
+        "published_basis": "manual（使用者取得日；公報刊登日未載）",
+        "text_sha256": "89d11270e9fc869454c90e5e2d09ad8fe5a34f805d041f190d8447199fefe414",
+        "text_chars": 1124,
+        "where": "使用者提供的 examples/花蓮縣縣長.pdf 第一頁；PDF 文字層為亂碼，由本平台看圖人工轉錄，請對照原圖抽查",
+        "note": "選舉公報的政見是候選人自己填列、選委會刊登；候選人個人資料與政見內容的真實性由候選人自行負責（公報原文）。"
+      }
+    },
+    {
+      "id": "gazette-you",
+      "outlet": "花蓮縣選舉委員會（選舉公報）",
+      "outlet_group": "official:gazette",
+      "candidate_id": "you",
+      "title": "臺灣省花蓮縣第二十屆縣長選舉選舉公報・候選人政見",
+      "url": "",
+      "date": "2026-11-17",
+      "type": "official_gazette",
+      "tier": "primary",
+      "retrieval": {
+        "at": "2026-11-17",
+        "via": "manual",
+        "published": "2026-11-17",
+        "published_basis": "manual（使用者取得日；公報刊登日未載）",
+        "text_sha256": "1aad7fd1566a8fc3ccd6f3fa660c80b772af074e602501d48d38249ae2966312",
+        "text_chars": 791,
+        "where": "使用者提供的 examples/花蓮縣縣長.pdf 第一頁；PDF 文字層為亂碼，由本平台看圖人工轉錄，請對照原圖抽查",
+        "note": "選舉公報的政見是候選人自己填列、選委會刊登；候選人個人資料與政見內容的真實性由候選人自行負責（公報原文）。"
+      }
     }
   ]
 }

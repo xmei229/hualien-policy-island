@@ -198,7 +198,13 @@
               "zj-fb-20260924"
             ],
             "status": "confirmed",
-            "verified_on": "2026-10-28"
+            "verified_on": "2026-10-28",
+            "under": [
+              {
+                "id": "tour_industry.g-zhang-06",
+                "words": "觀光復甦"
+              }
+            ]
           },
           {
             "id": "tour_industry.z6",
@@ -399,7 +405,8 @@
             "commitment": "舉辦",
             "source_ids": [
               "wei-web-policies",
-              "wei-fb-20261113"
+              "wei-fb-20261113",
+              "gazette-wei"
             ],
             "status": "confirmed",
             "verified_on": "2026-10-28"
@@ -457,7 +464,8 @@
             "text": "直飛與那國與日本離島：爭取花蓮直飛與那國航線，並推動花蓮港往返日本離島的海上航線，讓花蓮成為門戶。",
             "commitment": "爭取",
             "source_ids": [
-              "wei-web-policies"
+              "wei-web-policies",
+              "gazette-wei"
             ],
             "status": "confirmed",
             "verified_on": "2026-10-28",
@@ -624,7 +632,8 @@
             "commitment": "（見原文）",
             "source_ids": [
               "wei-web-policies",
-              "wei-fb-20261115"
+              "wei-fb-20261115",
+              "gazette-wei"
             ],
             "status": "confirmed",
             "verified_on": "2026-10-28"
@@ -671,7 +680,8 @@
             "text": "科技輔助農業：整合種植面積、氣象與產銷資料，產季前先估產量，可能供過於求時提早分流。",
             "commitment": "整合",
             "source_ids": [
-              "wei-web-policies"
+              "wei-web-policies",
+              "gazette-wei"
             ],
             "status": "confirmed",
             "verified_on": "2026-10-28",
@@ -685,7 +695,8 @@
             "text": "存摺11「縣內旅遊金」（每個花蓮人）：縣內旅遊額度 3,600／年；搭配玩法 13 鄉鎮",
             "commitment": "（見原文：以金額與對象列出，未寫動詞）",
             "source_ids": [
-              "wei-web-policies"
+              "wei-web-policies",
+              "gazette-wei"
             ],
             "status": "confirmed",
             "verified_on": "2026-10-28"
@@ -717,7 +728,7 @@
             "stage": "主張",
             "under": [
               {
-                "id": "tour_industry.n-gold-sus-1",
+                "id": "tour_industry.g-you-29",
                 "words": "品牌升級、產地行銷（農產加工）"
               }
             ]
@@ -735,7 +746,7 @@
             "stage": "主張",
             "under": [
               {
-                "id": "tour_industry.n-gold-sus-1",
+                "id": "tour_industry.g-you-29",
                 "words": "加工、冷鏈及品牌"
               }
             ]
@@ -753,7 +764,7 @@
             "stage": "主張",
             "under": [
               {
-                "id": "tour_industry.n-gold-play-1",
+                "id": "tour_industry.g-you-26",
                 "words": "四季觀光"
               }
             ]
@@ -772,7 +783,7 @@
             "stage": "主張",
             "under": [
               {
-                "id": "tour_industry.n-gold-sus-1",
+                "id": "tour_industry.g-you-29",
                 "words": "升級農漁牧產業"
               }
             ]
@@ -790,7 +801,7 @@
             "stage": "主張",
             "under": [
               {
-                "id": "tour_industry.n-gold-hope-4",
+                "id": "tour_industry.g-you-16",
                 "words": "花蓮＋購"
               }
             ]
@@ -808,7 +819,7 @@
             "stage": "主張",
             "under": [
               {
-                "id": "tour_industry.n-gold-play-1",
+                "id": "tour_industry.g-you-26",
                 "words": "四季觀光、月月有主題／月月精彩"
               }
             ]
@@ -840,7 +851,7 @@
             "stage": "主張",
             "under": [
               {
-                "id": "tour_industry.n-gold-play-3",
+                "id": "tour_industry.g-you-28",
                 "words": "療癒"
               }
             ]
@@ -1015,9 +1026,15 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-11-01",
-            "stage": "政見",
+            "stage": "主張",
             "frame": "共創黃金十年旗艦計劃・希望花蓮",
-            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。"
+            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。",
+            "under": [
+              {
+                "id": "tour_industry.g-you-16",
+                "words": "購」集點平台"
+              }
+            ]
           },
           {
             "id": "tour_industry.n-gold-int-1",
@@ -1029,9 +1046,15 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-11-01",
-            "stage": "政見",
+            "stage": "主張",
             "frame": "共創黃金十年旗艦計劃・國際花蓮",
-            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。"
+            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。",
+            "under": [
+              {
+                "id": "tour_industry.g-you-17",
+                "words": "拓展城市外交，深化國際交流合作"
+              }
+            ]
           },
           {
             "id": "tour_industry.n-gold-int-2",
@@ -1043,7 +1066,7 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-11-01",
-            "stage": "政見",
+            "stage": "主張",
             "frame": "共創黃金十年旗艦計劃・國際花蓮",
             "also": [
               {
@@ -1051,7 +1074,13 @@
                 "basis": "source"
               }
             ],
-            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。"
+            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。",
+            "under": [
+              {
+                "id": "tour_industry.g-you-18",
+                "words": "開拓國際直航，帶動觀光、招商與投資"
+              }
+            ]
           },
           {
             "id": "tour_industry.n-gold-int-3",
@@ -1063,9 +1092,15 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-11-01",
-            "stage": "政見",
+            "stage": "主張",
             "frame": "共創黃金十年旗艦計劃・國際花蓮",
-            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。"
+            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。",
+            "under": [
+              {
+                "id": "tour_industry.g-you-19",
+                "words": "接軌國際人才與產業，提升國際能見度"
+              }
+            ]
           },
           {
             "id": "tour_industry.n-gold-com-3",
@@ -1077,9 +1112,15 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-11-01",
-            "stage": "政見",
+            "stage": "主張",
             "frame": "共創黃金十年旗艦計劃・共榮花蓮",
-            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。"
+            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。",
+            "under": [
+              {
+                "id": "tour_industry.g-you-25",
+                "words": "推動一鄉一特色、一村一亮點"
+              }
+            ]
           },
           {
             "id": "tour_industry.n-gold-play-1",
@@ -1091,9 +1132,15 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-11-01",
-            "stage": "政見",
+            "stage": "主張",
             "frame": "共創黃金十年旗艦計劃・玩美花蓮",
-            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。"
+            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。",
+            "under": [
+              {
+                "id": "tour_industry.g-you-26",
+                "words": "打造四季觀光、月月精彩的旅遊品牌"
+              }
+            ]
           },
           {
             "id": "tour_industry.n-gold-play-2",
@@ -1105,9 +1152,15 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-11-01",
-            "stage": "政見",
+            "stage": "主張",
             "frame": "共創黃金十年旗艦計劃・玩美花蓮",
-            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。"
+            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。",
+            "under": [
+              {
+                "id": "tour_industry.g-you-27",
+                "words": "加碼縣內振興"
+              }
+            ]
           },
           {
             "id": "tour_industry.n-gold-play-3",
@@ -1119,9 +1172,15 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-11-01",
-            "stage": "政見",
+            "stage": "主張",
             "frame": "共創黃金十年旗艦計劃・玩美花蓮",
-            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。"
+            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。",
+            "under": [
+              {
+                "id": "tour_industry.g-you-28",
+                "words": "發展療癒慢活、夜間經濟及深度旅遊"
+              }
+            ]
           },
           {
             "id": "tour_industry.n-gold-sus-1",
@@ -1133,9 +1192,15 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-11-01",
-            "stage": "政見",
+            "stage": "主張",
             "frame": "共創黃金十年旗艦計劃・永續花蓮",
-            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。"
+            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。",
+            "under": [
+              {
+                "id": "tour_industry.g-you-29",
+                "words": "升級農漁牧產業，強化產銷鏈結與品牌價值"
+              }
+            ]
           },
           {
             "id": "tour_industry.n-gold-sus-3",
@@ -1147,9 +1212,15 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-11-01",
-            "stage": "政見",
+            "stage": "主張",
             "frame": "共創黃金十年旗艦計劃・永續花蓮",
-            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。"
+            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。",
+            "under": [
+              {
+                "id": "tour_industry.g-you-31",
+                "words": "農業，打造花蓮百大農產好禮"
+              }
+            ]
           },
           {
             "id": "tour_industry.n-jian-coast",
@@ -1189,7 +1260,13 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-11-02",
-            "stage": "主張"
+            "stage": "主張",
+            "under": [
+              {
+                "id": "tour_industry.g-zhang-06",
+                "words": "觀光復甦"
+              }
+            ]
           },
           {
             "id": "tour_industry.n-ice",
@@ -1202,7 +1279,13 @@
             "status": "confirmed",
             "verified_on": "2026-11-02",
             "stage": "主張",
-            "note": "貼文說 6/8 國家海洋日已提出；本平台尚未收到 6/8 的原貼文，以這則 11/1 貼文為準。"
+            "note": "貼文說 6/8 國家海洋日已提出；本平台尚未收到 6/8 的原貼文，以這則 11/1 貼文為準。",
+            "under": [
+              {
+                "id": "tour_industry.g-zhang-11",
+                "words": "冷鏈"
+              }
+            ]
           },
           {
             "id": "tour_industry.n-sea-tourism",
@@ -1215,7 +1298,13 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-11-03",
-            "stage": "主張"
+            "stage": "主張",
+            "under": [
+              {
+                "id": "tour_industry.g-zhang-18",
+                "words": "海洋"
+              }
+            ]
           },
           {
             "id": "tour_industry.n-agri-platform",
@@ -1231,7 +1320,7 @@
             "note": "僅見於這一篇報導（花蓮最速報），尚無游淑貞自己的貼文可對照；沒有經費與時程。",
             "under": [
               {
-                "id": "tour_industry.n-gold-sus-1",
+                "id": "tour_industry.g-you-29",
                 "words": "產銷、品牌"
               }
             ]
@@ -1250,7 +1339,7 @@
             "note": "僅見於這一篇報導（花蓮最速報），尚無游淑貞自己的貼文可對照；沒有經費與時程。",
             "under": [
               {
-                "id": "tour_industry.n-gold-sus-3",
+                "id": "tour_industry.g-you-31",
                 "words": "智慧農業"
               }
             ]
@@ -1269,7 +1358,7 @@
             "note": "僅見於這一篇報導（花蓮最速報），尚無游淑貞自己的貼文可對照；沒有經費與時程。",
             "under": [
               {
-                "id": "tour_industry.n-gold-sus-3",
+                "id": "tour_industry.g-you-31",
                 "words": "有機農業"
               }
             ]
@@ -1355,7 +1444,13 @@
                 "basis": "source"
               }
             ],
-            "note": "僅見於這一篇報導，他的貼文只寫「串聯文化與海洋觀光」；「海洋之星」沒有具體內容、經費與時程。"
+            "note": "僅見於這一篇報導，他的貼文只寫「串聯文化與海洋觀光」；「海洋之星」沒有具體內容、經費與時程。",
+            "under": [
+              {
+                "id": "tour_industry.g-zhang-18",
+                "words": "海洋"
+              }
+            ]
           },
           {
             "id": "tour_industry.n-recovery-timeline",
@@ -1374,7 +1469,211 @@
                 "basis": "source"
               }
             ],
-            "note": "補上既有「觀光復甦計畫」（tour_industry.z5）的時程。他在同一貼文也把「中期」用在別的項目（整合山海、縱谷與文化遊程），照原文保留。"
+            "note": "補上既有「觀光復甦計畫」（tour_industry.z5）的時程。他在同一貼文也把「中期」用在別的項目（整合山海、縱谷與文化遊程），照原文保留。",
+            "under": [
+              {
+                "id": "tour_industry.g-zhang-06",
+                "words": "觀光復甦"
+              }
+            ]
+          },
+          {
+            "id": "tour_industry.g-you-16",
+            "candidate_id": "you",
+            "text": "串聯商圈推動「花蓮＋購」集點平台，定期加碼消費回饋",
+            "commitment": "公報條列",
+            "source_ids": [
+              "gazette-you"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-17",
+            "stage": "政見",
+            "frame": "選舉公報・5. 希望花蓮",
+            "note": "選舉公報所列；用語為標題式，沒有時程與金額。公報文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "tour_industry.g-you-17",
+            "candidate_id": "you",
+            "text": "拓展城市外交，深化國際交流合作",
+            "commitment": "公報條列",
+            "source_ids": [
+              "gazette-you"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-17",
+            "stage": "政見",
+            "frame": "選舉公報・6. 國際花蓮",
+            "note": "選舉公報所列；用語為標題式，沒有時程與金額。公報文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "tour_industry.g-you-18",
+            "candidate_id": "you",
+            "text": "開拓國際直航，帶動觀光、招商與投資",
+            "commitment": "公報條列",
+            "source_ids": [
+              "gazette-you"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-17",
+            "stage": "政見",
+            "frame": "選舉公報・6. 國際花蓮",
+            "note": "選舉公報所列；用語為標題式，沒有時程與金額。公報文字由本平台人工轉錄，請對照原圖。",
+            "also": [
+              {
+                "island": "traffic",
+                "basis": "source"
+              }
+            ]
+          },
+          {
+            "id": "tour_industry.g-you-19",
+            "candidate_id": "you",
+            "text": "接軌國際人才與產業，提升國際能見度",
+            "commitment": "公報條列",
+            "source_ids": [
+              "gazette-you"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-17",
+            "stage": "政見",
+            "frame": "選舉公報・6. 國際花蓮",
+            "note": "選舉公報所列；用語為標題式，沒有時程與金額。公報文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "tour_industry.g-you-25",
+            "candidate_id": "you",
+            "text": "推動一鄉一特色、一村一亮點，帶動地方創生",
+            "commitment": "公報條列",
+            "source_ids": [
+              "gazette-you"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-17",
+            "stage": "政見",
+            "frame": "選舉公報・8. 共榮花蓮",
+            "note": "選舉公報所列；用語為標題式，沒有時程與金額。公報文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "tour_industry.g-you-26",
+            "candidate_id": "you",
+            "text": "打造四季觀光、月月精彩的旅遊品牌，創造全年觀光熱潮",
+            "commitment": "公報條列",
+            "source_ids": [
+              "gazette-you"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-17",
+            "stage": "政見",
+            "frame": "選舉公報・9. 玩美花蓮",
+            "note": "選舉公報所列；用語為標題式，沒有時程與金額。公報文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "tour_industry.g-you-27",
+            "candidate_id": "you",
+            "text": "加碼縣內振興、拓展國際客源，提升觀光產值",
+            "commitment": "公報條列",
+            "source_ids": [
+              "gazette-you"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-17",
+            "stage": "政見",
+            "frame": "選舉公報・9. 玩美花蓮",
+            "note": "選舉公報所列；用語為標題式，沒有時程與金額。公報文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "tour_industry.g-you-28",
+            "candidate_id": "you",
+            "text": "發展療癒慢活、夜間經濟及深度旅遊，再創百業共榮",
+            "commitment": "公報條列",
+            "source_ids": [
+              "gazette-you"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-17",
+            "stage": "政見",
+            "frame": "選舉公報・9. 玩美花蓮",
+            "note": "選舉公報所列；用語為標題式，沒有時程與金額。公報文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "tour_industry.g-you-29",
+            "candidate_id": "you",
+            "text": "升級農漁牧產業，強化產銷鏈結與品牌價值",
+            "commitment": "公報條列",
+            "source_ids": [
+              "gazette-you"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-17",
+            "stage": "政見",
+            "frame": "選舉公報・10. 永續花蓮",
+            "note": "選舉公報所列；用語為標題式，沒有時程與金額。公報文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "tour_industry.g-you-31",
+            "candidate_id": "you",
+            "text": "發展有機、智慧及六級化農業，打造花蓮百大農產好禮",
+            "commitment": "公報條列",
+            "source_ids": [
+              "gazette-you"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-17",
+            "stage": "政見",
+            "frame": "選舉公報・10. 永續花蓮",
+            "note": "選舉公報所列；用語為標題式，沒有時程與金額。公報文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "tour_industry.g-zhang-06",
+            "candidate_id": "zhang",
+            "text": "重返觀光大縣榮耀：整合山海城鄉、部落農村，串聯文化美食、運動與特色產業，發展全年全域觀光。",
+            "commitment": "公報條列",
+            "source_ids": [
+              "gazette-zhang"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-17",
+            "stage": "政見",
+            "frame": "選舉公報・點亮希望，翻轉花蓮（拚經濟．顧家庭．護安全）",
+            "note": "選舉公報所列；用語為標題式，沒有時程與金額。公報文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "tour_industry.g-zhang-11",
+            "candidate_id": "zhang",
+            "text": "建構安心農漁環境：推動農業保險、補助冷鏈物流、媒合採收人力、更新農機與資材，加速公地放領、重建漁港製冰廠及落實友善動保。",
+            "commitment": "公報條列",
+            "source_ids": [
+              "gazette-zhang"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-17",
+            "stage": "政見",
+            "frame": "選舉公報・點亮希望，翻轉花蓮（拚經濟．顧家庭．護安全）",
+            "note": "選舉公報所列；用語為標題式，沒有時程與金額。公報文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "tour_industry.g-zhang-18",
+            "candidate_id": "zhang",
+            "text": "花蓮藍海創新未來：加速催生花蓮國立海洋資源博物館、爭取可備援疏運之海洋觀光示範輪、成立地方海洋專責單位，推動友善親海。",
+            "commitment": "公報條列",
+            "source_ids": [
+              "gazette-zhang"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-17",
+            "stage": "政見",
+            "frame": "選舉公報・點亮希望，翻轉花蓮（拚經濟．顧家庭．護安全）",
+            "note": "選舉公報所列；用語為標題式，沒有時程與金額。公報文字由本平台人工轉錄，請對照原圖。",
+            "also": [
+              {
+                "island": "traffic",
+                "basis": "source"
+              },
+              {
+                "island": "fiscal",
+                "basis": "source"
+              }
+            ]
           }
         ],
         "numbers": [
@@ -1438,7 +1737,9 @@
           "ksre-20261103",
           "tdnre-20261103",
           "hsnre-20261103",
-          "ksfeng-20261105"
+          "ksfeng-20261105",
+          "gazette-you",
+          "gazette-zhang"
         ]
       }
     },
@@ -1708,7 +2009,7 @@
             "stage": "主張",
             "under": [
               {
-                "id": "traffic.n-gold-mob-2",
+                "id": "traffic.g-you-21",
                 "words": "橫向路網"
               }
             ]
@@ -1724,7 +2025,13 @@
               "ltn-20260916"
             ],
             "status": "confirmed",
-            "verified_on": "2026-10-28"
+            "verified_on": "2026-10-28",
+            "under": [
+              {
+                "id": "traffic.g-zhang-10",
+                "words": "紅燈"
+              }
+            ]
           },
           {
             "id": "traffic.z7",
@@ -1736,7 +2043,13 @@
               "zj-fb-20260912"
             ],
             "status": "confirmed",
-            "verified_on": "2026-10-28"
+            "verified_on": "2026-10-28",
+            "under": [
+              {
+                "id": "traffic.g-zhang-09",
+                "words": "蘇花安"
+              }
+            ]
           },
           {
             "id": "traffic.z8",
@@ -1758,7 +2071,13 @@
               "zj-fb-20260912"
             ],
             "status": "confirmed",
-            "verified_on": "2026-10-28"
+            "verified_on": "2026-10-28",
+            "under": [
+              {
+                "id": "traffic.g-zhang-09",
+                "words": "花東快"
+              }
+            ]
           },
           {
             "id": "traffic.z9",
@@ -1830,7 +2149,13 @@
               "zj-fb-20261028"
             ],
             "status": "confirmed",
-            "verified_on": "2026-10-28"
+            "verified_on": "2026-10-28",
+            "under": [
+              {
+                "id": "traffic.g-zhang-09",
+                "words": "蘇花安"
+              }
+            ]
           },
           {
             "id": "traffic.z14",
@@ -1960,7 +2285,13 @@
               "zj-fb-20261006-b"
             ],
             "status": "confirmed",
-            "verified_on": "2026-10-28"
+            "verified_on": "2026-10-28",
+            "under": [
+              {
+                "id": "traffic.g-zhang-10",
+                "words": "人行"
+              }
+            ]
           },
           {
             "id": "traffic.z23",
@@ -1984,7 +2315,13 @@
               "zj-fb-20261003-b"
             ],
             "status": "confirmed",
-            "verified_on": "2026-10-28"
+            "verified_on": "2026-10-28",
+            "under": [
+              {
+                "id": "traffic.g-zhang-10",
+                "words": "人行"
+              }
+            ]
           },
           {
             "id": "traffic.z25",
@@ -2122,7 +2459,8 @@
             "text": "海空運輸動起來：鐵、公路中斷時有備援。",
             "commitment": "（見原文）",
             "source_ids": [
-              "wei-web-policies"
+              "wei-web-policies",
+              "gazette-wei"
             ],
             "status": "confirmed",
             "verified_on": "2026-10-28",
@@ -2193,7 +2531,8 @@
             "text": "偏鄉交通補助與叫車：偏鄉居民可申請交通額度，縣府與在地車行建立偏鄉服務機制，公開各鄉鎮叫車資訊。",
             "commitment": "建立",
             "source_ids": [
-              "wei-web-policies"
+              "wei-web-policies",
+              "gazette-wei"
             ],
             "status": "confirmed",
             "verified_on": "2026-10-28",
@@ -2258,7 +2597,8 @@
             "text": "推動花東快速公路：推動花東快速公路，北段先銜接蘇花安，玉里以南先規劃替代運輸，南區不等待。",
             "commitment": "推動",
             "source_ids": [
-              "wei-web-policies"
+              "wei-web-policies",
+              "gazette-wei"
             ],
             "status": "confirmed",
             "verified_on": "2026-10-28"
@@ -2272,7 +2612,8 @@
             "commitment": "（見原文：以金額與對象列出，未寫動詞）",
             "source_ids": [
               "wei-web-policies",
-              "wei-fb-20261114"
+              "wei-fb-20261114",
+              "gazette-wei"
             ],
             "status": "confirmed",
             "verified_on": "2026-10-28"
@@ -2315,7 +2656,7 @@
             "stage": "主張",
             "under": [
               {
-                "id": "traffic.n-gold-mob-1",
+                "id": "traffic.g-you-20",
                 "words": "完善交通路網"
               }
             ]
@@ -2342,7 +2683,13 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-10-28",
-            "stage": "主張"
+            "stage": "主張",
+            "under": [
+              {
+                "id": "traffic.g-zhang-10",
+                "words": "人行"
+              }
+            ]
           },
           {
             "id": "traffic.n-major-projects",
@@ -2366,9 +2713,15 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-11-01",
-            "stage": "政見",
+            "stage": "主張",
             "frame": "共創黃金十年旗艦計劃・運能花蓮",
-            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。"
+            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。",
+            "under": [
+              {
+                "id": "traffic.g-you-20",
+                "words": "完善交通路網與公共運輸"
+              }
+            ]
           },
           {
             "id": "traffic.n-gold-mob-2",
@@ -2380,7 +2733,7 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-11-01",
-            "stage": "政見",
+            "stage": "主張",
             "frame": "共創黃金十年旗艦計劃・運能花蓮",
             "also": [
               {
@@ -2388,7 +2741,13 @@
                 "basis": "source"
               }
             ],
-            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。"
+            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。",
+            "under": [
+              {
+                "id": "traffic.g-you-21",
+                "words": "推動觀光輕軌電車，串聯各鄉鎮東西橫向交通路網"
+              }
+            ]
           },
           {
             "id": "traffic.n-xiangxie-road",
@@ -2496,7 +2855,7 @@
             "note": "貼文自述這是「運能花蓮」的重要方向；同時是向中央爭取資源（貼文：「會持續爭取中央資源」），不是縣府自己出錢的承諾。",
             "under": [
               {
-                "id": "traffic.n-gold-mob-1",
+                "id": "traffic.g-you-20",
                 "words": "交通路網（貼文自述為「運能花蓮」方向）"
               }
             ]
@@ -2563,7 +2922,13 @@
             "status": "confirmed",
             "verified_on": "2026-11-13",
             "stage": "主張",
-            "note": "針對富里、玉里等偏鄉；沒有路線、經費與時程。"
+            "note": "針對富里、玉里等偏鄉；沒有路線、經費與時程。",
+            "under": [
+              {
+                "id": "traffic.g-zhang-10",
+                "words": "小黃"
+              }
+            ]
           },
           {
             "id": "traffic.n-houzhan-road",
@@ -2577,6 +2942,68 @@
             "verified_on": "2026-11-15",
             "stage": "主張",
             "note": "針對花蓮後站（市八市場周邊）；是「協助市公所提報」，沒有經費與時程。"
+          },
+          {
+            "id": "traffic.g-you-20",
+            "candidate_id": "you",
+            "text": "完善交通路網與公共運輸，降低交通及物流成本",
+            "commitment": "公報條列",
+            "source_ids": [
+              "gazette-you"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-17",
+            "stage": "政見",
+            "frame": "選舉公報・7. 運能花蓮",
+            "note": "選舉公報所列；用語為標題式，沒有時程與金額。公報文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "traffic.g-you-21",
+            "candidate_id": "you",
+            "text": "推動觀光輕軌電車，串聯各鄉鎮東西橫向交通路網",
+            "commitment": "公報條列",
+            "source_ids": [
+              "gazette-you"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-17",
+            "stage": "政見",
+            "frame": "選舉公報・7. 運能花蓮",
+            "note": "選舉公報所列；用語為標題式，沒有時程與金額。公報文字由本平台人工轉錄，請對照原圖。",
+            "also": [
+              {
+                "island": "tour_industry",
+                "basis": "source"
+              }
+            ]
+          },
+          {
+            "id": "traffic.g-zhang-09",
+            "candidate_id": "zhang",
+            "text": "加速重大交通建設：攜手中央，加速推動蘇花安、鐵路高架化，爭取花東快。",
+            "commitment": "公報條列",
+            "source_ids": [
+              "gazette-zhang"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-17",
+            "stage": "政見",
+            "frame": "選舉公報・點亮希望，翻轉花蓮（拚經濟．顧家庭．護安全）",
+            "note": "選舉公報所列；用語為標題式，沒有時程與金額。公報文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "traffic.g-zhang-10",
+            "candidate_id": "zhang",
+            "text": "縣內交通優化升級：推動智慧化號誌不空等紅燈、小黃公車、市區循環公車、改善人行環境、增加停車空間，提升通勤、就醫就學與觀光便利。",
+            "commitment": "公報條列",
+            "source_ids": [
+              "gazette-zhang"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-17",
+            "stage": "政見",
+            "frame": "選舉公報・點亮希望，翻轉花蓮（拚經濟．顧家庭．護安全）",
+            "note": "選舉公報所列；用語為標題式，沒有時程與金額。公報文字由本平台人工轉錄，請對照原圖。"
           }
         ],
         "numbers": [
@@ -2661,7 +3088,9 @@
           "ksxie-20261102",
           "hnxie-20261102",
           "hlxie-20261102",
-          "ksroad-20261104"
+          "ksroad-20261104",
+          "gazette-you",
+          "gazette-zhang"
         ]
       }
     },
@@ -2685,13 +3114,7 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-10-28",
-            "stage": "主張",
-            "under": [
-              {
-                "id": "care.n-pkg-health-fee",
-                "words": "65歲以上健保費"
-              }
-            ]
+            "stage": "主張"
           },
           {
             "id": "care.c2",
@@ -2766,7 +3189,13 @@
               "zj-fb-20261105"
             ],
             "status": "confirmed",
-            "verified_on": "2026-10-28"
+            "verified_on": "2026-10-28",
+            "under": [
+              {
+                "id": "care.g-zhang-04",
+                "words": "敬老愛心卡"
+              }
+            ]
           },
           {
             "id": "care.z2",
@@ -2778,7 +3207,13 @@
               "zj-fb-20260825-a"
             ],
             "status": "confirmed",
-            "verified_on": "2026-10-28"
+            "verified_on": "2026-10-28",
+            "under": [
+              {
+                "id": "care.g-zhang-04",
+                "words": "關懷據點"
+              }
+            ]
           },
           {
             "id": "care.z3",
@@ -2929,7 +3364,13 @@
               "zj-fb-20260925"
             ],
             "status": "confirmed",
-            "verified_on": "2026-10-28"
+            "verified_on": "2026-10-28",
+            "under": [
+              {
+                "id": "care.g-zhang-04",
+                "words": "關懷據點"
+              }
+            ]
           },
           {
             "id": "care.z15",
@@ -3008,7 +3449,8 @@
             "text": "守護獨居看得見：AI 輔助每天問候獨居長輩，電話沒人接就轉人工，必要時到家查看，確認平安才結案。",
             "commitment": "（見原文）",
             "source_ids": [
-              "wei-web-policies"
+              "wei-web-policies",
+              "gazette-wei"
             ],
             "status": "confirmed",
             "verified_on": "2026-10-28",
@@ -3022,7 +3464,8 @@
             "text": "遠距門診開進部落：從縣府管理的衛生所與部落據點做遠距門診，先在衛生所檢查上傳，與醫學中心合作判讀。",
             "commitment": "（見原文）",
             "source_ids": [
-              "wei-web-policies"
+              "wei-web-policies",
+              "gazette-wei"
             ],
             "status": "confirmed",
             "verified_on": "2026-10-28",
@@ -3062,7 +3505,8 @@
             "text": "存摺07「家庭喘息金」（照顧者）：喘息預算 12,000／年；與長照服務 可併領",
             "commitment": "（見原文：以金額與對象列出，未寫動詞）",
             "source_ids": [
-              "wei-web-policies"
+              "wei-web-policies",
+              "gazette-wei"
             ],
             "status": "confirmed",
             "verified_on": "2026-10-28"
@@ -3075,7 +3519,8 @@
             "text": "存摺08「身心健檢金」（每個花蓮人）：加值健檢 6,000／年；未滿 25 歲 3,600／年；心理諮商 可使用",
             "commitment": "（見原文：以金額與對象列出，未寫動詞）",
             "source_ids": [
-              "wei-web-policies"
+              "wei-web-policies",
+              "gazette-wei"
             ],
             "status": "confirmed",
             "verified_on": "2026-10-28"
@@ -3088,7 +3533,8 @@
             "text": "存摺09「銀髮樂活金」（65 歲以上長者）：輔具補助 另有提供；結伴出遊補助 6,000／年",
             "commitment": "（見原文：以金額與對象列出，未寫動詞）",
             "source_ids": [
-              "wei-web-policies"
+              "wei-web-policies",
+              "gazette-wei"
             ],
             "status": "confirmed",
             "verified_on": "2026-10-28"
@@ -3127,13 +3573,7 @@
             ],
             "status": "single_source",
             "verified_on": "2026-10-28",
-            "stage": "主張",
-            "under": [
-              {
-                "id": "care.n-pkg-ride2000",
-                "words": "敬老愛心乘車補助提高至2,000元"
-              }
-            ]
+            "stage": "主張"
           },
           {
             "id": "care.n-dental",
@@ -3160,7 +3600,7 @@
             "stage": "主張",
             "under": [
               {
-                "id": "care.n-gold-soc-2",
+                "id": "care.g-you-07",
                 "words": "雲端醫療3.0"
               }
             ]
@@ -3224,7 +3664,7 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-11-01",
-            "stage": "政見",
+            "stage": "主張",
             "frame": "共創黃金十年旗艦計劃・社福花蓮",
             "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。"
           },
@@ -3238,9 +3678,15 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-11-01",
-            "stage": "政見",
+            "stage": "主張",
             "frame": "共創黃金十年旗艦計劃・社福花蓮",
-            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。"
+            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。",
+            "under": [
+              {
+                "id": "care.g-you-07",
+                "words": "醫療3.0"
+              }
+            ]
           },
           {
             "id": "care.n-south-medical",
@@ -3267,7 +3713,7 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-11-13",
-            "stage": "政見",
+            "stage": "主張",
             "frame": "民生支持與全齡社福政策（11/10 提出）",
             "note": "11/10 貼文與 4 張圖卡所列項目；用語都是「規劃…」，沒有發放時程與總預算。圖卡文字由本平台人工轉錄，請對照原圖。"
           },
@@ -3281,7 +3727,7 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-11-13",
-            "stage": "政見",
+            "stage": "主張",
             "frame": "民生支持與全齡社福政策（11/10 提出）",
             "note": "11/10 貼文與 4 張圖卡所列項目；用語都是「規劃…」，沒有發放時程與總預算。圖卡文字由本平台人工轉錄，請對照原圖。"
           },
@@ -3295,7 +3741,7 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-11-13",
-            "stage": "政見",
+            "stage": "主張",
             "frame": "民生支持與全齡社福政策（11/10 提出）",
             "note": "11/10 貼文與 4 張圖卡所列項目；用語都是「規劃…」，沒有發放時程與總預算。圖卡文字由本平台人工轉錄，請對照原圖。"
           },
@@ -3309,7 +3755,7 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-11-13",
-            "stage": "政見",
+            "stage": "主張",
             "frame": "民生支持與全齡社福政策（11/10 提出）",
             "note": "11/10 貼文與 4 張圖卡所列項目；用語都是「規劃…」，沒有發放時程與總預算。圖卡文字由本平台人工轉錄，請對照原圖。"
           },
@@ -3323,7 +3769,7 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-11-13",
-            "stage": "政見",
+            "stage": "主張",
             "frame": "民生支持與全齡社福政策（11/10 提出）",
             "note": "11/10 貼文與 4 張圖卡所列項目；用語都是「規劃…」，沒有發放時程與總預算。圖卡文字由本平台人工轉錄，請對照原圖。"
           },
@@ -3352,6 +3798,54 @@
             "verified_on": "2026-11-13",
             "stage": "主張",
             "note": "是「期盼」與「施政方向」，沒有具體措施；與官網的醫療項目並列。"
+          },
+          {
+            "id": "care.g-you-07",
+            "candidate_id": "you",
+            "text": "增設社區長照聚點，輔以雲端科技醫療3.0",
+            "commitment": "公報條列",
+            "source_ids": [
+              "gazette-you"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-17",
+            "stage": "政見",
+            "frame": "選舉公報・3. 社福花蓮",
+            "note": "選舉公報所列；用語為標題式，沒有時程與金額。公報文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "care.g-zhang-04",
+            "candidate_id": "zhang",
+            "text": "長者安心長照升級：敬老愛心卡每月2000點不歸零，擴大關懷據點、升級健康篩檢、居家服務及照顧者支持。",
+            "commitment": "公報條列",
+            "source_ids": [
+              "gazette-zhang"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-17",
+            "stage": "政見",
+            "frame": "選舉公報・點亮希望，翻轉花蓮（拚經濟．顧家庭．護安全）",
+            "note": "選舉公報所列；用語為標題式，沒有時程與金額。公報文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "care.g-zhang-12",
+            "candidate_id": "zhang",
+            "text": "偏鄉醫療緊急救護：整合遠距醫療、就醫交通、緊急轉診及災時醫療備援應變程序，並落實強化中南區與偏鄉醫療資源。",
+            "commitment": "公報條列",
+            "source_ids": [
+              "gazette-zhang"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-17",
+            "stage": "政見",
+            "frame": "選舉公報・點亮希望，翻轉花蓮（拚經濟．顧家庭．護安全）",
+            "note": "選舉公報所列；用語為標題式，沒有時程與金額。公報文字由本平台人工轉錄，請對照原圖。",
+            "also": [
+              {
+                "island": "disaster",
+                "basis": "source"
+              }
+            ]
           }
         ],
         "numbers": [
@@ -3497,7 +3991,9 @@
           "kssweep-20261029",
           "kssouth-20261104",
           "hnsouth-20261104",
-          "tdnpub-20261109"
+          "tdnpub-20261109",
+          "gazette-you",
+          "gazette-zhang"
         ]
       }
     },
@@ -3565,7 +4061,13 @@
               "ltn-20260606"
             ],
             "status": "confirmed",
-            "verified_on": "2026-10-28"
+            "verified_on": "2026-10-28",
+            "under": [
+              {
+                "id": "disaster.g-zhang-07",
+                "words": "備援"
+              }
+            ]
           },
           {
             "id": "disaster.z2",
@@ -3577,7 +4079,13 @@
               "zj-fb-20260811-a"
             ],
             "status": "confirmed",
-            "verified_on": "2026-10-28"
+            "verified_on": "2026-10-28",
+            "under": [
+              {
+                "id": "disaster.g-zhang-07",
+                "words": "孤島"
+              }
+            ]
           },
           {
             "id": "disaster.z3",
@@ -3630,7 +4138,13 @@
               "scoop-20260921"
             ],
             "status": "confirmed",
-            "verified_on": "2026-10-28"
+            "verified_on": "2026-10-28",
+            "under": [
+              {
+                "id": "disaster.g-zhang-07",
+                "words": "備援"
+              }
+            ]
           },
           {
             "id": "disaster.z7",
@@ -3642,7 +4156,13 @@
               "zj-fb-20260919-b"
             ],
             "status": "confirmed",
-            "verified_on": "2026-10-28"
+            "verified_on": "2026-10-28",
+            "under": [
+              {
+                "id": "disaster.g-zhang-07",
+                "words": "備援"
+              }
+            ]
           },
           {
             "id": "disaster.z8",
@@ -3666,7 +4186,13 @@
               "zj-fb-20260823-b"
             ],
             "status": "confirmed",
-            "verified_on": "2026-10-28"
+            "verified_on": "2026-10-28",
+            "under": [
+              {
+                "id": "disaster.g-zhang-07",
+                "words": "備援"
+              }
+            ]
           },
           {
             "id": "disaster.z10",
@@ -3696,7 +4222,13 @@
               "zj-fb-20261025"
             ],
             "status": "confirmed",
-            "verified_on": "2026-10-28"
+            "verified_on": "2026-10-28",
+            "under": [
+              {
+                "id": "disaster.g-zhang-07",
+                "words": "備援"
+              }
+            ]
           },
           {
             "id": "disaster.z12",
@@ -3714,7 +4246,13 @@
               "zj-fb-20261009-c"
             ],
             "status": "confirmed",
-            "verified_on": "2026-10-28"
+            "verified_on": "2026-10-28",
+            "under": [
+              {
+                "id": "disaster.g-zhang-07",
+                "words": "孤島"
+              }
+            ]
           },
           {
             "id": "disaster.z13",
@@ -3738,7 +4276,13 @@
               "zj-fb-20261022"
             ],
             "status": "confirmed",
-            "verified_on": "2026-10-28"
+            "verified_on": "2026-10-28",
+            "under": [
+              {
+                "id": "disaster.g-zhang-07",
+                "words": "預警"
+              }
+            ]
           },
           {
             "id": "disaster.w-P02-01",
@@ -3749,7 +4293,8 @@
             "commitment": "成立",
             "source_ids": [
               "wei-web-policies",
-              "hub-20261019"
+              "hub-20261019",
+              "gazette-wei"
             ],
             "status": "confirmed",
             "verified_on": "2026-10-28"
@@ -3820,7 +4365,8 @@
             "text": "無人機送藥常態化：無人機送藥、送物資從試飛變常態，在容易成為孤島的部落先整備起降點，平時就演練。",
             "commitment": "（見原文）",
             "source_ids": [
-              "wei-web-policies"
+              "wei-web-policies",
+              "gazette-wei"
             ],
             "status": "confirmed",
             "verified_on": "2026-10-28",
@@ -3866,7 +4412,8 @@
             "commitment": "爭取",
             "source_ids": [
               "wei-web-policies",
-              "tdnsouth-20261114"
+              "tdnsouth-20261114",
+              "gazette-wei"
             ],
             "status": "confirmed",
             "verified_on": "2026-10-28",
@@ -3965,7 +4512,13 @@
             ],
             "status": "single_source",
             "verified_on": "2026-10-28",
-            "stage": "主張"
+            "stage": "主張",
+            "under": [
+              {
+                "id": "disaster.g-zhang-07",
+                "words": "預警"
+              }
+            ]
           },
           {
             "id": "disaster.n-river",
@@ -3989,7 +4542,13 @@
             ],
             "status": "single_source",
             "verified_on": "2026-10-28",
-            "stage": "主張"
+            "stage": "主張",
+            "under": [
+              {
+                "id": "disaster.g-zhang-07",
+                "words": "避難"
+              }
+            ]
           },
           {
             "id": "disaster.n-med-net",
@@ -4026,7 +4585,13 @@
             ],
             "status": "single_source",
             "verified_on": "2026-10-28",
-            "stage": "主張"
+            "stage": "主張",
+            "under": [
+              {
+                "id": "disaster.g-zhang-07",
+                "words": "預警"
+              }
+            ]
           },
           {
             "id": "disaster.n-one-window",
@@ -4090,7 +4655,7 @@
             "stage": "主張",
             "under": [
               {
-                "id": "disaster.n-gold-res-1",
+                "id": "disaster.g-you-09",
                 "words": "防災、水環境治理"
               }
             ]
@@ -4109,7 +4674,7 @@
             "stage": "主張",
             "under": [
               {
-                "id": "disaster.n-gold-res-1",
+                "id": "disaster.g-you-09",
                 "words": "防災"
               }
             ]
@@ -4182,7 +4747,13 @@
             "status": "confirmed",
             "verified_on": "2026-10-31",
             "stage": "主張",
-            "note": "只表態「積極處理」，未列具體措施。"
+            "note": "只表態「積極處理」，未列具體措施。",
+            "under": [
+              {
+                "id": "disaster.g-zhang-19",
+                "words": "垃圾"
+              }
+            ]
           },
           {
             "id": "disaster.n-jian-east",
@@ -4195,7 +4766,13 @@
             "status": "confirmed",
             "verified_on": "2026-10-31",
             "stage": "主張",
-            "note": "只指出問題與態度，沒有具體措施。"
+            "note": "只指出問題與態度，沒有具體措施。",
+            "under": [
+              {
+                "id": "disaster.g-zhang-19",
+                "words": "垃圾"
+              }
+            ]
           },
           {
             "id": "disaster.n-gold-res-1",
@@ -4207,9 +4784,15 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-11-01",
-            "stage": "政見",
+            "stage": "主張",
             "frame": "共創黃金十年旗艦計劃・韌性花蓮",
-            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。"
+            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。",
+            "under": [
+              {
+                "id": "disaster.g-you-09",
+                "words": "強化防災、水資源、河川、森林及海岸治理"
+              }
+            ]
           },
           {
             "id": "disaster.n-gold-res-2",
@@ -4221,9 +4804,15 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-11-01",
-            "stage": "政見",
+            "stage": "主張",
             "frame": "共創黃金十年旗艦計劃・韌性花蓮",
-            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。"
+            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。",
+            "under": [
+              {
+                "id": "disaster.g-you-10",
+                "words": "成立防災專業團隊"
+              }
+            ]
           },
           {
             "id": "disaster.n-gold-res-3",
@@ -4235,9 +4824,15 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-11-01",
-            "stage": "政見",
+            "stage": "主張",
             "frame": "共創黃金十年旗艦計劃・韌性花蓮",
-            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。"
+            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。",
+            "under": [
+              {
+                "id": "disaster.g-you-11",
+                "words": "建制老屋健檢、延壽、耐震補強"
+              }
+            ]
           },
           {
             "id": "disaster.n-gold-sus-2",
@@ -4249,9 +4844,15 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-11-01",
-            "stage": "政見",
+            "stage": "主張",
             "frame": "共創黃金十年旗艦計劃・永續花蓮",
-            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。"
+            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。",
+            "under": [
+              {
+                "id": "disaster.g-you-30",
+                "words": "打造低碳宜居、安養的樂活縣城"
+              }
+            ]
           },
           {
             "id": "disaster.n-farmland-solar",
@@ -4285,7 +4886,13 @@
             "status": "confirmed",
             "verified_on": "2026-11-13",
             "stage": "主張",
-            "note": "他說已寫進政見（政策白皮書）；本平台尚未取得白皮書原文，以貼文為準。"
+            "note": "他說已寫進政見（政策白皮書）；本平台尚未取得白皮書原文，以貼文為準。",
+            "under": [
+              {
+                "id": "disaster.g-zhang-07",
+                "words": "備援"
+              }
+            ]
           },
           {
             "id": "disaster.n-farm-relief",
@@ -4305,6 +4912,90 @@
               }
             ],
             "note": "僅見於這一篇報導（尚無他自己的貼文可對照）；官網（10/23 版）沒有「災後復耕預算」。說法是「應」「更要」，沒有金額與時程。"
+          },
+          {
+            "id": "disaster.g-you-09",
+            "candidate_id": "you",
+            "text": "強化防災、水資源、河川、森林及海岸治理，提升城市永續韌性",
+            "commitment": "公報條列",
+            "source_ids": [
+              "gazette-you"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-17",
+            "stage": "政見",
+            "frame": "選舉公報・4. 韌性花蓮",
+            "note": "選舉公報所列；用語為標題式，沒有時程與金額。公報文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "disaster.g-you-10",
+            "candidate_id": "you",
+            "text": "成立防災專業團隊，建構全災害韌性治理體系",
+            "commitment": "公報條列",
+            "source_ids": [
+              "gazette-you"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-17",
+            "stage": "政見",
+            "frame": "選舉公報・4. 韌性花蓮",
+            "note": "選舉公報所列；用語為標題式，沒有時程與金額。公報文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "disaster.g-you-11",
+            "candidate_id": "you",
+            "text": "建制老屋健檢、延壽、耐震補強及危老重建配套",
+            "commitment": "公報條列",
+            "source_ids": [
+              "gazette-you"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-17",
+            "stage": "政見",
+            "frame": "選舉公報・4. 韌性花蓮",
+            "note": "選舉公報所列；用語為標題式，沒有時程與金額。公報文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "disaster.g-you-30",
+            "candidate_id": "you",
+            "text": "推動淨零減碳、打造低碳宜居、安養的樂活縣城",
+            "commitment": "公報條列",
+            "source_ids": [
+              "gazette-you"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-17",
+            "stage": "政見",
+            "frame": "選舉公報・10. 永續花蓮",
+            "note": "選舉公報所列；用語為標題式，沒有時程與金額。公報文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "disaster.g-zhang-07",
+            "candidate_id": "zhang",
+            "text": "安全宜居防災韌性：改善農路、排水、橋梁、邊坡及住宅安全，建置孤島備援通訊、避難微電網、落實建置14天備援物資、提升智慧預警及社區自主防災機制。",
+            "commitment": "公報條列",
+            "source_ids": [
+              "gazette-zhang"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-17",
+            "stage": "政見",
+            "frame": "選舉公報・點亮希望，翻轉花蓮（拚經濟．顧家庭．護安全）",
+            "note": "選舉公報所列；用語為標題式，沒有時程與金額。公報文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "disaster.g-zhang-19",
+            "candidate_id": "zhang",
+            "text": "環境保護生態永續：加速處理堆置垃圾與廚餘，推動農業廢棄物循環，廣植20萬棵原生樹木讓都市降溫，兼顧生態保育與產業發展。",
+            "commitment": "公報條列",
+            "source_ids": [
+              "gazette-zhang"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-17",
+            "stage": "政見",
+            "frame": "選舉公報・點亮希望，翻轉花蓮（拚經濟．顧家庭．護安全）",
+            "note": "選舉公報所列；用語為標題式，沒有時程與金額。公報文字由本平台人工轉錄，請對照原圖。"
           }
         ],
         "numbers": [
@@ -4354,7 +5045,9 @@
           "ksfb-20261030",
           "ksnan-20261101",
           "tdnnan-20261101",
-          "hsnnan-20261101"
+          "hsnnan-20261101",
+          "gazette-you",
+          "gazette-zhang"
         ]
       }
     },
@@ -4410,7 +5103,13 @@
               "zj-fb-20261113"
             ],
             "status": "confirmed",
-            "verified_on": "2026-10-28"
+            "verified_on": "2026-10-28",
+            "under": [
+              {
+                "id": "fiscal.g-zhang-02",
+                "words": "普發"
+              }
+            ]
           },
           {
             "id": "fiscal.z2",
@@ -4429,7 +5128,13 @@
               "zj-fb-20261109"
             ],
             "status": "confirmed",
-            "verified_on": "2026-10-28"
+            "verified_on": "2026-10-28",
+            "under": [
+              {
+                "id": "fiscal.g-zhang-02",
+                "words": "普發"
+              }
+            ]
           },
           {
             "id": "fiscal.z3",
@@ -4441,7 +5146,13 @@
               "zj-fb-20260817-a"
             ],
             "status": "confirmed",
-            "verified_on": "2026-10-28"
+            "verified_on": "2026-10-28",
+            "under": [
+              {
+                "id": "fiscal.g-zhang-02",
+                "words": "普發"
+              }
+            ]
           },
           {
             "id": "fiscal.z4",
@@ -4454,7 +5165,13 @@
               "zj-fb-20260906"
             ],
             "status": "confirmed",
-            "verified_on": "2026-10-28"
+            "verified_on": "2026-10-28",
+            "under": [
+              {
+                "id": "fiscal.g-zhang-13",
+                "words": "公開"
+              }
+            ]
           },
           {
             "id": "fiscal.z5",
@@ -4480,7 +5197,13 @@
               "zj-fb-20261103-b"
             ],
             "status": "confirmed",
-            "verified_on": "2026-10-28"
+            "verified_on": "2026-10-28",
+            "under": [
+              {
+                "id": "fiscal.g-zhang-01",
+                "words": "改革治理聯盟"
+              }
+            ]
           },
           {
             "id": "fiscal.z7",
@@ -4492,7 +5215,13 @@
               "zj-fb-20261013-a"
             ],
             "status": "confirmed",
-            "verified_on": "2026-10-28"
+            "verified_on": "2026-10-28",
+            "under": [
+              {
+                "id": "fiscal.g-zhang-13",
+                "words": "公開"
+              }
+            ]
           },
           {
             "id": "fiscal.z8",
@@ -4534,7 +5263,13 @@
               "zj-fb-20260910-c"
             ],
             "status": "confirmed",
-            "verified_on": "2026-10-28"
+            "verified_on": "2026-10-28",
+            "under": [
+              {
+                "id": "fiscal.g-zhang-13",
+                "words": "公開"
+              }
+            ]
           },
           {
             "id": "fiscal.w-P05-06",
@@ -4602,7 +5337,7 @@
             "stage": "主張",
             "under": [
               {
-                "id": "fiscal.n-gold-smart-1",
+                "id": "fiscal.g-you-04",
                 "words": "AI"
               }
             ]
@@ -4620,7 +5355,7 @@
             "stage": "主張",
             "under": [
               {
-                "id": "fiscal.n-gold-eff-2",
+                "id": "fiscal.g-you-02",
                 "words": "清廉"
               }
             ]
@@ -4638,7 +5373,7 @@
             "stage": "主張",
             "under": [
               {
-                "id": "fiscal.n-gold-smart-2",
+                "id": "fiscal.g-you-04",
                 "words": "智慧治理"
               }
             ]
@@ -4657,7 +5392,7 @@
             "stage": "主張",
             "under": [
               {
-                "id": "fiscal.n-gold-eff-1",
+                "id": "fiscal.g-you-01",
                 "words": "整合縣鄉／十三鄉鎮市資源"
               }
             ]
@@ -4697,9 +5432,15 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-11-01",
-            "stage": "政見",
+            "stage": "主張",
             "frame": "共創黃金十年旗艦計劃・效能花蓮",
-            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。"
+            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。",
+            "under": [
+              {
+                "id": "fiscal.g-you-01",
+                "words": "統整十三鄉鎮市建設"
+              }
+            ]
           },
           {
             "id": "fiscal.n-gold-eff-2",
@@ -4711,9 +5452,15 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-11-01",
-            "stage": "政見",
+            "stage": "主張",
             "frame": "共創黃金十年旗艦計劃・效能花蓮",
-            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。"
+            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。",
+            "under": [
+              {
+                "id": "fiscal.g-you-02",
+                "words": "，打造高效清廉政府"
+              }
+            ]
           },
           {
             "id": "fiscal.n-gold-eff-3",
@@ -4725,9 +5472,15 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-11-01",
-            "stage": "政見",
+            "stage": "主張",
             "frame": "共創黃金十年旗艦計劃・效能花蓮",
-            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。"
+            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。",
+            "under": [
+              {
+                "id": "fiscal.g-you-03",
+                "words": "擴大公民參與、資訊公開"
+              }
+            ]
           },
           {
             "id": "fiscal.n-gold-smart-1",
@@ -4739,9 +5492,15 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-11-01",
-            "stage": "政見",
+            "stage": "主張",
             "frame": "共創黃金十年旗艦計劃・智慧花蓮",
-            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。"
+            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。",
+            "under": [
+              {
+                "id": "fiscal.g-you-04",
+                "words": "導入AI與數位科技"
+              }
+            ]
           },
           {
             "id": "fiscal.n-gold-smart-2",
@@ -4753,9 +5512,15 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-11-01",
-            "stage": "政見",
+            "stage": "主張",
             "frame": "共創黃金十年旗艦計劃・智慧花蓮",
-            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。"
+            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。",
+            "under": [
+              {
+                "id": "fiscal.g-you-04",
+                "words": "推動智慧治理與縣政數位轉型"
+              }
+            ]
           },
           {
             "id": "fiscal.n-gold-smart-3",
@@ -4767,9 +5532,15 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-11-01",
-            "stage": "政見",
+            "stage": "主張",
             "frame": "共創黃金十年旗艦計劃・智慧花蓮",
-            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。"
+            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。",
+            "under": [
+              {
+                "id": "fiscal.g-you-05",
+                "words": "智庫發展委員會"
+              }
+            ]
           },
           {
             "id": "fiscal.n-gold-smart-4",
@@ -4781,7 +5552,7 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-11-01",
-            "stage": "政見",
+            "stage": "主張",
             "frame": "共創黃金十年旗艦計劃・智慧花蓮",
             "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。"
           },
@@ -4795,7 +5566,7 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-11-01",
-            "stage": "政見",
+            "stage": "主張",
             "frame": "共創黃金十年旗艦計劃・智慧花蓮",
             "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。"
           },
@@ -4913,7 +5684,7 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-11-13",
-            "stage": "政見",
+            "stage": "主張",
             "frame": "民生支持與全齡社福政策（11/10 提出）",
             "note": "11/10 貼文與 4 張圖卡所列項目；用語都是「規劃…」，沒有發放時程與總預算。圖卡文字由本平台人工轉錄，請對照原圖。"
           },
@@ -4927,9 +5698,135 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-11-13",
-            "stage": "政見",
+            "stage": "主張",
             "frame": "民生支持與全齡社福政策（11/10 提出）",
             "note": "11/10 貼文與 4 張圖卡所列項目；用語都是「規劃…」，沒有發放時程與總預算。圖卡文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "fiscal.g-you-01",
+            "candidate_id": "you",
+            "text": "統整十三鄉鎮市建設脈絡及協力各鄉鎮市建設資源",
+            "commitment": "公報條列",
+            "source_ids": [
+              "gazette-you"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-17",
+            "stage": "政見",
+            "frame": "選舉公報・1. 效能花蓮",
+            "note": "選舉公報所列；用語為標題式，沒有時程與金額。公報文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "fiscal.g-you-02",
+            "candidate_id": "you",
+            "text": "延攬專業人才、強化跨局處整合，打造高效清廉政府",
+            "commitment": "公報條列",
+            "source_ids": [
+              "gazette-you"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-17",
+            "stage": "政見",
+            "frame": "選舉公報・1. 效能花蓮",
+            "note": "選舉公報所列；用語為標題式，沒有時程與金額。公報文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "fiscal.g-you-03",
+            "candidate_id": "you",
+            "text": "擴大公民參與、資訊公開與誠信治理",
+            "commitment": "公報條列",
+            "source_ids": [
+              "gazette-you"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-17",
+            "stage": "政見",
+            "frame": "選舉公報・1. 效能花蓮",
+            "note": "選舉公報所列；用語為標題式，沒有時程與金額。公報文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "fiscal.g-you-04",
+            "candidate_id": "you",
+            "text": "導入AI與數位科技，推動智慧治理與縣政數位轉型",
+            "commitment": "公報條列",
+            "source_ids": [
+              "gazette-you"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-17",
+            "stage": "政見",
+            "frame": "選舉公報・2. 智慧花蓮",
+            "note": "選舉公報所列；用語為標題式，沒有時程與金額。公報文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "fiscal.g-you-05",
+            "candidate_id": "you",
+            "text": "設立即時化智慧公共事務溝通機制，成立智庫發展委員會",
+            "commitment": "公報條列",
+            "source_ids": [
+              "gazette-you"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-17",
+            "stage": "政見",
+            "frame": "選舉公報・2. 智慧花蓮",
+            "note": "選舉公報所列；用語為標題式，沒有時程與金額。公報文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "fiscal.g-zhang-01",
+            "candidate_id": "zhang",
+            "text": "跨黨派改革治理聯盟：花蓮進步不分藍綠白，超越黨派、廣納專業，只有張峻做得到。",
+            "commitment": "公報條列",
+            "source_ids": [
+              "gazette-zhang"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-17",
+            "stage": "政見",
+            "frame": "選舉公報・點亮希望，翻轉花蓮（拚經濟．顧家庭．護安全）",
+            "note": "選舉公報所列；用語為標題式，沒有時程與金額。公報文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "fiscal.g-zhang-02",
+            "candidate_id": "zhang",
+            "text": "普發1萬振興經濟：推動每位縣民1萬元振興方案，促進地方消費帶動商家營收。",
+            "commitment": "公報條列",
+            "source_ids": [
+              "gazette-zhang"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-17",
+            "stage": "政見",
+            "frame": "選舉公報・點亮希望，翻轉花蓮（拚經濟．顧家庭．護安全）",
+            "note": "選舉公報所列；用語為標題式，沒有時程與金額。公報文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "fiscal.g-zhang-13",
+            "candidate_id": "zhang",
+            "text": "依法行政透明政府：公開縣府預算、工程、採購及補助資訊，並落實陳情追蹤、數位便民及年度施政檢驗，保障公務人員安心安全工作。",
+            "commitment": "公報條列",
+            "source_ids": [
+              "gazette-zhang"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-17",
+            "stage": "政見",
+            "frame": "選舉公報・點亮希望，翻轉花蓮（拚經濟．顧家庭．護安全）",
+            "note": "選舉公報所列；用語為標題式，沒有時程與金額。公報文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "fiscal.g-zhang-20",
+            "candidate_id": "zhang",
+            "text": "打造「花蓮福利縣．全民安全城」張峻準備好了：張峻將以財政紀律、公開透明、南北均衡、族群共榮及成果可檢驗為原則，以政策預算清楚、進度明確、接受人民檢驗為基準，讓政見走進花蓮13鄉鎮市，具體落實改革承諾。",
+            "commitment": "公報條列",
+            "source_ids": [
+              "gazette-zhang"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-17",
+            "stage": "政見",
+            "frame": "選舉公報・點亮希望，翻轉花蓮（拚經濟．顧家庭．護安全）",
+            "note": "選舉公報所列；用語為標題式，沒有時程與金額。公報文字由本平台人工轉錄，請對照原圖。"
           }
         ],
         "numbers": [
@@ -5005,7 +5902,9 @@
           "tdnsouth-20261114",
           "ksvisit-20261105",
           "tdnrally-20261107",
-          "tdnmkt-20261110"
+          "tdnmkt-20261110",
+          "gazette-you",
+          "gazette-zhang"
         ]
       }
     },
@@ -5092,13 +5991,7 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-10-28",
-            "stage": "主張",
-            "under": [
-              {
-                "id": "edu.n-pkg-lunch",
-                "words": "免費營養午餐"
-              }
-            ]
+            "stage": "主張"
           },
           {
             "id": "edu.z1",
@@ -5110,7 +6003,13 @@
               "zj-fb-20260918-c"
             ],
             "status": "confirmed",
-            "verified_on": "2026-10-28"
+            "verified_on": "2026-10-28",
+            "under": [
+              {
+                "id": "edu.g-zhang-08",
+                "words": "營養午餐"
+              }
+            ]
           },
           {
             "id": "edu.z2",
@@ -5152,7 +6051,13 @@
               "zj-fb-20260918-c"
             ],
             "status": "confirmed",
-            "verified_on": "2026-10-28"
+            "verified_on": "2026-10-28",
+            "under": [
+              {
+                "id": "edu.g-zhang-08",
+                "words": "營養午餐"
+              }
+            ]
           },
           {
             "id": "edu.z5",
@@ -5224,7 +6129,13 @@
               "zj-fb-20261112"
             ],
             "status": "confirmed",
-            "verified_on": "2026-10-28"
+            "verified_on": "2026-10-28",
+            "under": [
+              {
+                "id": "edu.g-zhang-08",
+                "words": "營養午餐"
+              }
+            ]
           },
           {
             "id": "edu.z10",
@@ -5365,7 +6276,8 @@
             "text": "存摺03「未來教育金」（6–18 歲孩子）：課後學習額度 1,000／月；孩子有地方去 雙受益",
             "commitment": "（見原文：以金額與對象列出，未寫動詞）",
             "source_ids": [
-              "wei-web-policies"
+              "wei-web-policies",
+              "gazette-wei"
             ],
             "status": "confirmed",
             "verified_on": "2026-10-28"
@@ -5384,7 +6296,7 @@
             "stage": "主張",
             "under": [
               {
-                "id": "edu.n-gold-hope-2",
+                "id": "edu.g-you-12",
                 "words": "教師減壓／教師減量（說法不同）"
               }
             ]
@@ -5502,13 +6414,7 @@
             ],
             "status": "single_source",
             "verified_on": "2026-10-28",
-            "stage": "主張",
-            "under": [
-              {
-                "id": "edu.n-pkg-lunch",
-                "words": "營養午餐"
-              }
-            ]
+            "stage": "主張"
           },
           {
             "id": "edu.n-beauty-edu",
@@ -5556,9 +6462,15 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-11-01",
-            "stage": "政見",
+            "stage": "主張",
             "frame": "共創黃金十年旗艦計劃・希望花蓮",
-            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。"
+            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。",
+            "under": [
+              {
+                "id": "edu.g-you-12",
+                "words": "優化校園環境"
+              }
+            ]
           },
           {
             "id": "edu.n-gold-hope-2",
@@ -5570,9 +6482,15 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-11-01",
-            "stage": "政見",
+            "stage": "主張",
             "frame": "共創黃金十年旗艦計劃・希望花蓮",
-            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。"
+            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。",
+            "under": [
+              {
+                "id": "edu.g-you-12",
+                "words": "減量並提升教職福利"
+              }
+            ]
           },
           {
             "id": "edu.n-pkg-lunch",
@@ -5584,7 +6502,7 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-11-13",
-            "stage": "政見",
+            "stage": "主張",
             "frame": "民生支持與全齡社福政策（11/10 提出）",
             "note": "11/10 貼文與 4 張圖卡所列項目；用語都是「規劃…」，沒有發放時程與總預算。圖卡文字由本平台人工轉錄，請對照原圖。"
           },
@@ -5599,7 +6517,7 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-11-13",
-            "stage": "政見",
+            "stage": "主張",
             "frame": "民生支持與全齡社福政策（11/10 提出）",
             "note": "11/10 貼文與 4 張圖卡所列項目；用語都是「規劃…」，沒有發放時程與總預算。圖卡文字由本平台人工轉錄，請對照原圖。"
           },
@@ -5613,9 +6531,57 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-11-13",
-            "stage": "政見",
+            "stage": "主張",
             "frame": "民生支持與全齡社福政策（11/10 提出）",
             "note": "11/10 貼文與 4 張圖卡所列項目；用語都是「規劃…」，沒有發放時程與總預算。圖卡文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "edu.g-you-12",
+            "candidate_id": "you",
+            "text": "優化校園環境，落實教師行政減量並提升教職福利",
+            "commitment": "公報條列",
+            "source_ids": [
+              "gazette-you"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-17",
+            "stage": "政見",
+            "frame": "選舉公報・5. 希望花蓮",
+            "note": "選舉公報所列；用語為標題式，沒有時程與金額。公報文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "edu.g-you-13",
+            "candidate_id": "you",
+            "text": "建立全民學習平台，推動職能培訓與二度就業",
+            "commitment": "公報條列",
+            "source_ids": [
+              "gazette-you"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-17",
+            "stage": "政見",
+            "frame": "選舉公報・5. 希望花蓮",
+            "note": "選舉公報所列；用語為標題式，沒有時程與金額。公報文字由本平台人工轉錄，請對照原圖。",
+            "also": [
+              {
+                "island": "welfare",
+                "basis": "source"
+              }
+            ]
+          },
+          {
+            "id": "edu.g-zhang-08",
+            "candidate_id": "zhang",
+            "text": "營養午餐教育平權：升級營養午餐、偏鄉課後照顧、提高升學考試及縣外交流補助，強化教師留才及推動校園法律顧問。",
+            "commitment": "公報條列",
+            "source_ids": [
+              "gazette-zhang"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-17",
+            "stage": "政見",
+            "frame": "選舉公報・點亮希望，翻轉花蓮（拚經濟．顧家庭．護安全）",
+            "note": "選舉公報所列；用語為標題式，沒有時程與金額。公報文字由本平台人工轉錄，請對照原圖。"
           }
         ],
         "numbers": [
@@ -5676,7 +6642,9 @@
           "yahoo-20260929",
           "tdnedu-20261109",
           "udn-20260917",
-          "tdnrally-20261107"
+          "tdnrally-20261107",
+          "gazette-you",
+          "gazette-zhang"
         ]
       }
     },
@@ -5796,13 +6764,7 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-10-28",
-            "stage": "主張",
-            "under": [
-              {
-                "id": "welfare.n-pkg-home-loan",
-                "words": "購屋貸款（利率／利息）補助"
-              }
-            ]
+            "stage": "主張"
           },
           {
             "id": "welfare.s6",
@@ -5816,13 +6778,7 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-10-28",
-            "stage": "主張",
-            "under": [
-              {
-                "id": "welfare.n-pkg-startup-loan",
-                "words": "青年創業貸款"
-              }
-            ]
+            "stage": "主張"
           },
           {
             "id": "welfare.s7",
@@ -5856,7 +6812,13 @@
               "zj-fb-20261105"
             ],
             "status": "confirmed",
-            "verified_on": "2026-10-28"
+            "verified_on": "2026-10-28",
+            "under": [
+              {
+                "id": "welfare.g-zhang-03",
+                "words": "健保"
+              }
+            ]
           },
           {
             "id": "welfare.z2",
@@ -5876,7 +6838,13 @@
               "zj-fb-20261105"
             ],
             "status": "confirmed",
-            "verified_on": "2026-10-28"
+            "verified_on": "2026-10-28",
+            "under": [
+              {
+                "id": "welfare.g-zhang-05",
+                "words": "意外險"
+              }
+            ]
           },
           {
             "id": "welfare.z3",
@@ -5888,7 +6856,13 @@
               "zj-fb-20260812"
             ],
             "status": "confirmed",
-            "verified_on": "2026-10-28"
+            "verified_on": "2026-10-28",
+            "under": [
+              {
+                "id": "welfare.g-zhang-17",
+                "words": "招商"
+              }
+            ]
           },
           {
             "id": "welfare.z4",
@@ -6105,7 +7079,8 @@
             "text": "存摺01「安心生養金」（新生兒家庭）：生育補助（加碼後） 50,000／胎；月子加菜金 30,000／胎",
             "commitment": "（見原文：以金額與對象列出，未寫動詞）",
             "source_ids": [
-              "wei-web-policies"
+              "wei-web-policies",
+              "gazette-wei"
             ],
             "status": "confirmed",
             "verified_on": "2026-10-28"
@@ -6118,7 +7093,8 @@
             "text": "存摺02「營養成長金」（孩子）：營養品 10份／月；品項不綁單一乳品 等值兌換",
             "commitment": "（見原文：以金額與對象列出，未寫動詞）",
             "source_ids": [
-              "wei-web-policies"
+              "wei-web-policies",
+              "gazette-wei"
             ],
             "status": "confirmed",
             "verified_on": "2026-10-28"
@@ -6131,7 +7107,8 @@
             "text": "存摺04「青年圓夢金」（15–25 歲・不限主題）：一般型提案 10,000／案；旗艦型提案 100,000／案",
             "commitment": "（見原文：以金額與對象列出，未寫動詞）",
             "source_ids": [
-              "wei-web-policies"
+              "wei-web-policies",
+              "gazette-wei"
             ],
             "status": "confirmed",
             "verified_on": "2026-10-28"
@@ -6144,7 +7121,8 @@
             "text": "存摺05「專業留才金」（留花青年）：首年加薪 5,000／月；人走了就停 按月發",
             "commitment": "（見原文：以金額與對象列出，未寫動詞）",
             "source_ids": [
-              "wei-web-policies"
+              "wei-web-policies",
+              "gazette-wei"
             ],
             "status": "confirmed",
             "verified_on": "2026-10-28"
@@ -6157,7 +7135,8 @@
             "text": "存摺06「結婚成家金」（結婚定居）：成家券 30,000；使用範圍 縣內限定",
             "commitment": "（見原文：以金額與對象列出，未寫動詞）",
             "source_ids": [
-              "wei-web-policies"
+              "wei-web-policies",
+              "gazette-wei"
             ],
             "status": "confirmed",
             "verified_on": "2026-10-28"
@@ -6286,7 +7265,7 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-11-01",
-            "stage": "政見",
+            "stage": "主張",
             "frame": "共創黃金十年旗艦計劃・社福花蓮",
             "also": [
               {
@@ -6294,7 +7273,13 @@
                 "basis": "source"
               }
             ],
-            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。"
+            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。",
+            "under": [
+              {
+                "id": "welfare.g-you-08",
+                "words": "育兒、青年、長者、"
+              }
+            ]
           },
           {
             "id": "welfare.n-gold-hope-3",
@@ -6306,7 +7291,7 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-11-01",
-            "stage": "政見",
+            "stage": "主張",
             "frame": "共創黃金十年旗艦計劃・希望花蓮",
             "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。"
           },
@@ -6327,7 +7312,13 @@
                 "basis": "source"
               }
             ],
-            "note": "與既有的「青年政策」（welfare.z3）同主題，這則補上具體項目；貼文是客廳會後的整理，語氣是「應涵蓋」，沒有經費與時程。"
+            "note": "與既有的「青年政策」（welfare.z3）同主題，這則補上具體項目；貼文是客廳會後的整理，語氣是「應涵蓋」，沒有經費與時程。",
+            "under": [
+              {
+                "id": "welfare.g-zhang-17",
+                "words": "返鄉"
+              }
+            ]
           },
           {
             "id": "welfare.n-industry-import",
@@ -6358,7 +7349,7 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-11-13",
-            "stage": "政見",
+            "stage": "主張",
             "frame": "民生支持與全齡社福政策（11/10 提出）",
             "note": "11/10 貼文與 4 張圖卡所列項目；用語都是「規劃…」，沒有發放時程與總預算。圖卡文字由本平台人工轉錄，請對照原圖。"
           },
@@ -6372,7 +7363,7 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-11-13",
-            "stage": "政見",
+            "stage": "主張",
             "frame": "民生支持與全齡社福政策（11/10 提出）",
             "note": "11/10 貼文與 4 張圖卡所列項目；用語都是「規劃…」，沒有發放時程與總預算。圖卡文字由本平台人工轉錄，請對照原圖。"
           },
@@ -6386,7 +7377,7 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-11-13",
-            "stage": "政見",
+            "stage": "主張",
             "frame": "民生支持與全齡社福政策（11/10 提出）",
             "note": "11/10 貼文與 4 張圖卡所列項目；用語都是「規劃…」，沒有發放時程與總預算。圖卡文字由本平台人工轉錄，請對照原圖。"
           },
@@ -6400,7 +7391,7 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-11-13",
-            "stage": "政見",
+            "stage": "主張",
             "frame": "民生支持與全齡社福政策（11/10 提出）",
             "note": "11/10 貼文與 4 張圖卡所列項目；用語都是「規劃…」，沒有發放時程與總預算。圖卡文字由本平台人工轉錄，請對照原圖。"
           },
@@ -6414,7 +7405,7 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-11-13",
-            "stage": "政見",
+            "stage": "主張",
             "frame": "民生支持與全齡社福政策（11/10 提出）",
             "note": "11/10 貼文與 4 張圖卡所列項目；用語都是「規劃…」，沒有發放時程與總預算。圖卡文字由本平台人工轉錄，請對照原圖。"
           },
@@ -6429,6 +7420,138 @@
             "status": "confirmed",
             "verified_on": "2026-11-15",
             "stage": "主張",
+            "also": [
+              {
+                "island": "tour_industry",
+                "basis": "source"
+              }
+            ]
+          },
+          {
+            "id": "welfare.g-you-06",
+            "candidate_id": "you",
+            "text": "社福全面升級，完善托育、長照、醫療及住宅政策",
+            "commitment": "公報條列",
+            "source_ids": [
+              "gazette-you"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-17",
+            "stage": "政見",
+            "frame": "選舉公報・3. 社福花蓮",
+            "note": "選舉公報所列；用語為標題式，沒有時程與金額。公報文字由本平台人工轉錄，請對照原圖。",
+            "also": [
+              {
+                "island": "care",
+                "basis": "source"
+              }
+            ]
+          },
+          {
+            "id": "welfare.g-you-08",
+            "candidate_id": "you",
+            "text": "增項增額生育育兒、青年、長者、身障及弱勢等福利",
+            "commitment": "公報條列",
+            "source_ids": [
+              "gazette-you"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-17",
+            "stage": "政見",
+            "frame": "選舉公報・3. 社福花蓮",
+            "note": "選舉公報所列；用語為標題式，沒有時程與金額。公報文字由本平台人工轉錄，請對照原圖。",
+            "also": [
+              {
+                "island": "care",
+                "basis": "source"
+              }
+            ]
+          },
+          {
+            "id": "welfare.g-you-14",
+            "candidate_id": "you",
+            "text": "發展數位遊牧、青年創業及數位就業聚落",
+            "commitment": "公報條列",
+            "source_ids": [
+              "gazette-you"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-17",
+            "stage": "政見",
+            "frame": "選舉公報・5. 希望花蓮",
+            "note": "選舉公報所列；用語為標題式，沒有時程與金額。公報文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "welfare.g-you-15",
+            "candidate_id": "you",
+            "text": "提升警消、醫護量能與福利，保障勞工權益",
+            "commitment": "公報條列",
+            "source_ids": [
+              "gazette-you"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-17",
+            "stage": "政見",
+            "frame": "選舉公報・5. 希望花蓮",
+            "note": "選舉公報所列；用語為標題式，沒有時程與金額。公報文字由本平台人工轉錄，請對照原圖。",
+            "also": [
+              {
+                "island": "care",
+                "basis": "source"
+              },
+              {
+                "island": "disaster",
+                "basis": "source"
+              }
+            ]
+          },
+          {
+            "id": "welfare.g-zhang-03",
+            "candidate_id": "zhang",
+            "text": "0至18歲家庭支持：推動0至18歲免健保費、提高生育、育兒、托育及婦幼醫療支持。",
+            "commitment": "公報條列",
+            "source_ids": [
+              "gazette-zhang"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-17",
+            "stage": "政見",
+            "frame": "選舉公報・點亮希望，翻轉花蓮（拚經濟．顧家庭．護安全）",
+            "note": "選舉公報所列；用語為標題式，沒有時程與金額。公報文字由本平台人工轉錄，請對照原圖。",
+            "also": [
+              {
+                "island": "care",
+                "basis": "source"
+              }
+            ]
+          },
+          {
+            "id": "welfare.g-zhang-05",
+            "candidate_id": "zhang",
+            "text": "縣民百萬意外保險：推動縣民百萬意外險，最高100萬元保障，守護鄉親度過艱難時刻。",
+            "commitment": "公報條列",
+            "source_ids": [
+              "gazette-zhang"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-17",
+            "stage": "政見",
+            "frame": "選舉公報・點亮希望，翻轉花蓮（拚經濟．顧家庭．護安全）",
+            "note": "選舉公報所列；用語為標題式，沒有時程與金額。公報文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "welfare.g-zhang-17",
+            "candidate_id": "zhang",
+            "text": "青年好工作能安居：成立投資服務單一窗口，簡化招商流程、扶植在地產業，讓青年留鄉、成家。",
+            "commitment": "公報條列",
+            "source_ids": [
+              "gazette-zhang"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-17",
+            "stage": "政見",
+            "frame": "選舉公報・點亮希望，翻轉花蓮（拚經濟．顧家庭．護安全）",
+            "note": "選舉公報所列；用語為標題式，沒有時程與金額。公報文字由本平台人工轉錄，請對照原圖。",
             "also": [
               {
                 "island": "tour_industry",
@@ -6601,7 +7724,9 @@
           "scoop-20260903",
           "kssweep-20261029",
           "ksfb-20261030",
-          "tdnrally-20261107"
+          "tdnrally-20261107",
+          "gazette-you",
+          "gazette-zhang"
         ]
       }
     },
@@ -6663,7 +7788,13 @@
               "zj-fb-20260906"
             ],
             "status": "confirmed",
-            "verified_on": "2026-10-28"
+            "verified_on": "2026-10-28",
+            "under": [
+              {
+                "id": "ethnic.g-zhang-14",
+                "words": "部落自主"
+              }
+            ]
           },
           {
             "id": "ethnic.z2",
@@ -6676,7 +7807,13 @@
               "ksfb-20261028"
             ],
             "status": "confirmed",
-            "verified_on": "2026-10-28"
+            "verified_on": "2026-10-28",
+            "under": [
+              {
+                "id": "ethnic.g-zhang-14",
+                "words": "部落自主"
+              }
+            ]
           },
           {
             "id": "ethnic.z3",
@@ -6825,7 +7962,8 @@
             "text": "讓花蓮成為南島文化中心：歲時祭儀，部落是主角",
             "commitment": "（見原文）",
             "source_ids": [
-              "wei-web-policies"
+              "wei-web-policies",
+              "gazette-wei"
             ],
             "status": "confirmed",
             "verified_on": "2026-10-28"
@@ -6838,7 +7976,8 @@
             "text": "母語認證，考過有獎金：初級中級也領得到",
             "commitment": "（見原文）",
             "source_ids": [
-              "wei-web-policies"
+              "wei-web-policies",
+              "gazette-wei"
             ],
             "status": "confirmed",
             "verified_on": "2026-10-28",
@@ -6852,7 +7991,8 @@
             "text": "祭典回家，車資縣府出：在外打拼的孩子也常常回家",
             "commitment": "（見原文）",
             "source_ids": [
-              "wei-web-policies"
+              "wei-web-policies",
+              "gazette-wei"
             ],
             "status": "confirmed",
             "verified_on": "2026-10-28",
@@ -6871,7 +8011,7 @@
             "stage": "主張",
             "under": [
               {
-                "id": "ethnic.n-gold-com-1",
+                "id": "ethnic.g-you-23",
                 "words": "多元族群共榮／共融"
               }
             ]
@@ -6926,7 +8066,7 @@
             "stage": "主張",
             "under": [
               {
-                "id": "ethnic.n-gold-com-2",
+                "id": "ethnic.g-you-24",
                 "words": "傳統工藝／工藝師"
               }
             ]
@@ -7014,9 +8154,15 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-11-01",
-            "stage": "政見",
+            "stage": "主張",
             "frame": "共創黃金十年旗艦計劃・共榮花蓮",
-            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。"
+            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。",
+            "under": [
+              {
+                "id": "ethnic.g-you-23",
+                "words": "促進原民、客家、閩南、外省、新住民多元"
+              }
+            ]
           },
           {
             "id": "ethnic.n-gold-com-2",
@@ -7028,9 +8174,15 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-11-01",
-            "stage": "政見",
+            "stage": "主張",
             "frame": "共創黃金十年旗艦計劃・共榮花蓮",
-            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。"
+            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。",
+            "under": [
+              {
+                "id": "ethnic.g-you-24",
+                "words": "扶植部落文化資產"
+              }
+            ]
           },
           {
             "id": "ethnic.n-indigenous-5",
@@ -7063,6 +8215,62 @@
             "verified_on": "2026-11-05",
             "stage": "主張",
             "note": "貼文提到他的「文化政策白皮書」，但本平台尚未取得白皮書原文；其餘文化治理項目放在待歸島（無對應主題島）。"
+          },
+          {
+            "id": "ethnic.g-you-23",
+            "candidate_id": "you",
+            "text": "促進原民、客家、閩南、外省、新住民多元族群共融",
+            "commitment": "公報條列",
+            "source_ids": [
+              "gazette-you"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-17",
+            "stage": "政見",
+            "frame": "選舉公報・8. 共榮花蓮",
+            "note": "選舉公報所列；用語為標題式，沒有時程與金額。公報文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "ethnic.g-you-24",
+            "candidate_id": "you",
+            "text": "培育在地工藝師，扶植部落文化資產、打造客庄特色產業",
+            "commitment": "公報條列",
+            "source_ids": [
+              "gazette-you"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-17",
+            "stage": "政見",
+            "frame": "選舉公報・8. 共榮花蓮",
+            "note": "選舉公報所列；用語為標題式，沒有時程與金額。公報文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "ethnic.g-zhang-14",
+            "candidate_id": "zhang",
+            "text": "原民自主原鄉振興：尊重部落自主自理、設立部落基金，提升原鄉教育醫療及特色產業。",
+            "commitment": "公報條列",
+            "source_ids": [
+              "gazette-zhang"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-17",
+            "stage": "政見",
+            "frame": "選舉公報・點亮希望，翻轉花蓮（拚經濟．顧家庭．護安全）",
+            "note": "選舉公報所列；用語為標題式，沒有時程與金額。公報文字由本平台人工轉錄，請對照原圖。"
+          },
+          {
+            "id": "ethnic.g-zhang-15",
+            "candidate_id": "zhang",
+            "text": "多元族群共融共榮：推動多元文化傳承，完善新住民生活、家庭、就業及子女教育支持。",
+            "commitment": "公報條列",
+            "source_ids": [
+              "gazette-zhang"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-17",
+            "stage": "政見",
+            "frame": "選舉公報・點亮希望，翻轉花蓮（拚經濟．顧家庭．護安全）",
+            "note": "選舉公報所列；用語為標題式，沒有時程與金額。公報文字由本平台人工轉錄，請對照原圖。"
           }
         ],
         "numbers": [],
@@ -7085,7 +8293,9 @@
           "scoop-20260903",
           "upmedia-20260801",
           "cna-20260913",
-          "tdnyou-20261031"
+          "tdnyou-20261031",
+          "gazette-you",
+          "gazette-zhang"
         ]
       }
     },
@@ -7112,7 +8322,7 @@
             "verified_on": "2026-10-28",
             "under": [
               {
-                "id": "sports.n-gold-mob-3",
+                "id": "sports.g-you-22",
                 "words": "運動經濟／賽事經濟"
               }
             ]
@@ -7362,9 +8572,15 @@
             ],
             "status": "confirmed",
             "verified_on": "2026-11-01",
-            "stage": "政見",
+            "stage": "主張",
             "frame": "共創黃金十年旗艦計劃・運能花蓮",
-            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。"
+            "note": "圖卡條列式標題，沒有時程、金額、做法；十大支柱見貼文「共創黃金十年旗艦計劃」。圖卡文字由本平台人工轉錄，請對照原圖。",
+            "under": [
+              {
+                "id": "sports.g-you-22",
+                "words": "培育競技人才"
+              }
+            ]
           },
           {
             "id": "sports.n-meilun-park",
@@ -7384,6 +8600,20 @@
               }
             ],
             "note": "僅見於這一篇報導，尚無游淑貞自己的貼文可對照；用語是「可」「未來可」，沒有經費與時程。報導其餘篇幅是縣府園區改造工程的說明，不是她的主張，本平台不收。"
+          },
+          {
+            "id": "sports.g-you-22",
+            "candidate_id": "you",
+            "text": "培育競技人才且爭取國際賽事、發展賽事經濟",
+            "commitment": "公報條列",
+            "source_ids": [
+              "gazette-you"
+            ],
+            "status": "confirmed",
+            "verified_on": "2026-11-17",
+            "stage": "政見",
+            "frame": "選舉公報・7. 運能花蓮",
+            "note": "選舉公報所列；用語為標題式，沒有時程與金額。公報文字由本平台人工轉錄，請對照原圖。"
           }
         ],
         "numbers": [],
@@ -7401,7 +8631,8 @@
           "zj-fb-20260919-a",
           "zj-fb-20261004",
           "kssouth-20261104",
-          "ksmeilun-20261114"
+          "ksmeilun-20261114",
+          "gazette-you"
         ]
       }
     }
